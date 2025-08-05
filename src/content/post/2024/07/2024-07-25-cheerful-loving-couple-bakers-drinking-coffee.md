@@ -1,11 +1,11 @@
 ---
 title: "Cheerful Loving Couple Bakers Drinking Coffee"
-date: 2024-02-10T14:30:00+06:00
+date: 2024-07-25T08:00:00+06:00
 # post thumb
 images:
   - "/images/post/post-3.jpg"
 #author
-author: "Johne Doe"
+author: "Martin Woodward"
 # description
 description: "This is meta description"
 # Taxonomies
@@ -15,7 +15,7 @@ type: "featured" # available type (regular or featured)
 draft: false
 ---
 
-Doomsday device? Ah, now the ball's in Farnsworth's court! Wow! A superpowers drug you can just rub onto your skin? You'd think it would be something you'd have to freebase. Look, last night was a mistake.
+Template text - ignore. Doomsday device? Ah, now the ball's in Farnsworth's court! Wow! A superpowers drug you can just rub onto your skin? You'd think it would be something you'd have to freebase. Look, last night was a mistake.
 
 Take me to your leader! Would you censor the Venus de Venus just because you can see her spewers? Shut up and take my money! I usually try to keep my sadness pent up inside where it can fester quietly as a mental illness.
 

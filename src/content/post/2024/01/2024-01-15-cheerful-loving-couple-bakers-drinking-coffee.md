@@ -1,6 +1,6 @@
 ---
 title: "Cheerful Loving Couple Bakers Drinking Coffee"
-date: 2024-06-18T13:30:00+06:00
+date: 2024-01-15T10:00:00+06:00
 # post thumb
 images:
   - "/images/post/post-2.jpg"
@@ -15,13 +15,13 @@ type: "regular" # available type (regular or featured)
 draft: false
 ---
 
-Large bet on myself in round one. Well, thanks to the Internet, I'm now bored with sex. Is there a place on the web that panders to my lust for violence? It's toe-tappingly tragic! Yep, I remember. They came in last at the Olympics, then retired to promote alcoholic beverages!
+Template text - ignore. Large bet on myself in round one. Well, thanks to the Internet, I'm now bored with sex. Is there a place on the web that panders to my lust for violence? It's toe-tappingly tragic! Yep, I remember. They came in last at the Olympics, then retired to promote alcoholic beverages!
 
 Who's brave enough to fly into something we all keep calling a death sphere? I love you, buddy! Soon enough. I'm just glad my fat, ugly mama isn't alive to see this day. It doesn't look so shiny to me.
 
 Oh, I always feared he might run off like this. Why, why, why didn't I break his legs? And I'd do it again! And perhaps a third time! But that would be it. I'm a thing. Shut up and take my money! Just once I'd like to eat dinner with a celebrity who isn't bound and gagged.
 
-Tell her she looks thin. And yet you haven't said what I told you to say! How can any of us trust you? Five hours? Aw, man! Couldn't you just get me the death penalty? This is the worst kind of discrimination: the kind against me!
+Tell her she looks thin. And you haven't said what I told you to say! How can any of us trust you? Five hours? Aw, man! Couldn't you just get me the death penalty? This is the worst kind of discrimination: the kind against me!
 
 There, now he's trapped in a book I wrote: a crummy world of plot holes and spelling errors! You, minion. Lift my arm. AFTER HIM! You don't know how to do any of those. We don't have a brig. You know the worst thing about being a slave? They make you work, but they don't pay you or let you go.
 

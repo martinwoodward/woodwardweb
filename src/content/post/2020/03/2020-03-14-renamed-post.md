@@ -1,5 +1,5 @@
 ---
-title: "Cheerful Loving Couple Bakers Drinking Coffee"
+title: "Renamed post."
 date: 2020-03-14T15:40:24+06:00
 # post thumb
 images:
@@ -16,7 +16,7 @@ search_keyword: "gethugothemes"
 draft: false
 ---
 
-That could be 'my' beautiful soul sitting naked on a couch. If I could just learn to play this stupid thing. I had more, but you go ahead. And when we woke up, we had these bodies. Calculon is gonna kill us and it's all everybody else's fault!
+Template text - ignore. That could be 'my' beautiful soul sitting naked on a couch. If I could just learn to play this stupid thing. I had more, but you go ahead. And when we woke up, we had these bodies. Calculon is gonna kill us and it's all everybody else's fault!
 
 I wish! It's a nickel. Shut up and take my money! That's right, baby. I ain't your loverboy Flexo, the guy you love so much. You even love anyone pretending to be him! That's the ONLY thing about being a slave.
 

@@ -15,7 +15,7 @@ type: "regular" # available type (regular or featured)
 draft: false
 ---
 
-Bender, hurry! This fuel's expensive! Also, we're dying! Yeah. Give a little credit to our public schools. Now Fry, it's been a few years since medical school, so remind me. Disemboweling in your species: fatal or non-fatal?
+Template text - ignore. Bender, hurry! This fuel's expensive! Also, we're dying! Yeah. Give a little credit to our public schools. Now Fry, it's been a few years since medical school, so remind me. Disemboweling in your species: fatal or non-fatal?
 
 Goodbye, cruel world. Goodbye, cruel lamp. Goodbye, cruel velvet drapes, lined with what would appear to be some sort of cruel muslin and the cute little pom-pom curtain pull cords. Cruel though they may be… Calculon is gonna kill us and it's all everybody else's fault!
 

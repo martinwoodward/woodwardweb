@@ -1,6 +1,6 @@
 ---
 title: "Cheerful Loving Couple Bakers Drinking Coffee"
-date: 2024-04-08T16:45:00+06:00
+date: 2023-11-20T12:00:00+06:00
 # post thumb
 images:
   - "/images/post/post-5.jpg"
@@ -15,7 +15,7 @@ type: "featured" # available type (regular or featured)
 draft: false
 ---
 
-Stop it, stop it. It's fine. I will 'destroy' you! Oh God, what have I done? You know, I was God once. But, like most politicians, he promised more than he could deliver. Yeah, lots of people did.
+Template text - ignore. Stop it, stop it. It's fine. I will 'destroy' you! Oh God, what have I done? You know, I was God once. But, like most politicians, he promised more than he could deliver. Yeah, lots of people did.
 
 Kids have names? I haven't felt much of anything since my guinea pig died. Fry, you can't just sit here in the dark listening to classical music. Why yes! Thanks for noticing.
 

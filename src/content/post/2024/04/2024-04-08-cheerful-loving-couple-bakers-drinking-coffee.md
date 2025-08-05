@@ -15,7 +15,7 @@ type: "featured" # available type (regular or featured)
 draft: false
 ---
 
-Stop it, stop it. It's fine. I will 'destroy' you! Oh God, what have I done? You know, I was God once. But, like most politicians, he promised more than he could deliver. Yeah, lots of people did.
+Template text - ignore. Stop it, stop it. It's fine. I will 'destroy' you! Oh God, what have I done? You know, I was God once. But, like most politicians, he promised more than he could deliver. Yeah, lots of people did.
 
 Kids have names? I haven't felt much of anything since my guinea pig died. Fry, you can't just sit here in the dark listening to classical music. Why yes! Thanks for noticing.
 

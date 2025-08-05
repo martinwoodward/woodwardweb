@@ -15,7 +15,7 @@ type: "regular" # available type (regular or featured)
 draft: false
 ---
 
-Large bet on myself in round one. Well, thanks to the Internet, I'm now bored with sex. Is there a place on the web that panders to my lust for violence? It's toe-tappingly tragic! Yep, I remember. They came in last at the Olympics, then retired to promote alcoholic beverages!
+Template text - ignore. Large bet on myself in round one. Well, thanks to the Internet, I'm now bored with sex. Is there a place on the web that panders to my lust for violence? It's toe-tappingly tragic! Yep, I remember. They came in last at the Olympics, then retired to promote alcoholic beverages!
 
 Who's brave enough to fly into something we all keep calling a death sphere? I love you, buddy! Soon enough. I'm just glad my fat, ugly mama isn't alive to see this day. It doesn't look so shiny to me.
 

@@ -1,6 +1,6 @@
 ---
 title: "Cheerful Loving Couple Bakers Drinking Coffee"
-date: 2020-03-14T15:40:24+06:00
+date: 2023-12-05T15:45:00+06:00
 # post thumb
 images:
   - "/images/post/post-4.jpg"

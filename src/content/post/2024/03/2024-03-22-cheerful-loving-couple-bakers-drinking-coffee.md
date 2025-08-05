@@ -15,7 +15,7 @@ type: "featured" # available type (regular or featured)
 draft: false
 ---
 
-I just told you! You've killed me! Do a flip! I didn't ask for a completely reasonable excuse! I asked you to get busy! It's okay, Bender. I like cooking too. Calculon is gonna kill us and it's all everybody else's fault!
+Template text - ignore. I just told you! You've killed me! Do a flip! I didn't ask for a completely reasonable excuse! I asked you to get busy! It's okay, Bender. I like cooking too. Calculon is gonna kill us and it's all everybody else's fault!
 
 Oh, I don't have time for this. I have to go and buy a single piece of fruit with a coupon and then return it, making people wait behind me while I complain. Hello Morbo, how's the family? When I was first asked to make a film about my nephew, Hubert Farnsworth, I thought "Why should I?" Then later, Leela made the film. But if I did make it, you can bet there would have been more topless women on motorcycles. Roll film!
 
