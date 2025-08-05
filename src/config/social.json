@@ -1,16 +1,6 @@
 {
   "main": [
     {
-      "name": "facebook",
-      "icon": "FaFacebook",
-      "link": "https://www.facebook.com/martinwoodward"
-    },
-    {
-      "name": "twitter",
-      "icon": "FaTwitter",
-      "link": "https://twitter.com/martinwoodward"
-    },
-    {
       "name": "github",
       "icon": "FaGithub",
       "link": "https://www.github.com/martinwoodward"
@@ -19,6 +9,21 @@
       "name": "linkedin",
       "icon": "FaLinkedin",
       "link": "https://www.linkedin.com/in/martinwoodward/"
+    },
+    {
+      "name": "bluesky",
+      "icon": "FaBluesky",
+      "link": "https://bsky.app/profile/martin.social"
+    },
+    {
+      "name": "twitter",
+      "icon": "FaTwitter",
+      "link": "https://twitter.com/martinwoodward"
+    },
+    {
+      "name": "mastodon",
+      "icon": "FaMastodon",
+      "link": "https://hachyderm.io/@martinwoodward"
     }
   ]
 }

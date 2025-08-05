@@ -1,31 +1,32 @@
 ---
-title: "Hey, I am John Doe!"
+title: "Hi, I am Martin Woodward!"
 meta_title: "About"
-description: "this is meta description"
-email: "sojonatmail@gmail.com"
-image: "/images/author-full.jpg"
+description: "This is the personal blog of Martin Woodward"
+email: "hello@woodwardweb.com"
+image: "/images/martinwoodward-sign.jpg"
 draft: false
 
 social:
   - name: github
     icon: FaGithub
-    link: https://github.com
-  - name: twitter
-    icon: FaTwitter
-    link: https://twitter.com
+    link: https://www.github.com/martinwoodward
   - name: linkedin
     icon: FaLinkedin
-    link: https://linkedin.com
-  - name: facebook
-    icon: FaFacebook
-    link: https://facebook.com
+    link: https://www.linkedin.com/in/martinwoodward/
+  - name: bluesky
+    icon: FaBluesky
+    link: https://bsky.app/profile/martin.social
+  - name: mastodon
+    icon: FaMastodon
+    link: https://hachyderm.io/@martinwoodward
+  - name: twitter
+    icon: FaTwitter
+    link: https://twitter.com/martinwoodward
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi, posuere ultrices tempus. Feugiat consequat suspendisse laoreet vitae enim adipiscing cursus. Duis nunc vitae tincidunt sed nibh id. Egestas erat consequat, ornare etiam donec faucibus. Lorem ut enim nunc, senectus adipiscing sed. Lobortis commodo aliquet pulvinar molestie faucibus diam. Semper porttitor, et dictum
+With over 20 years of experience in the software industry, I am passionate about empowering developers, building communities, and creating engaging content. As the Vice President of Developer Relations at GitHub, I lead a large and diverse team that encompasses Developer Programs, Advocacy and more at the company that is loved as the home for developers.
 
-Faucibus duis urna, consequat morbi imperdiet pulvinar. Mauris vitae sed aliquet eu tincidunt id. Nulla leo eget erat vel pharetra. Morbi nullam morbi non purus, augue. Massa cras odio ante cursus a mauris. Volutpat faucibus feugiat feugiat euismod congue ridiculus. Et ipsum euismod nulla et aenean diam duis. Sem molestie est mauris sit. Et eleifend odio
-
-> Life is a series of natural and spontaneous changes. Don’t resist them – that only create sorrow. Let reality changes be reality. Let things flow naturally way they like. <cite>- John Doe<cite>
+> Never waste a good crisis. <cite>- Martin Woodward<cite>
 
 <hr>
 

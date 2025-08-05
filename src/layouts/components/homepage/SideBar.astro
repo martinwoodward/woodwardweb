@@ -37,22 +37,21 @@ const tags = await getTaxonomy("post", "tags");
 
   <!-- author about -->
   <div class="widget widget-about">
-    <h5 class="widget-title"><span>Hi, I Am John Doe</span></h5>
+    <h5 class="widget-title"><span>Hi, I'm Martin Woodward</span></h5>
     <div class="flex justify-start gap-4">
       <ImageMod
-        src="/images/author-full.jpg"
+        src="/images/martin-headshot.jpg"
         alt="author"
         decoding={"auto"}
         class="object-cover rounded-lg max-h-[130px] w-[100px]"
-        height={1238}
-        width={500}
+        height={3840}
+        width={3001}
         format="webp"
       />
       <div class="mb-2">
-        <span class="block mb-3 text-[14px]"
-          >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum
-          in urna …</span
-        >
+        <span class="block mb-3 text-[14px]">
+          Maker, Developer, Open Source Advocate and Vice President of Developer Relations at GitHub. 
+        </span>
         <Social source={social.main} className="social-icons mb-3" />
         <a
           href="/logbook/site/about/"
@@ -60,55 +59,6 @@ const tags = await getTaxonomy("post", "tags");
         >
       </div>
     </div>
-  </div>
-
-  <!-- promotion -->
-  <div class="promotion">
-    <ImageMod
-      src="/images/promotion.jpg"
-      loading="lazy"
-      decoding="async"
-      alt="promotion-image"
-      class="w-full img"
-      width={0}
-      height={0}
-    />
-    <div class="promotion-content">
-      <h5 class="text-white text-3xl font-semibold mb-3">
-        Create Stunning Website!!
-      </h5>
-      <p class="text-white mb-5">
-        Lorem ipsum dolor sit amet, consectetur sociis. Etiam nunc amet id
-        dignissim. Feugiat id tempor vel sit ornare.
-      </p>
-      <a href="https://themefisher.com/" class="btn btn-primary">Get Started</a>
-    </div>
-  </div>
-
-  <!-- subscribe -->
-  <div class="widget">
-    <h5 class="widget-title"><span>Subscribe Newsletter</span></h5>
-    <form
-      method="post"
-      name="subscribe-form"
-      target="_blank"
-      class="widget-search"
-    >
-      <input
-        class="mb-3 search-query focus:outline-none focus:ring-0 focus:shadow-none placeholder:text-sm"
-        name="s"
-        type="search"
-        placeholder="Your Email Address"
-      />
-      <button
-        type="submit"
-        class="widget-search-btn"
-        name="subscribe"
-        aria-label="Subscribe Newsletter"
-      >
-        <FaPaperPlane />
-      </button>
-    </form>
   </div>
 
   <!-- categories -->
@@ -137,7 +87,7 @@ const tags = await getTaxonomy("post", "tags");
 
   <!-- latest article -->
   <div class="widget">
-    <h5 class="widget-title"><span>Latest Article</span></h5>
+    <h5 class="widget-title"><span>Latest Posts</span></h5>
     <ul class="list-unstyled widget-list mb-0">
       {
         sortedPosts.slice(0, 3).map((post) => (

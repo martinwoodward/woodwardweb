@@ -1,82 +1,17 @@
 {
   "main": [
     {
-      "name": "Homepage",
-      "url": "",
-      "hasChildren": true,
-      "children": [
-        {
-          "name": "Homepage Full Width",
-          "url": "/full"
-        },
-        {
-          "name": "Homepage Full with Left Sidebar",
-          "url": "/full-left"
-        },
-        {
-          "name": "Homepage Full with Right Sidebar",
-          "url": "/full-right"
-        },
-        {
-          "name": "Homepage List Style",
-          "url": "/list"
-        },
-        {
-          "name": "Homepage List with Left Sidebar",
-          "url": "/list-left"
-        },
-        {
-          "name": "Homepage List with Right Sidebar",
-          "url": "/list-right"
-        },
-        {
-          "name": "Homepage Grid Style",
-          "url": "/grid"
-        },
-        {
-          "name": "Homepage Grid with Left Sidebar",
-          "url": "/grid-left"
-        },
-        {
-          "name": "Homepage Grid with Right Sidebar",
-          "url": "/grid-right"
-        }
-      ]
+      "name": "Home",
+      "url": "/",
+      "hasChildren": false
+    },
+    {
+      "name": "Categories",
+      "url": "/categories"
     },
     {
       "name": "About",
       "url": "/about"
-    },
-    {
-      "name": "Elements",
-      "url": "/elements"
-    },
-    {
-      "name": "Pages",
-      "url": "",
-      "hasChildren": true,
-      "children": [
-        {
-          "name": "Author",
-          "url": "/author"
-        },
-        {
-          "name": "Categories",
-          "url": "/categories"
-        },
-        {
-          "name": "Tags",
-          "url": "/tags"
-        },
-        {
-          "name": "404 Page",
-          "url": "/404"
-        }
-      ]
-    },
-    {
-      "name": "Contact",
-      "url": "/contact"
     }
   ],
   "footer": [
@@ -86,7 +21,11 @@
       "hasChildren": true,
       "children": [
         {
-          "name": "About",
+          "name": "About Martin",
+          "url": "/about"
+        },
+        {
+          "name": "Bio & Headshots",
           "url": "/about"
         },
         {
@@ -94,12 +33,8 @@
           "url": "/contact"
         },
         {
-          "name": "Privacy Policy",
-          "url": "/privacy-policy"
-        },
-        {
-          "name": "Terms Conditions",
-          "url": "/terms-conditions"
+          "name": "GitHub",
+          "url": "https://github.com/MartinWoodward"
         }
       ]
     },
@@ -109,20 +44,24 @@
       "hasChildren": true,
       "children": [
         {
-          "name": "Facebook",
-          "url": "/#"
-        },
-        {
-          "name": "Twitter",
-          "url": "/#"
-        },
-        {
-          "name": "Instagram",
-          "url": "/#"
+          "name": "Bluesky",
+          "url": "https://bsky.app/profile/martin.social"
         },
         {
           "name": "Linkedin",
-          "url": "/#"
+          "url": "https://www.linkedin.com/in/martinwoodward"
+        },
+                {
+          "name": "Twitter",
+          "url": "https://twitter.com/martinwoodward`"
+        },
+        {
+          "name": "Threads",
+          "url": "https://www.threads.com/@mw00dward"
+        },
+        {
+          "name": "Mastodon",
+          "url": "https://hachyderm.io/@martinwoodward"
         }
       ]
     }

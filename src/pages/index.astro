@@ -1,5 +1,4 @@
 ---
-import FeaturedPosts from "@/components/homepage/FeaturedPosts.astro";
 import config from "@/config/config.json";
 import Base from "@/layouts/Base.astro";
 import Full from "@/layouts/Full.astro";
@@ -28,10 +27,9 @@ const LayoutComponent = layouts[selectedLayout];
 ---
 
 <Base
-  title="Homepage | Logbook"
-  meta_title="This is meta title"
-  description="Logbook Homepage"
+  title="Martin Woodward"
+  meta_title="Martin Woodward's Blog"
+  description="The personal blog of Martin Woodward, VP of Developer Relations at GitHub"
 >
-  <FeaturedPosts />
   {LayoutComponent && <LayoutComponent />}
 </Base>

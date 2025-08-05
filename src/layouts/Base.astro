@@ -111,6 +111,14 @@ const { title, meta_title, description, image, noindex, canonical } =
       )}
     />
 
+    <!-- RSS feeds -->
+    <link
+      rel="alternate"
+      type="application/rss+xml"
+      title={`${config.site.title} RSS Feed`}
+      href={`${config.site.base_url}/rss.xml`}
+    />
+
     <ClientRouter />
 
     <!-- author from config.json -->
