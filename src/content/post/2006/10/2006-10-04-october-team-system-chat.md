@@ -3,7 +3,7 @@ title: "October Team System Chat"
 date: 2006-10-04T09:34:31.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-october-team-system-chat.jpg"
 #author
 author: "Martin Woodward"
 # description

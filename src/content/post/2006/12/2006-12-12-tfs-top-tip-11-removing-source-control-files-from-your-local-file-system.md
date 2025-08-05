@@ -3,7 +3,7 @@ title: "TFS Top Tip #11 - Removing source control files from your local file sys
 date: 2006-12-12T12:45:58.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-tfs-top-tip-11-removing-source-control-files-from-your-local-file-system.jpg"
 #author
 author: "Martin Woodward"
 # description

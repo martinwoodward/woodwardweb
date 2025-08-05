@@ -3,7 +3,7 @@ title: "Windows 7 on the MSI Wind"
 date: 2008-11-13T11:34:43.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2008-windows-7-on-the-msi-wind.jpg"
 #author
 author: "Martin Woodward"
 # description

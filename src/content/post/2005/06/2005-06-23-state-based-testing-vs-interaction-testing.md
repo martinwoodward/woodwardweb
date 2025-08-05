@@ -3,7 +3,7 @@ title: "State Based Testing vs Interaction Testing"
 date: 2005-06-23T15:00:25.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2005-state-based-testing-vs-interaction-testing.jpg"
 #author
 author: "Martin Woodward"
 # description

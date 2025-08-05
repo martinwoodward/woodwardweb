@@ -3,7 +3,7 @@ title: "Sept 2010 TFS Power Tools Release Available"
 date: 2010-09-09T15:27:14.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2010-sept-2010-tfs-power-tools-release-available.jpg"
 #author
 author: "Martin Woodward"
 # description

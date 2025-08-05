@@ -3,7 +3,7 @@ title: "Building Maven Projects with Team Foundation Build"
 date: 2009-04-23T11:26:40.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2009-building-maven-projects-with-team-foundation-build.jpg"
 #author
 author: "Martin Woodward"
 # description

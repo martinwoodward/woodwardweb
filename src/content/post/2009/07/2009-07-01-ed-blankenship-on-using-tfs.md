@@ -3,7 +3,7 @@ title: "Ed Blankenship on Using TFS"
 date: 2009-07-01T13:53:06.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2009-ed-blankenship-on-using-tfs.jpg"
 #author
 author: "Martin Woodward"
 # description

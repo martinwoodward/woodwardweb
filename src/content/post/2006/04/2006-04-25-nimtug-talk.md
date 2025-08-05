@@ -3,7 +3,7 @@ title: "NIMTUG Talk"
 date: 2006-04-25T11:12:14.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-nimtug-talk.jpg"
 #author
 author: "Martin Woodward"
 # description

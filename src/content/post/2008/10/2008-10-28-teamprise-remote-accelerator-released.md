@@ -3,7 +3,7 @@ title: "Teamprise Remote Accelerator Released"
 date: 2008-10-28T12:55:51.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2008-teamprise-remote-accelerator-released.jpg"
 #author
 author: "Martin Woodward"
 # description

@@ -3,7 +3,7 @@ title: "Apple Boot Camp"
 date: 2006-04-05T15:26:59.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-apple-boot-camp.jpg"
 #author
 author: "Martin Woodward"
 # description

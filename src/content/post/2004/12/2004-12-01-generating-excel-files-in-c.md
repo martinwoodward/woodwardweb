@@ -3,7 +3,7 @@ title: "Generating Excel Files in C#"
 date: 2004-12-01T04:20:23.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2004-generating-excel-files-in-c.jpg"
 #author
 author: "Martin Woodward"
 # description

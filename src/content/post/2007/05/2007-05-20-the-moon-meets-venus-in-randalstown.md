@@ -3,7 +3,7 @@ title: "The Moon meets Venus in Randalstown"
 date: 2007-05-20T10:49:00.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2007-the-moon-meets-venus-in-randalstown.jpg"
 #author
 author: "Martin Woodward"
 # description

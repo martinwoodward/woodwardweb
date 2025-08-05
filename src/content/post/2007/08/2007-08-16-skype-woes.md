@@ -3,7 +3,7 @@ title: "Skype Woes"
 date: 2007-08-16T14:37:56.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2007-skype-woes.jpg"
 #author
 author: "Martin Woodward"
 # description

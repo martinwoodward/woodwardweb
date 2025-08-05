@@ -3,7 +3,7 @@ title: "The Business Traveler's Hotel Charter"
 date: 2007-06-03T14:18:30.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2007-the-business-traveler.jpg"
 #author
 author: "Martin Woodward"
 # description

@@ -3,7 +3,7 @@ title: "Teamprise Preview 5"
 date: 2006-01-27T04:39:37.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-teamprise-preview-5.jpg"
 #author
 author: "Martin Woodward"
 # description

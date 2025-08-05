@@ -3,7 +3,7 @@ title: "The Data Dude comes to Radio TFS"
 date: 2008-08-21T11:22:53.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2008-the-data-dude-comes-to-radio-tfs.jpg"
 #author
 author: "Martin Woodward"
 # description

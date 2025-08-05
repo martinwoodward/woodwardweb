@@ -3,7 +3,7 @@ title: "TFS RTM Upgrade Complete"
 date: 2006-03-21T16:13:40.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-tfs-rtm-upgrade-complete.jpg"
 #author
 author: "Martin Woodward"
 # description

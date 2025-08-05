@@ -3,7 +3,7 @@ title: "Tim Robertson"
 date: 2004-04-24T16:02:05.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2004-tim-robertson.jpg"
 #author
 author: "Martin Woodward"
 # description

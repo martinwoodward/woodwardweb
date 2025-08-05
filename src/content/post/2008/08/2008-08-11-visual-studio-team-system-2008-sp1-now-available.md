@@ -3,7 +3,7 @@ title: "Visual Studio Team System 2008 SP1 Now Available!"
 date: 2008-08-11T18:35:24.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2008-visual-studio-team-system-2008-sp1-now-available.jpg"
 #author
 author: "Martin Woodward"
 # description

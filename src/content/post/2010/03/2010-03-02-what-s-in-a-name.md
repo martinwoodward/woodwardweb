@@ -3,7 +3,7 @@ title: "What’s in a Name?"
 date: 2010-03-02T21:03:32.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2010-what-s-in-a-name.jpg"
 #author
 author: "Martin Woodward"
 # description

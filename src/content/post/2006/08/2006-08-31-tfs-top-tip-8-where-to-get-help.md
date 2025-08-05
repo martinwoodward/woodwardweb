@@ -3,7 +3,7 @@ title: "TFS Top Tip #8 - Where to get help"
 date: 2006-08-31T10:59:44.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-tfs-top-tip-8-where-to-get-help.jpg"
 #author
 author: "Martin Woodward"
 # description

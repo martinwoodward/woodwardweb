@@ -3,7 +3,7 @@ title: "Talk: Thomson's use of Team Foundation Server with Teamprise as a cross 
 date: 2008-01-15T11:16:24.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2008-talk-thomson.jpg"
 #author
 author: "Martin Woodward"
 # description

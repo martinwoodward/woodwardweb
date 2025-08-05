@@ -3,7 +3,7 @@ title: "Radio TFS: Oracle Support for Visual Studio Team System"
 date: 2009-04-10T17:12:34.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2009-radio-tfs-oracle-support-for-visual-studio-team-system.jpg"
 #author
 author: "Martin Woodward"
 # description

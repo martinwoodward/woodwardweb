@@ -3,7 +3,7 @@ title: "Nullable DateTime"
 date: 2005-03-25T17:40:38.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2005-nullable-datetime.jpg"
 #author
 author: "Martin Woodward"
 # description

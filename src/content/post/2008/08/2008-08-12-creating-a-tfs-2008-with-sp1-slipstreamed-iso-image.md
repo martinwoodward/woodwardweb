@@ -3,7 +3,7 @@ title: "Creating a TFS 2008 with SP1 Slipstreamed ISO image"
 date: 2008-08-12T14:06:36.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2008-creating-a-tfs-2008-with-sp1-slipstreamed-iso-image.jpg"
 #author
 author: "Martin Woodward"
 # description

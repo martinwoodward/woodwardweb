@@ -3,7 +3,7 @@ title: "Site Updated"
 date: 2003-09-23T16:58:52.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2003-site-updated.jpg"
 #author
 author: "Martin Woodward"
 # description

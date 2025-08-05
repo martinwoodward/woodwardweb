@@ -3,7 +3,7 @@ title: "Upgrading from TFS 2008 Trial to TFS 2008 Full"
 date: 2008-01-28T11:40:59.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2008-upgrading-from-tfs-2008-trial-to-tfs-2008-full.jpg"
 #author
 author: "Martin Woodward"
 # description

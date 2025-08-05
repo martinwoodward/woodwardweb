@@ -3,7 +3,7 @@ title: "Teamprise Case Study: Thomson Reuters"
 date: 2008-06-06T14:55:49.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2008-teamprise-case-study-thomson-reuters.jpg"
 #author
 author: "Martin Woodward"
 # description

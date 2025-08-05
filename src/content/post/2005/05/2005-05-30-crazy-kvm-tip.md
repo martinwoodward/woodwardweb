@@ -3,7 +3,7 @@ title: "Crazy KVM Tip"
 date: 2005-05-30T07:35:14.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2005-crazy-kvm-tip.jpg"
 #author
 author: "Martin Woodward"
 # description

@@ -3,7 +3,7 @@ title: "Team Foundation Server RC on MSDN"
 date: 2006-02-08T07:53:01.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-team-foundation-server-rc-on-msdn.jpg"
 #author
 author: "Martin Woodward"
 # description

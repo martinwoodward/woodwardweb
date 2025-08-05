@@ -3,7 +3,7 @@ title: "ASP.NET MVC Framework"
 date: 2007-10-07T00:18:11.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2007-asp-net-mvc-framework.jpg"
 #author
 author: "Martin Woodward"
 # description

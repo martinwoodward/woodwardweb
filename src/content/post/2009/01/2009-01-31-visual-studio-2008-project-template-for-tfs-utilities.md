@@ -3,7 +3,7 @@ title: "Visual Studio 2008 Project Template for TFS Utilities"
 date: 2009-01-31T15:12:10.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2009-visual-studio-2008-project-template-for-tfs-utilities.jpg"
 #author
 author: "Martin Woodward"
 # description

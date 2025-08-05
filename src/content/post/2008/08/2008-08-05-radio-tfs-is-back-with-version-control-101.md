@@ -3,7 +3,7 @@ title: "Radio TFS is back with Version Control 101"
 date: 2008-08-05T12:18:39.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2008-radio-tfs-is-back-with-version-control-101.jpg"
 #author
 author: "Martin Woodward"
 # description

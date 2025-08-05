@@ -3,7 +3,7 @@ title: "HTML Editor"
 date: 2000-05-20T20:04:15.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2000-html-editor.jpg"
 #author
 author: "Martin Woodward"
 # description

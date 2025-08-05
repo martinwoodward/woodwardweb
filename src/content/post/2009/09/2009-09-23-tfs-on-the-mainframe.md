@@ -3,7 +3,7 @@ title: "TFS on the Mainframe"
 date: 2009-09-23T21:07:26.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2009-tfs-on-the-mainframe.jpg"
 #author
 author: "Martin Woodward"
 # description

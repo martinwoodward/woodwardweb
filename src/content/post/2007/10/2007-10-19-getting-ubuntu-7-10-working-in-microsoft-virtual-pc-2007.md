@@ -3,7 +3,7 @@ title: "Getting Ubuntu 7.10 working in Microsoft Virtual PC 2007"
 date: 2007-10-19T15:29:43.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2007-getting-ubuntu-7-10-working-in-microsoft-virtual-pc-2007.jpg"
 #author
 author: "Martin Woodward"
 # description

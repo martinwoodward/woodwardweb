@@ -3,7 +3,7 @@ title: "I know Kung Fu."
 date: 2003-11-08T20:00:41.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2003-i-know-kung-fu.jpg"
 #author
 author: "Martin Woodward"
 # description

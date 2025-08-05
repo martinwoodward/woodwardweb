@@ -3,7 +3,7 @@ title: "Visio Templates for UML 2.0"
 date: 2004-12-03T18:38:08.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2004-visio-templates-for-uml-2-0.jpg"
 #author
 author: "Martin Woodward"
 # description

@@ -3,7 +3,7 @@ title: "ADSL Has arrived"
 date: 2003-10-23T18:36:28.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2003-adsl-has-arrived.jpg"
 #author
 author: "Martin Woodward"
 # description

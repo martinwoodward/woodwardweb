@@ -33,11 +33,44 @@ export const titleify = (content: string) => {
 
 // plainify
 export const plainify = (content: string) => {
-  const parseMarkdown: any = marked.parse(content);
-  const filterBrackets = parseMarkdown.replace(/<\/?[^>]+(>|$)/gm, "");
-  const filterSpaces = filterBrackets.replace(/[\r\n]\s*[\r\n]/gm, "");
-  const stripHTML = htmlEntityDecoder(filterSpaces);
-  return stripHTML;
+  // First, remove common markdown syntax before converting to HTML
+  let plainText = content
+    // Remove markdown links [text](url)
+    .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
+    // Remove markdown images ![alt](url)
+    .replace(/!\[([^\]]*)\]\([^)]+\)/g, '$1')
+    // Remove markdown bold/italic **text** and *text*
+    .replace(/\*\*([^*]+)\*\*/g, '$1')
+    .replace(/\*([^*]+)\*/g, '$1')
+    // Remove markdown headers
+    .replace(/^#{1,6}\s+/gm, '')
+    // Remove markdown code blocks ```
+    .replace(/```[\s\S]*?```/g, '')
+    // Remove inline code `text`
+    .replace(/`([^`]+)`/g, '$1')
+    // Remove markdown strikethrough
+    .replace(/~~([^~]+)~~/g, '$1')
+    // Remove blockquotes
+    .replace(/^>\s+/gm, '')
+    // Remove horizontal rules
+    .replace(/^---+$/gm, '')
+    // Remove list markers
+    .replace(/^[\s]*[-*+]\s+/gm, '')
+    .replace(/^[\s]*\d+\.\s+/gm, '')
+    // Clean up extra whitespace
+    .replace(/\n\s*\n/g, '\n')
+    .replace(/^\s+|\s+$/g, '')
+    .trim();
+
+  // If there's still HTML-like content, parse and strip it
+  if (plainText.includes('<')) {
+    const parseMarkdown: any = marked.parse(plainText);
+    const filterBrackets = parseMarkdown.replace(/<\/?[^>]+(>|$)/gm, "");
+    const filterSpaces = filterBrackets.replace(/[\r\n]\s*[\r\n]/gm, " ");
+    plainText = htmlEntityDecoder(filterSpaces);
+  }
+  
+  return plainText;
 };
 
 // strip entities for plainify

@@ -3,7 +3,7 @@ title: "iTunes Freezing on Close"
 date: 2008-01-21T09:40:53.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2008-itunes-freezing-on-close.jpg"
 #author
 author: "Martin Woodward"
 # description

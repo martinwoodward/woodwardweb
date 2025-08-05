@@ -3,7 +3,7 @@ title: "What is Teamprise?"
 date: 2006-04-07T09:39:35.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-what-is-teamprise.jpg"
 #author
 author: "Martin Woodward"
 # description

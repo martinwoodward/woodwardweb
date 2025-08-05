@@ -3,7 +3,7 @@ title: "Publishing Builds to a Deep Drop Location"
 date: 2009-03-02T06:59:44.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2009-publishing-builds-to-a-deep-drop-location.jpg"
 #author
 author: "Martin Woodward"
 # description

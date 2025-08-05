@@ -3,7 +3,7 @@ title: "Radio TFS 31: TFS at CodePlex"
 date: 2010-09-15T10:12:55.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2010-radio-tfs-31-tfs-at-codeplex.jpg"
 #author
 author: "Martin Woodward"
 # description

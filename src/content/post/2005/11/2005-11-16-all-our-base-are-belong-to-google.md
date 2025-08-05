@@ -3,7 +3,7 @@ title: "All Our Base Are Belong To Google?"
 date: 2005-11-16T13:26:26.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2005-all-our-base-are-belong-to-google.jpg"
 #author
 author: "Martin Woodward"
 # description

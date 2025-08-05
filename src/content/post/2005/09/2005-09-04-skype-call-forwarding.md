@@ -3,7 +3,7 @@ title: "Skype Call Forwarding"
 date: 2005-09-04T20:07:23.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2005-skype-call-forwarding.jpg"
 #author
 author: "Martin Woodward"
 # description

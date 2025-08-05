@@ -3,7 +3,7 @@ title: "TFS MSSCCI Provider 1.1 is available"
 date: 2006-06-22T09:44:13.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-tfs-msscci-provider-1-1-is-available.jpg"
 #author
 author: "Martin Woodward"
 # description

@@ -3,7 +3,7 @@ title: "TFS Top Tip #3:  Removing the Resolve Check-In Action from a Work Item"
 date: 2006-04-27T13:35:40.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-tfs-top-tip-3-removing-the-resolve-check-in-action-from-a-work-item.jpg"
 #author
 author: "Martin Woodward"
 # description

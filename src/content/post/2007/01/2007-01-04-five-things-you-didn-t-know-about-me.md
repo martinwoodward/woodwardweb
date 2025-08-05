@@ -3,7 +3,7 @@ title: "Five Things You Didn't Know About Me"
 date: 2007-01-04T11:31:04.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2007-five-things-you-didn.jpg"
 #author
 author: "Martin Woodward"
 # description

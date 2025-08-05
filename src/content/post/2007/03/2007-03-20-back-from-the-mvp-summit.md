@@ -3,7 +3,7 @@ title: "Back from the MVP Summit"
 date: 2007-03-20T13:54:08.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2007-back-from-the-mvp-summit.jpg"
 #author
 author: "Martin Woodward"
 # description

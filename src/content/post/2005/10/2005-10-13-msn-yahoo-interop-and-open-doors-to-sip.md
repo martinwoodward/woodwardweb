@@ -3,7 +3,7 @@ title: "MSN, Yahoo interop and open doors to SIP"
 date: 2005-10-13T17:34:43.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2005-msn-yahoo-interop-and-open-doors-to-sip.jpg"
 #author
 author: "Martin Woodward"
 # description

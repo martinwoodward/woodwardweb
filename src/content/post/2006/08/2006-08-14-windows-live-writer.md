@@ -3,7 +3,7 @@ title: "Windows Live Writer"
 date: 2006-08-14T11:46:27.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-windows-live-writer.jpg"
 #author
 author: "Martin Woodward"
 # description

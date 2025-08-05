@@ -3,7 +3,7 @@ title: "Visual Studio 2008 Team Suite Available on MSDN Downloads"
 date: 2007-11-19T11:47:36.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2007-visual-studio-2008-team-suite-available-on-msdn-downloads.jpg"
 #author
 author: "Martin Woodward"
 # description

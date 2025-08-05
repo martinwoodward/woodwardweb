@@ -3,7 +3,7 @@ title: "Pocket SharpMT"
 date: 2004-09-27T22:47:24.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2004-pocket-sharpmt.jpg"
 #author
 author: "Martin Woodward"
 # description

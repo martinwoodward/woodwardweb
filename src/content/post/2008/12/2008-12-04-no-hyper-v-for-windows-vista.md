@@ -3,7 +3,7 @@ title: "No Hyper-V for Windows Vista"
 date: 2008-12-04T09:25:50.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2008-no-hyper-v-for-windows-vista.jpg"
 #author
 author: "Martin Woodward"
 # description

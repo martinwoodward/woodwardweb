@@ -3,7 +3,7 @@ title: "Managed to get my Palm"
 date: 2003-09-24T22:24:13.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2003-managed-to-get-my-palm.jpg"
 #author
 author: "Martin Woodward"
 # description

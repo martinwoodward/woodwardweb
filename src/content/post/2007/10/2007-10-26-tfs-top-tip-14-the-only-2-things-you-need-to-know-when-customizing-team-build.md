@@ -3,7 +3,7 @@ title: "TFS Top Tip #14: The only 2 things you need to know when customizing Tea
 date: 2007-10-26T23:09:24.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2007-tfs-top-tip-14-the-only-2-things-you-need-to-know-when-customizing-team-build.jpg"
 #author
 author: "Martin Woodward"
 # description

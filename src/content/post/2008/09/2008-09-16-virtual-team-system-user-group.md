@@ -3,7 +3,7 @@ title: "Virtual Team System User Group"
 date: 2008-09-16T09:40:10.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2008-virtual-team-system-user-group.jpg"
 #author
 author: "Martin Woodward"
 # description

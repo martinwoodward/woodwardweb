@@ -3,7 +3,7 @@ title: "Live On .NET Rocks..."
 date: 2008-09-02T18:54:49.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2008-live-on-net-rocks.jpg"
 #author
 author: "Martin Woodward"
 # description

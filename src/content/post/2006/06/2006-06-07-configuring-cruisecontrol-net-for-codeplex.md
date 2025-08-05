@@ -3,7 +3,7 @@ title: "Configuring CruiseControl.NET for CodePlex"
 date: 2006-06-07T04:37:08.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-configuring-cruisecontrol-net-for-codeplex.jpg"
 #author
 author: "Martin Woodward"
 # description

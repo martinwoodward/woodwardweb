@@ -3,7 +3,7 @@ title: "TFS Permission Manager"
 date: 2006-11-29T17:08:30.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-tfs-permission-manager.jpg"
 #author
 author: "Martin Woodward"
 # description

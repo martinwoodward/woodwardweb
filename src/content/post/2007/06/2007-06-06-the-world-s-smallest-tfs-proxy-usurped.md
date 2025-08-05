@@ -3,7 +3,7 @@ title: "The World's Smallest TFS Proxy Usurped"
 date: 2007-06-06T22:37:33.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2007-the-world.jpg"
 #author
 author: "Martin Woodward"
 # description

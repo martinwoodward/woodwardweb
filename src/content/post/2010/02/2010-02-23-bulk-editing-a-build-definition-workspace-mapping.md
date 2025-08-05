@@ -3,7 +3,7 @@ title: "Bulk Editing a Build Definition Workspace Mapping"
 date: 2010-02-23T11:15:14.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2010-bulk-editing-a-build-definition-workspace-mapping.jpg"
 #author
 author: "Martin Woodward"
 # description

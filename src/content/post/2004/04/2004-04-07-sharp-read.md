@@ -3,7 +3,7 @@ title: "Sharp Read"
 date: 2004-04-07T14:41:25.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2004-sharp-read.jpg"
 #author
 author: "Martin Woodward"
 # description

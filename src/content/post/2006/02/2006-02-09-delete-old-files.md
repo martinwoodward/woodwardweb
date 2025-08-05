@@ -3,7 +3,7 @@ title: "Delete Old Files"
 date: 2006-02-09T13:29:52.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-delete-old-files.jpg"
 #author
 author: "Martin Woodward"
 # description

@@ -3,7 +3,7 @@ title: "Galway Team System Talk"
 date: 2006-10-11T17:37:13.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-galway-team-system-talk.jpg"
 #author
 author: "Martin Woodward"
 # description

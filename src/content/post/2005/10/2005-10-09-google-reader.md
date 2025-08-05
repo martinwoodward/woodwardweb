@@ -3,7 +3,7 @@ title: "Google Reader"
 date: 2005-10-09T23:46:09.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2005-google-reader.jpg"
 #author
 author: "Martin Woodward"
 # description

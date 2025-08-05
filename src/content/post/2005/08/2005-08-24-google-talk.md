@@ -3,7 +3,7 @@ title: "Google Talk"
 date: 2005-08-24T13:57:29.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2005-google-talk.jpg"
 #author
 author: "Martin Woodward"
 # description

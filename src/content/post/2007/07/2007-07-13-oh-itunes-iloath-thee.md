@@ -3,7 +3,7 @@ title: "Oh iTunes, iLoath thee"
 date: 2007-07-13T17:23:09.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2007-oh-itunes-iloath-thee.jpg"
 #author
 author: "Martin Woodward"
 # description

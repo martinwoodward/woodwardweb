@@ -3,7 +3,7 @@ title: "Another Successful VSTS Beta 3 Install"
 date: 2005-09-29T12:33:24.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2005-another-successful-vsts-beta-3-install.jpg"
 #author
 author: "Martin Woodward"
 # description

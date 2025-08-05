@@ -3,7 +3,7 @@ title: "Hitchhiker's Guide to the Galaxy"
 date: 2004-08-31T21:12:25.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2004-hitchhiker.jpg"
 #author
 author: "Martin Woodward"
 # description

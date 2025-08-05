@@ -3,7 +3,7 @@ title: "INDA Dublin Talk Slide Deck"
 date: 2006-04-05T10:21:34.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-inda-dublin-talk-slide-deck.jpg"
 #author
 author: "Martin Woodward"
 # description

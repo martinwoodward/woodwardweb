@@ -3,7 +3,7 @@ title: "TFS Top Tip #7 - Determine when TFS Trial Edition will expire"
 date: 2006-07-06T11:31:17.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-tfs-top-tip-7-determine-when-tfs-trial-edition-will-expire.jpg"
 #author
 author: "Martin Woodward"
 # description

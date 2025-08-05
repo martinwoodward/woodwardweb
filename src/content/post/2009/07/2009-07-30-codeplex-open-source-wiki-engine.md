@@ -3,7 +3,7 @@ title: "CodePlex Open Source Wiki Engine"
 date: 2009-07-30T12:53:18.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2009-codeplex-open-source-wiki-engine.jpg"
 #author
 author: "Martin Woodward"
 # description

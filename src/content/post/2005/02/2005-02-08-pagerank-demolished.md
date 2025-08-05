@@ -3,7 +3,7 @@ title: "Pagerank demolished."
 date: 2005-02-08T08:53:52.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2005-pagerank-demolished.jpg"
 #author
 author: "Martin Woodward"
 # description

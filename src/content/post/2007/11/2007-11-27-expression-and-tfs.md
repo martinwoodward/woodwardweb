@@ -3,7 +3,7 @@ title: "Expression and TFS"
 date: 2007-11-27T09:35:35.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2007-expression-and-tfs.jpg"
 #author
 author: "Martin Woodward"
 # description

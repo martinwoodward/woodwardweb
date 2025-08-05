@@ -3,7 +3,7 @@ title: "MacVista with Fries"
 date: 2006-11-21T10:57:31.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-macvista-with-fries.jpg"
 #author
 author: "Martin Woodward"
 # description

@@ -3,7 +3,7 @@ title: "Chuffin Wireless"
 date: 2005-03-04T22:57:23.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2005-chuffin-wireless.jpg"
 #author
 author: "Martin Woodward"
 # description

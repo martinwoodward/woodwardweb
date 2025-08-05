@@ -3,7 +3,7 @@ title: "The Team System Twitterati"
 date: 2009-02-20T22:05:38.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2009-the-team-system-twitterati.jpg"
 #author
 author: "Martin Woodward"
 # description

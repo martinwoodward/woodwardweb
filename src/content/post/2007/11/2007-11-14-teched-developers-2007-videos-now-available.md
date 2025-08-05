@@ -3,7 +3,7 @@ title: "TechEd Developers 2007 Videos Now Available"
 date: 2007-11-14T15:02:05.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2007-teched-developers-2007-videos-now-available.jpg"
 #author
 author: "Martin Woodward"
 # description

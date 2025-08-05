@@ -3,7 +3,7 @@ title: "SpaceShipOne is in space"
 date: 2004-09-29T16:25:38.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2004-spaceshipone-is-in-space.jpg"
 #author
 author: "Martin Woodward"
 # description

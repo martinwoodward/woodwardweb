@@ -3,7 +3,7 @@ title: "Team Build 2008 API Example, The Build Wallboard"
 date: 2007-11-09T15:03:55.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2007-team-build-2008-api-example-the-build-wallboard.jpg"
 #author
 author: "Martin Woodward"
 # description

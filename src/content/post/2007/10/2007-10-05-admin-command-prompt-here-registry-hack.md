@@ -3,7 +3,7 @@ title: "\"Admin Command Prompt Here\" Registry Hack"
 date: 2007-10-05T02:19:51.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2007-.jpg"
 #author
 author: "Martin Woodward"
 # description

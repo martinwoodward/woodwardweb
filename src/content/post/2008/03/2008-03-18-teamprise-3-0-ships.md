@@ -3,7 +3,7 @@ title: "Teamprise 3.0 Ships!"
 date: 2008-03-18T17:06:56.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2008-teamprise-3-0-ships.jpg"
 #author
 author: "Martin Woodward"
 # description

@@ -3,7 +3,7 @@ title: "JNI on Intel Based Macs"
 date: 2006-04-10T15:18:09.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-jni-on-intel-based-macs.jpg"
 #author
 author: "Martin Woodward"
 # description

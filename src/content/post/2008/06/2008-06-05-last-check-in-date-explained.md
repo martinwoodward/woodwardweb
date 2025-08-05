@@ -3,7 +3,7 @@ title: "Last Check-in Date Explained"
 date: 2008-06-05T15:51:20.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2008-last-check-in-date-explained.jpg"
 #author
 author: "Martin Woodward"
 # description

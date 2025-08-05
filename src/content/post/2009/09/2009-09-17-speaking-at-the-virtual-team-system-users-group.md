@@ -3,7 +3,7 @@ title: "Speaking at the Virtual Team System Users Group"
 date: 2009-09-17T12:47:38.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2009-speaking-at-the-virtual-team-system-users-group.jpg"
 #author
 author: "Martin Woodward"
 # description

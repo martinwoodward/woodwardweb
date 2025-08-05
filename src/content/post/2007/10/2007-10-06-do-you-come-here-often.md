@@ -3,7 +3,7 @@ title: "Do you come here often?"
 date: 2007-10-06T23:02:40.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2007-do-you-come-here-often.jpg"
 #author
 author: "Martin Woodward"
 # description

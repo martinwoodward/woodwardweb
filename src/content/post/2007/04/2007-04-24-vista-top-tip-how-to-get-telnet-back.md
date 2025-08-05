@@ -3,7 +3,7 @@ title: "Vista Top Tip: How to get Telnet Back"
 date: 2007-04-24T21:20:48.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2007-vista-top-tip-how-to-get-telnet-back.jpg"
 #author
 author: "Martin Woodward"
 # description

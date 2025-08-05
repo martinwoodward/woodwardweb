@@ -3,7 +3,7 @@ title: "Virtualized Aero Goodness"
 date: 2009-10-29T14:59:59.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2009-virtualized-aero-goodness.jpg"
 #author
 author: "Martin Woodward"
 # description

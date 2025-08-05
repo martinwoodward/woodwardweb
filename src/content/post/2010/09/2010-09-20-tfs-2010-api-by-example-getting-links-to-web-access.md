@@ -3,7 +3,7 @@ title: "TFS 2010 API By Example: Getting Links to Web Access"
 date: 2010-09-20T15:57:04.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2010-tfs-2010-api-by-example-getting-links-to-web-access.jpg"
 #author
 author: "Martin Woodward"
 # description

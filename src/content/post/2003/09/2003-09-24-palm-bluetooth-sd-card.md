@@ -3,7 +3,7 @@ title: "Palm Bluetooth SD Card"
 date: 2003-09-24T17:23:15.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2003-palm-bluetooth-sd-card.jpg"
 #author
 author: "Martin Woodward"
 # description

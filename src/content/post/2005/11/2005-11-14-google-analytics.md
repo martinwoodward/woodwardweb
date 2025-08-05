@@ -3,7 +3,7 @@ title: "Google Analytics"
 date: 2005-11-14T17:07:08.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2005-google-analytics.jpg"
 #author
 author: "Martin Woodward"
 # description

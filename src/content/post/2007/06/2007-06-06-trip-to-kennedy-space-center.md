@@ -3,7 +3,7 @@ title: "Trip to Kennedy Space Center"
 date: 2007-06-06T18:49:24.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2007-trip-to-kennedy-space-center.jpg"
 #author
 author: "Martin Woodward"
 # description

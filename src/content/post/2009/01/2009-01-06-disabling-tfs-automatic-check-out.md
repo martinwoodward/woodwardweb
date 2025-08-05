@@ -3,7 +3,7 @@ title: "Disabling TFS Automatic Check out"
 date: 2009-01-06T12:59:10.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2009-disabling-tfs-automatic-check-out.jpg"
 #author
 author: "Martin Woodward"
 # description

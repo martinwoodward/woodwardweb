@@ -3,7 +3,7 @@ title: "Sproc Code Metrics"
 date: 2005-07-13T17:26:56.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2005-sproc-code-metrics.jpg"
 #author
 author: "Martin Woodward"
 # description

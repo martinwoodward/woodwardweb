@@ -3,7 +3,7 @@ title: "Suggestive Google"
 date: 2004-12-16T16:07:56.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2004-suggestive-google.jpg"
 #author
 author: "Martin Woodward"
 # description

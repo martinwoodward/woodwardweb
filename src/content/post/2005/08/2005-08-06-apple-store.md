@@ -3,7 +3,7 @@ title: "Apple Store"
 date: 2005-08-06T21:40:51.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2005-apple-store.jpg"
 #author
 author: "Martin Woodward"
 # description

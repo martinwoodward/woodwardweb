@@ -3,7 +3,7 @@ title: "Today's Big Launch"
 date: 2007-06-29T16:23:09.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2007-today.jpg"
 #author
 author: "Martin Woodward"
 # description

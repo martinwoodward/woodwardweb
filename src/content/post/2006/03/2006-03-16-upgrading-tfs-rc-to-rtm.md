@@ -3,7 +3,7 @@ title: "Upgrading TFS RC to RTM"
 date: 2006-03-16T11:38:15.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-upgrading-tfs-rc-to-rtm.jpg"
 #author
 author: "Martin Woodward"
 # description

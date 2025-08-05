@@ -3,7 +3,7 @@ title: "Java on Debian"
 date: 2006-05-17T12:54:17.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-java-on-debian.jpg"
 #author
 author: "Martin Woodward"
 # description

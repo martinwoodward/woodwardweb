@@ -3,7 +3,7 @@ title: "DDD is coming to Ireland"
 date: 2008-02-21T16:23:13.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2008-ddd-is-coming-to-ireland.jpg"
 #author
 author: "Martin Woodward"
 # description

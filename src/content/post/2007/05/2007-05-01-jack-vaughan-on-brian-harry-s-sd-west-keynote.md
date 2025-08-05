@@ -3,7 +3,7 @@ title: "Jack Vaughan on Brian Harry's SD West Keynote"
 date: 2007-05-01T12:09:03.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2007-jack-vaughan-on-brian-harry.jpg"
 #author
 author: "Martin Woodward"
 # description

@@ -3,7 +3,7 @@ title: "Podcasts in iTunes"
 date: 2005-07-03T20:40:01.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2005-podcasts-in-itunes.jpg"
 #author
 author: "Martin Woodward"
 # description

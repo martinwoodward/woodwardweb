@@ -3,7 +3,7 @@ title: "TFS Migration and Synchronization for ClearCase"
 date: 2007-09-17T09:59:07.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2007-tfs-migration-and-synchronization-for-clearcase.jpg"
 #author
 author: "Martin Woodward"
 # description

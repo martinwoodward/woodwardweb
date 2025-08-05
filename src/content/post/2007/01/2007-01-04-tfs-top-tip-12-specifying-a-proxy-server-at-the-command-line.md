@@ -3,7 +3,7 @@ title: "TFS Top Tip #12 - Specifying a proxy server at the command line"
 date: 2007-01-04T16:07:43.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2007-tfs-top-tip-12-specifying-a-proxy-server-at-the-command-line.jpg"
 #author
 author: "Martin Woodward"
 # description

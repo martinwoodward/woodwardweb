@@ -3,7 +3,7 @@ title: "Bluetooth support on Dell Precision M70 with Vista"
 date: 2007-02-20T18:05:23.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2007-bluetooth-support-on-dell-precision-m70-with-vista.jpg"
 #author
 author: "Martin Woodward"
 # description

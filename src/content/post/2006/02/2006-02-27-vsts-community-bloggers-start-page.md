@@ -3,7 +3,7 @@ title: "VSTS Community Bloggers Start Page"
 date: 2006-02-27T12:18:30.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-vsts-community-bloggers-start-page.jpg"
 #author
 author: "Martin Woodward"
 # description

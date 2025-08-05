@@ -3,7 +3,7 @@ title: "Team Foundation Server 2008 - What's New Talk"
 date: 2007-11-20T14:43:39.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2007-team-foundation-server-2008-what.jpg"
 #author
 author: "Martin Woodward"
 # description

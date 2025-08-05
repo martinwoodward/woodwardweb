@@ -3,7 +3,7 @@ title: "Update on Beta 2 VPC Premature Expiration"
 date: 2007-10-29T11:30:27.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2007-update-on-beta-2-vpc-premature-expiration.jpg"
 #author
 author: "Martin Woodward"
 # description

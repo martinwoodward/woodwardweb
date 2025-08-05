@@ -3,7 +3,7 @@ title: "Visual Studio Team System 2010"
 date: 2008-09-30T11:41:48.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2008-visual-studio-team-system-2010.jpg"
 #author
 author: "Martin Woodward"
 # description

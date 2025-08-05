@@ -3,7 +3,7 @@ title: "XP Service Pack 2"
 date: 2004-08-07T14:27:10.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2004-xp-service-pack-2.jpg"
 #author
 author: "Martin Woodward"
 # description

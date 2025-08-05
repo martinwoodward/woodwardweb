@@ -3,7 +3,7 @@ title: "Locale sensitive String sorting in Java"
 date: 2006-10-03T16:30:32.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-locale-sensitive-string-sorting-in-java.jpg"
 #author
 author: "Martin Woodward"
 # description

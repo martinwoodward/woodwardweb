@@ -3,7 +3,7 @@ title: "Goodbye Teamprise, Hello Team Explorer Everywhere"
 date: 2010-04-21T09:56:57.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2010-goodbye-teamprise-hello-team-explorer-everywhere.jpg"
 #author
 author: "Martin Woodward"
 # description

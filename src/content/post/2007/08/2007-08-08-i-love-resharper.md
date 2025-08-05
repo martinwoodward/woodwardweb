@@ -3,7 +3,7 @@ title: "I Love Resharper"
 date: 2007-08-08T11:06:28.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2007-i-love-resharper.jpg"
 #author
 author: "Martin Woodward"
 # description

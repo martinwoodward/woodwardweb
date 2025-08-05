@@ -3,7 +3,7 @@ title: "Geocoding Your Blog"
 date: 2005-07-21T20:45:27.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2005-geocoding-your-blog.jpg"
 #author
 author: "Martin Woodward"
 # description

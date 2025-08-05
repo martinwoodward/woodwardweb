@@ -3,7 +3,7 @@ title: "VSTS Extensibility Toolkit"
 date: 2005-08-08T22:37:35.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2005-vsts-extensibility-toolkit.jpg"
 #author
 author: "Martin Woodward"
 # description

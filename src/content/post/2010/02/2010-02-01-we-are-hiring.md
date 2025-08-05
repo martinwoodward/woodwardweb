@@ -3,7 +3,7 @@ title: "We are Hiring!"
 date: 2010-02-01T13:14:40.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2010-we-are-hiring.jpg"
 #author
 author: "Martin Woodward"
 # description

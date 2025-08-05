@@ -3,7 +3,7 @@ title: "Taking pretty screenshots of Windows Vista"
 date: 2007-02-07T18:25:34.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2007-taking-pretty-screenshots-of-windows-vista.jpg"
 #author
 author: "Martin Woodward"
 # description

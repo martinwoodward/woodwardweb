@@ -3,7 +3,7 @@ title: ".NET Framework 3.0 RC1 Released"
 date: 2006-09-02T15:55:02.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-net-framework-3-0-rc1-released.jpg"
 #author
 author: "Martin Woodward"
 # description

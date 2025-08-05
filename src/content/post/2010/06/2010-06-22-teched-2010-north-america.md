@@ -3,7 +3,7 @@ title: "TechEd 2010 North America"
 date: 2010-06-22T14:11:37.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2010-teched-2010-north-america.jpg"
 #author
 author: "Martin Woodward"
 # description

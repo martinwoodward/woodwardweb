@@ -3,7 +3,7 @@ title: "Netgear and Creative announce standalone Skype phones"
 date: 2006-01-12T10:12:00.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-netgear-and-creative-announce-standalone-skype-phones.jpg"
 #author
 author: "Martin Woodward"
 # description

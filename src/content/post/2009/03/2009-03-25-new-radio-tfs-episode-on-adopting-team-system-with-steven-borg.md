@@ -3,7 +3,7 @@ title: "New Radio TFS Episode on Adopting Team System with Steven Borg"
 date: 2009-03-25T21:40:43.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2009-new-radio-tfs-episode-on-adopting-team-system-with-steven-borg.jpg"
 #author
 author: "Martin Woodward"
 # description

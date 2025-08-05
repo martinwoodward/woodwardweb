@@ -3,7 +3,7 @@ title: "DotNetRocks"
 date: 2007-05-17T12:19:10.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2007-dotnetrocks.jpg"
 #author
 author: "Martin Woodward"
 # description

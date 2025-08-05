@@ -3,7 +3,7 @@ title: "Manipulating Clipboard Data in IE"
 date: 2005-07-21T12:07:26.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2005-manipulating-clipboard-data-in-ie.jpg"
 #author
 author: "Martin Woodward"
 # description

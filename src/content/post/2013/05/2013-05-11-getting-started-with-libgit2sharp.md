@@ -3,7 +3,7 @@ title: "Getting Started with LibGit2Sharp"
 date: 2013-05-11T13:44:35.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2013-getting-started-with-libgit2sharp.jpg"
 #author
 author: "Martin Woodward"
 # description

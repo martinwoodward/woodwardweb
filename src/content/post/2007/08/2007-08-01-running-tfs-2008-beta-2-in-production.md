@@ -3,7 +3,7 @@ title: "Running TFS 2008 (Beta 2) in Production"
 date: 2007-08-01T18:26:50.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2007-running-tfs-2008-beta-2-in-production.jpg"
 #author
 author: "Martin Woodward"
 # description

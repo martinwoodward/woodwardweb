@@ -3,7 +3,7 @@ title: "Chicken or Beef?"
 date: 2006-01-24T00:30:46.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-chicken-or-beef.jpg"
 #author
 author: "Martin Woodward"
 # description

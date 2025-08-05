@@ -3,7 +3,7 @@ title: "Speaking at Microsoft TechEd Developers 2007 in Barcelona"
 date: 2007-10-27T00:57:49.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2007-speaking-at-microsoft-teched-developers-2007-in-barcelona.jpg"
 #author
 author: "Martin Woodward"
 # description

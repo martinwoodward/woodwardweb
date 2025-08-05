@@ -3,7 +3,7 @@ title: "Notion Solutions Team System eTraining"
 date: 2007-04-27T20:03:33.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2007-notion-solutions-team-system-etraining.jpg"
 #author
 author: "Martin Woodward"
 # description

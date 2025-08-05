@@ -3,7 +3,7 @@ title: "Behind Brian the Build Bunny"
 date: 2008-07-23T16:31:57.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2008-behind-brian-the-build-bunny.jpg"
 #author
 author: "Martin Woodward"
 # description

@@ -3,7 +3,7 @@ title: "TFS Top Tip #4:  The Command Line Client is your friend."
 date: 2006-04-28T16:39:48.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-tfs-top-tip-4-the-command-line-client-is-your-friend.jpg"
 #author
 author: "Martin Woodward"
 # description

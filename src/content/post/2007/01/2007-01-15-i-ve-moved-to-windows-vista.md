@@ -3,7 +3,7 @@ title: "I've moved to Windows Vista"
 date: 2007-01-15T16:44:33.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2007-i.jpg"
 #author
 author: "Martin Woodward"
 # description

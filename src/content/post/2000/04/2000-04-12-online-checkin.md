@@ -3,7 +3,7 @@ title: "Online Checkin"
 date: 2000-04-12T10:16:23.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2000-online-checkin.jpg"
 #author
 author: "Martin Woodward"
 # description

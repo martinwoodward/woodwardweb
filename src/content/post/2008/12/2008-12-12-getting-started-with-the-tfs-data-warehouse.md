@@ -3,7 +3,7 @@ title: "Getting Started with the TFS Data Warehouse"
 date: 2008-12-12T13:43:22.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2008-getting-started-with-the-tfs-data-warehouse.jpg"
 #author
 author: "Martin Woodward"
 # description

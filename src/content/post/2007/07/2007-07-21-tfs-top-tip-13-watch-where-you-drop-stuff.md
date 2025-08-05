@@ -3,7 +3,7 @@ title: "TFS Top Tip #13 - Watch where you drop stuff"
 date: 2007-07-21T05:13:51.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2007-tfs-top-tip-13-watch-where-you-drop-stuff.jpg"
 #author
 author: "Martin Woodward"
 # description

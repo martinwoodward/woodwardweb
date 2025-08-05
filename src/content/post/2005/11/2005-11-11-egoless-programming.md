@@ -3,7 +3,7 @@ title: "Egoless Programming"
 date: 2005-11-11T18:40:12.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2005-egoless-programming.jpg"
 #author
 author: "Martin Woodward"
 # description

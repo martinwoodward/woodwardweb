@@ -3,7 +3,7 @@ title: "IMTC 2008: Automating Builds with Team Foundation Server 2008"
 date: 2008-04-03T16:02:37.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2008-imtc-2008-automating-builds-with-team-foundation-server-2008.jpg"
 #author
 author: "Martin Woodward"
 # description

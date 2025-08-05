@@ -3,7 +3,7 @@ title: "One Space or Two?"
 date: 2006-06-29T17:37:01.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-one-space-or-two.jpg"
 #author
 author: "Martin Woodward"
 # description

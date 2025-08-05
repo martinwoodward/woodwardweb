@@ -3,7 +3,7 @@ title: "Managing My Many Hats on GitHub"
 date: 2016-02-10T10:53:11.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2016-managing-my-many-hats-on-github.jpg"
 #author
 author: "Martin Woodward"
 # description

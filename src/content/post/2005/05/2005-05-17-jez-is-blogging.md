@@ -3,7 +3,7 @@ title: "Jez is Blogging"
 date: 2005-05-17T23:59:40.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2005-jez-is-blogging.jpg"
 #author
 author: "Martin Woodward"
 # description

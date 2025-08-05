@@ -3,7 +3,7 @@ title: "Teamprise at PDC 2008"
 date: 2008-10-27T15:07:13.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2008-teamprise-at-pdc-2008.jpg"
 #author
 author: "Martin Woodward"
 # description

@@ -3,7 +3,7 @@ title: "Sorry I've been quiet lately"
 date: 2005-02-16T00:19:26.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2005-sorry-i.jpg"
 #author
 author: "Martin Woodward"
 # description

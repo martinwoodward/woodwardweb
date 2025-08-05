@@ -3,7 +3,7 @@ title: "Laptop Spec Announced"
 date: 2004-03-03T09:24:00.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2004-laptop-spec-announced.jpg"
 #author
 author: "Martin Woodward"
 # description

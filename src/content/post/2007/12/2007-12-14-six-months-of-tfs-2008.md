@@ -3,7 +3,7 @@ title: "Six Months of TFS 2008"
 date: 2007-12-14T10:56:15.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2007-six-months-of-tfs-2008.jpg"
 #author
 author: "Martin Woodward"
 # description

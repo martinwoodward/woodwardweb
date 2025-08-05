@@ -3,7 +3,7 @@ title: "Professional Team Foundation Server Book"
 date: 2006-11-22T12:10:38.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-professional-team-foundation-server-book.jpg"
 #author
 author: "Martin Woodward"
 # description

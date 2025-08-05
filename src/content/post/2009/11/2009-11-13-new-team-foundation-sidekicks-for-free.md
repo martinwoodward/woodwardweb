@@ -3,7 +3,7 @@ title: "New Team Foundation Sidekicks for Free"
 date: 2009-11-13T09:26:50.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2009-new-team-foundation-sidekicks-for-free.jpg"
 #author
 author: "Martin Woodward"
 # description

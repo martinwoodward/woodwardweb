@@ -3,7 +3,7 @@ title: "MSDN Webcast - Version Control with Team Foundation Server"
 date: 2006-06-22T13:13:07.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-msdn-webcast-version-control-with-team-foundation-server.jpg"
 #author
 author: "Martin Woodward"
 # description

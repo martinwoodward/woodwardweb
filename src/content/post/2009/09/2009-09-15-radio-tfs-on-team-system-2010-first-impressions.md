@@ -3,7 +3,7 @@ title: "Radio TFS on Team System 2010 First Impressions"
 date: 2009-09-15T16:36:04.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2009-radio-tfs-on-team-system-2010-first-impressions.jpg"
 #author
 author: "Martin Woodward"
 # description

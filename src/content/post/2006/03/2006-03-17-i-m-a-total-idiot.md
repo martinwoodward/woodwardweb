@@ -3,7 +3,7 @@ title: "I'm a Total Idiot"
 date: 2006-03-17T05:35:41.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-i.jpg"
 #author
 author: "Martin Woodward"
 # description

@@ -3,7 +3,7 @@ title: "Google Analysis"
 date: 2005-11-26T13:39:09.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2005-google-analysis.jpg"
 #author
 author: "Martin Woodward"
 # description

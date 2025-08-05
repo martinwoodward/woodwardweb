@@ -3,7 +3,7 @@ title: "I'm feeling lucky!"
 date: 2005-04-01T07:20:20.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2005-i.jpg"
 #author
 author: "Martin Woodward"
 # description

@@ -3,7 +3,7 @@ title: "Brian the Build Bunny Backgrounds"
 date: 2008-05-30T11:40:07.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2008-brian-the-build-bunny-backgrounds.jpg"
 #author
 author: "Martin Woodward"
 # description

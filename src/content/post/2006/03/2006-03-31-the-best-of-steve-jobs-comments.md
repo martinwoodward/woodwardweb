@@ -3,7 +3,7 @@ title: "The Best of Steve Jobs' Comments"
 date: 2006-03-31T09:13:19.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-the-best-of-steve-jobs.jpg"
 #author
 author: "Martin Woodward"
 # description

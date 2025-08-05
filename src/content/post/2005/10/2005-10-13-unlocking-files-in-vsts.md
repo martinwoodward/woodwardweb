@@ -3,7 +3,7 @@ title: "Unlocking Files in VSTS"
 date: 2005-10-13T12:19:30.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2005-unlocking-files-in-vsts.jpg"
 #author
 author: "Martin Woodward"
 # description

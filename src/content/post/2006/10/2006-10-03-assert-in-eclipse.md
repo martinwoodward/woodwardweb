@@ -3,7 +3,7 @@ title: "Assert in Eclipse"
 date: 2006-10-03T10:41:07.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-assert-in-eclipse.jpg"
 #author
 author: "Martin Woodward"
 # description

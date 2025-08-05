@@ -3,7 +3,7 @@ title: "Jet Brains .NET Profiler"
 date: 2005-01-26T12:29:57.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2005-jet-brains-net-profiler.jpg"
 #author
 author: "Martin Woodward"
 # description

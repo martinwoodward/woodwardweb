@@ -3,7 +3,7 @@ title: "GIMPShop For Windows"
 date: 2005-04-06T07:42:44.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2005-gimpshop-for-windows.jpg"
 #author
 author: "Martin Woodward"
 # description

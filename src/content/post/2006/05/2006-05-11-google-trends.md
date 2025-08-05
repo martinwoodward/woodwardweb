@@ -3,7 +3,7 @@ title: "Google Trends"
 date: 2006-05-11T15:00:18.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-google-trends.jpg"
 #author
 author: "Martin Woodward"
 # description

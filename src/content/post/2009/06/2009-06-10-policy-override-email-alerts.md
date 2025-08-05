@@ -3,7 +3,7 @@ title: "Policy Override Email Alerts"
 date: 2009-06-10T12:42:45.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2009-policy-override-email-alerts.jpg"
 #author
 author: "Martin Woodward"
 # description

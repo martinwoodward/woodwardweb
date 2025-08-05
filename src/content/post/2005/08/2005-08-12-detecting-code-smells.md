@@ -3,7 +3,7 @@ title: "Detecting Code Smells"
 date: 2005-08-12T07:21:40.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2005-detecting-code-smells.jpg"
 #author
 author: "Martin Woodward"
 # description

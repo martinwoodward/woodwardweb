@@ -3,7 +3,7 @@ title: "Teamprise V2 Preview 2"
 date: 2006-09-15T18:06:48.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-teamprise-v2-preview-2.jpg"
 #author
 author: "Martin Woodward"
 # description

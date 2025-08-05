@@ -3,7 +3,7 @@ title: "Didigo USB memory key with ePaper display"
 date: 2006-05-18T12:48:21.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-didigo-usb-memory-key-with-epaper-display.jpg"
 #author
 author: "Martin Woodward"
 # description

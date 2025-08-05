@@ -3,7 +3,7 @@ title: "This is an entry from"
 date: 2003-09-09T08:52:48.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2003-this-is-an-entry-from.jpg"
 #author
 author: "Martin Woodward"
 # description

@@ -3,7 +3,7 @@ title: "Reading Around UI Design"
 date: 2004-05-19T22:09:28.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2004-reading-around-ui-design.jpg"
 #author
 author: "Martin Woodward"
 # description

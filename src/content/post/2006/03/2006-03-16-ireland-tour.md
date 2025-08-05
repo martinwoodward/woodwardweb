@@ -3,7 +3,7 @@ title: "Ireland Tour"
 date: 2006-03-16T22:20:00.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-ireland-tour.jpg"
 #author
 author: "Martin Woodward"
 # description

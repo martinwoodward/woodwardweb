@@ -3,7 +3,7 @@ title: "Podcast Support in iPod Firmware"
 date: 2005-07-21T07:02:01.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2005-podcast-support-in-ipod-firmware.jpg"
 #author
 author: "Martin Woodward"
 # description

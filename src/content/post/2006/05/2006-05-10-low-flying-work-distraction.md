@@ -3,7 +3,7 @@ title: "Low Flying Work Distraction"
 date: 2006-05-10T15:35:00.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-low-flying-work-distraction.jpg"
 #author
 author: "Martin Woodward"
 # description

@@ -3,7 +3,7 @@ title: "Increasing the size of a VMWare Disk"
 date: 2008-05-15T12:37:29.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2008-increasing-the-size-of-a-vmware-disk.jpg"
 #author
 author: "Martin Woodward"
 # description

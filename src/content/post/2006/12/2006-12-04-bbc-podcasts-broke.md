@@ -3,7 +3,7 @@ title: "BBC Podcasts Broke"
 date: 2006-12-04T16:19:19.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-bbc-podcasts-broke.jpg"
 #author
 author: "Martin Woodward"
 # description

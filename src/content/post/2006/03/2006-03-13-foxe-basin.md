@@ -3,7 +3,7 @@ title: "Foxe Basin"
 date: 2006-03-13T13:55:55.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-foxe-basin.jpg"
 #author
 author: "Martin Woodward"
 # description

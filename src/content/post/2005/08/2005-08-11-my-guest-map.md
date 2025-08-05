@@ -3,7 +3,7 @@ title: "My Guest Map"
 date: 2005-08-11T15:55:37.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2005-my-guest-map.jpg"
 #author
 author: "Martin Woodward"
 # description

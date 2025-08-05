@@ -3,7 +3,7 @@ title: "Pagerank re-visited"
 date: 2005-03-06T01:15:45.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2005-pagerank-re-visited.jpg"
 #author
 author: "Martin Woodward"
 # description

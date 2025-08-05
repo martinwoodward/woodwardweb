@@ -3,7 +3,7 @@ title: "Live @ VSLiive"
 date: 2006-01-30T10:24:42.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-live-vsliive.jpg"
 #author
 author: "Martin Woodward"
 # description

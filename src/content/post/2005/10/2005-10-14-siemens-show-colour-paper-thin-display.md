@@ -3,7 +3,7 @@ title: "Siemens show colour paper thin display"
 date: 2005-10-14T12:33:09.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2005-siemens-show-colour-paper-thin-display.jpg"
 #author
 author: "Martin Woodward"
 # description

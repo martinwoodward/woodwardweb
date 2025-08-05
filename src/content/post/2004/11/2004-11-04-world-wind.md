@@ -3,7 +3,7 @@ title: "World Wind"
 date: 2004-11-04T21:13:27.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2004-world-wind.jpg"
 #author
 author: "Martin Woodward"
 # description

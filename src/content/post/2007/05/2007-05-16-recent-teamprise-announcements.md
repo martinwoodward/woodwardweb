@@ -3,7 +3,7 @@ title: "Recent Teamprise Announcements"
 date: 2007-05-16T14:45:50.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2007-recent-teamprise-announcements.jpg"
 #author
 author: "Martin Woodward"
 # description

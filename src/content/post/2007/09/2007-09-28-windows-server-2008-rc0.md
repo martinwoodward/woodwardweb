@@ -3,7 +3,7 @@ title: "Windows Server 2008 RC0"
 date: 2007-09-28T15:12:43.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2007-windows-server-2008-rc0.jpg"
 #author
 author: "Martin Woodward"
 # description

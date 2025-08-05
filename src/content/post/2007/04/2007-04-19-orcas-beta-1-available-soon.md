@@ -3,7 +3,7 @@ title: "Orcas Beta 1 Available Soon!"
 date: 2007-04-19T21:05:38.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2007-orcas-beta-1-available-soon.jpg"
 #author
 author: "Martin Woodward"
 # description

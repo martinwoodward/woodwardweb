@@ -3,7 +3,7 @@ title: "The World's Smallest TFS?"
 date: 2007-01-11T15:46:00.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2007-the-world.jpg"
 #author
 author: "Martin Woodward"
 # description

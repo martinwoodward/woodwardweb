@@ -3,7 +3,7 @@ title: "Nimiq Podcast Client Rules!"
 date: 2005-02-02T21:52:39.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2005-nimiq-podcast-client-rules.jpg"
 #author
 author: "Martin Woodward"
 # description

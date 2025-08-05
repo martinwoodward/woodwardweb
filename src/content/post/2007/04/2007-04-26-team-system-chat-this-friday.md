@@ -3,7 +3,7 @@ title: "Team System Chat - This Friday"
 date: 2007-04-26T22:59:38.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2007-team-system-chat-this-friday.jpg"
 #author
 author: "Martin Woodward"
 # description

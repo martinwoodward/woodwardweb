@@ -3,7 +3,7 @@ title: "TestDriven.NET 2.0 RC1"
 date: 2006-08-30T13:23:42.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-testdriven-net-2-0-rc1.jpg"
 #author
 author: "Martin Woodward"
 # description

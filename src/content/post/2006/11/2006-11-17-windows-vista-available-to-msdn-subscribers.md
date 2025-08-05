@@ -3,7 +3,7 @@ title: "Windows Vista Available to MSDN Subscribers"
 date: 2006-11-17T09:42:47.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-windows-vista-available-to-msdn-subscribers.jpg"
 #author
 author: "Martin Woodward"
 # description

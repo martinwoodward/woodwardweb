@@ -3,7 +3,7 @@ title: "Paste from Clipboard into Work Item Attachments Powertoy"
 date: 2006-03-07T18:08:19.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-paste-from-clipboard-into-work-item-attachments-powertoy.jpg"
 #author
 author: "Martin Woodward"
 # description

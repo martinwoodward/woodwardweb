@@ -3,7 +3,7 @@ title: "Numbers Anyone"
 date: 2004-11-15T13:10:38.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2004-numbers-anyone.jpg"
 #author
 author: "Martin Woodward"
 # description

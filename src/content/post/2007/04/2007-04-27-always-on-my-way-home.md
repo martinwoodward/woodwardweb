@@ -3,7 +3,7 @@ title: "Always on my way home..."
 date: 2007-04-27T12:11:06.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2007-always-on-my-way-home.jpg"
 #author
 author: "Martin Woodward"
 # description

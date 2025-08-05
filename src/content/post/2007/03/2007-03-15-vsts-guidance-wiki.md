@@ -3,7 +3,7 @@ title: "VSTS Guidance Wiki"
 date: 2007-03-15T19:23:16.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2007-vsts-guidance-wiki.jpg"
 #author
 author: "Martin Woodward"
 # description

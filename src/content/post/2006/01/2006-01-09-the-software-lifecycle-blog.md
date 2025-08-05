@@ -3,7 +3,7 @@ title: "The Software Lifecycle Blog"
 date: 2006-01-09T09:43:11.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-the-software-lifecycle-blog.jpg"
 #author
 author: "Martin Woodward"
 # description

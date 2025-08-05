@@ -3,7 +3,7 @@ title: "iPod Reset Tip"
 date: 2006-10-10T10:27:33.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-ipod-reset-tip.jpg"
 #author
 author: "Martin Woodward"
 # description

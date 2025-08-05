@@ -3,7 +3,7 @@ title: "TFS Top Tip #2: Changing the Logged In User"
 date: 2006-04-26T15:15:46.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-tfs-top-tip-2-changing-the-logged-in-user.jpg"
 #author
 author: "Martin Woodward"
 # description

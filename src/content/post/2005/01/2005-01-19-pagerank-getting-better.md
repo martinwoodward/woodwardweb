@@ -3,7 +3,7 @@ title: "Pagerank Getting Better"
 date: 2005-01-19T07:23:12.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2005-pagerank-getting-better.jpg"
 #author
 author: "Martin Woodward"
 # description

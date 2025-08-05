@@ -3,7 +3,7 @@ title: "Pre-caching your TFS Proxy"
 date: 2007-04-05T11:21:38.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2007-pre-caching-your-tfs-proxy.jpg"
 #author
 author: "Martin Woodward"
 # description

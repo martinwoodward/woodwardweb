@@ -3,7 +3,7 @@ title: "Team System Chat - 5th December"
 date: 2007-11-21T19:15:51.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2007-team-system-chat-5th-december.jpg"
 #author
 author: "Martin Woodward"
 # description

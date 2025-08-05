@@ -3,7 +3,7 @@ title: "Half Year Anniversary"
 date: 2006-05-12T01:00:54.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-half-year-anniversary.jpg"
 #author
 author: "Martin Woodward"
 # description

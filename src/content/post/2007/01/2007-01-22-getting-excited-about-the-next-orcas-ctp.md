@@ -3,7 +3,7 @@ title: "Getting excited about the next Orcas CTP"
 date: 2007-01-22T16:56:57.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2007-getting-excited-about-the-next-orcas-ctp.jpg"
 #author
 author: "Martin Woodward"
 # description

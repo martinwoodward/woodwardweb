@@ -3,7 +3,7 @@ title: "Teamprise 2.0 Previews at TechEd 2006"
 date: 2006-06-10T08:32:27.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-teamprise-2-0-previews-at-teched-2006.jpg"
 #author
 author: "Martin Woodward"
 # description

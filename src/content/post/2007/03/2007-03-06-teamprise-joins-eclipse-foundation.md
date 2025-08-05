@@ -3,7 +3,7 @@ title: "Teamprise Joins Eclipse Foundation"
 date: 2007-03-06T23:27:55.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2007-teamprise-joins-eclipse-foundation.jpg"
 #author
 author: "Martin Woodward"
 # description

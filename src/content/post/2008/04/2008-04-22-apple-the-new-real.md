@@ -3,7 +3,7 @@ title: "Apple - The New Real?"
 date: 2008-04-22T10:56:27.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2008-apple-the-new-real.jpg"
 #author
 author: "Martin Woodward"
 # description

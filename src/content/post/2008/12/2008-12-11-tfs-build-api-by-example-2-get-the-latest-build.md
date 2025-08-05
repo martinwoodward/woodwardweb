@@ -3,7 +3,7 @@ title: "TFS Build API by Example #2: Get the Latest Build."
 date: 2008-12-11T16:41:07.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2008-tfs-build-api-by-example-2-get-the-latest-build.jpg"
 #author
 author: "Martin Woodward"
 # description

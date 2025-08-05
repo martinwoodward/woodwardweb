@@ -3,7 +3,7 @@ title: "Mork Freebies"
 date: 2004-11-18T17:05:56.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2004-mork-freebies.jpg"
 #author
 author: "Martin Woodward"
 # description

@@ -3,7 +3,7 @@ title: "Teamprise on Linux makes MS Keynote"
 date: 2006-01-31T10:07:06.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-teamprise-on-linux-makes-ms-keynote.jpg"
 #author
 author: "Martin Woodward"
 # description

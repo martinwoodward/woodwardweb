@@ -3,7 +3,7 @@ title: "Make Windows XP Look Shiney"
 date: 2006-03-04T14:33:52.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-make-windows-xp-look-shiney.jpg"
 #author
 author: "Martin Woodward"
 # description

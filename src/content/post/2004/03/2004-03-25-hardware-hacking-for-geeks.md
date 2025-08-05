@@ -3,7 +3,7 @@ title: "Hardware Hacking for Geeks"
 date: 2004-03-25T07:56:19.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2004-hardware-hacking-for-geeks.jpg"
 #author
 author: "Martin Woodward"
 # description

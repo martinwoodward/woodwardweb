@@ -3,7 +3,7 @@ title: "TestDriven.NET 2.0 now shipping"
 date: 2006-10-31T11:19:26.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-testdriven-net-2-0-now-shipping.jpg"
 #author
 author: "Martin Woodward"
 # description

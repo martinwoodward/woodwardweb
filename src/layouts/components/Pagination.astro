@@ -11,9 +11,12 @@ const hasPrevPage = currentPage > 1;
 const hasNextPage = totalPages > currentPage!;
 
 let pageList: number[] = [];
-for (let i = 1; i <= totalPages; i++) {
+const maxPagesToShow = 9;
+for (let i = 1; i <= Math.min(totalPages, maxPagesToShow); i++) {
   pageList.push(i);
 }
+
+const showOlderLink = totalPages > maxPagesToShow;
 ---
 
 {
@@ -71,6 +74,17 @@ for (let i = 1; i <= totalPages; i++) {
           &raquo;
         </a>
       )}
+      
+      {/* older link when there are more than 9 pages */}
+      {showOlderLink && (
+        <a
+          href="/categories"
+          class="rounded-full bg-light px-4 py-2 text-text-dark hover:bg-primary hover:text-white"
+        >
+          Older
+        </a>
+      )}
+
     </nav>
   )
 }

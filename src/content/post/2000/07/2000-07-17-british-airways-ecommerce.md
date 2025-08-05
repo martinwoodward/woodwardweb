@@ -3,7 +3,7 @@ title: "British Airways eCommerce"
 date: 2000-07-17T19:45:13.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2000-british-airways-ecommerce.jpg"
 #author
 author: "Martin Woodward"
 # description

@@ -3,7 +3,7 @@ title: "Running Virtual Machines"
 date: 2006-10-31T12:13:40.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-running-virtual-machines.jpg"
 #author
 author: "Martin Woodward"
 # description

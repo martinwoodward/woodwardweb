@@ -3,7 +3,7 @@ title: "Getting Started with the TFS SDK for Java"
 date: 2011-05-26T18:19:03.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2011-getting-started-with-the-tfs-sdk-for-java.jpg"
 #author
 author: "Martin Woodward"
 # description

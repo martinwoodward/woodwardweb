@@ -3,7 +3,7 @@ title: "Irish TFS Talk Marathon Ends on a High"
 date: 2006-05-14T15:19:04.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-irish-tfs-talk-marathon-ends-on-a-high.jpg"
 #author
 author: "Martin Woodward"
 # description

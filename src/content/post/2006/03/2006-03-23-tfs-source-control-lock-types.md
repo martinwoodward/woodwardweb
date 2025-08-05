@@ -3,7 +3,7 @@ title: "TFS Source Control Lock Types"
 date: 2006-03-23T08:54:48.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-tfs-source-control-lock-types.jpg"
 #author
 author: "Martin Woodward"
 # description

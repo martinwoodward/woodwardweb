@@ -3,7 +3,7 @@ title: "Mount gMail as a filesystem"
 date: 2004-10-29T09:05:42.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2004-mount-gmail-as-a-filesystem.jpg"
 #author
 author: "Martin Woodward"
 # description

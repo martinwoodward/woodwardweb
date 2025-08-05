@@ -3,7 +3,7 @@ title: "\"Hit By a Bus\" Use Cases"
 date: 2007-10-15T16:56:59.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2007-.jpg"
 #author
 author: "Martin Woodward"
 # description

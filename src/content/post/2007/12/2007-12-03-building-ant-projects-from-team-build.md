@@ -3,7 +3,7 @@ title: "Building Ant projects from Team Build"
 date: 2007-12-03T15:56:31.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2007-building-ant-projects-from-team-build.jpg"
 #author
 author: "Martin Woodward"
 # description

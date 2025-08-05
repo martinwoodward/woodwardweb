@@ -3,7 +3,7 @@ title: "HowTo: Configure SVN+SSH with Subclipse on Windows"
 date: 2005-11-27T00:09:34.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2005-howto-configure-svn-ssh-with-subclipse-on-windows.jpg"
 #author
 author: "Martin Woodward"
 # description

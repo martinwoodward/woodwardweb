@@ -3,7 +3,7 @@ title: "Herding Developers to Lunch"
 date: 2009-02-16T13:16:22.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2009-herding-developers-to-lunch.jpg"
 #author
 author: "Martin Woodward"
 # description

@@ -54,6 +54,6 @@ const { id, body } = post?.post;
       }
     </li>
   </ul>
-  <p set:html={plainify(body?.slice(0, Number(summary_length)))} />
+  <p set:html={plainify(body || "").slice(0, Number(summary_length))} />
   <a href={`/post/${id}`} class="btn btn-outline-primary"> Continue Reading </a>
 </div>

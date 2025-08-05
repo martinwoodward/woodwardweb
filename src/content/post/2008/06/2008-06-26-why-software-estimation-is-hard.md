@@ -3,7 +3,7 @@ title: "Why Software Estimation is Hard"
 date: 2008-06-26T14:46:55.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2008-why-software-estimation-is-hard.jpg"
 #author
 author: "Martin Woodward"
 # description

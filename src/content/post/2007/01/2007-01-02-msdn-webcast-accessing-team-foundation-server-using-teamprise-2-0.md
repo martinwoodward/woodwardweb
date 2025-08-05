@@ -3,7 +3,7 @@ title: "MSDN Webcast: Accessing Team Foundation Server using Teamprise 2.0"
 date: 2007-01-02T10:42:49.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2007-msdn-webcast-accessing-team-foundation-server-using-teamprise-2-0.jpg"
 #author
 author: "Martin Woodward"
 # description

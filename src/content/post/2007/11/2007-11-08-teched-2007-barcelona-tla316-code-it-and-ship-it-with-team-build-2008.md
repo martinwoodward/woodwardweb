@@ -3,7 +3,7 @@ title: "TechEd 2007 Barcelona: TLA316 Code It and Ship It with Team Build 2008"
 date: 2007-11-08T18:43:11.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2007-teched-2007-barcelona-tla316-code-it-and-ship-it-with-team-build-2008.jpg"
 #author
 author: "Martin Woodward"
 # description

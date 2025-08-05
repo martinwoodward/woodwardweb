@@ -3,7 +3,7 @@ title: "Visualize your data with the Virtual Earth API"
 date: 2007-03-22T17:06:20.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2007-visualize-your-data-with-the-virtual-earth-api.jpg"
 #author
 author: "Martin Woodward"
 # description

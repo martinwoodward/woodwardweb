@@ -3,7 +3,7 @@ title: "Hatteras Command Line Tips"
 date: 2005-07-15T18:58:47.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2005-hatteras-command-line-tips.jpg"
 #author
 author: "Martin Woodward"
 # description

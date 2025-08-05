@@ -3,7 +3,7 @@ title: "CruiseControl 2.7.2 Released"
 date: 2008-04-02T20:27:47.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2008-cruisecontrol-2-7-2-released.jpg"
 #author
 author: "Martin Woodward"
 # description

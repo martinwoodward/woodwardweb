@@ -3,7 +3,7 @@ title: "Filtering WIT Client Meta-data"
 date: 2008-09-24T11:24:39.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2008-filtering-wit-client-meta-data.jpg"
 #author
 author: "Martin Woodward"
 # description

@@ -3,7 +3,7 @@ title: "The X-Factor"
 date: 2006-03-23T08:47:59.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-the-x-factor.jpg"
 #author
 author: "Martin Woodward"
 # description

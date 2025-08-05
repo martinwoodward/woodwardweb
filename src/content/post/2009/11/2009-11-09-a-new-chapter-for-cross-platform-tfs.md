@@ -3,7 +3,7 @@ title: "A New Chapter for Cross Platform TFS"
 date: 2009-11-09T13:16:49.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2009-a-new-chapter-for-cross-platform-tfs.jpg"
 #author
 author: "Martin Woodward"
 # description

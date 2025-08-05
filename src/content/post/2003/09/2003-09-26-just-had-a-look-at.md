@@ -3,7 +3,7 @@ title: "Just had a look at"
 date: 2003-09-26T22:57:35.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2003-just-had-a-look-at.jpg"
 #author
 author: "Martin Woodward"
 # description

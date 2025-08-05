@@ -3,7 +3,7 @@ title: "Customising VSTS Work Item Types"
 date: 2006-01-06T13:34:20.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-customising-vsts-work-item-types.jpg"
 #author
 author: "Martin Woodward"
 # description

@@ -3,7 +3,7 @@ title: "Help in Orcas tf.exe"
 date: 2007-05-01T13:18:31.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2007-help-in-orcas-tf-exe.jpg"
 #author
 author: "Martin Woodward"
 # description

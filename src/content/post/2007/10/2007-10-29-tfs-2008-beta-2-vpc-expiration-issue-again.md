@@ -3,7 +3,7 @@ title: "TFS 2008 Beta 2 VPC Expiration Issue (again)"
 date: 2007-10-29T17:32:45.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2007-tfs-2008-beta-2-vpc-expiration-issue-again.jpg"
 #author
 author: "Martin Woodward"
 # description

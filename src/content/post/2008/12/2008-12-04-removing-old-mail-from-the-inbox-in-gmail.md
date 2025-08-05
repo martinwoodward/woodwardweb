@@ -3,7 +3,7 @@ title: "Removing Old Mail from the Inbox in GMail"
 date: 2008-12-04T23:55:23.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2008-removing-old-mail-from-the-inbox-in-gmail.jpg"
 #author
 author: "Martin Woodward"
 # description

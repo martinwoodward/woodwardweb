@@ -3,7 +3,7 @@ title: "Setting up the Perfect Git Command Line Environment on Windows"
 date: 2014-01-17T11:01:17.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2014-setting-up-the-perfect-git-command-line-environment-on-windows.jpg"
 #author
 author: "Martin Woodward"
 # description

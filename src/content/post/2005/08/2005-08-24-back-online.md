@@ -3,7 +3,7 @@ title: "Back Online"
 date: 2005-08-24T12:10:03.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2005-back-online.jpg"
 #author
 author: "Martin Woodward"
 # description

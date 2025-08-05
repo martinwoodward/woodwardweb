@@ -3,7 +3,7 @@ title: "Check in Policy to Force Comments in TFS"
 date: 2006-02-28T00:49:56.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-check-in-policy-to-force-comments-in-tfs.jpg"
 #author
 author: "Martin Woodward"
 # description

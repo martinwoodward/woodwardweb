@@ -3,7 +3,7 @@ title: "TFS Top Tip #10 - Keep Your Shelves Tidy"
 date: 2006-10-05T11:03:00.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-tfs-top-tip-10-keep-your-shelves-tidy.jpg"
 #author
 author: "Martin Woodward"
 # description

@@ -3,7 +3,7 @@ title: "Official Team Foundation Server FAQ."
 date: 2006-03-21T18:13:58.000Z
 # post thumb
 images:
-  - "/images/post/post-1.jpg"
+  - "/images/post/2006-official-team-foundation-server-faq.jpg"
 #author
 author: "Martin Woodward"
 # description
