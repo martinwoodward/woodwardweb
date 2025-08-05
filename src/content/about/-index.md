@@ -21,7 +21,7 @@ social:
     link: https://hachyderm.io/@martinwoodward
   - name: twitter
     icon: FaTwitter
-    link: https://twitter.com/martinwoodward
+    link: https://x.com/martinwoodward
 ---
 
 With over 20 years of experience in the software industry, I am passionate about empowering developers, building communities, and creating engaging content. As the Vice President of Developer Relations at GitHub, I lead a large and diverse team that encompasses Developer Programs, Advocacy and more at the company that is loved as the home for developers.
