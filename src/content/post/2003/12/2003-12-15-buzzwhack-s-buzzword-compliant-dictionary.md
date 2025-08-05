@@ -1,0 +1,18 @@
+---
+title: "BuzzWhack's Buzzword Compliant Dictionary"
+date: 2003-12-15T17:40:31.000Z
+# post thumb
+images:
+  - "/images/post/post-1.jpg"
+#author
+author: "Martin Woodward"
+# description
+description: "Migrated from old blog archive"
+# Taxonomies
+categories: ["Technology"]
+tags: ["blog", "archive"]
+type: "regular" # available type (regular or featured)
+draft: false
+---
+
+Just started to leverage [BuzzWhack](http://www.buzzwhack.com/).  Some very funny - some a bit too close to the mark (see [Salad Doger](http://www.buzzwhack.com/buzzcomp/indsu.htm))

@@ -24,6 +24,7 @@
     "date-fns": "^4.1.0",
     "github-slugger": "^2.0.0",
     "gray-matter": "^4.0.3",
+    "jsdom": "^26.1.0",
     "marked": "^15.0.7",
     "prop-types": "^15.8.1",
     "react": "^19.1.1",

@@ -1,0 +1,18 @@
+---
+title: "Buck Hodges on No Keyword Expansion in TFS"
+date: 2007-07-09T10:44:04.000Z
+# post thumb
+images:
+  - "/images/post/post-1.jpg"
+#author
+author: "Martin Woodward"
+# description
+description: "Migrated from old blog archive"
+# Taxonomies
+categories: ["Technology"]
+tags: ["blog", "archive"]
+type: "regular" # available type (regular or featured)
+draft: false
+---
+
+As I've mentioned before - keyword expansion is a feature that many SCM tools have, but TFS does not.  [Buck Hodges](http://blogs.msdn.com/buckh/) has just published an [excellent post](http://blogs.msdn.com/buckh/archive/2007/07/07/keyword-expansion-in-tfs.aspx) on why this is the case and talks about some of the approaches that people have tried to get around this.  Definitely worth a read.

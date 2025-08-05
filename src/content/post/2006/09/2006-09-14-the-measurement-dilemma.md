@@ -1,0 +1,36 @@
+---
+title: "The Measurement Dilemma"
+date: 2006-09-14T11:37:09.000Z
+# post thumb
+images:
+  - "/images/post/post-1.jpg"
+#author
+author: "Martin Woodward"
+# description
+description: "Migrated from old blog archive"
+# Taxonomies
+categories: ["Technology"]
+tags: ["blog", "archive"]
+type: "regular" # available type (regular or featured)
+draft: false
+---
+
+Visual Studio Team Foundation Server gives a fantastic ability to track and report on various facts about your software development process.  It frees managers (and team members) from the chore of recording and collating data about the development process.  Managers can now get on with managing the project - removing obstacles before they seriously impact the team, reporting on the progress of the project to its owners and organizing deliverables to maximize the productivity of the teams.  With all new powers, there comes some danger and the need for responsibility (just ask [King Midas](http://www.primaryresources.co.uk/english/kingmidas.htm) or the scriptwriters of [countless](http://www.imdb.com/title/tt0315327/) [Hollywood](http://www.imdb.com/title/tt0207201/) [films](http://www.imdb.com/title/tt0086393/)).   ### The Uncertainty Principle 
+
+The uncertainty principle was first enunciated by Werner Heisenberg in 1927.  Broadly stated is describes that we can know the path an electron takes as it moves through space or we can know its position as a given point in time - but we can not know both.  Any attempt to measure one will unavoidably disturb the other.  What Heisenberg proved is sometimes improving the instruments won't help - *a measurement affects the thing being measured and that it is an immutable property of the universe.* 
+
+The reporting aspects of Team Foundation Server are a new, more accurate, instrument to take measurements inside your software development process but you need to be wary about the things you do measure.  The metrics need to mean something useful rather than just be interesting.  The affect of taking the metric should be carefully considered before taking it.  This is not a new problem that Team Foundation Server has introduced, just that because it makes it so easy to get data out of the system the temptations are greater. 
+
+Lets take an example of measurements affecting the process in the world of business rather than in the world of quantum mechanics.  In the UK, we recently had our telephone directory enquiries system de-regulated.  This meant that instead of just one number to dial when you wanted to get the telephone number of the local pizza shop, you now have a multitude of providers offering you that service.  After a few months, a study was carried out by a consumer organization to rate the different telephone directory information companies.  When a person calls directory enquiries, their goal is that they get the correct number for the person or service that they require - therefore when the consumer organization did the study they looked at accuracy and cost of the call.  Costs were more or less equivalent across the new companies - a one off charge of 50p per number.  The thing that surprised everyone is how in-accurate many of these new companies were.  All the companies talked to the same central number database so there must have been something else going on.  It turned out that many of these call-centers bonused their staff on the quantity of calls they got through a day - a reasonable measure for the company as there is a direct relationship between numbers of calls and revenue. The problem with this measurement is that it is in the interests of the staff not to bother being accurate, but to give the person a number (any number) to get them off the phone and move onto the next.  It only takes a couple of times for a customer to call one particular directory service and be given the wrong number for them to stop using that company and go with a more reliable one... 
+
+Similar things happen in the software development process.  For example, I think it is a bad thing to look back at an iteration and ask the question "who did what".  The more useful measure is which requirements did we solve and how many hours did we collectively spend doing this.  There are a few reasons for this.   
+
+In any software team there are different characters that are needed.  Take the software developers for example (because this is the world I tend to live in).  You have the "hardened pros" who can just sit down, concentrate on their task and churn out the code, you have the "junior" people learning more and you have "floaters" - people that tend to move around a bit helping others out while getting on with their own deliverables when nobody is blocked.  In any large development, you need this mix of people.  Too many floaters and you spend your time discussing clever frameworks to reduce the amount of code needed to be churned out, Not enough floaters and you find that tasks can get blocked for weeks on end.  The same is true of all the characters in the team.  You need a mix of them, and you need them to work as a team for the benefit of the software development overall. 
+
+Measuring an individuals productivity is incredibly hard, because you can measure certain facts (such as how many lines of code did they write a day, how many bugs and tasks assigned to an individual have been resolved) but do these facts tell you anything about how good a person is at their job or how much they individually contributed to the success of a project?  As Heisenberg showed us, the downside of measuring is that this affects the process.  If individuals within a team are rated based on how many tasks they have completed then this inevitably leads to people being more selfish.  They are more likely to ignore somebody who is stuck on something, and concentrate on making their own score as high as possible. 
+
+In a large development process, it is frequently healthy to have a certain amount of competition between teams.  This bonds a team together and makes them collectively strive to out-do the other teams increasing productivity.  The downside of competition between teams is that it increases the feelings of "them-and-us" between groups, which can often get in the way of successful delivery. 
+
+I'm afraid that I have no easy answers, and no silver bullets.  There is nothing I can say "you must do this" and "you mustn't do that".  This is because software development is a hard and complicated problem that depends on the individual circumstances you face and the goals you are trying to achieve. 
+
+Team Foundation Server is a fantastic new instrument that allows a manager to take accurate measurements of their software development process, but you should keep Werner Heisenberg in mind, think about what the affect of taking the measurement will be and resist the temptation to abuse your new found powers.
