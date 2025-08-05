@@ -9,6 +9,7 @@ pnpm-debug.log*
 dist/
 build/
 .astro/
+.json/
 
 # Environment variables
 .env
