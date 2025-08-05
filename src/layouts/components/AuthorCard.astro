@@ -1,0 +1,12 @@
+---
+import { markdownify } from "@/lib/utils/textConverter";
+import Social from "./Social.astro";
+
+const { data } = Astro.props;
+const { title, social } = data.data;
+---
+
+<div class="title-bordered mb-5 flex items-center justify-between">
+  <h1 class="h4 fw-normal" set:html={markdownify(title)} />
+  <Social source={social} className="social-icons me-3" />
+</div>

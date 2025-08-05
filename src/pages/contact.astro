@@ -1,0 +1,65 @@
+---
+import config from "@/config/config.json";
+import social from "@/config/social.json";
+import Base from "@/layouts/Base.astro";
+import { markdownify } from "@/lib/utils/textConverter";
+import PageHeader from "@/partials/PageHeader.astro";
+import type { CollectionEntry } from "astro:content";
+import { getEntry } from "astro:content";
+import { FaEnvelopeOpenText } from "react-icons/fa6";
+
+const contact = (await getEntry(
+  "contact",
+  "-index"
+)) as CollectionEntry<"contact">;
+const { contact_form_action }: { contact_form_action: string } = config.params;
+const { title, description, meta_title, about } = contact.data;
+---
+
+<Base title={title} meta_title={meta_title} description={description}>
+  <section class="section-sm">
+    <div class="container">
+      <div class="row">
+        <div class="col-12 mb-5">
+          <PageHeader title={title} social={social.main} />
+        </div>
+        <div class="md:col-6 mb-12 md:mb-0">
+          <h1 set:html={markdownify(about.title)} class="mb-8" />
+          <p set:html={markdownify(about.content)} class="mb-12" />
+
+          <h4 class="mb-3">Hate Forms? Write Us Email</h4>
+          <p class="flex items-baseline">
+            <FaEnvelopeOpenText className="me-2 text-primary" />
+            <a href="mailto:info@email.com" class="underline decoration-dotted"
+              >info@email.com</a
+            >
+          </p>
+        </div>
+        <div class="md:col-6">
+          <form action={contact_form_action} method="POST">
+            <div class="mb-6">
+              <label for="name" class="form-label">
+                Your Name <span class="text-red-500">*</span>
+              </label>
+              <input id="name" name="name" class="form-input" type="text" />
+            </div>
+            <div class="mb-6">
+              <label for="email" class="form-label">
+                Your Email Address <span class="text-red-500">*</span>
+              </label>
+              <input id="email" name="email" class="form-input" type="email" />
+            </div>
+            <div class="mb-6">
+              <label for="message" class="form-label">
+                Your Message Here <span class="text-red-500">*</span>
+              </label>
+              <textarea id="message" name="message" class="form-input" rows="8"
+              ></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary">Send Now</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </section>
+</Base>

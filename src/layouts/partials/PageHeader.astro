@@ -1,0 +1,23 @@
+---
+import Social from "@/components/Social.astro";
+import { markdownify } from "@/lib/utils/textConverter";
+
+const {
+  pretitle = "",
+  title = "",
+  social,
+}: { pretitle?: string; title?: string; social?: any } = Astro.props;
+---
+
+<div class="title-bordered mb-5 flex items-center justify-between">
+  <h1 class="text-[22px]">
+    {pretitle && pretitle}
+    <span class={`${pretitle ? "text-primary" : ""}`}>{markdownify(title)}</span
+    >
+  </h1>
+  {
+    social && (
+      <Social source={social} className="hidden md:block social-icons me-3" />
+    )
+  }
+</div>

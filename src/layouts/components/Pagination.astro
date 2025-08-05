@@ -1,0 +1,76 @@
+---
+type Pagination = {
+  section?: string;
+  currentPage?: number;
+  totalPages?: number;
+};
+const { section, currentPage = 1, totalPages = 1 }: Pagination = Astro.props;
+
+const indexPageLink = currentPage === 2;
+const hasPrevPage = currentPage > 1;
+const hasNextPage = totalPages > currentPage!;
+
+let pageList: number[] = [];
+for (let i = 1; i <= totalPages; i++) {
+  pageList.push(i);
+}
+---
+
+{
+  totalPages > 1 && (
+    <nav
+      class="flex items-center justify-start space-x-3"
+      aria-label="Pagination"
+    >
+      {/* previous */}
+      {hasPrevPage && (
+        <a
+          href={
+            indexPageLink
+              ? `${section ? "/" + section : "/"}`
+              : `${section ? "/" + section : ""}/page/${currentPage - 1}`
+          }
+          class="rounded-full bg-light px-4 py-2 text-text-dark hover:bg-primary hover:text-white"
+        >
+          <span class="sr-only">Previous</span>
+          &laquo;
+        </a>
+      )}
+
+      {/* page index */}
+      {pageList.map((pagination, i) =>
+        pagination === currentPage ? (
+          <span
+            aria-current="page"
+            class="rounded-full bg-primary px-4 py-2 text-white"
+          >
+            {pagination}
+          </span>
+        ) : (
+          <a
+            href={
+              i === 0
+                ? `${section ? "/" + section : "/"}`
+                : `${section ? "/" + section : ""}/page/${pagination}`
+            }
+            aria-current="page"
+            class="rounded-full bg-light px-4 py-2 text-text-dark hover:bg-primary hover:text-white"
+          >
+            {pagination}
+          </a>
+        )
+      )}
+
+      {/* next page */}
+      {hasNextPage && (
+        <a
+          href={`${section ? "/" + section : ""}/page/${currentPage + 1}`}
+          class="rounded-full bg-light px-4 py-2 text-text-dark hover:bg-primary hover:text-white"
+        >
+          <span class="sr-only">Next</span>
+          &raquo;
+        </a>
+      )}
+    </nav>
+  )
+}

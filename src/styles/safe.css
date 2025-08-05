@@ -1,0 +1,72 @@
+/* navbar toggler */
+input#nav-toggle:checked + label #show-button {
+  @apply hidden;
+}
+input#nav-toggle:checked + label #hide-button {
+  @apply block;
+}
+input#nav-toggle:checked ~ #nav-menu {
+  @apply block;
+}
+
+/* form style */
+.form-label {
+  @apply mb-2 block text-[14px] text-text-dark;
+}
+.form-input {
+  @apply w-full rounded border-border px-3 py-2 text-text-dark placeholder:text-text-light focus:border-primary focus:ring-transparent;
+}
+
+/* featured post slider  */
+.featured-post-slider {
+  .swiper-nav {
+    @apply hidden md:block;
+  }
+}
+.featured-post {
+  .featured-post-overlay {
+    @apply md:absolute md:h-full md:w-full md:bg-gradient-to-b md:from-[#c4c4c400] md:to-[#383838cb] md:top-0 md:left-0 rounded-lg;
+  }
+  .featured-post-overlay-content {
+    @apply flex text-center flex-col items-center justify-end md:h-[90%] md:w-[80%] max-md:mt-7 mx-auto text-white;
+    h2 {
+      @apply mb-6 md:mb-3 text-text-dark md:text-white hover:text-primary text-3xl;
+    }
+    .post-meta {
+      @apply justify-center max-md:mb-10;
+      .meta-link {
+        @apply text-text-dark md:text-white;
+      }
+    }
+  }
+}
+
+/* swiper pagination */
+.swiper-pagination {
+  @apply absolute text-center z-10 md:bottom-[5%] -bottom-[5px];
+}
+.swiper-pagination-bullet {
+  @apply h-2.5 w-2.5 bg-primary/20! md:bg-white opacity-100;
+}
+.swiper-pagination-bullet-active {
+  @apply bg-primary!;
+}
+.swiper-nav {
+  @apply cursor-pointer absolute z-10 md:top-[50%];
+  svg {
+    @apply text-white bg-primary/50 rounded-full h-12 w-12 p-3;
+  }
+}
+
+.swiper-button-prev {
+  @apply left-3;
+}
+.swiper-button-next {
+  @apply right-3;
+}
+
+.single-product-slider-pagination {
+  .swiper-slide {
+    @apply mr-6 cursor-pointer w-fit;
+  }
+}

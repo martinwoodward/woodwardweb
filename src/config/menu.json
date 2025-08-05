@@ -1,0 +1,130 @@
+{
+  "main": [
+    {
+      "name": "Homepage",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "Homepage Full Width",
+          "url": "/full"
+        },
+        {
+          "name": "Homepage Full with Left Sidebar",
+          "url": "/full-left"
+        },
+        {
+          "name": "Homepage Full with Right Sidebar",
+          "url": "/full-right"
+        },
+        {
+          "name": "Homepage List Style",
+          "url": "/list"
+        },
+        {
+          "name": "Homepage List with Left Sidebar",
+          "url": "/list-left"
+        },
+        {
+          "name": "Homepage List with Right Sidebar",
+          "url": "/list-right"
+        },
+        {
+          "name": "Homepage Grid Style",
+          "url": "/grid"
+        },
+        {
+          "name": "Homepage Grid with Left Sidebar",
+          "url": "/grid-left"
+        },
+        {
+          "name": "Homepage Grid with Right Sidebar",
+          "url": "/grid-right"
+        }
+      ]
+    },
+    {
+      "name": "About",
+      "url": "/about"
+    },
+    {
+      "name": "Elements",
+      "url": "/elements"
+    },
+    {
+      "name": "Pages",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "Author",
+          "url": "/author"
+        },
+        {
+          "name": "Categories",
+          "url": "/categories"
+        },
+        {
+          "name": "Tags",
+          "url": "/tags"
+        },
+        {
+          "name": "404 Page",
+          "url": "/404"
+        }
+      ]
+    },
+    {
+      "name": "Contact",
+      "url": "/contact"
+    }
+  ],
+  "footer": [
+    {
+      "name": "Quick Links",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "About",
+          "url": "/about"
+        },
+        {
+          "name": "Contact",
+          "url": "/contact"
+        },
+        {
+          "name": "Privacy Policy",
+          "url": "/privacy-policy"
+        },
+        {
+          "name": "Terms Conditions",
+          "url": "/terms-conditions"
+        }
+      ]
+    },
+    {
+      "name": "Social Links",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "Facebook",
+          "url": "/#"
+        },
+        {
+          "name": "Twitter",
+          "url": "/#"
+        },
+        {
+          "name": "Instagram",
+          "url": "/#"
+        },
+        {
+          "name": "Linkedin",
+          "url": "/#"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+---
+import config from "@/config/config.json";
+import { getSinglePage } from "@/lib/contentParser.astro";
+import { sortByDate } from "@/lib/utils/sortFunctions";
+import PostCard from "./components/homepage/PostCard.astro";
+
+const posts = await getSinglePage("post");
+const sortedPosts = sortByDate(posts);
+const currentPosts = sortedPosts.slice(0, config.settings.pagination);
+---
+
+<section class="section">
+  <div class="container">
+    <div class="row gx-4 mb-14 list-layout">
+      {
+        currentPosts.map((post) => (
+          <div class="lg:col-9 mx-auto">
+            <article class="card">
+              <PostCard post={post} />
+            </article>
+          </div>
+        ))
+      }
+    </div>
+  </div>
+</section>

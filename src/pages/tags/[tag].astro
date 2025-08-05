@@ -1,0 +1,58 @@
+---
+import PostCard from "@/components/homepage/PostCard.astro";
+import SideBar from "@/components/homepage/SideBar.astro";
+import Base from "@/layouts/Base.astro";
+import { getSinglePage } from "@/lib/contentParser.astro";
+import { getTaxonomy } from "@/lib/taxonomyParser.astro";
+import { sortByDate } from "@/lib/utils/sortFunctions";
+import taxonomyFilter from "@/lib/utils/taxonomyFilter";
+import PageHeader from "@/partials/PageHeader.astro";
+
+export async function getStaticPaths() {
+  const tags = await getTaxonomy("post", "tags");
+
+  return tags.map((tag) => {
+    return {
+      params: { tag },
+    };
+  });
+}
+
+const { tag } = Astro.params;
+
+// get posts by tag
+
+const posts = await getSinglePage("post");
+const filterByTags = taxonomyFilter(posts, "tags", tag!);
+const sortedPosts = sortByDate(filterByTags);
+---
+
+<Base title={tag}>
+  <section class="section pb-0">
+    <div class="container">
+      <PageHeader pretitle="Showing items for " title={tag} />
+    </div>
+  </section>
+  <section class="section">
+    <div class="container">
+      <div class="row other-layout">
+        <div class="lg:col-8 mb-5 lg:mb-0">
+          <div class="row gx-4 mb-14">
+            {
+              sortedPosts.map((post) => (
+                <div class="md:col-6">
+                  <article class="card card-sidebar">
+                    <PostCard post={post} />
+                  </article>
+                </div>
+              ))
+            }
+          </div>
+        </div>
+        <div class="lg:col-4">
+          <SideBar />
+        </div>
+      </div>
+    </div>
+  </section>
+</Base>

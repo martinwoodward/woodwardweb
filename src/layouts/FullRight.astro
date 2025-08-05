@@ -1,0 +1,35 @@
+---
+import config from "@/config/config.json";
+import { getSinglePage } from "@/lib/contentParser.astro";
+import { sortByDate } from "@/lib/utils/sortFunctions";
+import PostCard from "./components/homepage/PostCard.astro";
+import SideBar from "./components/homepage/SideBar.astro";
+
+const posts = await getSinglePage("post");
+const sortedPosts = sortByDate(posts);
+const currentPosts = sortedPosts.slice(0, config.settings.pagination);
+---
+
+<section class="section">
+  <div class="container">
+    <div class="row full-layout">
+      <div class="lg:col-8 mb-5 lg:mb-0">
+        <div class="row mb-14">
+          {
+            currentPosts.map((post) => (
+              <div class="col-12 mx-auto mb-5 mb-lg-0">
+                <article class="card card-sidebar mb-5">
+                  <PostCard post={post} />
+                </article>
+              </div>
+            ))
+          }
+        </div>
+      </div>
+
+      <div class="lg:col-4">
+        <SideBar />
+      </div>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,39 @@
+.header {
+  @apply bg-body lg:py-2 py-5;
+}
+
+/* navbar items */
+.navbar {
+  @apply relative flex flex-wrap items-center justify-between;
+}
+
+.navbar-brand {
+  @apply text-xl font-semibold text-text-dark;
+  image {
+    @apply max-h-full max-w-full;
+  }
+}
+
+.navbar-nav {
+  @apply text-center lg:text-left;
+}
+
+.nav-link {
+  @apply text-text-dark hover:text-primary block px-4 py-5 font-normal text-[14px] transition;
+}
+
+.nav-dropdown {
+  @apply mr-0;
+}
+
+.nav-dropdown-list {
+  @apply z-10 lg:w-max rounded bg-body p-4 shadow-lg;
+}
+
+.nav-dropdown-item {
+  @apply mb-2;
+}
+
+.nav-dropdown-link {
+  @apply block py-1 text-[14px] text-text-dark transition hover:text-primary;
+}

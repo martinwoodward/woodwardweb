@@ -1,0 +1,37 @@
+---
+import FeaturedPosts from "@/components/homepage/FeaturedPosts.astro";
+import config from "@/config/config.json";
+import Base from "@/layouts/Base.astro";
+import Full from "@/layouts/Full.astro";
+import FullLeft from "@/layouts/FullLeft.astro";
+import FullRight from "@/layouts/FullRight.astro";
+import Grid from "@/layouts/Grid.astro";
+import GridLeft from "@/layouts/GridLeft.astro";
+import GridRight from "@/layouts/GridRight.astro";
+import List from "@/layouts/List.astro";
+import ListLeft from "@/layouts/ListLeft.astro";
+import ListRight from "@/layouts/ListRight.astro";
+
+const layouts: any = {
+  full: Full,
+  fullRight: FullRight,
+  fullLeft: FullLeft,
+  grid: Grid,
+  gridLeft: GridLeft,
+  gridRight: GridRight,
+  list: List,
+  listLeft: ListLeft,
+  listRight: ListRight,
+};
+let selectedLayout = config.settings.default_layout;
+const LayoutComponent = layouts[selectedLayout];
+---
+
+<Base
+  title="Homepage | Logbook"
+  meta_title="This is meta title"
+  description="Logbook Homepage"
+>
+  <FeaturedPosts />
+  {LayoutComponent && <LayoutComponent />}
+</Base>

@@ -1,0 +1,72 @@
+---
+import dateFormat from "@/lib/utils/dateFormat";
+import { humanize, markdownify, slugify } from "@/lib/utils/textConverter";
+import { render } from "astro:content";
+import { FaUser } from "react-icons/fa6";
+import ImageMod from "./components/ImageMod.astro";
+import SideBar from "./components/homepage/SideBar.astro";
+
+const { post } = Astro.props;
+
+const { Content } = await render(post);
+const { title, images } = post.data;
+---
+
+<section class="section pt-7">
+  <div class="container">
+    <div class="row justify-center">
+      <article class="lg:col-8 mx-auto">
+        <h1 set:html={markdownify(title)} class="h2 font-semibold mb-4" />
+        <ul class="post-meta mb-4">
+          <li class="flex justify-center items-center meta-link">
+            <FaUser className="mr-2" />
+            <a href={`/author`} set:html={post.data.author} />
+          </li>
+          <li class="meta-link">
+            Date : <span>{dateFormat(post.data.date)}</span>
+          </li>
+          <li class="meta-link">
+            Categories :
+            {
+              post.data.categories.map((c: string) => (
+                <a href={`/categories/${slugify(c)}`} class="ms-1">
+                  {humanize(c)}
+                </a>
+              ))
+            }
+          </li>
+          <li class="meta-link">
+            Tags :
+            {
+              post.data.tags.map((t: string) => (
+                <a href={`/tags/${slugify(t)}`} class="ms-1">
+                  {humanize(t)}
+                </a>
+              ))
+            }
+          </li>
+        </ul>
+        {
+          images && (
+            <div class="mb-10">
+              <ImageMod
+                src={images[0]}
+                height={500}
+                width={1200}
+                alt={title}
+                class="w-full rounded"
+                format="webp"
+              />
+            </div>
+          )
+        }
+        <div class="content mb-10">
+          <Content />
+        </div>
+      </article>
+      <aside class="lg:col-4 mt-5 lg:mt-0">
+        <SideBar />
+      </aside>
+    </div>
+  </div>
+</section>

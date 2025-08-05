@@ -1,0 +1,192 @@
+---
+import social from "@/config/social.json";
+import { getSinglePage } from "@/lib/contentParser.astro";
+import { getAllTaxonomy, getTaxonomy } from "@/lib/taxonomyParser.astro";
+import dateFormat from "@/lib/utils/dateFormat";
+import { sortByDate } from "@/lib/utils/sortFunctions";
+import { humanize, markdownify, slugify } from "@/lib/utils/textConverter";
+import { FaMagnifyingGlass, FaPaperPlane } from "react-icons/fa6";
+import ImageMod from "../ImageMod.astro";
+import Social from "../Social.astro";
+
+const posts = await getSinglePage("post");
+const sortedPosts = sortByDate(posts);
+const categories = await getTaxonomy("post", "categories");
+const allCategories = await getAllTaxonomy("post", "categories");
+const tags = await getTaxonomy("post", "tags");
+---
+
+<div class="ps-0 lg:ps-4">
+  <!-- search -->
+  <div class="widget">
+    <h4 class="widget-title h5"><span>Search</span></h4>
+
+    <div class="widget-search" aria-label="search" data-search-trigger>
+      <input
+        class="search-query focus:outline-none focus:ring-0 focus:shadow-none placeholder:text-sm"
+        name="s"
+        type="search"
+        autocomplete="off"
+        placeholder="Type & Hit Enter..."
+      />
+      <button class="widget-search-btn" aria-label="Search Post">
+        <FaMagnifyingGlass />
+      </button>
+    </div>
+  </div>
+
+  <!-- author about -->
+  <div class="widget widget-about">
+    <h5 class="widget-title"><span>Hi, I Am John Doe</span></h5>
+    <div class="flex justify-start gap-4">
+      <ImageMod
+        src="/images/author-full.jpg"
+        alt="author"
+        decoding={"auto"}
+        class="object-cover rounded-lg max-h-[130px] w-[100px]"
+        height={1238}
+        width={500}
+        format="webp"
+      />
+      <div class="mb-2">
+        <span class="block mb-3 text-[14px]"
+          >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum
+          in urna …</span
+        >
+        <Social source={social.main} className="social-icons mb-3" />
+        <a
+          href="/logbook/site/about/"
+          class="btn btn-primary p-1 px-3 rounded mt-2">About Me</a
+        >
+      </div>
+    </div>
+  </div>
+
+  <!-- promotion -->
+  <div class="promotion">
+    <ImageMod
+      src="/images/promotion.jpg"
+      loading="lazy"
+      decoding="async"
+      alt="promotion-image"
+      class="w-full img"
+      width={0}
+      height={0}
+    />
+    <div class="promotion-content">
+      <h5 class="text-white text-3xl font-semibold mb-3">
+        Create Stunning Website!!
+      </h5>
+      <p class="text-white mb-5">
+        Lorem ipsum dolor sit amet, consectetur sociis. Etiam nunc amet id
+        dignissim. Feugiat id tempor vel sit ornare.
+      </p>
+      <a href="https://themefisher.com/" class="btn btn-primary">Get Started</a>
+    </div>
+  </div>
+
+  <!-- subscribe -->
+  <div class="widget">
+    <h5 class="widget-title"><span>Subscribe Newsletter</span></h5>
+    <form
+      method="post"
+      name="subscribe-form"
+      target="_blank"
+      class="widget-search"
+    >
+      <input
+        class="mb-3 search-query focus:outline-none focus:ring-0 focus:shadow-none placeholder:text-sm"
+        name="s"
+        type="search"
+        placeholder="Your Email Address"
+      />
+      <button
+        type="submit"
+        class="widget-search-btn"
+        name="subscribe"
+        aria-label="Subscribe Newsletter"
+      >
+        <FaPaperPlane />
+      </button>
+    </form>
+  </div>
+
+  <!-- categories -->
+  <div class="widget">
+    <h5 class="widget-title"><span>Categories</span></h5><ul
+      class="list-unstyled widget-list"
+    >
+      {
+        categories.map((category: string) => {
+          const count = allCategories.filter((c) => c === category).length;
+          return (
+            <li>
+              <a
+                href={`/categories/${slugify(category)}`}
+                class="flex text-[14px]"
+              >
+                {humanize(category)}
+                <small class="ms-auto">({count})</small>
+              </a>
+            </li>
+          );
+        })
+      }
+    </ul>
+  </div>
+
+  <!-- latest article -->
+  <div class="widget">
+    <h5 class="widget-title"><span>Latest Article</span></h5>
+    <ul class="list-unstyled widget-list mb-0">
+      {
+        sortedPosts.slice(0, 3).map((post) => (
+          <li class="flex gap-5 widget-list-post items-start">
+            <div class="widget-list-post-thumb">
+              <ImageMod
+                width={0}
+                height={0}
+                src={post.data.images[0]}
+                alt={post.data.title}
+                format="webp"
+              />
+            </div>
+
+            <div class="media-body">
+              <h5>
+                <a
+                  href={`/${"post"}/${post.id}`}
+                  set:html={markdownify(post.data.title)}
+                />
+              </h5>
+              <small>{dateFormat(post.data.date)}</small>
+            </div>
+          </li>
+        ))
+      }
+    </ul>
+  </div>
+
+  <!-- tags -->
+  <div class="widget">
+    <h5 class="widget-title"><span>Tags</span></h5>
+
+    <ul class="widget-tags">
+      {
+        tags.map((tag) => {
+          return (
+            <li class="">
+              <a href={`/tags/${tag}`}>{humanize(tag)}</a>
+            </li>
+          );
+        })
+      }
+    </ul>
+  </div>
+
+  <!-- social links -->
+  <div class="widget">
+    <h6 class="widget-title"><span>Social Links</span></h6>
+    <Social source={social.main} className="widget-socials mb-3" />
+  </div>
+</div>

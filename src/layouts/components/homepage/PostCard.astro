@@ -1,0 +1,59 @@
+---
+import config from "@/config/config.json";
+import dateFormat from "@/lib/utils/dateFormat";
+import { humanize, plainify, slugify } from "@/lib/utils/textConverter";
+import { FaUser } from "react-icons/fa6";
+import ImageMod from "../ImageMod.astro";
+
+const { summary_length }: { summary_length: number } = config.settings;
+
+const post = Astro.props;
+
+const { images, title, author, date, categories, tags } = post?.post?.data;
+const { id, body } = post?.post;
+---
+
+<div class="post-slider">
+  <a href={`/post/${id}`}>
+    <ImageMod src={images[0]} alt={title} width={0} height={0} />
+  </a>
+</div>
+<div class="card-body">
+  <h3 class="">
+    <a class="post-title" href={`/post/${id}`} set:html={title} />
+  </h3>
+  <ul class="post-meta">
+    <li class="flex justify-center items-center">
+      <FaUser className="mr-2" />
+      <a href={`/author`} set:html={author} class="meta-link" />
+    </li>
+    <li>
+      Date :{" "}
+      <span class="meta-link">
+        {dateFormat(date)}
+      </span>
+    </li>
+    <li>
+      Categories :
+      {
+        categories.map((c: string) => (
+          <a href={`/categories/${slugify(c)}`} class="ms-1 meta-link">
+            {humanize(c)}
+          </a>
+        ))
+      }
+    </li>
+    <li>
+      Tags :
+      {
+        tags.map((t: string) => (
+          <a href={`/tags/${t}`} class="ms-1 meta-link">
+            {humanize(t)}
+          </a>
+        ))
+      }
+    </li>
+  </ul>
+  <p set:html={plainify(body?.slice(0, Number(summary_length)))} />
+  <a href={`/post/${id}`} class="btn btn-outline-primary"> Continue Reading </a>
+</div>

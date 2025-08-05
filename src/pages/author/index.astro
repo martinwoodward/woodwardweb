@@ -1,0 +1,67 @@
+---
+import ImageMod from "@/components/ImageMod.astro";
+import PostCard from "@/components/homepage/PostCard.astro";
+import Base from "@/layouts/Base.astro";
+import { getSinglePage } from "@/lib/contentParser.astro";
+import { slugify } from "@/lib/utils/textConverter";
+import PageHeader from "@/partials/PageHeader.astro";
+import type { CollectionEntry } from "astro:content";
+import { getEntry, render } from "astro:content";
+
+const author = (await getEntry(
+  "author",
+  "-index"
+)) as CollectionEntry<"author">;
+const { title, description, meta_title, image, social } = author.data;
+const { Content } = await render(author);
+
+const posts = await getSinglePage("post");
+const postFilterByAuthor = posts.filter(
+  (post) => slugify(post.data.author ?? "") === slugify(title)
+);
+---
+
+<Base title={title} description={description} meta_title={meta_title}>
+  <section class="section-sm border-b border-border">
+    <div class="container">
+      <div class="row justify-center items-start">
+        <div class="col-12 mb-5">
+          <PageHeader title={title} social={social} />
+        </div>
+        {
+          image && (
+            <div class="lg:col-3 md:col-4 mb-4 md:mb-0 text-center md:text-start">
+              <ImageMod
+                src={image}
+                alt="author image"
+                class="rounded-lg"
+                width={300}
+                height={213}
+              />
+            </div>
+          )
+        }
+        <div class="lg:col-9 md:col-8 content">
+          <Content />
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section-sm">
+    <div class="container">
+      <div class="row other-layout">
+        <h2 class="mb-12 font-[600] text-center">Posted by this author</h2>
+        {
+          postFilterByAuthor.map((post) => (
+            <div class="md:col-6 lg:col-4">
+              <article class="card">
+                <PostCard post={post} />
+              </article>
+            </div>
+          ))
+        }
+      </div>
+    </div>
+  </section>
+</Base>

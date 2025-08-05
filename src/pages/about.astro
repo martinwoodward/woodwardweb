@@ -1,0 +1,51 @@
+---
+import ImageMod from "@/components/ImageMod.astro";
+import Social from "@/components/Social.astro";
+import Base from "@/layouts/Base.astro";
+import { markdownify } from "@/lib/utils/textConverter";
+import type { CollectionEntry } from "astro:content";
+import { getEntry, render } from "astro:content";
+
+const about = (await getEntry("about", "-index")) as CollectionEntry<"about">;
+const { Content } = await render(about);
+const { title, description, meta_title, image, social } = about.data;
+---
+
+<Base
+  title={title}
+  meta_title={meta_title}
+  description={description}
+  image={image}
+>
+  <section class="section-sm">
+    <div class="container">
+      <div class="row justify-center">
+        <div class="col-12">
+          <div class="title-bordered mb-5 flex items-center justify-between">
+            <h1 class="h4 fw-normal" set:html={markdownify(title)} />
+            <Social
+              source={social}
+              className="hidden lg:block social-icons me-3"
+            />
+          </div>
+
+          {
+            image && (
+              <ImageMod
+                class="mx-auto w-full mb-6 rounded-lg"
+                src={image}
+                width={1116}
+                height={450}
+                alt={title}
+                format="webp"
+              />
+            )
+          }
+          <div class="content">
+            <Content />
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</Base>

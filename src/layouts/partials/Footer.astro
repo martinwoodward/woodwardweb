@@ -1,0 +1,95 @@
+---
+import Logo from "@/components/Logo.astro";
+import config from "@/config/config.json";
+import menu from "@/config/menu.json";
+import { markdownify } from "@/lib/utils/textConverter";
+import { FaAngleUp, FaEnvelope } from "react-icons/fa6";
+
+const { footer }: { footer: any } = menu;
+---
+
+<footer class="section-sm pb-0 border-t border-border">
+  <div class="container">
+    <div class="row justify-between py-10">
+      <div class="mb-8 md:col-3 col-12 lg:mb-0">
+        <Logo />
+        <p class="mt-4">
+          Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+          nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
+          sed diam voluptua.
+        </p>
+      </div>
+      <div class="mb-8 md:col-6 col-12 lg:mb-0">
+        <div class="flex">
+          {
+            footer.map(
+              (menu: { url: string; name: string; children: any[] }) => (
+                <div class="w-1/2">
+                  <h6 class="text-[15px] mb-4 font-[600] text-text-dark">
+                    {menu.name}
+                  </h6>
+                  <ul class="flex flex-col justify-start text-text-light">
+                    {menu.children?.map(
+                      (child: { url: string; name: string }) => (
+                        <li class="py-[5px] text-[14px] hover:text-primary">
+                          <a href={child.url}>{child.name}</a>
+                        </li>
+                      )
+                    )}
+                  </ul>
+                </div>
+              )
+            )
+          }
+        </div>
+      </div>
+      <div class="mb-8 md:col-3 col-12">
+        <h6 class="text-[15px] mb-4 !font-[600] text-text-dark">
+          Subscribe Newsletter
+        </h6>
+        <form class="subscription" target="_blank">
+          <div class="relative mb-3">
+            <FaEnvelope
+              className="text-primary absolute left-3 top-1/2 -translate-y-1/2"
+            />
+            <input
+              type="email"
+              class="rounded-md py-2 w-full pl-10 pr-4 bg-light placeholder:text-[13px] border-none focus:border-none focus:outline-none focus:ring-0 focus:shadow-none"
+              placeholder="Your Email Address"
+            />
+          </div>
+          <button
+            class="btn btn-primary w-full rounded"
+            type="submit"
+            name="subscribe"
+          >
+            Subscribe now
+          </button>
+        </form>
+      </div>
+    </div>
+
+    <div class="scroll-top">
+      <button id="scrollTop" aria-label="scroll to top"><FaAngleUp /> </button>
+    </div>
+
+    <div class="border-t border-border py-7">
+      <div class="container text-center text-text-light">
+        <p set:html={markdownify(config.params.copyright)} />
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script>
+  document.addEventListener("astro:page-load", () => {
+    document
+      .querySelector("#scrollTop")
+      ?.addEventListener("click", function () {
+        window.scrollTo({
+          top: 0,
+          behavior: "smooth",
+        });
+      });
+  });
+</script>
