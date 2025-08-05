@@ -41,14 +41,15 @@ The next thing I install is [PoshGit](http://dahlbyk.github.io/posh-git/). I swe
 
 I always use Git over HTTPS rather than SSH so I often don’t have Putty installed with Paegent to handle my keys. Therefore I tend to just comment out the Start-SshAgent -Quiet line in \posh-git\profile.example.ps1. If you are seeing the error “WARNING: Could not find ssh-agent” when you start PowerShell and you don’t need SSH then just open up profile.example.ps1 in notepad, scroll down to the end of the file and make sure it looks like this:  
 
-   ...
-
+```powershell
    Enable-GitColors
 
    Pop-Location
 
    # Start-SshAgent -Quiet
+```
 
+Then save the file and restart PowerShell.  If you do need SSH then you’ll need to install Putty and make sure it’s on your path.
 **Remembering Passwords**
 
 Next up I install Andrew Nurse’s credential helper, [git-credential-winstore](http://gitcredentialstore.codeplex.com/). If you are talking to a Git server that requires a username and password, rather than having to type your credentials all the time this nifty little helper will actually store them securely in the Windows Credential Manager.  Note that when installing you’ll see an error if you’ve gone for the middle option when setting your path in Git for Windows because Git.exe isn’t on your path (Git.cmd is).  Therefore you are going to want to:
@@ -58,7 +59,8 @@ Next up I install Andrew Nurse’s credential helper, [git-credential-winstore](
   In a command / powershell window, cd into your Downloads folder 
 
   Install the credential helper by typing: 
-
+```powershell
 git-credential-winstore.exe -I "C:\Program Files (x86)\Git\bin\git.exe"
+```
 
 Combined with with web interface in TFS, Visual Studio 2013 and Eclipse with egit, that’s all I need personally. However if you want a graphical view of your repository then a lot of people use gitk which is installed with Git for Windows (just type “gitk” inside your repo in the command shell / powershell windows).  You can also type “git gui” for the git-gui tools.  Other popular graphical tools you might want to install are GitHub’s free app [GitHub for Windows](http://windows.github.com/) and Atlassian’s free app [SourceTree](http://www.sourcetreeapp.com/).  GitHub for Windows is very pretty and great for managing your GitHub based repos. Atlassian’s SourceTree is very highly regarded as stand-alone UI for working with Git repos on Windows.

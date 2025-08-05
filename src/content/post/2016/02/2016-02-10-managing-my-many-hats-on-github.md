@@ -19,12 +19,16 @@ Like many developers, I contribute to open source projects at home – usually t
 
 When I commit to Git, I make sure my email address is set correctly based on what hat I’m wearing. On my work machines I have my work email configured by default and on my home machine I have my personal email configured by default.  To configure your default email address for Git [remember](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) from the [excellent Git Book](https://git-scm.com/book) that you do:     
 
+```bash
 git config --global user.name "John Doe"
 git config --global user.email johndoe@example.com
+```
 
 As I use my work machine for work and my personal machine for personal stuff, this usually works well. However sometimes I want to make a quick update to something at work from my personal machine. But that’s fine because Git also provides a way to specify any git config setting per repository.  Once you have cloned down the Git repository, you cd into the repository and then simply type the same command without the -–global parameter, i.e:
 
+```bash
 git config user.email johndoe@example.com
+```
 
 Which will override the default email address set on your machine but just for that one repository. The repository wide (local) settings are stored in a file called config with-in the .git folder in your repository, the global settings are stored in a file called .gitconfig in your users home directory.
 

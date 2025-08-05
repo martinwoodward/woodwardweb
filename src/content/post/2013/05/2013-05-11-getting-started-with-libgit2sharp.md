@@ -23,6 +23,7 @@ To begin, create a new console project in Visual Studio. We need to add a refere
 
 Then accessing an existing repo is trivial, simply use the LibGit2Sharp.Repository class. A handy way to get a particular commit is by its hash if you know it.  
 
+```csharp
       public static void Main(string[] args)
       {
           using (var repo = new Repository(@"D:\source\LibGit2Sharp"))
@@ -32,9 +33,11 @@ Then accessing an existing repo is trivial, simply use the LibGit2Sharp.Reposito
               Console.WriteLine("Message: {0}", commit.MessageShort);
           }
       }
+```
 
 But what if we just want the commit that’s the latest of the current branch, in Git-speak we want the “Tip” of “Head”. LibGit2Sharp gives you an easy way to get to the Head through the repository object. So we can do the following:
 
+```csharp
     public static void Main(string[] args)
       {
           using (var repo = new Repository(@"D:\source\LibGit2Sharp"))
@@ -44,18 +47,31 @@ But what if we just want the commit that’s the latest of the current branch, i
               Console.WriteLine("Message: {0}", commit.MessageShort);
           }
       }
+```
 
 A point in time in the repository is represented by a Commit. Each Commit points to a Tree which you can think of as a directory/folder. A Tree can contain a Blob (i.e. the contents of a file) or another Tree (i.e. a sub-folder).
 
 So if you want to list the contents at the root of the repository then you can do
 
+```csharp
+    public static void Main(string[] args)
+      {
+          using (var repo = new Repository(@"D:\source\LibGit2Sharp"))
+          {
+              Commit commit = repo.Head.Tip;
+              Console.WriteLine("Author: {0}", commit.Author.Name);
+              Console.WriteLine("Message: {0}", commit.MessageShort);
+          }
+      }
         foreach(TreeEntry treeEntry in commit.Tree)
         {
             Console.WriteLine("Path:{0} - Type:{1}", treeEntry.Path, treeEntry.TargetType);
         }
+``` 
 
 That will give you something like the following when against the LibGit2Sharp repository
 
+```
 Path:.gitattributes - Type:Blob
 Path:.gitignore - Type:Blob
 Path:.gitmodules - Type:Blob
@@ -77,18 +93,22 @@ Path:build.libgit2sharp.x64.cmd - Type:Blob
 Path:libgit2 - Type:GitLink
 Path:nuget.package - Type:Tree
 Path:square-logo.png - Type:Blob
+```
 
 To see which files changed in a particular commit.  To do that we need to find the diff between the commit and it’s parent. For now let’s just assume that we have a single parent (i.e. we’re not a merge commit). Therefore we can do this
 
+```csharp
         Tree commitTree = repo.Head.Tip.Tree;
         Tree parentCommitTree = repo.Head.Tip.Parents.Single().Tree;
  
         TreeChanges changes = repo.Diff.Compare(parentCommitTree, commitTree);
  
         Console.WriteLine("{0} files changed.",changes.Count());
+```
 
 And finally to iterate over the changes to show what files changed in that commit
 
+```csharp
         foreach(TreeEntryChanges treeEntryChanges in changes)
         {
             Console.WriteLine("Path:{0} +{1} -{2} ", 
@@ -97,15 +117,17 @@ And finally to iterate over the changes to show what files changed in that commi
                     treeEntryChanges.LinesDeleted
                 );
         }
+```
 
 That then gives the following output
 
+```
 Author: nulltoken
 Message: Release LibGit2Sharp v0.11
 3 files changed.
 Path:LibGit2Sharp.Tests\DiffTreeToTreeFixture.cs +35 -11
 Path:LibGit2Sharp.Tests\LibGit2Sharp.Tests.csproj +1 -0
 Path:LibGit2Sharp.Tests\TestHelpers\OdbHelper.cs +17 -0
+```
 
 This post obviously just scratches at the surface of what is possible with LibGit2Sharp. We’re starting the process of trying to flesh out the documentation for the project from the current starting position of none, but it the meantime if you want to see some more examples of using LibGit2Sharp then take a look at the [Unit Tests](https://github.com/libgit2/libgit2sharp/tree/vNext/LibGit2Sharp.Tests).
-Source Code: [Commit1.cs](http://www.woodwardweb.com/code/Commit1.cs)
