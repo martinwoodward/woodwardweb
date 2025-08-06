@@ -9,7 +9,7 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["tfs", "technology", "books", "dotnet", "gadgets", "teamprise", "web"]
+categories: ["tfs", "technology", "books", "dotnet", "gadgets", "web"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false

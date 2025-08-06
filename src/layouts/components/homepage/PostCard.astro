@@ -38,18 +38,7 @@ const { id, body } = post?.post;
       {
         categories.map((c: string) => (
           <a href={`/categories/${slugify(c)}`} class="ms-1 meta-link">
-            {humanize(c)}
-          </a>
-        ))
-      }
-    </li>
-    <li>
-      Tags :
-      {
-        tags.map((t: string) => (
-          <a href={`/tags/${t}`} class="ms-1 meta-link">
-            {humanize(t)}
-          </a>
+            {c.toLowerCase()}</a>
         ))
       }
     </li>

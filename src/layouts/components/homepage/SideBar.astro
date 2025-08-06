@@ -61,30 +61,6 @@ const tags = await getTaxonomy("post", "tags");
     </div>
   </div>
 
-  <!-- categories -->
-  <div class="widget">
-    <h5 class="widget-title"><span>Categories</span></h5><ul
-      class="list-unstyled widget-list"
-    >
-      {
-        categories.map((category: string) => {
-          const count = allCategories.filter((c) => c === category).length;
-          return (
-            <li>
-              <a
-                href={`/categories/${slugify(category)}`}
-                class="flex text-[14px]"
-              >
-                {humanize(category)}
-                <small class="ms-auto">({count})</small>
-              </a>
-            </li>
-          );
-        })
-      }
-    </ul>
-  </div>
-
   <!-- latest article -->
   <div class="widget">
     <h5 class="widget-title"><span>Latest Posts</span></h5>
@@ -103,12 +79,12 @@ const tags = await getTaxonomy("post", "tags");
             </div>
 
             <div class="media-body">
-              <h5>
+              <h6>
                 <a
                   href={`/${"post"}/${post.id}`}
                   set:html={markdownify(post.data.title)}
                 />
-              </h5>
+              </h6>
               <small>{dateFormat(post.data.date)}</small>
             </div>
           </li>
@@ -117,16 +93,23 @@ const tags = await getTaxonomy("post", "tags");
     </ul>
   </div>
 
-  <!-- tags -->
+  <!-- categories -->
   <div class="widget">
-    <h5 class="widget-title"><span>Tags</span></h5>
-
-    <ul class="widget-tags">
+    <h5 class="widget-title"><span>Categories</span></h5><ul
+      class="list-unstyled widget-list"
+    >
       {
-        tags.map((tag) => {
+        categories.sort().map((category: string) => {
+          const count = allCategories.filter((c) => c === category).length;
           return (
-            <li class="">
-              <a href={`/tags/${tag}`}>{humanize(tag)}</a>
+            <li>
+              <a
+                href={`/categories/${slugify(category)}`}
+                class="flex text-[14px]"
+              >
+                {category.toLowerCase()}
+                <small class="ms-auto">({count})</small>
+              </a>
             </li>
           );
         })
@@ -134,9 +117,4 @@ const tags = await getTaxonomy("post", "tags");
     </ul>
   </div>
 
-  <!-- social links -->
-  <div class="widget">
-    <h6 class="widget-title"><span>Social Links</span></h6>
-    <Social source={social.main} className="widget-socials mb-3" />
-  </div>
 </div>
