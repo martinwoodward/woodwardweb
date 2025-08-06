@@ -60,6 +60,11 @@ type: "regular" # available type (regular or featured)
 draft: false
 ---
 ```
+### Blog Post Creation
+When adding a post in a PR, you should NEVER have to include an updated ‎`package-lock.json` in the PR.
+If you are creating a new post on behalf of the user in a PR and no image is supplied then copy the 
+dist/images/image-placeholder.png image into the new image location and ask the user to replace
+that image before merging the PR.
 
 #### Post Images
 - **Location**: Post images are stored in `public/images/post/`
@@ -114,4 +119,3 @@ draft: false
 
 This structure ensures maintainable, organized content that scales well over time.
 
-When adding a post, you should NEVER have to include an updated ‎`package-lock.json` in the PR.
