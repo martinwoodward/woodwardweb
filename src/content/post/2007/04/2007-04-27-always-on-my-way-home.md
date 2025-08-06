@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Why do I only experience travel delays when I am coming home and never on the outbound journey."
 # Taxonomies
 categories: ["maker", "personal"]
 tags: ["blog", "archive"]

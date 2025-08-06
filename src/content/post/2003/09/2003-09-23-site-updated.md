@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Well, I have finally completed my site update."
 # Taxonomies
 categories: ["web"]
 tags: ["blog", "archive"]

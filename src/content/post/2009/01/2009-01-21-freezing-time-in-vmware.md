@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "One of the many pains of working with the October 2008 CTP of VS2010 (aka Rosario) is that on top of everything else, it actually timebombed."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "web", "podcast", "personal"]
 tags: ["blog", "archive"]

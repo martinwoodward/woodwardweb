@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Just a quick update on the TFS2008 with CruiseControl (java version) issue."
 # Taxonomies
 categories: ["git", "tfs", "technology", "dotnet", "web"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Today I had the pleasure of visiting London for the day."
 # Taxonomies
 categories: ["dotnet", "web", "programming", "personal"]
 tags: ["blog", "archive"]

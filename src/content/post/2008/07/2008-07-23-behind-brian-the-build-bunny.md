@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Since posting about Brian the Build Bunny, I have been getting a steady stream of emails from people who would like to know more about how it works."
 # Taxonomies
 categories: ["tfs", "technology", "gadgets", "maker", "web", "programming"]
 tags: ["blog", "archive"]

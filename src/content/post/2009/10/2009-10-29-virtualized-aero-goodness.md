@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "On Tuesday, VMware announced the latest in their product lines, VMware Fusion 3 and Workstation 7."
 # Taxonomies
 categories: ["technology", "books", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]

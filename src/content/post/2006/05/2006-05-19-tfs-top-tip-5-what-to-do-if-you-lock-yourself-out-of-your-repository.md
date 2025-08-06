@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "This tip is a follow up from my rather less helpful post “Don’t Do That” where I discussed the “Inherit security settings” option in the."
 # Taxonomies
 categories: ["git", "tfs", "technology", "web"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Infragistics is the world's largest publisher of reusable presentation layer development tools for Windows Forms, ASP."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "gadgets", "maker", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]

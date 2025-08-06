@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "This morning I took the sort and pleasurable flight over from Belfast to Barcelona to join the Teamprise / SourceGear advance party ready to."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "teamprise", "web"]
 tags: ["blog", "archive"]

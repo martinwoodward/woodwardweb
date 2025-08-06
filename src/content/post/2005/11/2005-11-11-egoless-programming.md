@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I colleague of mine, Mike Cooper, just pointed me towards the 'Ten Commandments of Egoless Programming'."
 # Taxonomies
 categories: ["books", "web", "programming", "personal"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "As I have mentioned before, when you check out a file for edit in Team Foundation Source Control, you are actually telling the server that."
 # Taxonomies
 categories: ["git", "tfs", "technology", "maker", "web"]
 tags: ["blog", "archive"]

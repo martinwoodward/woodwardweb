@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "If you were at my talk at SD West today, then this is the slide deck."
 # Taxonomies
 categories: ["tfs", "technology", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]

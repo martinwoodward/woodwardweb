@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I just noticed that on Wednesday January 16th at 5pm, the Minnesota Visual Studio Team System User Group are having a talk by Mac Noland."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "maker", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]

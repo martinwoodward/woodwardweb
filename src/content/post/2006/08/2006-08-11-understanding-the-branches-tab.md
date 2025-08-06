@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Showing branch history in a visual way is not something that the current version 1."
 # Taxonomies
 categories: ["git", "tfs", "technology", "maker", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]

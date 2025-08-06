@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Taking me a little by suprise, the official RTM version of the."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "web", "programming"]
 tags: ["blog", "archive"]

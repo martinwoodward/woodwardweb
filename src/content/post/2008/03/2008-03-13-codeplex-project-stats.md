@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "The fantastic team at CodePlex have just rolled out yet another great feature - this time it is statistics for your CodePlex project."
 # Taxonomies
 categories: ["tfs", "dotnet", "maker", "web", "programming"]
 tags: ["blog", "archive"]

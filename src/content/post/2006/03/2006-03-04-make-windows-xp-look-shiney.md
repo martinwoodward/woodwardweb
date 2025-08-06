@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Recently I was looking at some screenshots from my good friend Clark Sell and I spent more time admiring the theme on his copy of Windows."
 # Taxonomies
 categories: ["technology", "gadgets", "maker", "web", "personal"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Just noticed that Google Labs has launched Google Trends, a nice tool to graph the differences in search volumes over time."
 # Taxonomies
 categories: ["technology", "web", "podcast"]
 tags: ["blog", "archive"]

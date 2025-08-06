@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "As announced yesterday by Brian Harry and also by Michal Malecki in the TFS Version Control Forum, version 1."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]

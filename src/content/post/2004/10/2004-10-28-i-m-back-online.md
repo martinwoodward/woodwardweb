@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "After a sad delay, I'm now back online."
 # Taxonomies
 categories: ["dotnet", "web"]
 tags: ["blog", "archive"]

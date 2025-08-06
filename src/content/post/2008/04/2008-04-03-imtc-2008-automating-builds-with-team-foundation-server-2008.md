@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Thanks to everyone who attended my session this afternoon at IMTC 2008 in Dublin."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "web", "programming"]
 tags: ["blog", "archive"]

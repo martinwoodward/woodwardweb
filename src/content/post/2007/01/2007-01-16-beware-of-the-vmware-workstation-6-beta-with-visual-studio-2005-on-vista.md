@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I'd been having trouble getting Visual Studio Team Suite up and running on my new vista install."
 # Taxonomies
 categories: ["technology", "maker", "web", "programming"]
 tags: ["blog", "archive"]

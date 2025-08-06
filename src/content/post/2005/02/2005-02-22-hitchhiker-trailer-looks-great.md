@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "My wife was treated to the 'Martin Woodward Excited Dance' this evening after I watched the trailer for the Hitchhikers Guide To The Galaxy film."
 # Taxonomies
 categories: ["technology", "dotnet", "web", "podcast"]
 tags: ["blog", "archive"]

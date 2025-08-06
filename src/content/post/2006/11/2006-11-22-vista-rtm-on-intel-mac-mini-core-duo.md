@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Just as a follow up to my previous post, I was having trouble switching back into Mac OS X once booted into Vista."
 # Taxonomies
 categories: ["technology", "books", "gadgets", "maker", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]

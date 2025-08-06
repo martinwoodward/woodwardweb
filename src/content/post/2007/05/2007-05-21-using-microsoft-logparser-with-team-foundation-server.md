@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Anyone who has spent time on the inside of the Microsoft LAN knows that they have a ton of great internal tools and utilities that never."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "teamprise", "web", "programming", "podcast", "personal"]
 tags: ["blog", "archive"]

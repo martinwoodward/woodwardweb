@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "At the keynote today at VSLive, Soma Somasegar publicly announced the availability of VSTS RC in the next week and the RTM in March 2006 -."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "teamprise", "web"]
 tags: ["blog", "archive"]

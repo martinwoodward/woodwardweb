@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "****A couple of weeks ago I was in Antwerp for a partner event and I also had the pleasure of meeting with a few customers from the Belgium."
 # Taxonomies
 categories: ["tfs", "technology", "books", "dotnet", "web"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "That is the question that I am frequently asked by folks looking at the impact of Team Foundation Build moving to Windows Workflow 4."
 # Taxonomies
 categories: ["tfs", "technology", "books", "dotnet", "maker", "web", "programming", "podcast"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I’m at TechEd EMEA again this year after missing last year’s EMEA event due to illness."
 # Taxonomies
 categories: ["git", "tfs", "technology", "teamprise", "web"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "When I saw the news about the upcoming Windows Vista SP2, there was a little note right down at the bottom that got me quite excited."
 # Taxonomies
 categories: ["technology", "gadgets", "maker", "web", "programming"]
 tags: ["blog", "archive"]

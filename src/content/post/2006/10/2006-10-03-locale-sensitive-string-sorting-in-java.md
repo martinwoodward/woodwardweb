@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "So, the day after I get made a Microsoft MVP I do two posts about Java - go figure."
 # Taxonomies
 categories: ["technology", "dotnet", "web", "programming"]
 tags: ["blog", "archive"]

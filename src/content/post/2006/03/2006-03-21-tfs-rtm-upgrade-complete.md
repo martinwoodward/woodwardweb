@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "That was rather painless."
 # Taxonomies
 categories: ["tfs", "technology", "web", "personal"]
 tags: ["blog", "archive"]

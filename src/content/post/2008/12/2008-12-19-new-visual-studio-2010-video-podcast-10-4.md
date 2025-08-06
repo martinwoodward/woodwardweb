@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Brian Keller (of This Week on Channel 9 fame) has just announced a new weekly show on Channel 9 called 10-4 where you can learn about what's."
 # Taxonomies
 categories: ["dotnet", "maker", "web", "programming", "podcast"]
 tags: ["blog", "archive"]

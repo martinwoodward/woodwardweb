@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "According to Steve Gilmor, Apple's iTunes is to support enclosures in RSS feeds (podcasting)."
 # Taxonomies
 categories: ["technology", "web", "podcast"]
 tags: ["blog", "archive"]

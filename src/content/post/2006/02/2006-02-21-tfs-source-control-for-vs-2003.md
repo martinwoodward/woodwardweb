@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Via Rob, Microsoft have now released a MSSCCI Provider that works in Visual Studio 2003 and Visual Studio 6."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "maker", "web", "personal"]
 tags: ["blog", "archive"]

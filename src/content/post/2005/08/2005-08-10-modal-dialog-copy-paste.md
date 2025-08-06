@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "A friend of mine called Mike Becker just passed on a tip that I am now committed to passing on to as many people as I know."
 # Taxonomies
 categories: ["git", "maker"]
 tags: ["blog", "archive"]

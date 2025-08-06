@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Found my second thing in."
 # Taxonomies
 categories: ["dotnet", "web", "programming"]
 tags: ["blog", "archive"]

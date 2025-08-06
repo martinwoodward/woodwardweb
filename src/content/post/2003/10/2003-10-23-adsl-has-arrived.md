@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I've finally joined the broadband masses as my exchange has just been enabled and my nildram account has been activated."
 # Taxonomies
 categories: ["maker", "web"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Tomorrow I will be making my making my maiden talk at EclipseCon in Santa Clara."
 # Taxonomies
 categories: ["git", "tfs", "technology", "maker", "web", "programming", "personal"]
 tags: ["blog", "archive"]

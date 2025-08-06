@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Just a reminder that the next Team System chat is this afternoon."
 # Taxonomies
 categories: ["tfs", "technology", "web", "programming", "personal"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Tomorrow (October 12th), I'll be talking at the first annual ICT Conference in Galway, Ireland."
 # Taxonomies
 categories: ["tfs", "dotnet", "web", "podcast", "personal"]
 tags: ["blog", "archive"]

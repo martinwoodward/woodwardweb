@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Recently, I've been trying to access some Microsoft webcasts but they just have not been working on my work PC."
 # Taxonomies
 categories: ["technology", "web", "programming"]
 tags: ["blog", "archive"]

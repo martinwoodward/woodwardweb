@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I've been an avid Windows Live Writer user since the early days, and for many years I've used Moveable Type for my personal blog."
 # Taxonomies
 categories: ["technology", "books", "dotnet", "web", "podcast", "personal"]
 tags: ["blog", "archive"]

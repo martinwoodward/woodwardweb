@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "In my inbox this morning I got news of another new version of the Team Foundation Sidekicks from Attrice."
 # Taxonomies
 categories: ["tfs", "web", "programming"]
 tags: ["blog", "archive"]

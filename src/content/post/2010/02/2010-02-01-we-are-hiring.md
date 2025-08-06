@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Since joining Microsoft it has been fantastic to see how committed everyone is to the technology that was acquired from Teamprise."
 # Taxonomies
 categories: ["git", "tfs", "technology", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]

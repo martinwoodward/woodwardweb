@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Brian Harry has posted some great news over on his blog - Microsoft have release a new tool to allow users to migrate from ClearCase to."
 # Taxonomies
 categories: ["git", "tfs", "technology", "web"]
 tags: ["blog", "archive"]

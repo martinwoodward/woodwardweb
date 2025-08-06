@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I've been playing with GIMP lately."
 # Taxonomies
 categories: ["technology", "dotnet", "web"]
 tags: ["blog", "archive"]

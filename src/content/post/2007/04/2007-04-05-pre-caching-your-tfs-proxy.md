@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "The Team Foundation Server Version Control Proxy is a wonderful thing - despite the not so catchy name."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "web", "programming", "podcast"]
 tags: ["blog", "archive"]

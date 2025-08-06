@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Took this picture from my phone (Sony Erricson T610)."
 # Taxonomies
 categories: ["technology", "gadgets", "web", "personal"]
 tags: ["blog", "archive"]

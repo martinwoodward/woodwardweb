@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I'm probably late to the party, but I very rarely bother to update the firmware on my iPod."
 # Taxonomies
 categories: ["technology", "books", "web", "podcast"]
 tags: ["blog", "archive"]

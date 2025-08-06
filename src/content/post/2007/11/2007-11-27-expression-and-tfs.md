@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Recently I've been playing more and more with the Expression suite of tools."
 # Taxonomies
 categories: ["git", "tfs", "technology", "web", "personal"]
 tags: ["blog", "archive"]

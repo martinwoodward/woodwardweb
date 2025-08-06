@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "That's right folks, 2008 SP1 is now available for everyone to download."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "web", "podcast", "personal"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I've recently come across Podcasting (or blogcasting as it is sometimes called)."
 # Taxonomies
 categories: ["git", "technology", "dotnet", "maker", "web", "podcast"]
 tags: ["blog", "archive"]

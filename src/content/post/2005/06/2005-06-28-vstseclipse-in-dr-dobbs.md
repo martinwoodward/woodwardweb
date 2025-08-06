@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Joe has managed to get an article into the August edition Dr Dobbs Journal about our VSTSEclipse project."
 # Taxonomies
 categories: ["tfs", "web"]
 tags: ["blog", "archive"]

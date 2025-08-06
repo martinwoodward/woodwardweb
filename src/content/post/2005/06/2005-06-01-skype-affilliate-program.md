@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Skypehave just gone public with their affiliate programme."
 # Taxonomies
 categories: ["dotnet", "web"]
 tags: ["blog", "archive"]

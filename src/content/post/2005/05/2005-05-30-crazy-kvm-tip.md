@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I always end up getting a KVM switch at work."
 # Taxonomies
 categories: ["technology", "gadgets", "personal"]
 tags: ["blog", "archive"]

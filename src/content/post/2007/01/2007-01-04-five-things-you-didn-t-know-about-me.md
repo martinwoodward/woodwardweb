@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I'd been seeing this for a while now, the game of Blogtag has been running riot over the internet."
 # Taxonomies
 categories: ["git", "technology", "dotnet", "gadgets", "maker", "web", "programming"]
 tags: ["blog", "archive"]

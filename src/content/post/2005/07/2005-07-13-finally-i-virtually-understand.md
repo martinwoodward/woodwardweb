@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Bill Caputo has posted an interesting article discussing inheritance in C#, especially when using interfaces."
 # Taxonomies
 categories: ["technology", "books", "dotnet", "maker", "web", "programming"]
 tags: ["blog", "archive"]

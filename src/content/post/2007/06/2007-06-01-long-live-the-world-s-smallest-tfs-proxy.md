@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Good news World's Smallest TFS Proxy fans."
 # Taxonomies
 categories: ["tfs", "technology", "web", "personal"]
 tags: ["blog", "archive"]

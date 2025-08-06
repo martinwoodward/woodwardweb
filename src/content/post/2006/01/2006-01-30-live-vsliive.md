@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I am in the pre-workshop conference VSTS for Everyone: Best Practices for the Whole Team."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "web", "programming"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "As a professional programmer, the languages I code in during the day are very much dependant on the particular project I am working on."
 # Taxonomies
 categories: ["technology", "dotnet", "web", "programming"]
 tags: ["blog", "archive"]

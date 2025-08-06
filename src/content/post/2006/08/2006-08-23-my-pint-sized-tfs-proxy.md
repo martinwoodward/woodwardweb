@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I use Team Foundation Server over the end of a VPN connection to from my house in the UK over to Teamprise HQ back in Champaign, IL."
 # Taxonomies
 categories: ["git", "tfs", "technology", "gadgets", "maker", "teamprise", "web", "podcast"]
 tags: ["blog", "archive"]

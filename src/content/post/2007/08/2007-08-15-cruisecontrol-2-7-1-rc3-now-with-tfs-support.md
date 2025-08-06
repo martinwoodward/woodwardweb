@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Paul Julius just announced that RC3 of CruiseControl 2."
 # Taxonomies
 categories: ["git", "tfs", "technology", "dotnet", "maker", "teamprise", "web"]
 tags: ["blog", "archive"]

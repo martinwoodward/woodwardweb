@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Got given this fantastic book by my wife."
 # Taxonomies
 categories: ["technology", "books", "web"]
 tags: ["blog", "archive"]

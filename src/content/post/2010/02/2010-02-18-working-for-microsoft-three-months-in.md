@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "This morning I got an email from HR congratulating me on completing my three month probationary period at Microsoft."
 # Taxonomies
 categories: ["git", "tfs", "technology", "books", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]

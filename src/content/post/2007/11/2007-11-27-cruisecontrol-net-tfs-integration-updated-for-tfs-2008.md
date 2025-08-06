@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Recently, I noticed a small change in the way TFS 2008 (RTM) handles history calls between date ranges that unfortunately breaks the."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "maker", "web", "programming", "personal"]
 tags: ["blog", "archive"]

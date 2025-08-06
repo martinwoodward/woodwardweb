@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "This years DARPA Grand Challenge has seen a winner."
 # Taxonomies
 categories: ["web"]
 tags: ["blog", "archive"]

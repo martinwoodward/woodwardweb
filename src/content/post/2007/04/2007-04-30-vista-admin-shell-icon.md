@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "In Windows Vista, one of the first things I do on a new machine is create an 'Admin Shell'."
 # Taxonomies
 categories: ["technology", "gadgets", "web"]
 tags: ["blog", "archive"]

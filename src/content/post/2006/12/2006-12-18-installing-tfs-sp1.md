@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "This morning I have been installing Team Foundation Server SP1 onto some test TFS instances."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "web", "programming", "personal"]
 tags: ["blog", "archive"]

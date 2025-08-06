@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Via [Rob] Dave McKinstry has recently posted about his Approach to Process Customization with TFS."
 # Taxonomies
 categories: ["tfs", "dotnet", "web"]
 tags: ["blog", "archive"]

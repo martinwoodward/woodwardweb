@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "In a couple of weeks I’ll be presenting a MSDN webcast on Team Foundation Server Source Control For those of you that have attended one of."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "gadgets", "teamprise", "web", "programming", "podcast", "personal"]
 tags: ["blog", "archive"]

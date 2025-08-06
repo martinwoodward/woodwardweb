@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I seem to have disappeared from Google when you do a search for 'Martin Woodward'."
 # Taxonomies
 categories: ["technology", "web"]
 tags: ["blog", "archive"]

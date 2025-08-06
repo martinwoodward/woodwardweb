@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "On Rob's recommendation, I've installed Windows Live Writer today."
 # Taxonomies
 categories: ["technology", "maker", "web", "programming", "personal"]
 tags: ["blog", "archive"]

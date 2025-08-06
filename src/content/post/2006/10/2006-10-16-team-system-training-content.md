@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "A couple of weeks ago, Brian Harry posted about some Team System training content that is now available."
 # Taxonomies
 categories: ["tfs", "technology", "teamprise", "web"]
 tags: ["blog", "archive"]

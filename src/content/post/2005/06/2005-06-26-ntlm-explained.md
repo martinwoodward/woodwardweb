@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "If you have ever tried interoperability between an MS environment and any of the others you are likely to have tripped over NTLM."
 # Taxonomies
 categories: ["technology", "books", "dotnet", "web"]
 tags: ["blog", "archive"]

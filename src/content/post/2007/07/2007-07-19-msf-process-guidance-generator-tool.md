@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "A new project has been released over on CodePlex from the Patterns and Practices folks which attempts to improve the guidance generation process."
 # Taxonomies
 categories: ["technology", "maker", "web", "programming"]
 tags: ["blog", "archive"]

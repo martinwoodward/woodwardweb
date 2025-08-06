@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "One of my friends recently gave me 'Effective C#' by Bill Wagner."
 # Taxonomies
 categories: ["technology", "books", "dotnet", "web", "programming"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I am giving a talk tonight."
 # Taxonomies
 categories: ["books", "gadgets", "web", "personal"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "In an effort to keep my Java skills up to date while also using some of my new-found dotnet knowledge I've joined the team trying to put."
 # Taxonomies
 categories: ["tfs", "dotnet", "maker", "web", "programming"]
 tags: ["blog", "archive"]

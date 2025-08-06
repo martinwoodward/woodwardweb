@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Every source control system I have worked with until recently supported keyword expansion."
 # Taxonomies
 categories: ["tfs", "technology", "books", "web", "programming"]
 tags: ["blog", "archive"]

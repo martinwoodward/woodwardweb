@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "As I've mentioned before - keyword expansion is a feature that many SCM tools have, but TFS does not."
 # Taxonomies
 categories: ["tfs", "books", "web"]
 tags: ["blog", "archive"]

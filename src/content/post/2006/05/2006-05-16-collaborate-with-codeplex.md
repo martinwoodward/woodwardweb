@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Great news from Rob Caron."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "web", "programming", "podcast", "personal"]
 tags: ["blog", "archive"]

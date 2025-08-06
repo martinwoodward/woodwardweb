@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "This week I have been in Seattle for the MVP Summit 2009."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "web", "podcast"]
 tags: ["blog", "archive"]

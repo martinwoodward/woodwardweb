@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Over the weekend, I put up a website for my VSTSPlugins project - a home for open source VSTS Plugins."
 # Taxonomies
 categories: ["tfs", "dotnet", "web", "programming", "personal"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "The new version on the Core J2EE patterns book is now online as part of the updated java."
 # Taxonomies
 categories: ["technology", "books", "web"]
 tags: ["blog", "archive"]

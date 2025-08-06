@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Tonight, I finally sat down and recompiled the CruiseControl."
 # Taxonomies
 categories: ["tfs", "dotnet", "maker", "web", "programming"]
 tags: ["blog", "archive"]

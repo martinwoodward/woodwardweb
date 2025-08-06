@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "At PDC last night Ed Thomson announced our latest product, the Teamprise Remote Accelerator."
 # Taxonomies
 categories: ["git", "tfs", "technology", "dotnet", "maker", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]

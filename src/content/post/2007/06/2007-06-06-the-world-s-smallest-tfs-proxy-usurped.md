@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Grr, Ed has laid down the gauntlet and gone to rather extreme lengths to beat my claim to have the world's smallest TFS Proxy server up and running."
 # Taxonomies
 categories: ["tfs", "web"]
 tags: ["blog", "archive"]

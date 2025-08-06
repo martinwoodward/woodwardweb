@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "The Vista Aero interface is awesome - but capturing that beauty has always been hard for me."
 # Taxonomies
 categories: ["technology", "dotnet", "web"]
 tags: ["blog", "archive"]

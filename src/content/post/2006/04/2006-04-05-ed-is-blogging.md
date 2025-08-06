@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Fellow Teamprise developer Ed Thomson has started blogging."
 # Taxonomies
 categories: ["technology", "teamprise", "web"]
 tags: ["blog", "archive"]

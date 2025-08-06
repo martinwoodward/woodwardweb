@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Like many developers, I contribute to open source projects at home – usually to scratch an itch, learn something new or just to contribute."
 # Taxonomies
 categories: ["git", "technology", "books", "dotnet", "maker", "web", "personal", "github"]
 tags: ["blog", "archive"]

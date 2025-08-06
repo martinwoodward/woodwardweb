@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "When you create a new build definition with TFS 2010 by default it does a clean build for you every time."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "web", "programming"]
 tags: ["blog", "archive"]

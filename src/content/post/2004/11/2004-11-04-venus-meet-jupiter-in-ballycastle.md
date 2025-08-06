@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "What a fantastic morning it was today."
 # Taxonomies
 categories: ["technology", "gadgets", "web"]
 tags: ["blog", "archive"]

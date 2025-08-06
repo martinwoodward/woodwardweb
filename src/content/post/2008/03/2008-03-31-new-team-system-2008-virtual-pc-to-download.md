@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "**UPDATE**: Just heard from Brian Randell that the VPC is now ready to download."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "web", "personal"]
 tags: ["blog", "archive"]

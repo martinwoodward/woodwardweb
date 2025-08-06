@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I’m currently writing a diagnostics tool to perform all the same connectivity diagnostic checks that I do manually when I am having trouble."
 # Taxonomies
 categories: ["technology", "web", "programming", "podcast"]
 tags: ["blog", "archive"]

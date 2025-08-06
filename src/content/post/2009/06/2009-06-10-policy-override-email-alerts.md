@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "A guiding principle with Team Foundation Server is that all the flexibility of configuration and all the control should not get in the way."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "web", "programming", "personal"]
 tags: ["blog", "archive"]

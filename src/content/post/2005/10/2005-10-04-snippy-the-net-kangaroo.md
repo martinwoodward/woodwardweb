@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "A new version of Snippy is out."
 # Taxonomies
 categories: ["technology", "dotnet", "web", "programming", "podcast", "personal"]
 tags: ["blog", "archive"]

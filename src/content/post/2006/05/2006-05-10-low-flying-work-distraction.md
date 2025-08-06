@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "The weather is fantastic over Teamprise Europe HQ at the moment."
 # Taxonomies
 categories: ["technology", "teamprise", "web"]
 tags: ["blog", "archive"]

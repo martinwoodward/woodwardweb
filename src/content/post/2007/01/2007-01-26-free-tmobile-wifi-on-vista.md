@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Over the next few months I'm going to be doing a bit of traveling to the US again, and this offer could not have come at a better time -."
 # Taxonomies
 categories: ["technology", "gadgets", "web", "personal"]
 tags: ["blog", "archive"]

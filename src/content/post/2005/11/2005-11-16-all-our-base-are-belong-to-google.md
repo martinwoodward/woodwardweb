@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Ok, so I'm probably not the first or the last person to use that sentance."
 # Taxonomies
 categories: ["git", "technology", "web", "programming"]
 tags: ["blog", "archive"]

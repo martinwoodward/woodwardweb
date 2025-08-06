@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "At the risk of prompting someone to ask for them, Dan Fernandez has posted a neat stored procedure utility that inspects your sprocs and can."
 # Taxonomies
 categories: ["books", "web", "programming"]
 tags: ["blog", "archive"]

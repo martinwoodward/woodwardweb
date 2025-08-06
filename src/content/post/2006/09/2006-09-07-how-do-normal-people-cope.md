@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "We have some friends staying with us from out of town at the moment."
 # Taxonomies
 categories: ["git", "technology", "gadgets", "maker", "web", "programming"]
 tags: ["blog", "archive"]

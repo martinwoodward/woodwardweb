@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "So, at the risk of starting one of those annoying meme's, I've kinda had this conversation with a few folks before and people of my age."
 # Taxonomies
 categories: ["git", "technology", "books", "dotnet", "gadgets", "maker", "web", "programming", "personal"]
 tags: ["blog", "archive"]

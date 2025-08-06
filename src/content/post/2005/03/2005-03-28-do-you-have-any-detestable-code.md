@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "From Martin Fowler's site: **Detestable** (adjective): software that isn't testable."
 # Taxonomies
 categories: ["technology", "web", "programming"]
 tags: ["blog", "archive"]

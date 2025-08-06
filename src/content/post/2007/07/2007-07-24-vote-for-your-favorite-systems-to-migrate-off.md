@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Now that the V1 of the TFS Migration and Synchronization Toolkit is up and running on CodePlex, Matt and the team are looking for feedback."
 # Taxonomies
 categories: ["tfs", "web", "programming"]
 tags: ["blog", "archive"]

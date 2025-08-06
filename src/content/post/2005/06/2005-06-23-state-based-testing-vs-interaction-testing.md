@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I'm currently thinking a lot about different testing strategies."
 # Taxonomies
 categories: ["git", "dotnet", "maker", "web", "programming"]
 tags: ["blog", "archive"]

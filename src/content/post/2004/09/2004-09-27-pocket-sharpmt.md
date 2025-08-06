@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Just installed Pocket SharpMT on my HP4150 (what is rapidly becoming my favourite gadget)."
 # Taxonomies
 categories: ["gadgets", "maker", "web"]
 tags: ["blog", "archive"]

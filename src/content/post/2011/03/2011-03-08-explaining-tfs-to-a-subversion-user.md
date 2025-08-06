@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "In my travels I often run into former Subversion users coming to Team Foundation Server and struggling to come to terms with the differences."
 # Taxonomies
 categories: ["tfs", "web", "personal"]
 tags: ["blog", "archive"]

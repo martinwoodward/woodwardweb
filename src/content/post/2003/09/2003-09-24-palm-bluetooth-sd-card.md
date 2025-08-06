@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Got my GPRS connection to my mobile phone (a Nokia 6310i) to my Palm m125 using IR."
 # Taxonomies
 categories: ["technology", "gadgets", "web"]
 tags: ["blog", "archive"]

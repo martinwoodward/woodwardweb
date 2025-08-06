@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "If you are looking to extend Team Foundation Build using workflow activities, then the first thing you should do it take a look at the."
 # Taxonomies
 categories: ["git", "tfs", "maker", "web", "programming"]
 tags: ["blog", "archive"]

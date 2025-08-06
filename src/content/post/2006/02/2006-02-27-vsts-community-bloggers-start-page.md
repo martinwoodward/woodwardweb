@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I have just added Richard Hundhausen’s excellent blog into the list of blogs that I slurp for the VSTS Community Bloggers Google Toolbar button."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "web"]
 tags: ["blog", "archive"]

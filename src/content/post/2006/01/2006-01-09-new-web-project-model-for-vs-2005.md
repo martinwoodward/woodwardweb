@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Scott Guthrie has posted about a new web project type that will be available for VS 2005."
 # Taxonomies
 categories: ["technology", "dotnet", "maker", "web"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Good post on Paul Vick's blog about the characteristics of Black Hole projects at M$."
 # Taxonomies
 categories: ["dotnet", "web"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "My friend and fellow Team System MVP, Neno Loje, has been on a blogging frenzy this year."
 # Taxonomies
 categories: ["tfs", "technology", "books", "web"]
 tags: ["blog", "archive"]

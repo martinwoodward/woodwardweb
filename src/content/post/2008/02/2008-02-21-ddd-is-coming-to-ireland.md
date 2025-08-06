@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Developer Developer Developer is coming to the beautiful west of Ireland in May with GAMTUG hosting the event on Saturday May 3rd."
 # Taxonomies
 categories: ["tfs", "technology", "books", "dotnet", "web", "podcast", "personal"]
 tags: ["blog", "archive"]

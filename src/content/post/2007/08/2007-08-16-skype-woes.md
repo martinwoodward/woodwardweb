@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Skype seems to have been having trouble this morning."
 # Taxonomies
 categories: ["technology", "dotnet", "gadgets", "maker", "web"]
 tags: ["blog", "archive"]

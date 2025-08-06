@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "The clever folks over at CodePlex have recently released the code to the sites excellent wiki."
 # Taxonomies
 categories: ["web", "programming"]
 tags: ["blog", "archive"]

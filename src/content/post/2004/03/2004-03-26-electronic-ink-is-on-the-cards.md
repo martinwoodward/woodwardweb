@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "The first commercial E-Ink product is about to hit the market in Japan."
 # Taxonomies
 categories: ["technology", "web"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "In a few hours, I’ll be getting on a flight to TechEd 2006 in Boston."
 # Taxonomies
 categories: ["git", "tfs", "technology", "books", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Fellow MVP Paul Hacker just dropped me a line to share a great offer his company is making available for BizSpark companies."
 # Taxonomies
 categories: ["tfs", "technology", "web", "podcast"]
 tags: ["blog", "archive"]

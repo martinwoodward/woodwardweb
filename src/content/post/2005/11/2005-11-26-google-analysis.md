@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Well, despite the massive load that Google Analytics took, they have done me proud and are now happily tracking the data from 3 of the sites."
 # Taxonomies
 categories: ["tfs", "technology", "books", "dotnet", "gadgets", "web"]
 tags: ["blog", "archive"]

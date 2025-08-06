@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "So, took the plunge and installed XP Service Pack 2 today."
 # Taxonomies
 categories: ["maker", "web"]
 tags: ["blog", "archive"]

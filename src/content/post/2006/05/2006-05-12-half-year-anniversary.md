@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "This month is my 6th working on Teamprise."
 # Taxonomies
 categories: ["technology", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]

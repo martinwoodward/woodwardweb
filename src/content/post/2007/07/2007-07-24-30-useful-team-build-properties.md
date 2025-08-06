@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "If you are going to get into the Zen of TFS Team Build, then at some point you are going to have to read the TeamBuild."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "maker", "web", "programming"]
 tags: ["blog", "archive"]

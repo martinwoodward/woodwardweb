@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Scott Hanselman's Hanselminutes podcast continues with this weeks episode about Continuous Integration."
 # Taxonomies
 categories: ["tfs", "dotnet", "web", "podcast"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "On Tuesday January 9th, I'll be doing a short MSDN webcast to demonstrate Teamprise 2."
 # Taxonomies
 categories: ["tfs", "technology", "teamprise", "web"]
 tags: ["blog", "archive"]

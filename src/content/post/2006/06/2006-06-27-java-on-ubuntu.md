@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Teamprise currently requires a Java JRE with DES encryption available in the JVM for the magic of NTLM authentication to work correctly."
 # Taxonomies
 categories: ["teamprise", "web"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Next week you can have the opportunity to join the VSTS product group to discuss the features available in the different editions and Team."
 # Taxonomies
 categories: ["tfs", "technology", "web"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I’ve just learnt something today from our resident tech-writer that I feel needs sharing."
 # Taxonomies
 categories: ["git", "technology", "gadgets", "maker", "web", "programming", "personal"]
 tags: ["blog", "archive"]

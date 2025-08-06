@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I was just trying to get some backups configured and I wanted a way of deleting files from a directory stucture that were older than a certain date."
 # Taxonomies
 categories: ["technology", "dotnet", "web", "programming"]
 tags: ["blog", "archive"]

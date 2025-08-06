@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Here at Teamprise we've recently changed our build numbering scheme."
 # Taxonomies
 categories: ["git", "tfs", "technology", "dotnet", "maker", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]

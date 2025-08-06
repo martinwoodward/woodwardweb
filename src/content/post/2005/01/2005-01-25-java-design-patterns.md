@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Just wanted to take the time to plug the JavaCoder."
 # Taxonomies
 categories: ["dotnet", "web", "programming"]
 tags: ["blog", "archive"]

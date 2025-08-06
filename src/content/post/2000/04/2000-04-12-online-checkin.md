@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Member of the team who produced the pioneering online check-in site for BA."
 # Taxonomies
 categories: ["tfs"]
 tags: ["blog", "archive"]

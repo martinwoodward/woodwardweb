@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "On Thursday 20th May, I have the privilege of speaking at the Test Manager Forum in Dublin."
 # Taxonomies
 categories: ["technology", "books", "web", "programming", "personal"]
 tags: ["blog", "archive"]

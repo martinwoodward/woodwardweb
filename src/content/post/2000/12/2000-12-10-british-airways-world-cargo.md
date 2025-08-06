@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Site was a full J2EE based eBusiness platform for BA World Cargo."
 # Taxonomies
 categories: ["web", "programming"]
 tags: ["blog", "archive"]

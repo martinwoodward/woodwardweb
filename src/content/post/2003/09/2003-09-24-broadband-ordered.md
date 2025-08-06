@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "My order for broadband has just gone in to Nildram."
 # Taxonomies
 categories: ["maker", "web"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Just a quick post to say that my old buddy Jez Stephenson has started blogging."
 # Taxonomies
 categories: ["web", "podcast"]
 tags: ["blog", "archive"]

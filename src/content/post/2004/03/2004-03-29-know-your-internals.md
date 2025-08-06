@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I've been a regular user of programs from Sysinternals for a while now - today they just saved me again."
 # Taxonomies
 categories: ["technology", "maker", "web"]
 tags: ["blog", "archive"]

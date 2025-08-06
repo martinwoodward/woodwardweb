@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "In some recent forums posts, it has struck me that it is sometimes not clear to people what an install of Microsoft Team Foundation Server looks like."
 # Taxonomies
 categories: ["tfs", "technology", "web"]
 tags: ["blog", "archive"]

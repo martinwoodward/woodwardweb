@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "In Team Foundation Server 2010 web access is installed by default."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "web", "programming", "personal"]
 tags: ["blog", "archive"]

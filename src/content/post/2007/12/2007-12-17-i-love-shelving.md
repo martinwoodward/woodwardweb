@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "No - this is not a post about the big news in Northern Ireland this past week."
 # Taxonomies
 categories: ["git", "tfs", "technology", "gadgets", "web", "programming"]
 tags: ["blog", "archive"]

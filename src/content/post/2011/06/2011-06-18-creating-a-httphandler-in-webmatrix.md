@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "This weekend I thought I would get round to a project that I’ve been meaning to do for a long time – a new website for the Radio TFS podcast."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "maker", "web", "programming", "podcast"]
 tags: ["blog", "archive"]

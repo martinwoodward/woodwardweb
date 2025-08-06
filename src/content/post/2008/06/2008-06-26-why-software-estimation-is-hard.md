@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Over the years, I have tried many different approaches to software estimation."
 # Taxonomies
 categories: ["technology", "gadgets", "web", "programming", "podcast"]
 tags: ["blog", "archive"]

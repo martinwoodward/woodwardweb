@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Recently I had the pleasure of sitting down with my good friend and fellow MVP Ed Blankenship to learn about the Team Foundation Server."
 # Taxonomies
 categories: ["tfs", "technology", "web", "podcast"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Sky+ has been the saviour of our television viewing since it arrived shortly after my son did (not a coincidence)."
 # Taxonomies
 categories: ["books", "web", "personal"]
 tags: ["blog", "archive"]

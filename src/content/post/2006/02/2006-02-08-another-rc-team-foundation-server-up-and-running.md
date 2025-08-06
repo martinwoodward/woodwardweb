@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "You'll probably be seeing a lot of these type of posts around the net, but I just wanted to say that I've got the RC version of Team."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "teamprise", "web"]
 tags: ["blog", "archive"]

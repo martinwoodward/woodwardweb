@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "As you've probably discovered by now, Google has launched Google Reader - a web based RSS reader with all the fancy AJAX lovliness you'd expect."
 # Taxonomies
 categories: ["technology", "books", "gadgets", "web"]
 tags: ["blog", "archive"]

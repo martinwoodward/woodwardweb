@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "With Apple about to celebrate it's 30th Anniversary, Wired is running a piece on the best Steve Jobs' comments ever."
 # Taxonomies
 categories: ["technology", "maker", "web", "programming", "personal"]
 tags: ["blog", "archive"]

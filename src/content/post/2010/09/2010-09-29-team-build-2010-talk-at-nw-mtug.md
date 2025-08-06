@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Tonight I’ll be giving a talk on Team Foundation Build for NW-MTUG at the University of Ulster’s Magee Campus."
 # Taxonomies
 categories: ["tfs", "technology", "books", "maker", "web", "programming", "personal"]
 tags: ["blog", "archive"]

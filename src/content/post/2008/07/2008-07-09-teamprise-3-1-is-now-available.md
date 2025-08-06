@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "At the Microsoft Worldwide Partner Conference in Houston today, Corey Steffen (General Manager of Teamprise and the guy that pays my wages)."
 # Taxonomies
 categories: ["git", "tfs", "technology", "maker", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]

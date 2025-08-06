@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I'm joining my good friend Brian Randell to do a session on Team Build 2008 at TechEd Developers in Barcelona on November 8th."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "web", "programming"]
 tags: ["blog", "archive"]

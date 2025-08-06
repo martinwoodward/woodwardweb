@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Chewing Glas (aka Paul Hacker) and Daven Finesmith (aka Dave McKinstry) are proud to announce a new users group, the Team System User Group."
 # Taxonomies
 categories: ["tfs", "dotnet", "web", "programming", "personal"]
 tags: ["blog", "archive"]

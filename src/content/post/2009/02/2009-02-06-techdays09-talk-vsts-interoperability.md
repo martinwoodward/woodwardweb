@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "On Tuesday February 10th I’ll be popping over to Paris where I have the privaledge of being invited to speak at TechDays 09 courtesy of."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]

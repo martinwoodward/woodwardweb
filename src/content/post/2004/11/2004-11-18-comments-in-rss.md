@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Just found out about the various extensions to RSS 2 that allow information about comments to be included in the RSS feeds."
 # Taxonomies
 categories: ["web"]
 tags: ["blog", "archive"]

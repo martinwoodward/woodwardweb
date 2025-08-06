@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Jamie Cansdale has released RC1 of the new version of TestDriven."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "web", "programming", "personal"]
 tags: ["blog", "archive"]

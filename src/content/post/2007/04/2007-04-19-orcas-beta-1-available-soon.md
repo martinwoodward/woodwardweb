@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Those of you lucky enough to have an MSDN subscription can go download Beta 1 very shortly, according to the announcement it is available."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "web", "personal"]
 tags: ["blog", "archive"]

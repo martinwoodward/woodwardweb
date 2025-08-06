@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "RC0 of Windows Server 2008 was made available earlier this week."
 # Taxonomies
 categories: ["technology", "maker", "web"]
 tags: ["blog", "archive"]

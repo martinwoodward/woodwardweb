@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I swear, one day I'll learn."
 # Taxonomies
 categories: ["technology", "gadgets", "maker", "web", "programming", "podcast"]
 tags: ["blog", "archive"]

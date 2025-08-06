@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "One of the concepts that people need to understand when they begin to work with Team Foundation Server Version Control is that of the Team."
 # Taxonomies
 categories: ["git", "tfs", "technology", "gadgets", "teamprise", "web", "programming", "podcast"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "My company (Teamprise) develop a plugin for Eclipse to talk to Microsoft Team Foundation Server (TFS)."
 # Taxonomies
 categories: ["tfs", "technology", "teamprise", "web"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Alan Irwin has started blogging."
 # Taxonomies
 categories: ["web"]
 tags: ["blog", "archive"]

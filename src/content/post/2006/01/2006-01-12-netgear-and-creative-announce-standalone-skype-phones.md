@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Like buses, you wait for ages then two come along at once."
 # Taxonomies
 categories: ["technology", "dotnet", "gadgets", "maker", "web"]
 tags: ["blog", "archive"]

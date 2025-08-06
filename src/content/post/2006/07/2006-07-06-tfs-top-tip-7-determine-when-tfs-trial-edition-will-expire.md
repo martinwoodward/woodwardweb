@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "**UPDATE**: Brian Harry has posted a new utility to help you determine the trial expiration dates on your server."
 # Taxonomies
 categories: ["git", "tfs", "technology", "maker", "web"]
 tags: ["blog", "archive"]

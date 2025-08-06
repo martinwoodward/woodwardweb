@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Belfast is to host the 2005 World Toilet Summit, very near to where I work."
 # Taxonomies
 categories: ["web", "podcast"]
 tags: ["blog", "archive"]

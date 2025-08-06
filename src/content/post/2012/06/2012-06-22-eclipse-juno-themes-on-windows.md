@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I’ve been running Eclipse Juno regularly since the M5 milestone."
 # Taxonomies
 categories: ["technology", "web", "programming", "personal"]
 tags: ["blog", "archive"]

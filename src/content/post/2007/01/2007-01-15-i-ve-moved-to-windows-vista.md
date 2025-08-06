@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I got too jealous of everyone with Windows Vista and decided to upgrade myself."
 # Taxonomies
 categories: ["tfs", "technology", "gadgets", "maker", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]

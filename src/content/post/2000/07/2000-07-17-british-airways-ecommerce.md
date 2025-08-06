@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Volved in different sections of this site that is very complex, with many legacy system interfaces and high transaction numbers."
 # Taxonomies
 categories: ["books"]
 tags: ["blog", "archive"]

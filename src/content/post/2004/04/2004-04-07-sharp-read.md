@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Just discovered SharpReader a pretty decent free RSS reader."
 # Taxonomies
 categories: ["dotnet", "maker", "web", "programming"]
 tags: ["blog", "archive"]

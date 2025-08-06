@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "MIT course note are now available online at MIT OpenCourseWare."
 # Taxonomies
 categories: ["web"]
 tags: ["blog", "archive"]

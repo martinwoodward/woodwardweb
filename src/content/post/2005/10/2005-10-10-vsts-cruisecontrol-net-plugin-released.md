@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Finally got round to packaging up and releasing a CC."
 # Taxonomies
 categories: ["tfs", "dotnet", "maker", "web", "programming"]
 tags: ["blog", "archive"]

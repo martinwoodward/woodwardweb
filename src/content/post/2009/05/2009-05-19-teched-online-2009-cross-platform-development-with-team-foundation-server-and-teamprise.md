@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Last week at TechEd 2009 North America, I had the pleasure of sitting down with Brian Keller to discuss Teamprise past, present and future."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "teamprise", "web", "podcast"]
 tags: ["blog", "archive"]

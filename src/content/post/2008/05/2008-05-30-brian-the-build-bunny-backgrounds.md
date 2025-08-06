@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "It turns out that the little video I posted yesterday has taken on a bit of a life of it's own."
 # Taxonomies
 categories: ["technology", "gadgets", "maker", "web", "podcast", "personal"]
 tags: ["blog", "archive"]

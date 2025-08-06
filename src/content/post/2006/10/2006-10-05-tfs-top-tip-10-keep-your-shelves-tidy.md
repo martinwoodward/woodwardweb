@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Team Foundation Server source control has a great feature called Shelving."
 # Taxonomies
 categories: ["git", "tfs", "technology", "maker", "web", "programming"]
 tags: ["blog", "archive"]

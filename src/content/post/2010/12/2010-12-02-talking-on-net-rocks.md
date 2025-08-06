@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "On Monday I was a little under the weather suffering from the winter tummy bug that is floating around at the moment, but my day was cheered."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "gadgets", "web", "podcast"]
 tags: ["blog", "archive"]

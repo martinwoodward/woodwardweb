@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "On November 3rd, I had the pleasure of announcing Team Explorer Everywhere 2010 SP1 Beta at my session during Eclipse Summit Europe."
 # Taxonomies
 categories: ["technology", "web"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "So in my previous post, I introduced the concept of a TFS workspace."
 # Taxonomies
 categories: ["git", "tfs", "technology", "gadgets", "maker", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]

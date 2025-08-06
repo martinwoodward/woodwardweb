@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Google has recently announced it's new Analytics service."
 # Taxonomies
 categories: ["technology", "dotnet", "web", "programming"]
 tags: ["blog", "archive"]

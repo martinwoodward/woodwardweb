@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Tonight at NIMTUG I'm going to be giving a talk to get everyone up to speed with the latest developments in the Team Foundation Server world."
 # Taxonomies
 categories: ["tfs", "technology", "web"]
 tags: ["blog", "archive"]

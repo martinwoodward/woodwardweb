@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Last night I had the pleasure of presenting to my local."
 # Taxonomies
 categories: ["tfs", "dotnet", "maker", "web", "programming"]
 tags: ["blog", "archive"]

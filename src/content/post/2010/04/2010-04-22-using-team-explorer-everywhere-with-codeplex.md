@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "People using CodePlex can download Visual Studio Team Explorer to access a CodePlex hosted TFS instance free of charge, but what if you want."
 # Taxonomies
 categories: ["tfs", "technology", "books", "web", "programming", "podcast", "personal"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Today we released Teamprise V1."
 # Taxonomies
 categories: ["tfs", "technology", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]

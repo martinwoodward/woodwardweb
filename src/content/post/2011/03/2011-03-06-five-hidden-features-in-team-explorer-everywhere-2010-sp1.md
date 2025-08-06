@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Hopefully you have heard the news by now that in February we shipped Team Explorer Everywhere 2010 SP1."
 # Taxonomies
 categories: ["git", "tfs", "technology", "gadgets", "web", "programming", "personal"]
 tags: ["blog", "archive"]

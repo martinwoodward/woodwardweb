@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Wow, Adobe have announced plans to buy Macromedia."
 # Taxonomies
 categories: ["technology", "web"]
 tags: ["blog", "archive"]

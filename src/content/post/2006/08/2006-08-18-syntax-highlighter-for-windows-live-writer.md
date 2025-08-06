@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Well, the benefits of the Live Writer SDK are already coming true for me."
 # Taxonomies
 categories: ["technology", "dotnet", "web", "programming"]
 tags: ["blog", "archive"]

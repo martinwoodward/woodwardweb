@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I’ve seen a few forum posts on this topic and talk about it a lot whenever meeting new users to Team Foundation Server so I thought it."
 # Taxonomies
 categories: ["git", "tfs", "technology", "dotnet", "maker", "web", "programming"]
 tags: ["blog", "archive"]

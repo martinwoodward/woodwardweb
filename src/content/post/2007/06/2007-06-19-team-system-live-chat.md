@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "By the time I post this, you'll probably see it posted a hundred places, however on the rare chance that you only read my blog and not one."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "web"]
 tags: ["blog", "archive"]

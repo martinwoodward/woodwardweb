@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Today the team released a brand new version of the Team Foundation Server Power Tools."
 # Taxonomies
 categories: ["git", "tfs", "technology", "maker", "web", "programming", "personal"]
 tags: ["blog", "archive"]

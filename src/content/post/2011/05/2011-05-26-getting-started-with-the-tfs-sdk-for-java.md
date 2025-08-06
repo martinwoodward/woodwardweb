@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "As you may have read over on Brian Harry’s blog, we recently made available a TFS SDK for Java."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "web", "programming", "personal"]
 tags: ["blog", "archive"]

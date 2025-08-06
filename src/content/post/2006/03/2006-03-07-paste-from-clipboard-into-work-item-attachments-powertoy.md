@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "James Manning has posted a suggestion for a powertoy to enable you to paste the contents on your clipboard into a work item as an attachment."
 # Taxonomies
 categories: ["tfs", "technology", "books", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]

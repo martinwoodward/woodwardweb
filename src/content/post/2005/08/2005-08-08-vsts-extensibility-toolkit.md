@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I always have trouble finding this, so I'm adding a link to the VSTS Extensibility toolkit to my blog and my del."
 # Taxonomies
 categories: ["tfs", "web"]
 tags: ["blog", "archive"]

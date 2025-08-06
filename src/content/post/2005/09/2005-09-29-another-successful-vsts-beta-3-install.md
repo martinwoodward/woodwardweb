@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I know I probably shouldn't be this excited, but I've just installed VSTS B3 into a single VPC image, and it worked first time."
 # Taxonomies
 categories: ["tfs", "maker", "web"]
 tags: ["blog", "archive"]

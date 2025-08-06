@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I like my build numbers to be the same number that my assemblies are versioned with (and my end deliverables)."
 # Taxonomies
 categories: ["git", "tfs", "technology", "dotnet", "maker", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "One of the most frequent questions I get when talking to people about TFS if how to upgrade from the freely downloadable 90-day TFS 2008."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "web", "personal"]
 tags: ["blog", "archive"]

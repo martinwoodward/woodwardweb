@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Anyone who works in an office with other programmers will know the joys of trying to get a group together to go to lunch."
 # Taxonomies
 categories: ["technology", "books", "gadgets", "web", "personal"]
 tags: ["blog", "archive"]

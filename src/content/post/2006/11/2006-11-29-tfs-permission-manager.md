@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Via [James and Roy] Leon Langleyben (MVP) has just posted a version of his TFS Permissions Manager."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "web", "programming"]
 tags: ["blog", "archive"]

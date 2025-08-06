@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I'm safely back from a fantastic week at the MVP Summit in Seattle / Redmond."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "gadgets", "web", "podcast", "personal"]
 tags: ["blog", "archive"]

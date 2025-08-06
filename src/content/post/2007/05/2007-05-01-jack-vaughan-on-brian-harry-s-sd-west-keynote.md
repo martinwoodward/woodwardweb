@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I wasn't at SD West this year, however I'd heard that Brian Harry was going to be doing an interesting keynote."
 # Taxonomies
 categories: ["tfs", "technology", "books", "dotnet", "maker", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]

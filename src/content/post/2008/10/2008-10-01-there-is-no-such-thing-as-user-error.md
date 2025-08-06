@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Earlier in the week I was on a support call with a customer who was seeing strange issues."
 # Taxonomies
 categories: ["tfs", "technology", "teamprise", "programming", "personal"]
 tags: ["blog", "archive"]

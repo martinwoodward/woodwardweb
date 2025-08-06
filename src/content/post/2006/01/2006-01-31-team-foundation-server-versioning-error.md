@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "John Lawrence has posted an interesting tip about the error 'Server did not recognise the value of the HTTP Header SOAPAction: http://schemas."
 # Taxonomies
 categories: ["tfs", "technology", "web", "programming"]
 tags: ["blog", "archive"]

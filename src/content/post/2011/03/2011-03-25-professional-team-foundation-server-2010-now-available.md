@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I’ve always wanted to write a technical book and when I started getting involved in Team Foundation Server I thought that this technology."
 # Taxonomies
 categories: ["git", "tfs", "technology", "books", "dotnet", "gadgets", "maker", "web", "programming", "personal"]
 tags: ["blog", "archive"]

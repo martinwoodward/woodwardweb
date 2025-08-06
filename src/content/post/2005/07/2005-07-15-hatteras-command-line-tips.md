@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I couldn't find this with a quick google, so guessed the answer."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "programming"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "After the highly successful Developer Developer Developer event in Galway last year, this time it is moving north to my neck of the woods – Belfast."
 # Taxonomies
 categories: ["technology", "dotnet", "maker", "web", "programming", "personal"]
 tags: ["blog", "archive"]

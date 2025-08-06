@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "A feature of changeset metadata in Team Foundation Server 2008 is that it is actually editable."
 # Taxonomies
 categories: ["git", "tfs", "technology", "maker", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]

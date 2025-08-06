@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Tonight I had the pleasure of listening to Scott Guthrie talk about ASP."
 # Taxonomies
 categories: ["dotnet", "web", "programming", "podcast", "personal"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "When debugging network issues, I tend to fallback to good old telnet as a way of opening a port to a machine."
 # Taxonomies
 categories: ["technology", "maker", "web", "programming", "podcast"]
 tags: ["blog", "archive"]

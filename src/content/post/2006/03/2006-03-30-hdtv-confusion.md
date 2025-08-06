@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Sometime this year, we want to buy a second TV for our house."
 # Taxonomies
 categories: ["web", "personal"]
 tags: ["blog", "archive"]

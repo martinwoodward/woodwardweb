@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "In TFS 2010 quite a few things have been fundamentally changed for the better, but from an end user point of view people hopefully won't notice."
 # Taxonomies
 categories: ["git", "tfs", "technology", "maker", "web", "podcast", "personal"]
 tags: ["blog", "archive"]

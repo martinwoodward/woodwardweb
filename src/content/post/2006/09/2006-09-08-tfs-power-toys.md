@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Brian Harry has been on a blogging spree this week."
 # Taxonomies
 categories: ["tfs", "technology", "gadgets", "teamprise", "web"]
 tags: ["blog", "archive"]

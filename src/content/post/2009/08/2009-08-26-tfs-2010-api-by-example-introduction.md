@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "As I am exploring programming against TFS 2010, I usually build myself up a collection of code snippets that show me how to do various."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "web", "programming"]
 tags: ["blog", "archive"]

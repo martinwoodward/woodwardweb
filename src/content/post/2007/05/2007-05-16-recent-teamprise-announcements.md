@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I've just got back into the office after a week and a bit on vacation and was pleased to see a few announcements have been made while I was."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]

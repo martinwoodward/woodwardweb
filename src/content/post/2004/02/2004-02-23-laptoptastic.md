@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Amazing, never really won anything before (unless you count 1st prize in a fancy dress competition dressed as Worzel Gummage)."
 # Taxonomies
 categories: ["technology", "books", "gadgets", "web"]
 tags: ["blog", "archive"]

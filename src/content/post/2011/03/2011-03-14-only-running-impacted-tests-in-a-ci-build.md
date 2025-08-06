@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "One of the key things about your CI build is to ensure that is runs fast so that you have a very quick feedback loop to see if you have a."
 # Taxonomies
 categories: ["tfs", "maker", "web", "programming", "personal"]
 tags: ["blog", "archive"]

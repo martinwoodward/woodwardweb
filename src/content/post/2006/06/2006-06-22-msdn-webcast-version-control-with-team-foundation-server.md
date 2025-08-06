@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Later today I’m presenting a webcast for Microsoft EMEA on Team Foundation Server Version Control."
 # Taxonomies
 categories: ["tfs", "technology", "web"]
 tags: ["blog", "archive"]

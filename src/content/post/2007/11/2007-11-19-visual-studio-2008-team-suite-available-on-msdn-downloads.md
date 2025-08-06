@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I got an IM message from fellow Team System MVP Grant Holliday this morning prompting me to log-in to MSDN Subscription Downloads and see."
 # Taxonomies
 categories: ["tfs", "technology", "web"]
 tags: ["blog", "archive"]

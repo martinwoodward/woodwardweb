@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I've been a keen user of Konfabulator for a while now."
 # Taxonomies
 categories: ["technology", "web"]
 tags: ["blog", "archive"]

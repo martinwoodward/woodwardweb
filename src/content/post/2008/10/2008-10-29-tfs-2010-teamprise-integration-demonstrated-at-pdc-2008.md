@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "During Brian Harry's 'Team Foundation Server 2010 Cool New Features' presentation at PDC, he demonstrated Teamprise working with TFS 2010."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]

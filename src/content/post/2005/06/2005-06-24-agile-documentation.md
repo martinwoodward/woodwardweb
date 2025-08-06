@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Just found this interesting article on documentation in Agile projects by Scott Ambler."
 # Taxonomies
 categories: ["technology", "maker", "web"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "According to the in flight map, I am currently 36000 feet above Baffin Bay, traveling at 550 Mph with mild amusement towards Foxe Bain."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "web", "programming", "personal"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "In my talk at the Belfast Launch Event, I gave some numbers of the differences that we had found when migrating our source from Visual."
 # Taxonomies
 categories: ["tfs", "technology", "web", "personal"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "As a follow up to my post back in August when we put TFS Beta 2 onto our production box, I just thought I'd mention that here at Teamprise."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]

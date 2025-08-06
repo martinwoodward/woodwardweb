@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Today, we have two things to celebrate."
 # Taxonomies
 categories: ["git", "tfs", "technology", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I recently stumbled across a handy Team Foundation Build screensaver created by Jim Liddell and wanted to share it as it seems very good."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "gadgets", "maker", "web", "programming"]
 tags: ["blog", "archive"]

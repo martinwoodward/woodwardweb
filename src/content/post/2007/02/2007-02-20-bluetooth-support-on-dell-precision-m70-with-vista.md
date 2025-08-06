@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Today, I received a fancy new Microsoft Wireless Notebook Presenter 8000 mouse courtesy of Microsoft."
 # Taxonomies
 categories: ["technology", "books", "gadgets", "maker", "web", "personal"]
 tags: ["blog", "archive"]

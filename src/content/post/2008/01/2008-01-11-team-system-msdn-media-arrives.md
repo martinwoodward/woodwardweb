@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "It's funny, in these days of digital distribution, but seeing some physical media for a software project you have been closely involved with."
 # Taxonomies
 categories: ["git", "tfs", "technology"]
 tags: ["blog", "archive"]

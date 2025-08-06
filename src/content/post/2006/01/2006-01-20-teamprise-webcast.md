@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "If you've been wondering what I have been up to lately, then make sure you sign up for the following MSDN Webcast:- MSDN Webcast: Accessing."
 # Taxonomies
 categories: ["tfs", "technology", "teamprise", "web"]
 tags: ["blog", "archive"]

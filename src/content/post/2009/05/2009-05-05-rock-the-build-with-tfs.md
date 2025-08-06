@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "If bunnies are just a little bit too cute and fluffy for you, then you might be interested in a little side project that reader Terry."
 # Taxonomies
 categories: ["git", "tfs", "technology", "books", "dotnet", "gadgets", "maker", "web", "programming"]
 tags: ["blog", "archive"]

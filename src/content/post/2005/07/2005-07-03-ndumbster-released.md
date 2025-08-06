@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Thanks to a load of great work from Alexis Kartmann, the nDumbster project is now in a state that I would recommend it's use for real world projects."
 # Taxonomies
 categories: ["dotnet", "web", "programming"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Some days I forget how much I hate SourceSafe."
 # Taxonomies
 categories: ["technology"]
 tags: ["blog", "archive"]

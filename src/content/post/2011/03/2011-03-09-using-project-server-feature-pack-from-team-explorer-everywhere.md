@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "As Brian Harry announced earlier today, it’s been a busy week already here."
 # Taxonomies
 categories: ["tfs", "technology", "web", "personal"]
 tags: ["blog", "archive"]

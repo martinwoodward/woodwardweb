@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "An odd smirk followed by 'You come here a lot' is not what you want to hear when at the customs desk waiting to come into the US."
 # Taxonomies
 categories: ["technology", "gadgets", "maker", "web", "personal"]
 tags: ["blog", "archive"]

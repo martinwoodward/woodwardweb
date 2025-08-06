@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Well, the impending release of Team Foundation Server looks to be days away."
 # Taxonomies
 categories: ["tfs", "web"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Sadly, I couldn't go along to MIX this year."
 # Taxonomies
 categories: ["tfs", "technology", "gadgets", "teamprise", "web", "podcast"]
 tags: ["blog", "archive"]

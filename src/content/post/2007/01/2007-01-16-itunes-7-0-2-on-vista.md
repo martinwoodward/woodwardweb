@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "So, next on my list was to get iTunes working so that I can easily feed my podcast addiction."
 # Taxonomies
 categories: ["technology", "gadgets", "web", "podcast"]
 tags: ["blog", "archive"]

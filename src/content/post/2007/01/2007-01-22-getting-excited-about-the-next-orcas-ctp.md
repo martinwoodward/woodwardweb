@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I'm getting really excited about the next CTP for the next release of Visual Studio (Codenamed Orcas)."
 # Taxonomies
 categories: ["tfs", "technology", "books", "dotnet", "web", "programming"]
 tags: ["blog", "archive"]

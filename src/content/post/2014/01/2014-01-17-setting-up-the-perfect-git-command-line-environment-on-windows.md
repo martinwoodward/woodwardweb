@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Over the past couple of weeks I’ve had several people ask me about my dev environment for working with Git on Windows so I decided to write."
 # Taxonomies
 categories: ["git", "tfs", "technology", "maker", "web", "programming", "personal", "github"]
 tags: ["blog", "archive"]

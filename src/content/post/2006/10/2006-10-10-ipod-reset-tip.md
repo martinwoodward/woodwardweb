@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I've used my old iPod Mini nearly every day for 2 years (since I discovered Podcasting for the first time)."
 # Taxonomies
 categories: ["technology", "dotnet", "gadgets", "maker", "web", "podcast"]
 tags: ["blog", "archive"]

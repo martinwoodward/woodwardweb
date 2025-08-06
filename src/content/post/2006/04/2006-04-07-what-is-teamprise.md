@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "If you want to know more about what I’ve been up to lately, then take a look at Ben’s latest post."
 # Taxonomies
 categories: ["teamprise", "web"]
 tags: ["blog", "archive"]

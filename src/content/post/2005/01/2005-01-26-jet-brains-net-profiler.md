@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Jet Brains have just announced the opening of the EAP for their new."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "gadgets", "maker", "web", "programming", "personal"]
 tags: ["blog", "archive"]

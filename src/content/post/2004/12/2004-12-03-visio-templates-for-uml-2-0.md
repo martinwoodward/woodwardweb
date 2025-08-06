@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Recently discovered these excellent UML 2."
 # Taxonomies
 categories: ["technology", "books", "web", "programming"]
 tags: ["blog", "archive"]

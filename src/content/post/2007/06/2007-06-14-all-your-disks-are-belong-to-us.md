@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "With the Trustworthy Computing initiative, we'd all thought the days of easter eggs) in Microsoft products had died, however three."
 # Taxonomies
 categories: ["technology", "gadgets", "web"]
 tags: ["blog", "archive"]

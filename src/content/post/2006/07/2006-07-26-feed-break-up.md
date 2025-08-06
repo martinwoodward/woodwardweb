@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Lately a shocking thing has happened."
 # Taxonomies
 categories: ["tfs", "technology", "books", "dotnet", "gadgets", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]

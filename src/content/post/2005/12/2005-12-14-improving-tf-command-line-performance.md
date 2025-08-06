@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Buck Hodges has done an excellent post on improving performance of the team foundation source control command line (tf."
 # Taxonomies
 categories: ["tfs", "web"]
 tags: ["blog", "archive"]

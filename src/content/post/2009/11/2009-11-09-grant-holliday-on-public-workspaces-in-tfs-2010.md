@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Grant Holliday has an excellent post up on the new public workspaces feature in TFS 2010, why it was created and how to use it."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]

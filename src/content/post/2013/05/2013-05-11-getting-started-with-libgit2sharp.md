@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "If you want to work with your local Git repositories in some."
 # Taxonomies
 categories: ["git", "technology", "books", "dotnet", "maker", "web", "programming", "github"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Now I'm in the Apple Store in Chicago - sweet."
 # Taxonomies
 categories: ["technology"]
 tags: ["blog", "archive"]

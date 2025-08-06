@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I just discovered Microsoft Max."
 # Taxonomies
 categories: ["technology", "dotnet", "gadgets", "web", "personal"]
 tags: ["blog", "archive"]

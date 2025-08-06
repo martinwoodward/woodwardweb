@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "If the recent announcements about Silverlight have your interest and you can get to Dublin on June 7th this year then I would urge you to."
 # Taxonomies
 categories: ["technology", "books", "dotnet", "maker", "web", "programming", "personal"]
 tags: ["blog", "archive"]

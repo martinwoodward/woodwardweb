@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Well, I'm back online in the new house - with a lovely new 2Mbps ADSL connection."
 # Taxonomies
 categories: ["web"]
 tags: ["blog", "archive"]

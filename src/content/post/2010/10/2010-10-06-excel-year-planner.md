@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "As I’ve mentioned in the past, I like to have a compact year planner on the wall next to my desk so that I can quickly reference stuff."
 # Taxonomies
 categories: ["technology", "dotnet", "web", "personal"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Today, I am pleased to announce that Teamprise are offering complimentary licenses of the Teamprise client suite for anyone wanting to use."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "teamprise", "web", "programming", "podcast", "personal"]
 tags: ["blog", "archive"]

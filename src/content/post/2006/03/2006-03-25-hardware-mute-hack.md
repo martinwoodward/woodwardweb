@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I have a lovely Dell Precision M70 as my main development machine."
 # Taxonomies
 categories: ["technology", "books", "gadgets", "maker", "personal"]
 tags: ["blog", "archive"]

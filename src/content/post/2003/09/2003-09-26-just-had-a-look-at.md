@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Just had a look at this page on the Eurdora web browser (on the palm) and it works really well."
 # Taxonomies
 categories: ["web"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Doing a big peice of UI design again at the moment."
 # Taxonomies
 categories: ["technology", "books", "web", "personal"]
 tags: ["blog", "archive"]

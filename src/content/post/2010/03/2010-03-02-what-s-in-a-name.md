@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "When the Teamprise technology was acquired by Microsoft, one of the first non-TFS 2010 feature things that we knew we needed to do was change the name."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "maker", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]

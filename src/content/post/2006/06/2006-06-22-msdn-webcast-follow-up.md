@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Thanks to the folks that dropped by the webcast early today."
 # Taxonomies
 categories: ["git", "tfs", "technology", "dotnet", "maker", "web", "programming"]
 tags: ["blog", "archive"]

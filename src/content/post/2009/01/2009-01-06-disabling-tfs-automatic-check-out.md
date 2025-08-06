@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "From time to time I hear from people who dislike the automatic check out behaviour common with TFS."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]

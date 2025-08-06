@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Just to let folks know I’ll be popping over to attend SD West."
 # Taxonomies
 categories: ["tfs", "technology", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]

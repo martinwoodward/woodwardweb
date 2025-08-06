@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Apologies for being quiet on the blogging front lately, we’ve been busy getting ready for TechEd in Boston next week."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "maker", "web", "programming"]
 tags: ["blog", "archive"]

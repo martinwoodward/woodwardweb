@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "If you are customizing a team build, then there are only two things you need to know to get you started."
 # Taxonomies
 categories: ["tfs", "technology", "books", "dotnet", "maker", "web", "programming"]
 tags: ["blog", "archive"]

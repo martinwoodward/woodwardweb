@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "The other week Brian Randall and I sat down with Carl and Richard to record a."
 # Taxonomies
 categories: ["tfs", "dotnet", "web", "podcast"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "In a recent episode of."
 # Taxonomies
 categories: ["tfs", "technology", "books", "dotnet", "web", "programming", "podcast"]
 tags: ["blog", "archive"]

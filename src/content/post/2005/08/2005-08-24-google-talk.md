@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Probably going to be a lot of talk about this over the next few days."
 # Taxonomies
 categories: ["technology", "web", "podcast"]
 tags: ["blog", "archive"]

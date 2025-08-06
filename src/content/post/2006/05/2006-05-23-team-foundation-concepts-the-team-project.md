@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Recently I was putting together some slides for a talk and I was trying to put together a short sentence regarding the definition of each."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "web", "programming"]
 tags: ["blog", "archive"]

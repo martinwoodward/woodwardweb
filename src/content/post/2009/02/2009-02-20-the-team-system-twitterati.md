@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Twitter seems to be going mainstream here in the UK."
 # Taxonomies
 categories: ["tfs", "dotnet", "maker", "web", "programming", "podcast", "personal"]
 tags: ["blog", "archive"]

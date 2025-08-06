@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I don't travel as much as I used to, but there are some things about a hotel that caters to business travelers that they should get right."
 # Taxonomies
 categories: ["gadgets", "maker", "web", "personal"]
 tags: ["blog", "archive"]

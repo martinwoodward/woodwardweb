@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Just started to leverage BuzzWhack."
 # Taxonomies
 categories: ["web"]
 tags: ["blog", "archive"]

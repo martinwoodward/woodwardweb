@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Mickey Gousset has posted details of the new Team System training courses from Notion Solutions."
 # Taxonomies
 categories: ["tfs", "technology", "books", "gadgets", "web", "programming", "personal"]
 tags: ["blog", "archive"]

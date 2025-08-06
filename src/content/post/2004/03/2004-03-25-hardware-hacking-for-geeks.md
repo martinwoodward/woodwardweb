@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Ever wanted to connect your toaster to the internet, turn a skyscraper into a giant display, add a web server to your filter coffee machine."
 # Taxonomies
 categories: ["technology", "books", "gadgets", "maker", "web"]
 tags: ["blog", "archive"]

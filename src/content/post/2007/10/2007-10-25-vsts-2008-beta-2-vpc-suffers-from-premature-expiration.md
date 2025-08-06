@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "If you are/were planning on using that Beta 2 VPC of Team System or TFS that you downloaded after November 1st, then think again."
 # Taxonomies
 categories: ["tfs", "web"]
 tags: ["blog", "archive"]

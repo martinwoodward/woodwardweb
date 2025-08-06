@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Got forwarded this today, apparently from a 1954 Popular Mechanics magazine."
 # Taxonomies
 categories: ["git", "technology", "gadgets", "web", "programming", "personal"]
 tags: ["blog", "archive"]

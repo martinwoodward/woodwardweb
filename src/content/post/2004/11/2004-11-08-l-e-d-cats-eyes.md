@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "As I may have mentioned to anyone that will listen to me - I am currently getting up at a daft time of the morning to beat the traffic into work."
 # Taxonomies
 categories: ["technology", "maker", "web"]
 tags: ["blog", "archive"]

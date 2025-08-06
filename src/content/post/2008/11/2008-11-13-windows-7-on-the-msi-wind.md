@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "For the record, I like Windows Vista."
 # Taxonomies
 categories: ["git", "technology", "books", "gadgets", "maker", "web", "programming", "personal"]
 tags: ["blog", "archive"]

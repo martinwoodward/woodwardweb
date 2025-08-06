@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "The Virtual Team System User Group is great for people like me that live somewhat removed from a major population centre."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "maker", "web", "programming", "personal"]
 tags: ["blog", "archive"]

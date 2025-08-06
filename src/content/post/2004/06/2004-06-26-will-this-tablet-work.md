@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Just got my hands on a new Fujitsu ST5010 Tablet PC for a demo and I really enjoyed working with it."
 # Taxonomies
 categories: ["technology", "books", "gadgets", "web", "programming", "personal"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Thanks to everyone that came along to my talk at the 2006 Irish National Developers Conference yesterday."
 # Taxonomies
 categories: ["git", "tfs", "technology", "dotnet", "maker", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]

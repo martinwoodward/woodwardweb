@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "At EclipseCon 2008 this morning, we just announced that Teamprise 3."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "maker", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]

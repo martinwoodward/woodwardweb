@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Jeff Beehler has posted an update on the Beta 2 expiration issue."
 # Taxonomies
 categories: ["tfs", "technology", "web", "programming", "podcast"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Just watched SpaceShipOne go into space for the first of its X-prize runs."
 # Taxonomies
 categories: ["web"]
 tags: ["blog", "archive"]

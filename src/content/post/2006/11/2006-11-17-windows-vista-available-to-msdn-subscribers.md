@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I logged into my MSDN subscription account this morning to find the following additions in my Operating Systems section."
 # Taxonomies
 categories: ["technology"]
 tags: ["blog", "archive"]

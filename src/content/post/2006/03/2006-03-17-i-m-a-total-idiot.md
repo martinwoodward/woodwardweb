@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Usually, I am very good at the 24 hour clock."
 # Taxonomies
 categories: ["tfs", "books", "web", "programming", "personal"]
 tags: ["blog", "archive"]

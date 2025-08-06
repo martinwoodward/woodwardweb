@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I am currently sat in sunny Newark having sped through immigration in record time (there wasn't a single person in front of me in the queue."
 # Taxonomies
 categories: ["tfs", "technology", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]

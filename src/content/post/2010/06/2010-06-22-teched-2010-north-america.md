@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I had the pleasure of travelling to New Orleans for the first time to speak at TechEd 2010 North America."
 # Taxonomies
 categories: ["git", "tfs", "technology", "gadgets", "maker", "web", "programming", "personal"]
 tags: ["blog", "archive"]

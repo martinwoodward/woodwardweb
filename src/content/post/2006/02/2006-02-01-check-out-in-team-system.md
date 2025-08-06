@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Internally in Teamprise, we have been having a lot of discussions about check-in and check-out in Team System and how to explain this."
 # Taxonomies
 categories: ["tfs", "teamprise"]
 tags: ["blog", "archive"]

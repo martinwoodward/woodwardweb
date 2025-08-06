@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "A lot of people were asking about this when I was in Dublin."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "maker", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]

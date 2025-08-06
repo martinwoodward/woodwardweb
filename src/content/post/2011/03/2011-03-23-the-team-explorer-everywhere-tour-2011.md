@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Ed Thomson from the Team Explorer Everywhere team is going to be doing a tour of the mid-west and central United States in early April."
 # Taxonomies
 categories: ["tfs", "technology", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]

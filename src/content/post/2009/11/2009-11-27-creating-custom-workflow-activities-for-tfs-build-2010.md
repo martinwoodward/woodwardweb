@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Fellow Microsoft TFS Program Manager Jim Lamb has a good post detailing how to create a custom workflow activity in Team Foundation Build."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "web", "programming"]
 tags: ["blog", "archive"]

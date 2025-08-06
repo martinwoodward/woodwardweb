@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Back in February Microsoft were asking for feedback on the installation for Team Foundation Server Release Candidate."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "teamprise", "web"]
 tags: ["blog", "archive"]

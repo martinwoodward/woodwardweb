@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Yesterday, Version 2."
 # Taxonomies
 categories: ["technology", "maker", "web", "personal"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "This morning I was creating a new build definition for the Beta branch of the initial Microsoft release of the Teamprise acquired bits."
 # Taxonomies
 categories: ["git", "tfs", "technology", "maker", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]

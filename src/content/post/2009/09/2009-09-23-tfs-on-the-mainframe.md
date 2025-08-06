@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I’m playing with a lot of cool stuff at the moment as we get ready for Team Foundation Server 2010, but accessing TFS from the Mac or inside."
 # Taxonomies
 categories: ["tfs", "technology", "teamprise", "web", "programming", "podcast"]
 tags: ["blog", "archive"]

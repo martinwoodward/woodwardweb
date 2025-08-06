@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Demonstration of the CONTENTEDITABLE attribute that was introduced in IE 5."
 # Taxonomies
 categories: ["technology", "books", "maker", "web"]
 tags: ["blog", "archive"]

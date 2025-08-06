@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "BBC Four recently broadcast an interesting documentary Tetris: From Russia With Love which was a very interesting account of the battles."
 # Taxonomies
 categories: ["technology", "books", "web"]
 tags: ["blog", "archive"]

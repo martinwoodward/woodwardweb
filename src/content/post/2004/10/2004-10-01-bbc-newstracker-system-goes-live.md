@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "The BBC have rather quietly released a new version of their website, with related links powered by their Newstraker system."
 # Taxonomies
 categories: ["technology", "gadgets", "web", "personal"]
 tags: ["blog", "archive"]

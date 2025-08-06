@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Apologies for the lack of posts recently."
 # Taxonomies
 categories: ["tfs", "web", "programming", "personal"]
 tags: ["blog", "archive"]

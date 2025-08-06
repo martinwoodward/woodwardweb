@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Recently, a colleague and I were struggling to get a Windows 2003 domain controller configured to use an external NTP time source."
 # Taxonomies
 categories: ["technology", "web"]
 tags: ["blog", "archive"]

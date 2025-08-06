@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "One of the things that Java IDE's have always had over Visual Studio is the ability to target older versions of the VM from the latest and."
 # Taxonomies
 categories: ["technology", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]

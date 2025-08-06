@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "In case you hadn't heard, this week is Microsoft PDC 2008 in LA."
 # Taxonomies
 categories: ["tfs", "technology", "gadgets", "maker", "teamprise", "web"]
 tags: ["blog", "archive"]

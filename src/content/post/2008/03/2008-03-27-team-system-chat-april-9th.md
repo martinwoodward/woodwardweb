@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "The Team System Chat's are a great way for you to talk direct to very influential members of the product group - the people that actually."
 # Taxonomies
 categories: ["tfs", "technology", "web", "programming"]
 tags: ["blog", "archive"]

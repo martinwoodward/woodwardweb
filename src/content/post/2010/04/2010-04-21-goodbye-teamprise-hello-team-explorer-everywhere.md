@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "In case you missed it, as part of Bob Muglia’s keynote announcing the launch of Visual Studio 2010 last week he also announced the launch of."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "teamprise", "web", "programming", "podcast", "personal"]
 tags: ["blog", "archive"]

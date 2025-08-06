@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "The source control system within Visual Studio Team System has a very powerful security model."
 # Taxonomies
 categories: ["git", "tfs", "web"]
 tags: ["blog", "archive"]

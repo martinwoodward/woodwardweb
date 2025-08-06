@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Just reading Ben's blog."
 # Taxonomies
 categories: ["technology", "books", "gadgets", "maker", "programming"]
 tags: ["blog", "archive"]

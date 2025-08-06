@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Thanks to Ben for passing this on."
 # Taxonomies
 categories: ["technology", "dotnet", "maker", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]

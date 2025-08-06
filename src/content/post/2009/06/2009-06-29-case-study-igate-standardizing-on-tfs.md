@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "TFS has a many strengths."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]

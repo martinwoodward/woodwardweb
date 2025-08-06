@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "**Problem:** Use ssh tunnelling to access a Subversion repository using SSH tunneling (i."
 # Taxonomies
 categories: ["git", "technology", "dotnet", "gadgets", "maker", "web", "programming"]
 tags: ["blog", "archive"]

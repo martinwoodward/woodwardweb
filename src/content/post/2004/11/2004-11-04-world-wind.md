@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "So, how about a desktop application that allows you to zoom in to any part of the world, move around and view in 3D."
 # Taxonomies
 categories: ["technology", "dotnet", "web"]
 tags: ["blog", "archive"]

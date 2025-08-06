@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "This is an entry from the toilet at work using GPRS via my mobile phone."
 # Taxonomies
 categories: ["gadgets"]
 tags: ["blog", "archive"]

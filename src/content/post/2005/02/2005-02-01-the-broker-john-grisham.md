@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "It has been ages since I have read any fiction."
 # Taxonomies
 categories: ["technology", "books", "gadgets", "web", "podcast"]
 tags: ["blog", "archive"]

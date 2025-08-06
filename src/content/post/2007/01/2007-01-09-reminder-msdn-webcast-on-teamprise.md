@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I've had the pleasure of clashing with some great presenters in my time - but today I have the opportunity to clash with the great Zen."
 # Taxonomies
 categories: ["tfs", "technology", "teamprise", "web", "podcast"]
 tags: ["blog", "archive"]

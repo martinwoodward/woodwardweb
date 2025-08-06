@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "This week Siemens have demonstrated a cheap paper thin display using OLED technology."
 # Taxonomies
 categories: ["technology", "maker", "web"]
 tags: ["blog", "archive"]

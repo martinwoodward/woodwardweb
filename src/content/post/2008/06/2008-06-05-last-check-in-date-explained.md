@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I've been doing a lot of work with the Team Foundation Server 2008 SP1 Preview, and even recorded a podcast about it (also see Brian Harry's."
 # Taxonomies
 categories: ["tfs", "teamprise", "web", "podcast"]
 tags: ["blog", "archive"]

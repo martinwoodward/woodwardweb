@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "In a previous post, I talked about how Windows file sharing sucks over the WAN."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "gadgets", "maker", "teamprise", "web", "programming", "podcast"]
 tags: ["blog", "archive"]

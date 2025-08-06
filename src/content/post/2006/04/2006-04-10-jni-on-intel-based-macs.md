@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "The day that Intel Macs first started shipping I walked into an Apple store, downloaded Teamprise and tried to run it to see if it would work."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]

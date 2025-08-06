@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Tonight I spoke at the Cork INDA group."
 # Taxonomies
 categories: ["tfs", "technology", "books", "dotnet", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]

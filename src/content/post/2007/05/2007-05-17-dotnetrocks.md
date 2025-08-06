@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Recently I had the pleasure of chatting with Carl Franklin and Richard Campbell about Source Control and Continuous Integration - this was."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "web", "podcast"]
 tags: ["blog", "archive"]

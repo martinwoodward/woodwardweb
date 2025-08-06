@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Today is the first day of the new year in the office and so it is time for me to do the dance that I always do after Auld Lang Syne, and."
 # Taxonomies
 categories: ["tfs", "technology", "books", "gadgets", "maker", "web"]
 tags: ["blog", "archive"]

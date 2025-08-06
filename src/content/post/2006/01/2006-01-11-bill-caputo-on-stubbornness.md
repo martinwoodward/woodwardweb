@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "A nice post to start the day from Bill Caputo."
 # Taxonomies
 categories: ["web"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Thanks to everyone who came along to the talk today in Barcelona."
 # Taxonomies
 categories: ["maker", "programming"]
 tags: ["blog", "archive"]

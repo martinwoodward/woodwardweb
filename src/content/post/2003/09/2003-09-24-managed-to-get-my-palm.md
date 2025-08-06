@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Managed to get my Palm to connect to Blogger via wapblogger."
 # Taxonomies
 categories: ["personal"]
 tags: ["blog", "archive"]

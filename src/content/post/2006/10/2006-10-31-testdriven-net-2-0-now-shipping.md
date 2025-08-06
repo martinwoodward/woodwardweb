@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "In case you missed the excellent news, Jamie Cansdale has announced that TestDriven."
 # Taxonomies
 categories: ["git", "tfs", "dotnet", "gadgets", "web", "programming"]
 tags: ["blog", "archive"]

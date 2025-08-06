@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "My name is Martin Woodward and I am a gadgetaholic."
 # Taxonomies
 categories: ["technology", "gadgets", "maker", "web"]
 tags: ["blog", "archive"]

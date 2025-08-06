@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "This afternoon at EclipseCon, Corey (my boss) announced that Teamprise has joined the Eclipse Foundation."
 # Taxonomies
 categories: ["git", "tfs", "technology", "gadgets", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]

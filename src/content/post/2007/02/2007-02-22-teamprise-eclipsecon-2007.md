@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Just wanted to mention that Corey (my boss) will be presenting at EclipseCon 2007 in Santa Clara on March 6th."
 # Taxonomies
 categories: ["tfs", "technology", "teamprise", "web"]
 tags: ["blog", "archive"]

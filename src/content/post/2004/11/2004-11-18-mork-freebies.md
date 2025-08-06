@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "The Register have published the results of an important benchmark test - what is the best free rucksack."
 # Taxonomies
 categories: ["books", "gadgets", "web", "programming"]
 tags: ["blog", "archive"]

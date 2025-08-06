@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "In the latest episode of Radio TFS Mickey and I sat down for a chat with Jonathan Wanagel who is the Principal Development Manager over at."
 # Taxonomies
 categories: ["git", "tfs", "technology", "web", "programming", "podcast"]
 tags: ["blog", "archive"]

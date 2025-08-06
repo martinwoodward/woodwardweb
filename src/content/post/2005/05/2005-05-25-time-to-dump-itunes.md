@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Via Wired, there is now a WinAmp plugin that allows you to sync your iPod from WinAmp."
 # Taxonomies
 categories: ["technology", "gadgets", "maker", "web", "podcast"]
 tags: ["blog", "archive"]

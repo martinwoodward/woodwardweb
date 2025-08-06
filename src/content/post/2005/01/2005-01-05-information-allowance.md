@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I'm currently doing a budget (January is always a long month, but this one will be particularly hard as my personal circumstances have."
 # Taxonomies
 categories: ["web", "personal"]
 tags: ["blog", "archive"]

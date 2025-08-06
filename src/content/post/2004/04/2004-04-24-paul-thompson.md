@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Visit Paul Thompson's excellent and sometimes disturbing site."
 # Taxonomies
 categories: ["web"]
 tags: ["blog", "archive"]

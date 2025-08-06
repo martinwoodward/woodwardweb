@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "So, I was manning the booth yesterday in a freakishly tired state that I was almost hallucinating (I swear I saw another high ranking."
 # Taxonomies
 categories: ["technology", "dotnet", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Jeffrey Fredrick just announced that CruiseControl 2."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "web", "programming"]
 tags: ["blog", "archive"]

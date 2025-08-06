@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Interesting article in Wired about 'Numbers Stations' that broadcast on Shortwave."
 # Taxonomies
 categories: ["technology", "maker", "web"]
 tags: ["blog", "archive"]

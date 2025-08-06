@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Now that TFS 2008 SP1 is here, time to create a version of the TFS installer media that just contains the bits with SP1 applied."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "maker", "web", "programming", "personal"]
 tags: ["blog", "archive"]

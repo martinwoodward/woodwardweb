@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I'm currently busy with the merge functionality in Teamprise Version 2."
 # Taxonomies
 categories: ["git", "tfs", "technology", "books", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]

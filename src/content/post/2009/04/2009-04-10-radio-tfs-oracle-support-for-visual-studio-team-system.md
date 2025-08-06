@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "This month I called Doug Seven and Daniel Norwood to talk about the work Quest are doing to provide Oracle support inside Visual Studio team."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "maker", "web", "programming", "podcast"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "If you are in or around Dublin next week (May 3rd & 4th 2006), then I would strongly encourage you to come along to the 2006 Irish National."
 # Taxonomies
 categories: ["technology", "dotnet", "web"]
 tags: ["blog", "archive"]

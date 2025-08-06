@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "In the days before I worked for Teamprise, I had a 3 hour, 120 mile commute."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "gadgets", "maker", "teamprise", "web", "programming", "podcast", "personal"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I've been living in Northern Ireland for over a year now however I've only been to Ireland once - and that was to get some cheap petrol as I."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "web", "programming"]
 tags: ["blog", "archive"]

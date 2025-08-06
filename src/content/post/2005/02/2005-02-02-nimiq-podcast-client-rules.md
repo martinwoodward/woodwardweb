@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I have been driven to desperation with iPodder, so thought I would go looking for another podcast client before I wrote my own."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "web", "programming", "podcast"]
 tags: ["blog", "archive"]

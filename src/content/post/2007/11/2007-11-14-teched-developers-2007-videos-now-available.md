@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "At this years TechEd EMEA, they were doing a pilot recording video of the speakers along-side the usual audio/visual recordings that you get."
 # Taxonomies
 categories: ["gadgets", "programming", "personal"]
 tags: ["blog", "archive"]

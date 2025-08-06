@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "After a somewhat public call to action, Ian Olsen is now blogging."
 # Taxonomies
 categories: ["technology", "dotnet", "web"]
 tags: ["blog", "archive"]

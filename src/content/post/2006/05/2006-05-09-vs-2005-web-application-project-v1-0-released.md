@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "OK, so the odds that you read my blog and not Scott Guthrie’s are pretty low, especially if you have any interest in this topic."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "maker", "web"]
 tags: ["blog", "archive"]

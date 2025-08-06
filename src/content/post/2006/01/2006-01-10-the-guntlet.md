@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Buck Hodges recently posted about a problem with locks based on files types and shelving in VSTS Source Control."
 # Taxonomies
 categories: ["git", "tfs", "technology", "dotnet", "maker", "web", "programming", "personal"]
 tags: ["blog", "archive"]

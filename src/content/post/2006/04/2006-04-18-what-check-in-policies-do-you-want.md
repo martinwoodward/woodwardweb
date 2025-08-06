@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "0 of Teamprise is out the door, we have started on the next release and are looking at the features that people want."
 # Taxonomies
 categories: ["tfs", "dotnet", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]

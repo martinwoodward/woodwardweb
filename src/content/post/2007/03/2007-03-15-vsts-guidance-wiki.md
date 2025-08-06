@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I just found out about the following project going on at CodePlex out of the patterns and practices project which find a very interesting."
 # Taxonomies
 categories: ["tfs", "web", "programming"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Ron Jacobs has posted up an ARCast video from TechEd 2007 in Australia."
 # Taxonomies
 categories: ["tfs", "technology", "teamprise", "web", "podcast", "personal"]
 tags: ["blog", "archive"]

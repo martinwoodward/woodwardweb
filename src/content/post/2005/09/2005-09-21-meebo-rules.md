@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Occassionally, I come across something that is soo good I think twice about recommending it to people because I don't want the site to get."
 # Taxonomies
 categories: ["technology", "web"]
 tags: ["blog", "archive"]

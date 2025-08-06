@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Four years ago this month, I joined a small start-up being created called Teamprise after reading about it on Eric Sink's blog."
 # Taxonomies
 categories: ["git", "tfs", "technology", "books", "maker", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]

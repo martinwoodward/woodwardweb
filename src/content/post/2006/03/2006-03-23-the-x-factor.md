@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Just been listening to an excellent programme from BBC Radio 4 - The X Factor."
 # Taxonomies
 categories: ["web", "podcast", "personal"]
 tags: ["blog", "archive"]

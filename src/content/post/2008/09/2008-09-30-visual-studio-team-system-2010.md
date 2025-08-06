@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "If you haven’t heard the news already, Microsoft have officially announced the name of the next version of Team System, previously known by."
 # Taxonomies
 categories: ["git", "tfs", "technology", "dotnet", "maker", "teamprise", "web", "programming", "podcast"]
 tags: ["blog", "archive"]

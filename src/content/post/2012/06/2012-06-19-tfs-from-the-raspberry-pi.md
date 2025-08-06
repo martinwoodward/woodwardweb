@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I just got delivery of my shiny new Raspberry Pi."
 # Taxonomies
 categories: ["tfs", "technology", "gadgets", "maker", "web", "programming", "personal"]
 tags: ["blog", "archive"]

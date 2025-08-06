@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Now that TFS 2010 Beta 1 is publically available, I thought it would make sense to share our plans with everyone."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "teamprise", "web", "programming", "podcast"]
 tags: ["blog", "archive"]

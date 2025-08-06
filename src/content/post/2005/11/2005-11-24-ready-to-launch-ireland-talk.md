@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "If you had the mis-fortune of hearing me speak at the Belfast launch event for SQL 2005 / Visual Studio 2005 / Biztalk 2006 this morning."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "maker", "teamprise", "web"]
 tags: ["blog", "archive"]

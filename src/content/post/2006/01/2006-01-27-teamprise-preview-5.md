@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Preview 5 of Teamprise is now available for registered users to download (registration is free)."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "teamprise", "web"]
 tags: ["blog", "archive"]

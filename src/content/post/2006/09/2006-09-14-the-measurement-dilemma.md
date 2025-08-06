@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Visual Studio Team Foundation Server gives a fantastic ability to track and report on various facts about your software development process."
 # Taxonomies
 categories: ["tfs", "technology", "gadgets", "web", "programming"]
 tags: ["blog", "archive"]

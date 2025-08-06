@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Last night I had the privilege of being invited to a party hosted by the good folks running the Visual Studio Industry Partner program that."
 # Taxonomies
 categories: ["teamprise", "web", "podcast"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "The new 'Gutsy Gibbon' version of Ubuntu was officially released this week."
 # Taxonomies
 categories: ["technology", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]

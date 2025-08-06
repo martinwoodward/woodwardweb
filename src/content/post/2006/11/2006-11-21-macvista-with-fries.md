@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "At the moment, we are going through a heavy testing phase on Version 2."
 # Taxonomies
 categories: ["technology", "gadgets", "maker", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]

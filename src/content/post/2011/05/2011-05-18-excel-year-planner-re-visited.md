@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "A while ago I blogged about my surprising obsession for having a year planner by my desk."
 # Taxonomies
 categories: ["web", "personal"]
 tags: ["blog", "archive"]

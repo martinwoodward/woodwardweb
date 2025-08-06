@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Just a quick post from inside the MS Vistor Centre in Redmond."
 # Taxonomies
 categories: ["personal"]
 tags: ["blog", "archive"]

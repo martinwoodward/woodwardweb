@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I'm back home from sunny Barcelona, and just wanted to post a quick note to thank all the folks who stopped by."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "maker", "web", "personal"]
 tags: ["blog", "archive"]

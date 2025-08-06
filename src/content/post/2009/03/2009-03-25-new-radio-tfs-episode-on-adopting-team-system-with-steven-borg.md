@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Earlier this month I spent a very pleasant evening at the beautiful home of Steven Borg and recorded the chat we had about adopting Team."
 # Taxonomies
 categories: ["tfs", "technology", "web", "podcast", "personal"]
 tags: ["blog", "archive"]

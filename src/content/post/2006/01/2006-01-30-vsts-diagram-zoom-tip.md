@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I am in a presentation at the moment and realised that the speakers don't know about this excellent tip that I learnt from Rob Burke but."
 # Taxonomies
 categories: ["tfs", "gadgets", "web"]
 tags: ["blog", "archive"]

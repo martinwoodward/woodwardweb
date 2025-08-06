@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "We get so used to the words “Important Security Update” that it is easy to let messages like this one pass you by."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "web"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "As promised, here is the code we created during the TFS 2008 Build session at TechEd 2007 in Barcelona."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]

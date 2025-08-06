@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Jamie Cansdale (the brains behind the must-have Visual Studio Extension TestDriven."
 # Taxonomies
 categories: ["tfs", "technology", "books", "dotnet", "web", "programming"]
 tags: ["blog", "archive"]

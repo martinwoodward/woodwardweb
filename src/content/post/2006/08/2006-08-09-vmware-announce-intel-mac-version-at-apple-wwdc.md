@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "As we work on a cross-platform client to Team Foundation Server, I not only need to test our client on many operating systems, I also run."
 # Taxonomies
 categories: ["tfs", "technology", "books", "dotnet", "gadgets", "teamprise", "web", "programming", "podcast"]
 tags: ["blog", "archive"]

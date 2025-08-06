@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Tonight I have the pleasure of speaking with the Team System Users Group Virtual Edition."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "web", "personal"]
 tags: ["blog", "archive"]

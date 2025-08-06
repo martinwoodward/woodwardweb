@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Jetbrains have announced the plan for Resharper 2."
 # Taxonomies
 categories: ["dotnet", "web", "personal"]
 tags: ["blog", "archive"]

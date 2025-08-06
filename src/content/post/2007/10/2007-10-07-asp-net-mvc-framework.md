@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Some interesting news seems to be coming out of the Alt."
 # Taxonomies
 categories: ["technology", "dotnet", "maker", "web", "programming"]
 tags: ["blog", "archive"]

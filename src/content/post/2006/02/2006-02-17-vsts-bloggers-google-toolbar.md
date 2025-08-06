@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Well, having tried new new beta of Google Toolbar I just had to try implementing my own toolbar button."
 # Taxonomies
 categories: ["git", "tfs", "technology", "books", "maker", "web", "programming", "podcast"]
 tags: ["blog", "archive"]

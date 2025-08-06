@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Been wondering what to do with all those GMail invites."
 # Taxonomies
 categories: ["technology", "dotnet", "gadgets", "web", "programming"]
 tags: ["blog", "archive"]

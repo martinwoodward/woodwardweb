@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "This site may dissappear for some spells over the next few days."
 # Taxonomies
 categories: ["dotnet", "maker", "web"]
 tags: ["blog", "archive"]

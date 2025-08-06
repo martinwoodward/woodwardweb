@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Soon, we'll be going on holiday for the first time since my son was born."
 # Taxonomies
 categories: ["technology", "gadgets", "web", "personal"]
 tags: ["blog", "archive"]

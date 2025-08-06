@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "As I've mentioned before, I love Resharper from those crazily clever folks at JetBrains."
 # Taxonomies
 categories: ["technology", "dotnet", "gadgets", "maker", "web", "programming", "personal"]
 tags: ["blog", "archive"]

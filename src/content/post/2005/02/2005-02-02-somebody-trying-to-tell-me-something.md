@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I was have a quick trawl through some of my logs, and found this funny set of search queries."
 # Taxonomies
 categories: ["personal"]
 tags: ["blog", "archive"]

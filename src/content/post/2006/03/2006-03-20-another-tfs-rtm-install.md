@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Quick post to say that I got an RTM version of Team Foundation Server installed inside a VPC over the weekend and it worked seamlessly (as."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "maker", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Brian Keller has posted a great interview with Brian Harry about Visual Studio Team System 2008, and a lot of detail on the improvements in."
 # Taxonomies
 categories: ["tfs", "web", "programming", "podcast"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Just posted a reply to the VSTS Forums, but this is such a common question that I thought I'd post the response here in a place that Google."
 # Taxonomies
 categories: ["git", "tfs", "technology", "gadgets", "maker", "web", "programming"]
 tags: ["blog", "archive"]

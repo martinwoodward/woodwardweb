@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I recently did an interview for Port 25 (the website for Microsoft’s Open Source Lab)."
 # Taxonomies
 categories: ["tfs", "technology", "books", "maker", "teamprise", "web", "podcast"]
 tags: ["blog", "archive"]

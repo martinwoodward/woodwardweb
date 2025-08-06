@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Interesting news from Javaworld."
 # Taxonomies
 categories: ["technology", "maker", "web", "programming"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Apple are really starting to get on my nerves."
 # Taxonomies
 categories: ["git", "technology", "maker", "web"]
 tags: ["blog", "archive"]

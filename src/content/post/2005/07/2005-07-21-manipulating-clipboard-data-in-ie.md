@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Just a quick sample to see if I can put stuff into IE's clipboard."
 # Taxonomies
 categories: ["technology", "books", "web", "programming"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "### In TFS 2008 SP1, a new feature was quietly introduced, WIT Client Metadata Filtering."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "maker", "teamprise", "web", "programming", "podcast", "personal"]
 tags: ["blog", "archive"]

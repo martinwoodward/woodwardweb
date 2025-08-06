@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Fantastic, the EAP for Resharper 2."
 # Taxonomies
 categories: ["dotnet", "web"]
 tags: ["blog", "archive"]

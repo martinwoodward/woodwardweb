@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "It's the 18th November and it's snowing."
 # Taxonomies
 categories: ["maker", "web"]
 tags: ["blog", "archive"]

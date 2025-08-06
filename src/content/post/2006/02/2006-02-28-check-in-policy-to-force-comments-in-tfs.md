@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Jeff Atwood has posted a sample to allow you to implement what has got to be the single most requested check-in policy for Team System,."
 # Taxonomies
 categories: ["tfs", "technology", "web", "programming"]
 tags: ["blog", "archive"]

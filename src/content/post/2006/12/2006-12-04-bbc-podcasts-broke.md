@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "15 Fixed now, nothing to see here."
 # Taxonomies
 categories: ["technology", "web", "podcast"]
 tags: ["blog", "archive"]

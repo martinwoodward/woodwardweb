@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Just wanted to thank the good folks who attended my recent talks on source control with Team Foundation Server in Limerick and Galway."
 # Taxonomies
 categories: ["git", "tfs", "technology", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]

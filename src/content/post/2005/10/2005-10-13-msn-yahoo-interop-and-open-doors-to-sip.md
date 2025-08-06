@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Well, looks like I made a good prediction."
 # Taxonomies
 categories: ["technology", "web"]
 tags: ["blog", "archive"]

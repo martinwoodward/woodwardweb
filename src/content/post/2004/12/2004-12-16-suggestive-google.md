@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "In case you haven't seen this yet, take a look at Google Suggest."
 # Taxonomies
 categories: ["technology", "web", "programming"]
 tags: ["blog", "archive"]

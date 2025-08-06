@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Ahh, in Beta 1 of the Team Explorer client, if you type 'tf' in a Visual Studio command prompt, you get back help in the console, rather."
 # Taxonomies
 categories: ["technology", "web", "programming"]
 tags: ["blog", "archive"]

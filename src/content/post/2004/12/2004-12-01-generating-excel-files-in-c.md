@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I have been investigating several ways of generating files suitable for use in Excel from a C# application."
 # Taxonomies
 categories: ["dotnet", "maker", "web", "programming"]
 tags: ["blog", "archive"]

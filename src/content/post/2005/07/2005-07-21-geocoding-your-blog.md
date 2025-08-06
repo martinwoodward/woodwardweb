@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I'm about to go traveling, so I'm figuring out how to geocode my blog so that I can use the data to display where I happen to be when I post."
 # Taxonomies
 categories: ["technology", "web", "programming", "personal"]
 tags: ["blog", "archive"]

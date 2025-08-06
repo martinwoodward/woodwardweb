@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "At the recent MVP summit, I attended a Mash-up lounge event."
 # Taxonomies
 categories: ["technology", "gadgets", "web", "programming", "personal"]
 tags: ["blog", "archive"]

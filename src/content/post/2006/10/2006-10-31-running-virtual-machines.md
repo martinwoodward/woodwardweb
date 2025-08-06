@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Not only do I use it for demonstrations of Teamprise, I also use it for day-to-day development and testing (one of the joys of developing a."
 # Taxonomies
 categories: ["git", "technology", "gadgets", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]

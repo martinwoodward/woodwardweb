@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I sometimes come across code that I consider posting to The Daily WTF, but I find the old career preservation instincts usually kick in."
 # Taxonomies
 categories: ["technology", "dotnet", "maker", "web", "programming"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Team Foundation Server uses Windows Sharepoint Services (WSS) to provide the project portal infrastructure."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "teamprise", "web", "podcast"]
 tags: ["blog", "archive"]

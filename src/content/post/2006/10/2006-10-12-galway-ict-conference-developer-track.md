@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Thanks to all the people who came along to the Developer Track of todays conference in Galway."
 # Taxonomies
 categories: ["tfs", "books", "dotnet", "web", "personal"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Excellent Google Hack via Scott Hanselman."
 # Taxonomies
 categories: ["technology", "web", "podcast"]
 tags: ["blog", "archive"]

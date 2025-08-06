@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Via [Rob] Some smart folks over at Avanade have started blogging about the Software Lifecycle (being Avanade, you'd expect this to be."
 # Taxonomies
 categories: ["tfs", "technology", "web", "personal"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "People go on about iPod + iTunes + Store being this all time great combination."
 # Taxonomies
 categories: ["git", "technology", "gadgets", "teamprise", "web", "programming", "podcast"]
 tags: ["blog", "archive"]

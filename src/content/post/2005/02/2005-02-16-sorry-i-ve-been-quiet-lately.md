@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Sorry about the lack of posts lately."
 # Taxonomies
 categories: ["dotnet", "web", "programming", "podcast", "personal"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "You know, this internet thing might just take off one day."
 # Taxonomies
 categories: ["dotnet", "web", "programming"]
 tags: ["blog", "archive"]

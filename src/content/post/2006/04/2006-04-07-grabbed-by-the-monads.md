@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "If (like me) you are slowly getting hooked on MSH (or Monad), the James Manning’s latest post will interest you – an early implementation of."
 # Taxonomies
 categories: ["git", "tfs", "web"]
 tags: ["blog", "archive"]

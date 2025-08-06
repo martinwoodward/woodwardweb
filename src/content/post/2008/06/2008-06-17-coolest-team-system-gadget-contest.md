@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Many people know that Team System and Team Foundation Server are incredibly extensible platforms."
 # Taxonomies
 categories: ["tfs", "technology", "gadgets", "web"]
 tags: ["blog", "archive"]

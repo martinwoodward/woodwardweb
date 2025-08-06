@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "When you create a new build definition in Team Foundation Server, you get to define how the workspace looks for the build."
 # Taxonomies
 categories: ["git", "tfs", "technology", "dotnet", "maker", "web", "programming", "personal"]
 tags: ["blog", "archive"]

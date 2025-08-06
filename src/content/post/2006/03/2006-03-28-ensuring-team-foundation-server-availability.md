@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "While even it's own mother would admit that VSS has some issues, the one thing in it's favour is it's simplicity."
 # Taxonomies
 categories: ["git", "tfs", "technology", "web", "personal"]
 tags: ["blog", "archive"]

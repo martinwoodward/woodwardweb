@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Tim Robertson has now upped and gone to Australia to be an excellent surf dude."
 # Taxonomies
 categories: ["dotnet", "web"]
 tags: ["blog", "archive"]

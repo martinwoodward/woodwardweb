@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Today, Microsoft made some important announcements regarding the future of Visual Studio 2010 along with the availability of Visual Studio."
 # Taxonomies
 categories: ["tfs", "technology", "web", "programming", "podcast"]
 tags: ["blog", "archive"]

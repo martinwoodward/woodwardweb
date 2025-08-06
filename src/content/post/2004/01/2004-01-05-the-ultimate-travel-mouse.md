@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Just seen this mouse - the Labtec Mini Optical Mouse - in action and it really looks like a fantastic mouse for the road warrior."
 # Taxonomies
 categories: ["gadgets", "web", "personal"]
 tags: ["blog", "archive"]

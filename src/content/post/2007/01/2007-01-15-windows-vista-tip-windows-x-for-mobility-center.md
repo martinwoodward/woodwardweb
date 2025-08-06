@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I was having trouble getting my external monitor to work properly."
 # Taxonomies
 categories: ["technology", "gadgets", "maker", "web"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "This morning we had a power cut which killed a particular tricky upgrade mid-way through trashing the machine I was attempting it on."
 # Taxonomies
 categories: ["tfs", "technology", "gadgets", "maker", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]

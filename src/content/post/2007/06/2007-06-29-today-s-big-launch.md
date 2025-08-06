@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "The blogosphere today is buzzing with news of the other launch happening today, but there is one a bit closer to my own heart - Eclipse 3."
 # Taxonomies
 categories: ["technology", "dotnet", "gadgets", "maker", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]

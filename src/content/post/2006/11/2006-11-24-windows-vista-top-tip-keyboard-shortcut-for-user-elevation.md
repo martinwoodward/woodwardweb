@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I'm loving Windows Vista RTM."
 # Taxonomies
 categories: ["technology", "gadgets", "maker", "web", "podcast", "personal"]
 tags: ["blog", "archive"]

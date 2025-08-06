@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Not that I'm obsessed or anything, but in the latest Google index (Mar 31, 2005 03:19:55 GMT) I am now the Number 1 Martin Woodward on the internet."
 # Taxonomies
 categories: ["technology", "web", "personal"]
 tags: ["blog", "archive"]

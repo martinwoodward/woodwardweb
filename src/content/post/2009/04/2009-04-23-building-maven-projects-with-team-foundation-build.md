@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "For a while now, we’ve been helping our Java customers by providing the Teamprise Build Extensions to allow people to easily build Ant based."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "maker", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]

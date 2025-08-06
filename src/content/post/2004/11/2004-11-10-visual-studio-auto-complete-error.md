@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Been using Visual Studio 2003 lately, not a bad editor (no where near as good as intellij for Java for pretty good)."
 # Taxonomies
 categories: ["dotnet", "maker", "web", "programming"]
 tags: ["blog", "archive"]
