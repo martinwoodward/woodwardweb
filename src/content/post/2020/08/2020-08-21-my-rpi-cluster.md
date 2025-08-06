@@ -14,9 +14,6 @@ tags: ["raspberry-pi", "cluster", "hardware", "maker"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
-# Raspberry Pi Cluster
-
 There are a bunch of really cool Raspberry Pi based clusters out there such as:
 
  - [5 years of Raspberry Pi Clusters](https://www.raspberrypi.org/blog/five-years-of-raspberry-pi-clusters/) - From the Official Raspberry Pi blog
