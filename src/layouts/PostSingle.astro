@@ -5,6 +5,7 @@ import { render } from "astro:content";
 import { FaUser } from "react-icons/fa6";
 import ImageMod from "./components/ImageMod.astro";
 import SideBar from "./components/homepage/SideBar.astro";
+import BlueskyLikes from "./components/BlueskyLikes.astro";
 
 const { post } = Astro.props;
 
@@ -63,6 +64,7 @@ const { title, images } = post.data;
         <div class="content mb-10">
           <Content />
         </div>
+        <BlueskyLikes blueskyPostURI={post.data.blueskyPostURI} />
       </article>
       <aside class="lg:col-4 mt-5 lg:mt-0">
         <SideBar />

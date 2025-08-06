@@ -26,6 +26,7 @@ const postCollection = defineCollection({
     type: z.enum(["regular", "featured"]).optional(),
     search_keyword: z.string().optional(),
     draft: z.boolean(),
+    blueskyPostURI: z.string().optional(),
   }),
 });
 
