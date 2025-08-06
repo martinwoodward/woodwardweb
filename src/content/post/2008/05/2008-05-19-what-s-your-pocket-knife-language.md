@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Explore the evolution of my "Pocket Knife Language" choices as a programmer, adapting tools for quick, throwaway coding tasks."
+description: "temp_placeholder"
 # Taxonomies
 categories: ["technology", "dotnet", "web", "programming"]
 tags: ["blog", "archive"]

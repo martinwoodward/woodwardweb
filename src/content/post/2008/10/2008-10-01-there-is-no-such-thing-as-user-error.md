@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "User error" is a myth; persistent issues often highlight design flaws, not user mistakes."
+description: "User error' is a myth; persistent issues often highlight design flaws, not user mistakes."
 # Taxonomies
 categories: ["tfs", "technology", "teamprise", "programming", "personal"]
 tags: ["blog", "archive"]

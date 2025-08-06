@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Explore BBC Radio 4's "The X Factor," where astronaut Jeff Hoffman reveals how space travel is becoming accessible to everyday people."
+description: "temp_placeholder"
 # Taxonomies
 categories: ["web", "podcast", "personal"]
 tags: ["blog", "archive"]

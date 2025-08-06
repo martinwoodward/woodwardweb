@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Microsoft Team Foundation Server 2008 has a great new improved build system (often referred to as "Team Build")."
+description: "temp_placeholder"
 # Taxonomies
 categories: ["tfs", "technology", "maker"]
 tags: ["blog", "archive"]

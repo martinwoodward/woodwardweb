@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "So, to stop my Beta 2 VPC image from expiring this week, I thought I'd try out an "upgrade" of one of the VSTS + TFS Beta 2 VPC images to a."
+description: "temp_placeholder"
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "maker", "web", "programming"]
 tags: ["blog", "archive"]

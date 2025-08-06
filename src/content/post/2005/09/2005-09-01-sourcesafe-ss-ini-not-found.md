@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Encountering the "ss.ini not found" error in SourceSafe? Here's a quick fix to restore access to your database."
+description: "temp_placeholder"
 # Taxonomies
 categories: ["technology"]
 tags: ["blog", "archive"]

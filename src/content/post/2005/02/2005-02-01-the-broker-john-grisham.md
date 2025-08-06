@@ -7,7 +7,21 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Discover the thrill of listening to John Grisham's "The Broker," a captivating audio book that entertains with a blend of adventure and wit."
+description: "Discover the thrill of listening to John Grisham's 'The Broker,' a captivating audio book that entertains with a blend of adventure and wit."
+# Taxonomies
+categories: ["technology", "books", "gadgets", "web", "podcast"]
+tags: ["blog", "archive"]
+type: "regular" # available type (regular or featured)
+draft: false
+---Broker - John Grisham"
+date: 2005-02-01T22:11:22.000Z
+# post thumb
+images:
+  - "/images/post/2005-the-broker-john-grisham.jpg"
+#author
+author: "Martin Woodward"
+# description
+description: "temp_placeholder"
 # Taxonomies
 categories: ["technology", "books", "gadgets", "web", "podcast"]
 tags: ["blog", "archive"]

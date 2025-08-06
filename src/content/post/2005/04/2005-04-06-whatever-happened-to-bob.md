@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "A nostalgic look back at Robert "Bob" Parsons, a talented hacker and game developer whose early innovations inspired lasting memories."
+description: "temp_placeholder"
 # Taxonomies
 categories: ["technology", "books", "gadgets", "maker", "programming"]
 tags: ["blog", "archive"]
