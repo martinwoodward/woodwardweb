@@ -113,3 +113,5 @@ draft: false
 - Output: Built site goes to `dist/` directory
 
 This structure ensures maintainable, organized content that scales well over time.
+
+When adding a post, you should NEVER have to include an updated ‎`package-lock.json` in the PR.
