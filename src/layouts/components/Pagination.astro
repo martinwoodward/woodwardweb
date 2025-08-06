@@ -1,4 +1,6 @@
 ---
+import config from "@/config/config.json";
+
 type Pagination = {
   section?: string;
   currentPage?: number;
@@ -11,7 +13,7 @@ const hasPrevPage = currentPage > 1;
 const hasNextPage = totalPages > currentPage!;
 
 let pageList: number[] = [];
-const maxPagesToShow = 9;
+const maxPagesToShow = config.settings.max_pages_to_show;
 for (let i = 1; i <= Math.min(totalPages, maxPagesToShow); i++) {
   pageList.push(i);
 }

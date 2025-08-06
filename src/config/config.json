@@ -14,8 +14,9 @@
   "settings": {
     "search": true,
     "sticky_header": true,
-    "pagination": 6,
-    "summary_length": 200,
+    "pagination": 10,
+    "max_pages_to_show": 5,
+    "summary_length": 320,
     "default_layout": "gridRight"
   },
 
