@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Join the discussion on preferred check-in policies for Teamprise’s next release and share your ideas on useful features."
 # Taxonomies
 categories: ["tfs", "dotnet", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "The Irish TFS Talk Marathon in Limerick and Galway successfully engaged attendees with insightful discussions on source control strategies."
 # Taxonomies
 categories: ["git", "tfs", "technology", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]

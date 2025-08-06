@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Join Brian Randall on .NET Rocks as he discusses Team System's evolution, best practices, and future updates with Carl and Richard."
 # Taxonomies
 categories: ["tfs", "dotnet", "web", "podcast"]
 tags: ["blog", "archive"]

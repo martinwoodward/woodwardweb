@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "When running Remote Desktop from Windows Vista I've been getting the following error popping up everytime I connect."
 # Taxonomies
 categories: ["technology", "dotnet", "maker", "web"]
 tags: ["blog", "archive"]

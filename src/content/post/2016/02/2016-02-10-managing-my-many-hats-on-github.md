@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover how to manage your multiple GitHub identities and email settings while juggling open-source contributions at work and home."
 # Taxonomies
 categories: ["git", "technology", "books", "dotnet", "maker", "web", "personal", "github"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Join me for the MSDN webcast on Teamprise, showcasing the Eclipse plug-in while Steve Jobs presents at MacWorld 2007."
 # Taxonomies
 categories: ["tfs", "technology", "teamprise", "web", "podcast"]
 tags: ["blog", "archive"]

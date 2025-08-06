@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Jamie Cansdale announces the release of TestDriven.NET 2.0 RC1, a powerful unit test integration plug-in for Visual Studio."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "web", "programming", "personal"]
 tags: ["blog", "archive"]

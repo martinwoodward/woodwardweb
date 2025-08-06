@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover how to run iTunes 7.0.2 on Windows Vista by using the Program Compatibility Wizard for optimal syncing with your iPod."
 # Taxonomies
 categories: ["technology", "gadgets", "web", "podcast"]
 tags: ["blog", "archive"]

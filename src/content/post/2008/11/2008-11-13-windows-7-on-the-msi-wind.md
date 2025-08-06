@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover how Windows 7 enhances performance and driver support on the MSI Wind, leaving Vista's challenges behind."
 # Taxonomies
 categories: ["git", "technology", "books", "gadgets", "maker", "web", "programming", "personal"]
 tags: ["blog", "archive"]

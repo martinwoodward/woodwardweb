@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Reflecting on a rewarding TechEd 2006 in Barcelona, I’m grateful for the connections made and excited about the rising interest in Team."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "maker", "web", "personal"]
 tags: ["blog", "archive"]

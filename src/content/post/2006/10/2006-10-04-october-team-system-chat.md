@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Join the Visual Studio Team System chat on October 4th to discuss Orcas CTP, Team Editions, and shape future product developments."
 # Taxonomies
 categories: ["tfs", "technology", "web", "programming", "personal"]
 tags: ["blog", "archive"]

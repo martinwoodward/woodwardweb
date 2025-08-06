@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Help shape the future of TFS migration by voting for your preferred systems to migrate off in our latest toolkit feedback initiative."
 # Taxonomies
 categories: ["tfs", "web", "programming"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Learn how to seamlessly upgrade from a 90-day TFS 2008 trial to the full version with key purchasing tips and installation steps."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "web", "personal"]
 tags: ["blog", "archive"]

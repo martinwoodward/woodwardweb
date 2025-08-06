@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Join me as I recount my nostalgic visit to the Kennedy Space Center, where a VSIP party sparked childhood dreams amidst rockets and IMAX thrills."
 # Taxonomies
 categories: ["teamprise", "web", "podcast"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover five surprising things about me, from a physics degree to being a qualified forklift driver, in this fun Blogtag challenge."
 # Taxonomies
 categories: ["git", "technology", "dotnet", "gadgets", "maker", "web", "programming"]
 tags: ["blog", "archive"]

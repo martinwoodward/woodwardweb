@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Went to see the new Matrix film - Revolutions."
 # Taxonomies
 categories: ["web"]
 tags: ["blog", "archive"]

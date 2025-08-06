@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Explore the CONTENTEDITABLE attribute from IE 5.5 that enables in-place editing of HTML content with practical examples."
 # Taxonomies
 categories: ["technology", "books", "maker", "web"]
 tags: ["blog", "archive"]

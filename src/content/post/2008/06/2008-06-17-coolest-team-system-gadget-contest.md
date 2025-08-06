@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Join the Coolest Team System Gadget contest for a chance to showcase your innovative ideas and win valuable prizes, including a year-long."
 # Taxonomies
 categories: ["tfs", "technology", "gadgets", "web"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover Microsoft's new tool for seamless migration and synchronisation from ClearCase to Visual Studio Team Foundation Server."
 # Taxonomies
 categories: ["git", "tfs", "technology", "web"]
 tags: ["blog", "archive"]

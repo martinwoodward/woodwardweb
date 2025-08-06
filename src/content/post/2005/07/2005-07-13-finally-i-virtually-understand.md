@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover the nuances of C# inheritance and interfaces in Bill Caputo’s insightful article on why interface methods are implicitly 'final'."
 # Taxonomies
 categories: ["technology", "books", "dotnet", "maker", "web", "programming"]
 tags: ["blog", "archive"]

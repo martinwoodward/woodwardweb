@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Snow falls heavily on 18th November, tempting thoughts of a snowman before a daunting drive across three countries tomorrow."
 # Taxonomies
 categories: ["maker", "web"]
 tags: ["blog", "archive"]

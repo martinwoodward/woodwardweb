@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover how Terry Humphries transformed a vintage electric guitar into a unique build status indicator for TFS, enhancing team engagement."
 # Taxonomies
 categories: ["git", "tfs", "technology", "books", "dotnet", "gadgets", "maker", "web", "programming"]
 tags: ["blog", "archive"]

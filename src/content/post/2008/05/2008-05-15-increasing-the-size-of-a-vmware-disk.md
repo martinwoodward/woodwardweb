@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I am currently playing with SP1 of VSTS 2008 and TFS 2008 in a Windows Server 2008 VMWare instance I have."
 # Taxonomies
 categories: ["git", "tfs", "technology", "gadgets", "web"]
 tags: ["blog", "archive"]

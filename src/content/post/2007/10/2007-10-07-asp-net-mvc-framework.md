@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover the exciting new ASP.NET MVC Framework unveiled at the Alt.NET Conference, promising a more intuitive development experience."
 # Taxonomies
 categories: ["technology", "dotnet", "maker", "web", "programming"]
 tags: ["blog", "archive"]

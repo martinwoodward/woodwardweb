@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I've been involved with Indigo for exactly 2 years this week, through the various changes in product name."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "web", "programming", "personal"]
 tags: ["blog", "archive"]

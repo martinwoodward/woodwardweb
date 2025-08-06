@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover the innovative LED Cats Eyes lighting up unlit roads, enhancing safety on high-speed bends for early commuters."
 # Taxonomies
 categories: ["technology", "maker", "web"]
 tags: ["blog", "archive"]

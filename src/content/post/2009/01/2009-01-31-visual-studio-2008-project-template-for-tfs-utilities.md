@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover a useful Visual Studio 2008 template by Neno Loje that simplifies TFS API development and enhances your programming experience."
 # Taxonomies
 categories: ["tfs", "technology", "books", "web"]
 tags: ["blog", "archive"]

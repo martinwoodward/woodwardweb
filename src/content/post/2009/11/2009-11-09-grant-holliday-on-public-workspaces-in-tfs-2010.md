@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover Grant Holliday's insights on TFS 2010's Public Workspaces, enabling multiple user access and enhancing collaboration."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]

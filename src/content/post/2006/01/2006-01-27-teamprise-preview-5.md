@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Download Teamprise Preview 5 for seamless integration with Visual Studio 2005 Team Foundation Server and enhanced Java development tools."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "teamprise", "web"]
 tags: ["blog", "archive"]

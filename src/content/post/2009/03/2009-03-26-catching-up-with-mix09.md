@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover how to access and download MIX09 sessions for free, along with handy tools for easy organisation and viewing on the go."
 # Taxonomies
 categories: ["tfs", "technology", "gadgets", "teamprise", "web", "podcast"]
 tags: ["blog", "archive"]

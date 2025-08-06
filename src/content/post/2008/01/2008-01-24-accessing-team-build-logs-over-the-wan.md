@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover how to access TFS Build logs over the WAN more efficiently by using HTTP links instead of slow Windows file sharing."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "gadgets", "maker", "teamprise", "web", "programming", "podcast"]
 tags: ["blog", "archive"]

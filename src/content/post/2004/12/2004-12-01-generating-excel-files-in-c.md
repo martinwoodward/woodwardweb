@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Learn a simple method to generate Excel-compatible files in C# using tab-delimited data without requiring Excel installation."
 # Taxonomies
 categories: ["dotnet", "maker", "web", "programming"]
 tags: ["blog", "archive"]

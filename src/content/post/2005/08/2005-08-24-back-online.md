@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I'm back online in my new house with a 2Mbps ADSL connection and exploring the capabilities of the Linksys WRT54G router."
 # Taxonomies
 categories: ["web"]
 tags: ["blog", "archive"]

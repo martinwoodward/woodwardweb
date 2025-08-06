@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover how Google Analytics transformed my understanding of site traffic, revealing surprising global reach and user diversity."
 # Taxonomies
 categories: ["tfs", "technology", "books", "dotnet", "gadgets", "web"]
 tags: ["blog", "archive"]

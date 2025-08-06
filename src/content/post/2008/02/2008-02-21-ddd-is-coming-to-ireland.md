@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Join us in Galway on May 3rd for Developer Developer Developer, featuring community-led sessions and a chance to connect with fellow .NET enthusiasts."
 # Taxonomies
 categories: ["tfs", "technology", "books", "dotnet", "web", "podcast", "personal"]
 tags: ["blog", "archive"]

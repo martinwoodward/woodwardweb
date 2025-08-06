@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "In a lively chat with .NET Rocks, I shared insights on Team Foundation Server and ALM while battling a pesky winter bug."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "gadgets", "web", "podcast"]
 tags: ["blog", "archive"]

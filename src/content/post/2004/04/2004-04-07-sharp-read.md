@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover how SharpReader enhances my lunchtime browsing with its user-friendly interface and effective notifications, outshining pricier options."
 # Taxonomies
 categories: ["dotnet", "maker", "web", "programming"]
 tags: ["blog", "archive"]

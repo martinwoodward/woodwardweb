@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Excited for the release of Professional Team Foundation Server, I anticipate valuable insights from authors I respect, with a review to follow."
 # Taxonomies
 categories: ["tfs", "technology", "books", "web", "programming", "personal"]
 tags: ["blog", "archive"]

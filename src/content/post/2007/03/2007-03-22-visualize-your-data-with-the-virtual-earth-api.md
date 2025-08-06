@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover how to effortlessly visualise data using the Virtual Earth API, as showcased through a traffic camera mash-up from Dublin City Council."
 # Taxonomies
 categories: ["technology", "gadgets", "web", "programming", "personal"]
 tags: ["blog", "archive"]

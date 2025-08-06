@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Celebrating our one-year anniversary at Microsoft alongside the beta launch of Team Explorer Everywhere 2010 SP1 marks a significant milestone."
 # Taxonomies
 categories: ["git", "tfs", "technology", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]

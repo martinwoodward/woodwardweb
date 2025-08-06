@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Explore the enigmatic world of Numbers Stations, where mysterious broadcasts hint at espionage, emergency tactics, and electronic warfare."
 # Taxonomies
 categories: ["technology", "maker", "web"]
 tags: ["blog", "archive"]

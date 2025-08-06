@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I've launched the VSTSPlugins website, showcasing open source VSTS plugins, starting with a CruiseControl.NET plugin and an upcoming nAnt plugin."
 # Taxonomies
 categories: ["tfs", "dotnet", "web", "programming", "personal"]
 tags: ["blog", "archive"]

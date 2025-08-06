@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "One of the great things about version control is that it covers a number of "Hit by a Bus" scenarios."
 # Taxonomies
 categories: ["git", "tfs", "technology", "web", "programming", "personal"]
 tags: ["blog", "archive"]

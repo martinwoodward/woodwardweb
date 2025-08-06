@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Check out key resources and answers from today's MSDN webcast, plus a recording link coming soon for your reference."
 # Taxonomies
 categories: ["git", "tfs", "technology", "dotnet", "maker", "web", "programming"]
 tags: ["blog", "archive"]

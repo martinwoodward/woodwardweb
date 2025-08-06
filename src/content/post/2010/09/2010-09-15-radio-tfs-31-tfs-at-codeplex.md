@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Join us as we chat with Jonathan Wanagel about CodePlex's TFS upgrade and agile practices for rapid releases on Radio TFS 31."
 # Taxonomies
 categories: ["git", "tfs", "technology", "web", "programming", "podcast"]
 tags: ["blog", "archive"]

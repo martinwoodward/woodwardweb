@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Explore the integration gap between Expression tools and TFS, and learn how to provide feedback to Microsoft for improvements."
 # Taxonomies
 categories: ["git", "tfs", "technology", "web", "personal"]
 tags: ["blog", "archive"]

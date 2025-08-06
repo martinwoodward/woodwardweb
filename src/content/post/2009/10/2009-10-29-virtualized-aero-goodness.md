@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "VMware's Fusion 3 and Workstation 7 enhance virtual Windows 7 experiences on Mac, seamlessly integrating Aero for a smoother multitasking experience."
 # Taxonomies
 categories: ["technology", "books", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]

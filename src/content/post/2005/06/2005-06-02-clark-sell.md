@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover Clark Sell's new blog featuring stories, intriguing TDD techniques in C#, and glimpses of his cherished cars."
 # Taxonomies
 categories: ["dotnet", "web", "programming"]
 tags: ["blog", "archive"]

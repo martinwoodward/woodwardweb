@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover how Windows Live Writer's features, plug-in support, and stylesheet integration might just win me over from BlogJet."
 # Taxonomies
 categories: ["technology", "maker", "web", "programming", "personal"]
 tags: ["blog", "archive"]

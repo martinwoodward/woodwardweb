@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover how to resolve the TFS versioning error caused by using a beta client with an RC server by upgrading to the latest version."
 # Taxonomies
 categories: ["tfs", "technology", "web", "programming"]
 tags: ["blog", "archive"]

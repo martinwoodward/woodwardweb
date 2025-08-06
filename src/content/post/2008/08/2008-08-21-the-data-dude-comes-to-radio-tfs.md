@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Join us on Radio TFS as Gert Drapers discusses the evolution and future of the Database Edition of Team System in our special episode."
 # Taxonomies
 categories: ["tfs", "technology", "books", "web", "podcast"]
 tags: ["blog", "archive"]

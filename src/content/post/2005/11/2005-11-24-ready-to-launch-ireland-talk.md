@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover key resources from my Belfast launch talk on SQL 2005, Visual Studio 2005, and BizTalk 2006 to enhance your VSTS experience."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "maker", "teamprise", "web"]
 tags: ["blog", "archive"]

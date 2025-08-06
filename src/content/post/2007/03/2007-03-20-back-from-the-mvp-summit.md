@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "After an insightful MVP Summit in Seattle, my epic journey home turned into a comical adventure involving lost baggage and unpredictable weather."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "gadgets", "web", "podcast", "personal"]
 tags: ["blog", "archive"]

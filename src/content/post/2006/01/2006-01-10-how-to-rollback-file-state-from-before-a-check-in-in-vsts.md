@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Learn to easily rollback file states in VSTS by using the Get Specific Version feature to revert to any changeset seamlessly."
 # Taxonomies
 categories: ["git", "tfs", "technology", "maker", "web", "programming"]
 tags: ["blog", "archive"]

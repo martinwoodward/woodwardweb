@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover how I developed a J2EE eBusiness platform for British Airways World Cargo, featuring innovative track and trace and barcode generation."
 # Taxonomies
 categories: ["web", "programming"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "After misreading my flight time and missing St Patrick's celebrations, I’m finding joy in learning how to say Cheers in different languages."
 # Taxonomies
 categories: ["tfs", "books", "web", "programming", "personal"]
 tags: ["blog", "archive"]

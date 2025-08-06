@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover essential guidelines from Brian Harry for developing custom TFS extensions, ensuring smoother integrations and fewer pitfalls."
 # Taxonomies
 categories: ["tfs", "maker", "web"]
 tags: ["blog", "archive"]

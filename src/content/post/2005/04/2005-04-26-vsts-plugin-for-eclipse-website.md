@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover the newly launched website for the VSTS plugin for Eclipse, featuring a basic design and insights into my ongoing project."
 # Taxonomies
 categories: ["tfs", "web", "programming", "personal"]
 tags: ["blog", "archive"]

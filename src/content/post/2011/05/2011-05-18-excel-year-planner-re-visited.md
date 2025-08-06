@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover the enhanced Excel Year Planner that now includes Academic and Financial year options for better organisation at your desk."
 # Taxonomies
 categories: ["web", "personal"]
 tags: ["blog", "archive"]

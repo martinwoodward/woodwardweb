@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "In Seattle for the MVP Summit 2009, I was honoured to win the inaugural Team System MVP of the Year award, celebrated with a shiny new belt buckle."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "web", "podcast"]
 tags: ["blog", "archive"]

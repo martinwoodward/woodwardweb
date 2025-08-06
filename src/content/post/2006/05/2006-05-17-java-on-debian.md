@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Debian and Ubuntu users can now easily install Sun Java 5 JRE with a simple command, simplifying access to essential encryption for NTLM."
 # Taxonomies
 categories: ["technology", "dotnet", "maker", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover the Labtec Mini Optical Mouse, a compact, cordless travel companion with a unique design that optimises convenience and battery life."
 # Taxonomies
 categories: ["gadgets", "web", "personal"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Explore my interactive guest map inspired by Scott Hanselman's Google Hack—let me know where you live!"
 # Taxonomies
 categories: ["technology", "web", "podcast"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover the latest CruiseControl.NET update for TFS 2008, featuring a workaround for history call issues to ensure seamless integration."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "maker", "web", "programming", "personal"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover how Quest enables Oracle support in Visual Studio Team System 2010, enhancing database development capabilities."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "maker", "web", "programming", "podcast"]
 tags: ["blog", "archive"]

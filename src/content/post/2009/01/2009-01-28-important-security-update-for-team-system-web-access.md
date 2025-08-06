@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Ensure your Team System Web Access is secure by upgrading to the latest version for crucial security fixes, especially if accessible online."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "web"]
 tags: ["blog", "archive"]

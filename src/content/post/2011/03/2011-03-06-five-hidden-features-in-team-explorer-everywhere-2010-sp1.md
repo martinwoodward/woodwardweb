@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover five lesser-known, yet invaluable features in Team Explorer Everywhere 2010 SP1 that enhance productivity for power users."
 # Taxonomies
 categories: ["git", "tfs", "technology", "gadgets", "web", "programming", "personal"]
 tags: ["blog", "archive"]

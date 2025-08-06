@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "One of the questions that came up from one of our users was "how do I delete the files from my local file system - and tell Team Foundation."
 # Taxonomies
 categories: ["tfs", "technology", "web", "programming"]
 tags: ["blog", "archive"]

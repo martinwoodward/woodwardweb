@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover the quirkiest and most memorable freebies, from rucksacks to First Class pyjamas, that you might find in marketing cupboards."
 # Taxonomies
 categories: ["books", "gadgets", "web", "programming"]
 tags: ["blog", "archive"]

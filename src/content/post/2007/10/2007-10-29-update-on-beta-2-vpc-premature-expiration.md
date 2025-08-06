@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Jeff Beehler outlines options for resolving the Beta 2 VPC expiration issue, including upgrades and new VPC images set for release soon."
 # Taxonomies
 categories: ["tfs", "technology", "web", "programming", "podcast"]
 tags: ["blog", "archive"]

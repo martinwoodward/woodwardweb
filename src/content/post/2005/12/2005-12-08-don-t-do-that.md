@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Beware when disabling inherited security settings in Visual Studio Team System, as losing read permissions can leave critical objects hidden."
 # Taxonomies
 categories: ["git", "tfs", "web"]
 tags: ["blog", "archive"]

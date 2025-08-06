@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Teamprise 3.1 is now available, featuring enhanced offline support and several bug fixes for users with a Teamprise 3.0 licence."
 # Taxonomies
 categories: ["git", "tfs", "technology", "maker", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]

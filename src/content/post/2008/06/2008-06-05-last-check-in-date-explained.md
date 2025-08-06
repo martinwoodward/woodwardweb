@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover how the Last Check-in column in TFS 2008 SP1 enhances source control management, along with essential usage tips."
 # Taxonomies
 categories: ["tfs", "teamprise", "web", "podcast"]
 tags: ["blog", "archive"]

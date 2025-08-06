@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Going offline for a few days as I move house; upgrading to faster broadband while setting up my new server—exciting times ahead!"
 # Taxonomies
 categories: ["dotnet", "maker", "web"]
 tags: ["blog", "archive"]

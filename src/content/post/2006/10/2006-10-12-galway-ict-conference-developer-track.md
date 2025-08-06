@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "The Galway ICT Conference's Developer Track brought together diverse professionals to explore .NET, Team System, and Java in engaging sessions."
 # Taxonomies
 categories: ["tfs", "books", "dotnet", "web", "personal"]
 tags: ["blog", "archive"]

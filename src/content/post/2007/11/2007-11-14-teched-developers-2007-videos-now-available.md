@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "TechEd Developers 2007 videos are now available online, offering engaging insights from sessions on Visual Studio 2008 for registered attendees."
 # Taxonomies
 categories: ["gadgets", "programming", "personal"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Explore the balance between insightful metrics and their impact on software development processes with Visual Studio Team Foundation Server."
 # Taxonomies
 categories: ["tfs", "technology", "gadgets", "web", "programming"]
 tags: ["blog", "archive"]

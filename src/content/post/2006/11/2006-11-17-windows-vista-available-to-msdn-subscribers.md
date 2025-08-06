@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "MSDN subscribers can now download Windows Vista, but high demand leads to slow speeds and key access issues amidst excitement."
 # Taxonomies
 categories: ["technology"]
 tags: ["blog", "archive"]

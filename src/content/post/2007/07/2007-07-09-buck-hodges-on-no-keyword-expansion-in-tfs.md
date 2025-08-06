@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Buck Hodges discusses why TFS lacks keyword expansion and explores alternative approaches users have tried in his insightful blog post."
 # Taxonomies
 categories: ["tfs", "books", "web"]
 tags: ["blog", "archive"]

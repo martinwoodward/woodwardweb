@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Explore Brian Harry's candid insights on Visual Studio Team System 2008 and Team Foundation Server improvements in this concise interview."
 # Taxonomies
 categories: ["tfs", "web", "programming", "podcast"]
 tags: ["blog", "archive"]

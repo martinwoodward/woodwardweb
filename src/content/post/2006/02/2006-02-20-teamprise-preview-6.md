@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover the exciting features of Teamprise Preview 6, now available for download, enhancing Work Item Tracking and improving functionality."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]

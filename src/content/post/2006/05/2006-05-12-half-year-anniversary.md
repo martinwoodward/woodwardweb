@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Celebrating six incredible months at Teamprise, where talented colleagues, fun perks, and a supportive atmosphere make work a joy."
 # Taxonomies
 categories: ["technology", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]

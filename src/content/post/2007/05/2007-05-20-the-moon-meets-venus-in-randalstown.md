@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "A serene Saturday night revealed a stunning view of the Moon and Venus from my kitchen window, captured on my humble camera."
 # Taxonomies
 categories: ["git", "technology", "gadgets", "web"]
 tags: ["blog", "archive"]

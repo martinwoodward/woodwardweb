@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Learn how to create a HttpHandler in WebMatrix to redirect old episode links for your Radio TFS podcast website."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "maker", "web", "programming", "podcast"]
 tags: ["blog", "archive"]

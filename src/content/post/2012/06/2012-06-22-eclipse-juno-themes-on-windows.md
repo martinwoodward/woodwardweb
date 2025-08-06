@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover how to enhance the Eclipse Juno theme on Windows by switching to Windows 7 for a sleeker, more integrated look."
 # Taxonomies
 categories: ["technology", "web", "programming", "personal"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I've joined the broadband revolution with ADSL activation, and it's surprisingly seamless and efficient—what a game changer!"
 # Taxonomies
 categories: ["maker", "web"]
 tags: ["blog", "archive"]

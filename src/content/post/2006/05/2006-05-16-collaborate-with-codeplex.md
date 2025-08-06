@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "CodePlex has launched in public beta, offering an exciting new platform for open-source developers to collaborate using Team Foundation Server."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "web", "programming", "podcast", "personal"]
 tags: ["blog", "archive"]

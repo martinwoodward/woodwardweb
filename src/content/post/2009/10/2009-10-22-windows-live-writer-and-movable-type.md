@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover how I tackled the challenges of using Windows Live Writer with Movable Type after switching to a Windows Server environment."
 # Taxonomies
 categories: ["technology", "books", "dotnet", "web", "podcast", "personal"]
 tags: ["blog", "archive"]

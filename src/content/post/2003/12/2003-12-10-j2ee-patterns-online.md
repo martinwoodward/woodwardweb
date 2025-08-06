@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "The updated Core J2EE Patterns book is now available online at java.sun.com, showcasing essential design patterns for Java developers."
 # Taxonomies
 categories: ["technology", "books", "web"]
 tags: ["blog", "archive"]

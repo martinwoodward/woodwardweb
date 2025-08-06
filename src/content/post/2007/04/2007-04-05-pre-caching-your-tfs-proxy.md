@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Learn how to pre-cache files with TFS Proxy using a straightforward command line approach to enhance remote office efficiency."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "web", "programming", "podcast"]
 tags: ["blog", "archive"]

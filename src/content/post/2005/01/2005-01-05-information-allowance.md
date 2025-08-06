@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover how my new budget category for information subscriptions highlights the evolving importance of access to knowledge in modern life."
 # Taxonomies
 categories: ["web", "personal"]
 tags: ["blog", "archive"]

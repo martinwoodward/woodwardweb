@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Learn how to unlock files in VSTS using command line tools to resolve common checked-out file issues effectively."
 # Taxonomies
 categories: ["git", "tfs", "technology", "gadgets", "maker", "web", "programming"]
 tags: ["blog", "archive"]

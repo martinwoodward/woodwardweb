@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Tune in to our latest Radio TFS episode on check-in policies and subscribe for upcoming must-listen special episodes."
 # Taxonomies
 categories: ["tfs", "technology", "web", "podcast"]
 tags: ["blog", "archive"]

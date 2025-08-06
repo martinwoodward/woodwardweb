@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "A neat (if not well known) feature of Windows Vista is the built in ability to do a "Command Prompt Here" by selecting a folder, keeping the."
 # Taxonomies
 categories: ["git", "technology", "maker", "web", "programming", "personal"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover the significant changes in TFS 2010's version control, transitioning from item mode to slot mode for improved performance and user."
 # Taxonomies
 categories: ["git", "tfs", "technology", "maker", "web", "podcast", "personal"]
 tags: ["blog", "archive"]

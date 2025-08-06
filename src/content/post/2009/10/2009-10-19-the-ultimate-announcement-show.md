@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Join us as we discuss Microsoft's exciting announcements for Visual Studio 2010 and explore the highlights of Beta 2 with Product Manager Doug Seven."
 # Taxonomies
 categories: ["tfs", "technology", "web", "programming", "podcast"]
 tags: ["blog", "archive"]

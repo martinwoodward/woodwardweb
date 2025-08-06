@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "CruiseControl 2.7.1 RC3 now integrates seamlessly with TFS, simplifying your migration process—thanks to Paul Julius's latest patch."
 # Taxonomies
 categories: ["git", "tfs", "technology", "dotnet", "maker", "teamprise", "web"]
 tags: ["blog", "archive"]

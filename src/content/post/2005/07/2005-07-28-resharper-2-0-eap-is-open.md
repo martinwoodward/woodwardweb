@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "The EAP for Resharper 2.0 is now available for download, promising exciting enhancements for Visual Studio 2005 users."
 # Taxonomies
 categories: ["dotnet", "web"]
 tags: ["blog", "archive"]

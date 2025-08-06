@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "So, to stop my Beta 2 VPC image from expiring this week, I thought I'd try out an "upgrade" of one of the VSTS + TFS Beta 2 VPC images to a."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "maker", "web", "programming"]
 tags: ["blog", "archive"]

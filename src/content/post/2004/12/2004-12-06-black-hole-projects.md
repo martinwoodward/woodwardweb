@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover the defining traits of Black Hole projects at M$, from vague goals to unrealistic deadlines that baffle teams."
 # Taxonomies
 categories: ["dotnet", "web"]
 tags: ["blog", "archive"]

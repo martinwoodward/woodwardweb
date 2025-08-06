@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Join me as I share my experiences and insights as an Eclipse developer at Microsoft during my first talk at EclipseCon 2010."
 # Taxonomies
 categories: ["git", "tfs", "technology", "maker", "web", "programming", "personal"]
 tags: ["blog", "archive"]

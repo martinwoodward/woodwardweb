@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "CruiseControl 2.7.2 is now available, featuring key bug fixes and improved compatibility with Microsoft Visual Studio Team Foundation Server 2008."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "web", "programming"]
 tags: ["blog", "archive"]

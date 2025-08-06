@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover the highlights and insights from my Dublin talk on source control, complete with linked resources and slide deck downloads."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "maker", "teamprise", "web", "podcast", "personal"]
 tags: ["blog", "archive"]

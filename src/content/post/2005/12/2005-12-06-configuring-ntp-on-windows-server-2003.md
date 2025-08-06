@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Learn how to effectively configure NTP on Windows Server 2003 using group policy settings to synchronise time with external sources."
 # Taxonomies
 categories: ["technology", "web"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover how James Manning's early MSH Provider for Team Foundation Server lets you access repositories like mapped drives."
 # Taxonomies
 categories: ["git", "tfs", "web"]
 tags: ["blog", "archive"]

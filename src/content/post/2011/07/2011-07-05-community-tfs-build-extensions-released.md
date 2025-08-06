@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover the latest stable release of Community TFS Build Extensions, featuring 100+ workflow activities for enhanced Team Foundation Build."
 # Taxonomies
 categories: ["git", "tfs", "maker", "web", "programming"]
 tags: ["blog", "archive"]

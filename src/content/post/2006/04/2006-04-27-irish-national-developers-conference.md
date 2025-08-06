@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Join the 2006 Irish National Developers Conference in Dublin on May 3rd & 4th for expert talks, hands-on labs, and networking opportunities."
 # Taxonomies
 categories: ["technology", "dotnet", "web"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Visual Studio Team System 2008 SP1 is now available for download, offering essential updates for developers and server environments."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "web", "podcast", "personal"]
 tags: ["blog", "archive"]

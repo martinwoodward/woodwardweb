@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Join me at the ICT Conference in Galway on October 12th to hear Eric Lee and Rob Burke discuss Visual Studio Team System and more."
 # Taxonomies
 categories: ["tfs", "dotnet", "web", "podcast", "personal"]
 tags: ["blog", "archive"]

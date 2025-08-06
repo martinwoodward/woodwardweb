@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Spotting a poignant piece of graffiti in Belfast, I reflect on a tribute that I believe John would have truly appreciated."
 # Taxonomies
 categories: ["web"]
 tags: ["blog", "archive"]

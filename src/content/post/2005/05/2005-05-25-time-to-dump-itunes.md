@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover how the mlipod plugin for WinAmp lets you easily sync your iPod and transfer songs back to your computer, making iTunes obsolete."
 # Taxonomies
 categories: ["technology", "gadgets", "maker", "web", "podcast"]
 tags: ["blog", "archive"]

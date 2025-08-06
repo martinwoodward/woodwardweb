@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I recently moved my domain email over to Google Apps for Domains."
 # Taxonomies
 categories: ["technology", "web", "personal"]
 tags: ["blog", "archive"]

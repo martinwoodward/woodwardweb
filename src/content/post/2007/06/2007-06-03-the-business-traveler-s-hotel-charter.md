@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover the essential hotel features every business traveler needs for a hassle-free stay, from reliable Wi-Fi to ample plug sockets."
 # Taxonomies
 categories: ["gadgets", "maker", "web", "personal"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover how shelving in Team Foundation Server saved my work and sanity when my main development machine unexpectedly failed."
 # Taxonomies
 categories: ["git", "tfs", "technology", "gadgets", "web", "programming"]
 tags: ["blog", "archive"]

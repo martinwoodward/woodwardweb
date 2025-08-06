@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Create your own compact year planner in Excel to easily track important dates, holidays, and milestones—all formula-driven and hassle-free."
 # Taxonomies
 categories: ["technology", "dotnet", "web", "personal"]
 tags: ["blog", "archive"]

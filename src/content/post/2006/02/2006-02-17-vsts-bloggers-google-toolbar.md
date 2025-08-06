@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover how to enhance your Google Toolbar with a custom VSTS Community Button that showcases top posts from the VSTS blogosphere."
 # Taxonomies
 categories: ["git", "tfs", "technology", "books", "maker", "web", "programming", "podcast"]
 tags: ["blog", "archive"]

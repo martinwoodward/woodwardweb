@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Explore whether to transition from MSBuild to Workflow Foundation in TFS 2010, weighing the benefits of custom task integration."
 # Taxonomies
 categories: ["tfs", "technology", "books", "dotnet", "maker", "web", "programming", "podcast"]
 tags: ["blog", "archive"]

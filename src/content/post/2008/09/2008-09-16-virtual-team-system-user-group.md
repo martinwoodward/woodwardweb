@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Join the new Team System User Group - Virtual Edition for global discussions, demos, and socialising, starting 18th September, free of charge."
 # Taxonomies
 categories: ["tfs", "dotnet", "web", "programming", "personal"]
 tags: ["blog", "archive"]

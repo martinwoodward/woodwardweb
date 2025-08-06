@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Learn how to manipulate clipboard data in Internet Explorer using the window.clipboardData method to copy and view stored content."
 # Taxonomies
 categories: ["technology", "books", "web", "programming"]
 tags: ["blog", "archive"]

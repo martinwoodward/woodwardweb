@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Join Martin Woodward at SD West for his session on deploying Team Foundation Server and visit the Teamprise booth for insights!"
 # Taxonomies
 categories: ["tfs", "technology", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]

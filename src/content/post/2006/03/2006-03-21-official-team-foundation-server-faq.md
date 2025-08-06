@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Check out the new official Team Foundation Server FAQ page, featuring my projects on the interoperability list!"
 # Taxonomies
 categories: ["tfs", "technology", "web"]
 tags: ["blog", "archive"]

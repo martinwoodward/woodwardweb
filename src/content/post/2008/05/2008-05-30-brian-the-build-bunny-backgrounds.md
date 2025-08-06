@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover the charm of Brian the Build Bunny with free desktop backgrounds, inspired by his viral success and upcoming TV debut."
 # Taxonomies
 categories: ["technology", "gadgets", "maker", "web", "podcast", "personal"]
 tags: ["blog", "archive"]

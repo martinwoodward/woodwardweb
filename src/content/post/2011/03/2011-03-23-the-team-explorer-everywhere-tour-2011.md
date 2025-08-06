@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Join Ed Thomson from Team Explorer Everywhere on his April 2011 tour across the Midwest, sharing insights and knowledge on Eclipse integration."
 # Taxonomies
 categories: ["tfs", "technology", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]

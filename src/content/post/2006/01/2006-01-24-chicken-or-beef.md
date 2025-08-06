@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "If I were clever like Eric Sink or Bill Caputo, I'd be able to turn that catchy title in to a witty and insightful post about the software industry."
 # Taxonomies
 categories: ["technology", "books", "maker", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]

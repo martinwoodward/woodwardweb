@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Tune in to the Port 25 Podcast as I discuss accessing VS Team Foundation Server from Mac and Linux using Eclipse and NTLM authentication."
 # Taxonomies
 categories: ["tfs", "technology", "books", "maker", "teamprise", "web", "podcast"]
 tags: ["blog", "archive"]

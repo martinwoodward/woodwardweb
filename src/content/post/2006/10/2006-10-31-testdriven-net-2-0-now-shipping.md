@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "TestDriven.NET 2.0 is now available, offering a fast and essential plug-in for seamless unit testing integration in all Visual Studio editions."
 # Taxonomies
 categories: ["git", "tfs", "dotnet", "gadgets", "web", "programming"]
 tags: ["blog", "archive"]

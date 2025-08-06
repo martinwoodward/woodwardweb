@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Encountering the "ss.ini not found" error in SourceSafe? Here's a quick fix to restore access to your database."
 # Taxonomies
 categories: ["technology"]
 tags: ["blog", "archive"]

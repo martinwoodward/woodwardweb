@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover Pandora, a free music streaming service that curates personalised stations based on your favourite songs and artists."
 # Taxonomies
 categories: ["technology", "gadgets", "web", "programming", "podcast"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Belfast will host the 2005 World Toilet Summit, promising a mix of insights and humour around sanitation and public toilets."
 # Taxonomies
 categories: ["web", "podcast"]
 tags: ["blog", "archive"]

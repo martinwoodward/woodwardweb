@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Struggling for visibility on Google, I embrace my anonymity as my site fluctuates in search results, sparking a sense of detachment."
 # Taxonomies
 categories: ["technology", "web"]
 tags: ["blog", "archive"]

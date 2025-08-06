@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover the MSF Process Guidance Generator Tool, a temporary solution designed to enhance and customise process guidance effectively."
 # Taxonomies
 categories: ["technology", "maker", "web", "programming"]
 tags: ["blog", "archive"]

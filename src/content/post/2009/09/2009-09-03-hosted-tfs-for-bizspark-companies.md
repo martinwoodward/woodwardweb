@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover how BizSpark companies can access hosted Team Foundation Server at no cost, enhancing collaboration for early-stage startups."
 # Taxonomies
 categories: ["tfs", "technology", "web", "podcast"]
 tags: ["blog", "archive"]

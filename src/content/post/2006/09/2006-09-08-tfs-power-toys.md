@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover the new TFS Power Toys from Microsoft, featuring seamless IDE integration and XML output for enhanced Agile development."
 # Taxonomies
 categories: ["tfs", "technology", "gadgets", "teamprise", "web"]
 tags: ["blog", "archive"]

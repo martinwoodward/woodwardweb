@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover the evolution of typing etiquette as I transition from double spaces to a modern single space after full stops."
 # Taxonomies
 categories: ["git", "technology", "gadgets", "maker", "web", "programming", "personal"]
 tags: ["blog", "archive"]

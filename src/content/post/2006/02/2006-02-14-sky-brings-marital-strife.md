@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Sky+ transforms viewing habits but invites marital tension when a 'Valentine's card' turns out to be an unwanted marketing ploy."
 # Taxonomies
 categories: ["books", "web", "personal"]
 tags: ["blog", "archive"]

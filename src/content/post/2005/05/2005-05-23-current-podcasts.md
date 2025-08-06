@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover my current favourite podcasts for daily commutes, featuring tech, science, and entertaining discussions."
 # Taxonomies
 categories: ["dotnet", "gadgets", "web", "programming", "podcast"]
 tags: ["blog", "archive"]

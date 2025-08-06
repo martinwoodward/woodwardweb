@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "After upgrading to Windows Vista on my Mac Mini, I share my experiences and challenges as a developer in my new blog category, Vista."
 # Taxonomies
 categories: ["tfs", "technology", "gadgets", "maker", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]

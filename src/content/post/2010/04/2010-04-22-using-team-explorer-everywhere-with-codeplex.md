@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Learn how to use Team Explorer Everywhere with CodePlex to access TFS from Eclipse or non-Windows machines and start contributing today."
 # Taxonomies
 categories: ["tfs", "technology", "books", "web", "programming", "podcast", "personal"]
 tags: ["blog", "archive"]

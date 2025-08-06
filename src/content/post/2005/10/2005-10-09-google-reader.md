@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Google Reader offers a sleek RSS experience, but issues with subscription imports and slow performance leave it trailing behind Bloglines for now."
 # Taxonomies
 categories: ["technology", "books", "gadgets", "web"]
 tags: ["blog", "archive"]

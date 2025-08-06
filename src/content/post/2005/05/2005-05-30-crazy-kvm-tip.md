@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover an unconventional fix for the chaotic mouse behaviour caused by KVM switches that can save your sanity at work."
 # Taxonomies
 categories: ["technology", "gadgets", "personal"]
 tags: ["blog", "archive"]

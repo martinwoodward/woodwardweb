@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Join the IMTC in Dublin on June 7th for an inspiring day of hands-on sessions and talks, featuring Silverlight and tech experts."
 # Taxonomies
 categories: ["technology", "books", "dotnet", "maker", "web", "programming", "personal"]
 tags: ["blog", "archive"]

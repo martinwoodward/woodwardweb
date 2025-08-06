@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Teamprise V1.1 is now available, featuring NTLMv2 support, improved Mac performance, and a free upgrade to V2.0 coming soon."
 # Taxonomies
 categories: ["tfs", "technology", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]

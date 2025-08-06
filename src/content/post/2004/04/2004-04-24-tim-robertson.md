@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Tim Robertson has traded his home for Australia, sharing thrilling blog updates on surfing and the country's deadly wildlife."
 # Taxonomies
 categories: ["dotnet", "web"]
 tags: ["blog", "archive"]

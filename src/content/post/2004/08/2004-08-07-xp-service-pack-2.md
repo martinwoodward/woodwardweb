@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Installed XP Service Pack 2 on my HP Compaq nx7010; initial WiFi issues resolved, but overall everything is functioning well."
 # Taxonomies
 categories: ["maker", "web"]
 tags: ["blog", "archive"]

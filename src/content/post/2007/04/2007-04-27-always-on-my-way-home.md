@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "After a chaotic journey home, complete with flight delays and being locked out, I find solace in my garage's WiFi."
 # Taxonomies
 categories: ["maker", "personal"]
 tags: ["blog", "archive"]

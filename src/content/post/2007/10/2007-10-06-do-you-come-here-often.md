@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Navigating US customs can be bewildering, especially when unexpected comments leave you questioning your travel experience."
 # Taxonomies
 categories: ["technology", "gadgets", "maker", "web", "personal"]
 tags: ["blog", "archive"]

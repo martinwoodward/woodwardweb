@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "The Fujitsu ST5010 Tablet PC impresses with its handwriting recognition and battery life, but usability drawbacks might deter personal investment."
 # Taxonomies
 categories: ["technology", "books", "gadgets", "web", "programming", "personal"]
 tags: ["blog", "archive"]

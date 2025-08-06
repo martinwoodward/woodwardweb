@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Navigating the confusing world of HDTV resolutions, I ponder whether to invest in a second TV or wait for clearer standards."
 # Taxonomies
 categories: ["web", "personal"]
 tags: ["blog", "archive"]

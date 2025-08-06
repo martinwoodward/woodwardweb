@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I am proud to announce that Microsoft have just published a joint case study with us on the success Thomson Reuters have had using Team."
 # Taxonomies
 categories: ["tfs", "technology", "books", "dotnet", "gadgets", "maker", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]

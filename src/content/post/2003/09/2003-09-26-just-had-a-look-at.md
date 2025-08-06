@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Exploring the Eurdora web browser on my palm m125 reveals effective text-only browsing, even with the new redesign's style changes."
 # Taxonomies
 categories: ["web"]
 tags: ["blog", "archive"]

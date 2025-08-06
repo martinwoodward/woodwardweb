@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover key differences between Team Foundation Server and Subversion to ease the transition for former Subversion users."
 # Taxonomies
 categories: ["tfs", "web", "personal"]
 tags: ["blog", "archive"]

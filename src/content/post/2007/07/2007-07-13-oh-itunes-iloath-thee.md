@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "iTunes on Windows is a frustratingly buggy and intrusive experience, failing to live up to the reputation of the beloved iPod."
 # Taxonomies
 categories: ["git", "technology", "gadgets", "teamprise", "web", "programming", "podcast"]
 tags: ["blog", "archive"]

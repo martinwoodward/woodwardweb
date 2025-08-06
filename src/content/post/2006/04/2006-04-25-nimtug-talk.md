@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Reflecting on a lively Belfast talk, I share my slide deck and useful resources on Team Foundation Server for further exploration."
 # Taxonomies
 categories: ["tfs", "technology", "books", "dotnet", "teamprise", "web", "podcast", "personal"]
 tags: ["blog", "archive"]

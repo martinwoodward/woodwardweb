@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover how to set up Team Foundation Server on a Raspberry Pi, leveraging its powerful ARM architecture for efficient development."
 # Taxonomies
 categories: ["tfs", "technology", "gadgets", "maker", "web", "programming", "personal"]
 tags: ["blog", "archive"]

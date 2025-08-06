@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover how to access free T-Mobile WiFi on your Windows Vista laptop while travelling—sign up quickly before the offer ends!"
 # Taxonomies
 categories: ["technology", "gadgets", "web", "personal"]
 tags: ["blog", "archive"]

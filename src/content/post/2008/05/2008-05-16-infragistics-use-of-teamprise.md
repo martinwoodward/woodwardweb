@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover how Infragistics streamlines product development across teams with Microsoft® Team Foundation Server and Teamprise integration."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "gadgets", "maker", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]

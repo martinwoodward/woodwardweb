@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover a handy VSTS diagram tip: use Ctrl + scroll to zoom in and out easily, perfect for presentations."
 # Taxonomies
 categories: ["tfs", "gadgets", "web"]
 tags: ["blog", "archive"]

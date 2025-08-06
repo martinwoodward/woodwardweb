@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover Buck Hodges' insights on enhancing the performance of the team foundation source control command line tool, tf.exe."
 # Taxonomies
 categories: ["tfs", "web"]
 tags: ["blog", "archive"]

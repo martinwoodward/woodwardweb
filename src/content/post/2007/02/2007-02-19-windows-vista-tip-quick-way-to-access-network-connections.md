@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "One of the things I've always enjoyed about Windows 2000 -> Windows XP -> Windows Vista is that no matter how much the UI changes, some."
 # Taxonomies
 categories: ["technology", "gadgets", "web"]
 tags: ["blog", "archive"]

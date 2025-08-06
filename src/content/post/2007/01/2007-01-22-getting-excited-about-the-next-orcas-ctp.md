@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Anticipation builds for Orcas CTP as exciting Visual Studio features, including enhanced web designer tools, come to light."
 # Taxonomies
 categories: ["tfs", "technology", "books", "dotnet", "web", "programming"]
 tags: ["blog", "archive"]

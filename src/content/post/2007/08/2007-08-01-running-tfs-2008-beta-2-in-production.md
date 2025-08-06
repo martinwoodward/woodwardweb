@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Yesterday I sat down with my freshly downloaded Orcas Beta 2 media (thanks to the Secure Content Downloader from the good folks at Microsoft."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "MSN and Yahoo are integrating their IM services and embracing SIP for VoIP, potentially reshaping the landscape of unified communications."
 # Taxonomies
 categories: ["technology", "web"]
 tags: ["blog", "archive"]

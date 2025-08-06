@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Teamprise v1.0 is now live, featuring new enhancements and numerous bug fixes—get ready to upgrade and explore!"
 # Taxonomies
 categories: ["teamprise", "web"]
 tags: ["blog", "archive"]

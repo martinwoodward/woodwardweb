@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "The Hitchhiker's Guide to the Galaxy film trailer excites with updated storylines, hidden jokes, and a blend of nostalgia for all fans."
 # Taxonomies
 categories: ["technology", "dotnet", "web", "podcast"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Version 1.1 of the TFS MSSCCI Provider is now available, featuring improved workflows, enhanced support, and new options for effective."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]

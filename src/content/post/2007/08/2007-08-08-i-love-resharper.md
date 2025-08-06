@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover how Resharper 3.0.2 boosts productivity and code quality in Visual Studio 2008, making development smoother and more efficient."
 # Taxonomies
 categories: ["technology", "dotnet", "gadgets", "maker", "web", "programming", "personal"]
 tags: ["blog", "archive"]

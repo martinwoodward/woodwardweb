@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Explore Buck Hodges' insights on Microsoft's Gauntlet system for managing shelvesets in VSTS Source Control, balancing benefits against complexities."
 # Taxonomies
 categories: ["git", "tfs", "technology", "dotnet", "maker", "web", "programming", "personal"]
 tags: ["blog", "archive"]

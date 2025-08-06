@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Explore Jez Stephenson's fantastic Mountain Bike Routes site, continually updated for cycling enthusiasts and exercise fanatics alike."
 # Taxonomies
 categories: ["web"]
 tags: ["blog", "archive"]

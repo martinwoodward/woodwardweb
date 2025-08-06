@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Join us for Radio TFS, where we share our first impressions of Team System 2010 Beta 1 and discuss insights from the latest episode."
 # Taxonomies
 categories: ["git", "tfs", "technology", "web", "podcast", "personal"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover how a small TFS Proxy Server drastically improved my development speed over a slow VPN connection from the UK."
 # Taxonomies
 categories: ["git", "tfs", "technology", "gadgets", "maker", "teamprise", "web", "podcast"]
 tags: ["blog", "archive"]

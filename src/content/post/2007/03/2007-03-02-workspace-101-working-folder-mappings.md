@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover how working folder mappings in TFS link your local files to the repository, streamlining your version control experience."
 # Taxonomies
 categories: ["git", "tfs", "technology", "gadgets", "maker", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]

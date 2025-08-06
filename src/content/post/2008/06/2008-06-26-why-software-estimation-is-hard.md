@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Software estimation is challenging due to unpredictable complexities, similar to the varying difficulty of Sudoku puzzles."
 # Taxonomies
 categories: ["technology", "gadgets", "web", "programming", "podcast"]
 tags: ["blog", "archive"]

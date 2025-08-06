@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Learn to check if an HTTP server is listening on a specific port using Java in this practical diagnostics tool guide."
 # Taxonomies
 categories: ["technology", "web", "programming", "podcast"]
 tags: ["blog", "archive"]

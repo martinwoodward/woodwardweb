@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover the new context menu in Teamprise v2, allowing you to view changeset details while merging, enhancing your workflow."
 # Taxonomies
 categories: ["git", "tfs", "technology", "books", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]

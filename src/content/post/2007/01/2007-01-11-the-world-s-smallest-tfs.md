@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover how a Mac Mini became a surprisingly efficient competitor for the title of the world's smallest Team Foundation Server instance."
 # Taxonomies
 categories: ["tfs", "technology", "books", "gadgets", "maker", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]

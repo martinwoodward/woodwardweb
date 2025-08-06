@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover the exciting potential of running Teamprise on a z/OS mainframe, enhancing performance and memory efficiency for TFS users."
 # Taxonomies
 categories: ["tfs", "technology", "teamprise", "web", "programming", "podcast"]
 tags: ["blog", "archive"]

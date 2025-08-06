@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover a proposed powertoy by James Manning that simplifies pasting clipboard contents as attachments in work items to enhance bug reporting."
 # Taxonomies
 categories: ["tfs", "technology", "books", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]

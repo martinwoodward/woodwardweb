@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Join my insightful conversation with Carl Franklin and Richard Campbell on DotNetRocks, discussing source control and continuous integration."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "web", "podcast"]
 tags: ["blog", "archive"]

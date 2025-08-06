@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Troubleshooting Visual Studio 2003's Intellisense autocomplete failure with simple fixes or by using Resharper for enhanced coding efficiency."
 # Taxonomies
 categories: ["dotnet", "maker", "web", "programming"]
 tags: ["blog", "archive"]

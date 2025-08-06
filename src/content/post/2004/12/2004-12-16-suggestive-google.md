@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Explore Google's impressive autocomplete feature, Google Suggest, and its optimised performance for enhanced user experience."
 # Taxonomies
 categories: ["technology", "web", "programming"]
 tags: ["blog", "archive"]

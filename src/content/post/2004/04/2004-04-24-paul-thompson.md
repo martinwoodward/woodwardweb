@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Explore Paul Thompson's striking and thought-provoking photography, where superb artistry meets a unique sense of humour."
 # Taxonomies
 categories: ["web"]
 tags: ["blog", "archive"]

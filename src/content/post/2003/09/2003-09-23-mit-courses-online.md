@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Explore a wealth of MIT course notes online via OpenCourseWare, covering topics from anthropology to particle physics."
 # Taxonomies
 categories: ["web"]
 tags: ["blog", "archive"]

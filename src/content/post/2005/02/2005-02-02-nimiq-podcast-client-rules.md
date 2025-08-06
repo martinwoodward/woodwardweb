@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover how the Nimiq podcast client outshines iPodder, promising a seamless experience with brilliant Bittorrent feed support."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "web", "programming", "podcast"]
 tags: ["blog", "archive"]

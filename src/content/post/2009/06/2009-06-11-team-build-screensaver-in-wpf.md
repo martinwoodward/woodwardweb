@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover a fantastic WPF Team Build screensaver by Jim Liddell, featuring sleek graphics and multi-monitor support for enhanced project visibility."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "gadgets", "maker", "web", "programming"]
 tags: ["blog", "archive"]

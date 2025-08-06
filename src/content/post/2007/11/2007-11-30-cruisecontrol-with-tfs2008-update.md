@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Update on TFS2008 with CruiseControl: my patch has been committed by Dan Rollo and will feature in the upcoming 2.7.2 release."
 # Taxonomies
 categories: ["git", "tfs", "technology", "dotnet", "web"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Teamprise 2.1 is now available, featuring bug fixes, enhanced query editing, improved sync support for Eclipse, and external merge tool options."
 # Taxonomies
 categories: ["git", "tfs", "technology", "books", "dotnet", "maker", "teamprise", "web", "programming", "podcast"]
 tags: ["blog", "archive"]

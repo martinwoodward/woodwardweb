@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Transform your Gmail invites into a practical storage solution by mounting your Gmail account as a filesystem on Linux or Windows."
 # Taxonomies
 categories: ["technology", "dotnet", "gadgets", "web", "programming"]
 tags: ["blog", "archive"]

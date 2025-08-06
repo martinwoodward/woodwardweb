@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Excited to be in Barcelona for TechEd Developers, showcasing Teamprise V2.0 and connecting with fellow tech enthusiasts—stop by our booth!"
 # Taxonomies
 categories: ["tfs", "technology", "maker", "teamprise", "web"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Upgrade your TFS portal to WSS 3.0 for enhanced cross-platform support and discover a free Telerik editor for seamless content management."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "teamprise", "web", "podcast"]
 tags: ["blog", "archive"]

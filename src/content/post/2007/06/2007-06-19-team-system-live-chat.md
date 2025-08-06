@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Join the Team System live chat on July 3rd to engage with product experts and get real-time answers to your Visual Studio queries."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "web"]
 tags: ["blog", "archive"]

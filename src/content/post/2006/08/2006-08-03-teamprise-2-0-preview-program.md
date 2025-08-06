@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Explore the exciting features of Teamprise 2.0 in our Preview Program, where your feedback shapes the future of version control."
 # Taxonomies
 categories: ["git", "tfs", "technology", "books", "dotnet", "maker", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Explore the intriguing Cold War battles behind Tetris and the political machinations unveiled in Thomas Reed's compelling new book."
 # Taxonomies
 categories: ["technology", "books", "web"]
 tags: ["blog", "archive"]

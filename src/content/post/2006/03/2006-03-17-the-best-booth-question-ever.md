@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover the best question to ask at a booth that can lead to insightful conversations and showcase a developer’s passion for their work."
 # Taxonomies
 categories: ["technology", "dotnet", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]

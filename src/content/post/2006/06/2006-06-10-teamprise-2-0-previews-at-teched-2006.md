@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover Teamprise 2.0's exciting new features and enhancements during its debut at TechEd 2006 in Boston."
 # Taxonomies
 categories: ["git", "tfs", "technology", "books", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]

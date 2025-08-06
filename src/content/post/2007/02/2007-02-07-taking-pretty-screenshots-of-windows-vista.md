@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover how Kenny Kerr's Windows Clippings 1.5 transforms screenshot capturing in Windows Vista with stunning accuracy and ease."
 # Taxonomies
 categories: ["technology", "dotnet", "web"]
 tags: ["blog", "archive"]

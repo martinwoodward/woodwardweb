@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Tune in to Radio TFS Episode 5 as we tackle common Team System questions and share insights with plenty of engaging tangents."
 # Taxonomies
 categories: ["tfs", "dotnet", "web", "podcast"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover the essentials of TFS Workspaces, the vital link between your local machine and the Team Foundation Server for effective version control."
 # Taxonomies
 categories: ["git", "tfs", "technology", "gadgets", "teamprise", "web", "programming", "podcast"]
 tags: ["blog", "archive"]

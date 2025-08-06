@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Exploring the MS Visitor Centre in Redmond, I spotted a Compaq Luggable reminiscent of my dad's loft; now off to the office before heading to Chicago."
 # Taxonomies
 categories: ["personal"]
 tags: ["blog", "archive"]

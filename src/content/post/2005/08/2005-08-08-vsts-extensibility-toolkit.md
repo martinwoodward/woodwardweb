@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover the essential VSTS Extensibility Toolkit for streamlining your projects and enhancing your development efficiency."
 # Taxonomies
 categories: ["tfs", "web"]
 tags: ["blog", "archive"]

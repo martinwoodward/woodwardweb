@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "The VSTS 2008 Beta 2 VPC downloaded post-November 1st is set to expire prematurely, as warned by Jeff Beehler."
 # Taxonomies
 categories: ["tfs", "web"]
 tags: ["blog", "archive"]
