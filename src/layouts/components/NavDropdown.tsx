@@ -12,15 +12,16 @@ const NavDropdown = ({ menu, pathname }: { menu: any; pathname: any }) => {
       className="nav-item nav-dropdown group relative"
     >
       <span
-        className={`nav-link inline-flex items-center ${menu.children
+        className={`nav-link inline-flex items-center ${
+          menu.children
             ?.map(({ url }: { url: any }) => url)
             .includes(pathname) ||
-            menu.children
-              ?.map(({ url }: { url: any }) => `${url}/`)
-              .includes(pathname)
+          menu.children
+            ?.map(({ url }: { url: any }) => `${url}/`)
+            .includes(pathname)
             ? "active"
             : ""
-          }`}
+        }`}
       >
         {menu.name}
         <svg className="h-4 w-4 fill-current" viewBox="0 0 20 20">
@@ -29,18 +30,20 @@ const NavDropdown = ({ menu, pathname }: { menu: any; pathname: any }) => {
       </span>
       {menu.children?.length! > 0 && (
         <ul
-          className={`nav-dropdown-list hidden lg:group-hover:block lg:invisible lg:absolute lg:block lg:opacity-0 lg:group-hover:visible lg:group-hover:opacity-100 ${showContent && "max-lg:block"
-            }`}
+          className={`nav-dropdown-list hidden lg:group-hover:block lg:invisible lg:absolute lg:block lg:opacity-0 lg:group-hover:visible lg:group-hover:opacity-100 ${
+            showContent && "max-lg:block"
+          }`}
         >
           {menu.children?.map((child: any, index: number) => (
             <li className="nav-dropdown-item" key={index}>
               <a
                 href={child.url}
                 aria-label={child.name}
-                className={`nav-dropdown-link block ${pathname === child.url || pathname.startsWith(`${child.url}/`)
+                className={`nav-dropdown-link block ${
+                  pathname === child.url || pathname.startsWith(`${child.url}/`)
                     ? "active"
                     : ""
-                  }`}
+                }`}
               >
                 {child.name}
               </a>

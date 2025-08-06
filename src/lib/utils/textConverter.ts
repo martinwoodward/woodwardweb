@@ -36,40 +36,40 @@ export const plainify = (content: string) => {
   // First, remove common markdown syntax before converting to HTML
   let plainText = content
     // Remove markdown links [text](url)
-    .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
+    .replace(/\[([^\]]+)\]\([^)]+\)/g, "$1")
     // Remove markdown images ![alt](url)
-    .replace(/!\[([^\]]*)\]\([^)]+\)/g, '$1')
+    .replace(/!\[([^\]]*)\]\([^)]+\)/g, "$1")
     // Remove markdown bold/italic **text** and *text*
-    .replace(/\*\*([^*]+)\*\*/g, '$1')
-    .replace(/\*([^*]+)\*/g, '$1')
+    .replace(/\*\*([^*]+)\*\*/g, "$1")
+    .replace(/\*([^*]+)\*/g, "$1")
     // Remove markdown headers
-    .replace(/^#{1,6}\s+/gm, '')
+    .replace(/^#{1,6}\s+/gm, "")
     // Remove markdown code blocks ```
-    .replace(/```[\s\S]*?```/g, '')
+    .replace(/```[\s\S]*?```/g, "")
     // Remove inline code `text`
-    .replace(/`([^`]+)`/g, '$1')
+    .replace(/`([^`]+)`/g, "$1")
     // Remove markdown strikethrough
-    .replace(/~~([^~]+)~~/g, '$1')
+    .replace(/~~([^~]+)~~/g, "$1")
     // Remove blockquotes
-    .replace(/^>\s+/gm, '')
+    .replace(/^>\s+/gm, "")
     // Remove horizontal rules
-    .replace(/^---+$/gm, '')
+    .replace(/^---+$/gm, "")
     // Remove list markers
-    .replace(/^[\s]*[-*+]\s+/gm, '')
-    .replace(/^[\s]*\d+\.\s+/gm, '')
+    .replace(/^[\s]*[-*+]\s+/gm, "")
+    .replace(/^[\s]*\d+\.\s+/gm, "")
     // Clean up extra whitespace
-    .replace(/\n\s*\n/g, '\n')
-    .replace(/^\s+|\s+$/g, '')
+    .replace(/\n\s*\n/g, "\n")
+    .replace(/^\s+|\s+$/g, "")
     .trim();
 
   // If there's still HTML-like content, parse and strip it
-  if (plainText.includes('<')) {
+  if (plainText.includes("<")) {
     const parseMarkdown: any = marked.parse(plainText);
     const filterBrackets = parseMarkdown.replace(/<\/?[^>]+(>|$)/gm, "");
     const filterSpaces = filterBrackets.replace(/[\r\n]\s*[\r\n]/gm, " ");
     plainText = htmlEntityDecoder(filterSpaces);
   }
-  
+
   return plainText;
 };
 

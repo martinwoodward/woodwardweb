@@ -14,6 +14,7 @@ tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
+
 If you've been wondering what I have been up to lately, then make sure you sign up for the following MSDN Webcast:-
 
 [MSDN Webcast: Accessing Visual Studio 2005 Team System Using the Teamprise Plug-In for Eclipse (Level 200).](http://www.microsoft.com/communities/eventdetails.mspx?CMTYSvcSource=MSCOMMedia&Params=%7eCMTYDataSvcParams%5e%7earg+Name%3d%22ID%22+Value%3d%221032289495%22%2f%5e%7earg+Name%3d%22ProviderID%22+Value%3d%22A6B43178-497C-4225-BA42-DF595171F04C%22%2f%5e%7earg+Name%3d%22lang%22+Value%3d%22en%22%2f%5e%7earg+Name%3d%22cr%22+Value%3d%22US%22%2f%5e%7esParams%5e%7e%2fsParams%5e%7e%2fCMTYDataSvcParams%5e)
