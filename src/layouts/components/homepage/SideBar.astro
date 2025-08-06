@@ -14,6 +14,9 @@ const sortedPosts = sortByDate(posts);
 const categories = await getTaxonomy("post", "categories");
 const allCategories = await getAllTaxonomy("post", "categories");
 const tags = await getTaxonomy("post", "tags");
+
+// Check if we're on the homepage
+const isHomepage = Astro.url.pathname === '/' || Astro.url.pathname === '';
 ---
 
 <div class="ps-0 lg:ps-4">
@@ -62,36 +65,38 @@ const tags = await getTaxonomy("post", "tags");
   </div>
 
   <!-- latest article -->
-  <div class="widget">
-    <h5 class="widget-title"><span>Latest Posts</span></h5>
-    <ul class="list-unstyled widget-list mb-0">
-      {
-        sortedPosts.slice(0, 3).map((post) => (
-          <li class="flex gap-5 widget-list-post items-start">
-            <div class="widget-list-post-thumb">
-              <ImageMod
-                width={0}
-                height={0}
-                src={post.data.images[0]}
-                alt={post.data.title}
-                format="webp"
-              />
-            </div>
-
-            <div class="media-body">
-              <h6>
-                <a
-                  href={`/${"post"}/${post.id}`}
-                  set:html={markdownify(post.data.title)}
+  {!isHomepage && (
+    <div class="widget">
+      <h5 class="widget-title"><span>Latest Posts</span></h5>
+      <ul class="list-unstyled widget-list mb-0">
+        {
+          sortedPosts.slice(0, 3).map((post) => (
+            <li class="flex gap-5 widget-list-post items-start">
+              <div class="widget-list-post-thumb">
+                <ImageMod
+                  width={0}
+                  height={0}
+                  src={post.data.images[0]}
+                  alt={post.data.title}
+                  format="webp"
                 />
-              </h6>
-              <small>{dateFormat(post.data.date)}</small>
-            </div>
-          </li>
-        ))
-      }
-    </ul>
-  </div>
+              </div>
+
+              <div class="media-body">
+                <h6>
+                  <a
+                    href={`/${"post"}/${post.id}`}
+                    set:html={markdownify(post.data.title)}
+                  />
+                </h6>
+                <small>{dateFormat(post.data.date)}</small>
+              </div>
+            </li>
+          ))
+        }
+      </ul>
+    </div>
+  )}
 
   <!-- categories -->
   <div class="widget">

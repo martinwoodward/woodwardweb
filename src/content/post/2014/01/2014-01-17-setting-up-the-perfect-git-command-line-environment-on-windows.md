@@ -9,7 +9,7 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["git", "tfs", "technology", "maker", "web", "programming", "personal"]
+categories: ["git", "tfs", "technology", "maker", "web", "programming", "personal", "github"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
