@@ -12,6 +12,7 @@ description: "Details about my camera setup for video calls and streaming"
 categories: ["technology", "gadgets", "maker"]
 tags: ["camera", "setup", "streaming", "video", "technology"]
 type: "regular" # available type (regular or featured)
+blueskyPostURI: "3lvrekqwpys2a"
 draft: false
 ---
 A few folks have been commenting on my camera setup so here are the deets. There are cheaper ways to achieve some of the same results and possibly better ways to - however this is what I ended up with.
