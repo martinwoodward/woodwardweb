@@ -16,9 +16,9 @@
   },
   "fonts": {
     "font_family": {
-      "primary": "Open Sans:wght@400",
+      "primary": "Mona Sans:wght@400",
       "primary_type": "sans-serif",
-      "secondary": "Montserrat:wght@400",
+      "secondary": "Hubot Sans:wght@400",
       "secondary_type": "sans-serif"
     },
     "font_size": { "base": "16", "scale": "1.2" }

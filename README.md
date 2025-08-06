@@ -59,6 +59,55 @@ This project is based on the **Logbook Astro** template by Themefisher. You can 
 3. **Components**: Create or modify Astro components in `src/layouts/components/`
 4. **Configuration**: Update site settings in `src/config/` files
 
+### Configuration
+
+The site's configuration is managed through several JSON files in the `src/config/` directory:
+
+- **`config.json`** - General site settings and metadata
+- **`menu.json`** - Navigation menu structure
+- **`social.json`** - Social media links and profiles
+- **`theme.json`** - Visual theme configuration (colors, fonts, typography)
+
+#### Theme Configuration
+
+The site's visual appearance is defined in [`src/config/theme.json`](src/config/theme.json). This file controls:
+
+- **Colors**: Primary theme colors, background colors, border colors, and text colors
+- **Fonts**: Font families (primary and secondary) with their types and weights  
+- **Typography**: Base font size and scaling ratio
+
+To customize the site's appearance, modify the values in `theme.json`:
+
+```json
+{
+  "colors": {
+    "default": {
+      "theme_color": {
+        "primary": "#ce8460",    // Primary brand color
+        "body": "#fff",          // Background color
+        "border": "#ddd",        // Border color
+        "light": "#f0f0f0"       // Light accent color
+      },
+      "text_color": {
+        "text": "#696c6d",       // Default text color
+        "text-dark": "#1c1d1f",  // Dark text color
+        "text-light": "#888c8e"  // Light text color
+      }
+    }
+  },
+  "fonts": {
+    "font_family": {
+      "primary": "Mona Sans:wght@400",
+      "secondary": "Hubot Sans:wght@400"
+    },
+    "font_size": { 
+      "base": "16",     // Base font size in pixels
+      "scale": "1.2"    // Typography scale ratio
+    }
+  }
+}
+```
+
 ## Project Structure
 
 ```
