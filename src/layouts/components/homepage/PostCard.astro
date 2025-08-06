@@ -12,6 +12,13 @@ const post = Astro.props;
 const { images, title, author, date, categories, tags } = post?.post?.data;
 const { id, body } = post?.post;
 
+// Check if image exists using the same logic as ImageMod
+const hasValidImage = images && images[0] && (() => {
+  const src = `/public${images[0]}`;
+  const imageGlob = import.meta.glob("/public/images/**/*.{jpeg,jpg,png,gif}");
+  return imageGlob[src] ? true : false;
+})();
+
 // Smart truncation function that truncates to nearest sentence or whole word
 function smartTruncate(text: string, maxLength: number): string {
   if (!text || text.length <= maxLength) return text;
@@ -40,10 +47,12 @@ function smartTruncate(text: string, maxLength: number): string {
 }
 ---
 
-<div class="post-slider">
-  <a href={`/post/${id}`}>
-    <ImageMod src={images[0]} alt={title} width={0} height={0} />
-  </a>
+<div class={`post-slider ${!hasValidImage ? 'hidden' : ''}`}>
+  {hasValidImage && (
+    <a href={`/post/${id}`}>
+      <ImageMod src={images[0]} alt={title} width={0} height={0} />
+    </a>
+  )}
 </div>
 <div class="card-body">
   <h3 class="">

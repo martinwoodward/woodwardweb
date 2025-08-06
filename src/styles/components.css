@@ -363,3 +363,17 @@ a {
     @apply absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 p-4 rounded-full bg-primary text-body;
   }
 }
+
+/* Post preview images: enforce 16:9 crop */
+.post-slider {
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+}
+.post-slider.hidden {
+  display: none;
+}
+.post-slider img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
