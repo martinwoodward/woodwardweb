@@ -23,6 +23,7 @@
     "astro": "5.4.3",
     "astro-auto-import": "^0.4.4",
     "astro-font": "^1.0.0",
+    "astro-og-canvas": "^0.7.0",
     "date-fns": "^4.1.0",
     "github-slugger": "^2.0.0",
     "gray-matter": "^4.0.3",

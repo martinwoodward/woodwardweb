@@ -2,7 +2,8 @@
   "extends": "astro/tsconfigs/strict",
   "compilerOptions": {
     "baseUrl": ".",
-    "target": "es6",
+    "target": "es2022",
+    "module": "esnext",
     "allowJs": true,
     "strict": true,
     "forceConsistentCasingInFileNames": true,

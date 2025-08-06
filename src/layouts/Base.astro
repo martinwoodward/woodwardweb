@@ -165,7 +165,15 @@ const { title, meta_title, description, image, noindex, canonical } =
     <meta
       property="og:image"
       content={`${config.site.base_url}${
-        image ? image : config.metadata.meta_image
+        Astro.url.pathname.startsWith('/post/') 
+          ? `/og${Astro.url.pathname}.png`
+          : Astro.url.pathname === '/'
+            ? '/og/home.png'
+          : Astro.url.pathname === '/about/'
+            ? '/og/about.png'
+          : image 
+            ? image 
+            : config.metadata.meta_image
       }`}
     />
 
@@ -173,7 +181,15 @@ const { title, meta_title, description, image, noindex, canonical } =
     <meta
       name="twitter:image"
       content={`${config.site.base_url}${
-        image ? image : config.metadata.meta_image
+        Astro.url.pathname.startsWith('/post/') 
+          ? `/og${Astro.url.pathname}.png`
+          : Astro.url.pathname === '/'
+            ? '/og/home.png'
+          : Astro.url.pathname === '/about/'
+            ? '/og/about.png'
+          : image 
+            ? image 
+            : config.metadata.meta_image
       }`}
     />
     <meta name="twitter:card" content="summary_large_image" />
