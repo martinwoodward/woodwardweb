@@ -11,6 +11,33 @@ const post = Astro.props;
 
 const { images, title, author, date, categories, tags } = post?.post?.data;
 const { id, body } = post?.post;
+
+// Smart truncation function that truncates to nearest sentence or whole word
+function smartTruncate(text: string, maxLength: number): string {
+  if (!text || text.length <= maxLength) return text;
+  
+  // First try to truncate to nearest sentence
+  const truncated = text.slice(0, maxLength);
+  const lastSentenceEnd = Math.max(
+    truncated.lastIndexOf('.'),
+    truncated.lastIndexOf('!'),
+    truncated.lastIndexOf('?')
+  );
+  
+  if (lastSentenceEnd > maxLength * 0.5) {
+    // If we found a sentence ending and it's not too short, use it
+    return truncated.slice(0, lastSentenceEnd + 1).trim();
+  }
+  
+  // Otherwise, truncate to nearest whole word
+  const lastSpaceIndex = truncated.lastIndexOf(' ');
+  if (lastSpaceIndex > 0) {
+    return truncated.slice(0, lastSpaceIndex).trim() + '...';
+  }
+  
+  // Fallback to character truncation if no spaces found
+  return truncated.trim() + '...';
+}
 ---
 
 <div class="post-slider">
@@ -43,6 +70,6 @@ const { id, body } = post?.post;
       }
     </li>
   </ul>
-  <p set:html={plainify(body || "").slice(0, Number(summary_length))} />
+  <p set:html={smartTruncate(plainify(body || ""), Number(summary_length))} />
   <a href={`/post/${id}`} class="btn btn-outline-primary"> Continue Reading </a>
 </div>
