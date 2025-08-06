@@ -16,7 +16,9 @@ export default defineConfig({
         './src/layouts/shortcodes/Video.tsx',
         './src/layouts/shortcodes/Youtube.tsx',
         './src/layouts/shortcodes/Tabs.tsx',
-        './src/layouts/shortcodes/Tab.tsx'
+        './src/layouts/shortcodes/Tab.tsx',
+        './src/components/primer/PrimerHeading.tsx',
+        './src/components/primer/PrimerText.tsx'
       ]
     }),
     react(),
@@ -25,7 +27,7 @@ export default defineConfig({
   vite: {
     plugins: [tailwindcss()],
     ssr: {
-      noExternal: ['react-lite-youtube-embed']
+      noExternal: ['react-lite-youtube-embed', '@primer/react-brand']
     }
   }
 });
