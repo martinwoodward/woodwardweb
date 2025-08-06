@@ -18,6 +18,7 @@ This is an Astro-based static site generator blog with the following key charact
 - **Naming**: Post files should follow a descriptive naming convention
 - **Format**: Posts are written in Markdown (.md) or MDX (.mdx) format
 - **Frontmatter**: Each post requires frontmatter with metadata (title, date, description, etc.)
+- **Spelling**: Use UK English spelling for consistency. Never user emdash and rarely use semicolons in prose. 
 
 #### Post Categories
 Posts are organized using the following standardized categories in the frontmatter:
