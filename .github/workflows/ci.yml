@@ -40,13 +40,11 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
       - name: Install dependencies
-        run: yarn install
+        run: npm install
         working-directory: ${{ env.BUILD_PATH }}
       - name: Build with Astro
         run: |
-          yarn generate-json
-          yarn astro check
-          yarn astro build \
+          npm run ci
             --site "${{ steps.pages.outputs.origin }}" \
             --base "${{ steps.pages.outputs.base_path }}"
         working-directory: ${{ env.BUILD_PATH }}
