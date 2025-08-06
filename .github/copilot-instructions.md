@@ -41,6 +41,26 @@ When creating new posts, use these existing categories to maintain consistency. 
 categories: ["technology", "web", "programming"]
 ```
 
+An example post frontmatter might look like this:
+```yaml
+---
+title: "Title of the Post"
+date: 2016-02-10T10:53:11.000Z
+# post thumb
+images:
+  - "/images/post/2016/02/10/01-managing-my-many-hats-on-github.jpg"
+#author
+author: "Martin Woodward"
+# description
+description: "Short description of the post summarizing the content"
+# Taxonomies
+categories: ["git", "technology", "books", "dotnet", "maker", "web", "personal", "github"]
+tags: ["git", "technology", "books", "dotnet", "maker", "web", "personal", "github"]
+type: "regular" # available type (regular or featured)
+draft: false
+---
+```
+
 #### Post Images
 - **Location**: Post images are stored in `public/images/post/`
 - **Organization**: Images are organized by year and month: `yyyy/mm/`
