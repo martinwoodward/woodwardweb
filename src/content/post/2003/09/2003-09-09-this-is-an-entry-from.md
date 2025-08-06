@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Experience the quirks of modern multitasking as I blog from the toilet at work, using GPRS on my mobile phone."
 # Taxonomies
 categories: ["gadgets"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover how Brian the Build Bunny transforms Team Foundation Server events into audio notifications using simple web service integration."
 # Taxonomies
 categories: ["tfs", "technology", "gadgets", "maker", "web", "programming"]
 tags: ["blog", "archive"]

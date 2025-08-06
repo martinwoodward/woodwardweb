@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Exploring Twitter's rising mainstream presence in the UK, with insights on its role in maintaining professional connections and community."
 # Taxonomies
 categories: ["tfs", "dotnet", "maker", "web", "programming", "podcast", "personal"]
 tags: ["blog", "archive"]

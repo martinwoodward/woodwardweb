@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "At TechEd EMEA 2009 in Berlin, I'm engaging with developers on Visual Studio, sharing insights and navigating evolving questions in ALM."
 # Taxonomies
 categories: ["git", "tfs", "technology", "teamprise", "web"]
 tags: ["blog", "archive"]

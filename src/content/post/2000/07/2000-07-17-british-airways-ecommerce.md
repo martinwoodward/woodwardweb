@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Exploring the complexities of British Airways eCommerce, a project rich with collaboration and challenging legacy systems."
 # Taxonomies
 categories: ["books"]
 tags: ["blog", "archive"]

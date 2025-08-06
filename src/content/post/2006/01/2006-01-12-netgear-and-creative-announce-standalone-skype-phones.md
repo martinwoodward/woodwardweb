@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Netgear and Creative unveil innovative standalone Skype phones, enabling calls without a computer and offering convenient WiFi connectivity."
 # Taxonomies
 categories: ["technology", "dotnet", "gadgets", "maker", "web"]
 tags: ["blog", "archive"]

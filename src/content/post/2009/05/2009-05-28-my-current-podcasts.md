@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover my evolution from a lengthy commute filled with early podcasts to a curated list of current shows that enrich my daily routines."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "gadgets", "maker", "teamprise", "web", "programming", "podcast", "personal"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover the newly released TFS Migration Toolkit, enhancing compatibility and offering robust features for seamless TFS migrations."
 # Taxonomies
 categories: ["tfs", "technology", "books", "dotnet", "web", "programming", "podcast"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover how to quickly access Windows Mobility Center with Windows-X for easy management of external monitors and Wi-Fi settings."
 # Taxonomies
 categories: ["technology", "gadgets", "maker", "web"]
 tags: ["blog", "archive"]

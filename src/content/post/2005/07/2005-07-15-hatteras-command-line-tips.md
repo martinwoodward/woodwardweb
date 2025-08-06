@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Unlock essential Hatteras command line tips, from passing login credentials to mastering date and time versionspecs for efficient history searches."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "programming"]
 tags: ["blog", "archive"]

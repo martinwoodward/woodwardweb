@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover Skype's new call forwarding feature that directs missed calls to your landline or mobile, even when you're offline."
 # Taxonomies
 categories: ["technology", "dotnet", "gadgets", "maker", "web"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "By default, the maximum attachment size for attachments to work items in Team Foundation Server is 4Mb."
 # Taxonomies
 categories: ["tfs", "technology", "web", "programming", "podcast"]
 tags: ["blog", "archive"]

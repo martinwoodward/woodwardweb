@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Finally connected my Palm to Blogger through wapblogger, but my Graffiti handwriting still needs a speed boost."
 # Taxonomies
 categories: ["personal"]
 tags: ["blog", "archive"]

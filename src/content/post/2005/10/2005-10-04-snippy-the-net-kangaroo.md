@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover Snippy, the essential tool for effortlessly editing code snippets in VS 2005, enhancing your coding experience and productivity."
 # Taxonomies
 categories: ["technology", "dotnet", "web", "programming", "podcast", "personal"]
 tags: ["blog", "archive"]

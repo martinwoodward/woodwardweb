@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Explore the importance of detecting code smells like copy/pasting with tools that can enhance code quality and maintainability."
 # Taxonomies
 categories: ["technology", "dotnet", "maker", "web", "programming"]
 tags: ["blog", "archive"]

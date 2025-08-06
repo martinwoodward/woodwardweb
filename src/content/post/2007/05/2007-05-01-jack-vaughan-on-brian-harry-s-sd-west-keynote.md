@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Jack Vaughan shares insights from Brian Harry's keynote, highlighting a 10X data optimisation improvement and the importance of disk-level."
 # Taxonomies
 categories: ["tfs", "technology", "books", "dotnet", "maker", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]

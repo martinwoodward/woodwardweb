@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Polishing my shoes connects me to my father and grandfather amid a digitally-driven life, reminding me of simpler traditions."
 # Taxonomies
 categories: ["books", "gadgets", "web", "personal"]
 tags: ["blog", "archive"]

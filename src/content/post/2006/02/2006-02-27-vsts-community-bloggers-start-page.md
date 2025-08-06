@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover how to customise your Visual Studio 2005 start page with the latest feeds from the VSTS blogging community for easy access."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "web"]
 tags: ["blog", "archive"]

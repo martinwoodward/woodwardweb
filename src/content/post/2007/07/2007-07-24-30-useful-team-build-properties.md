@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover 30 essential properties to enhance your TFS Team Build scripts, streamlining your custom build processes effectively."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "maker", "web", "programming"]
 tags: ["blog", "archive"]

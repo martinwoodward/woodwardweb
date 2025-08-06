@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Learn how to fix Eclipse settings to enable the assert keyword and ensure compatibility with Java 1.4 for smoother development."
 # Taxonomies
 categories: ["technology", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]

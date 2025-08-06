@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover insightful books on UI design, from Zeldman's standards to defensive design strategies, perfect for your commute."
 # Taxonomies
 categories: ["technology", "books", "web", "personal"]
 tags: ["blog", "archive"]

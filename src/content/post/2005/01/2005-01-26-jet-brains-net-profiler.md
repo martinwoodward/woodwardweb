@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Jet Brains launches the EAP for their new .NET Profiler, offering invaluable insights into performance but facing uncertain future as."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "gadgets", "maker", "web", "programming", "personal"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "As you have probably heard by now, Eclipse 3."
 # Taxonomies
 categories: ["technology", "maker", "web", "personal"]
 tags: ["blog", "archive"]

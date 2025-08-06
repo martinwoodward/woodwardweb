@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Teamprise developer Ed Thomson has launched his blog, sharing insights from his Mac-centric workspace and enhancing Mac OS compatibility."
 # Taxonomies
 categories: ["technology", "teamprise", "web"]
 tags: ["blog", "archive"]

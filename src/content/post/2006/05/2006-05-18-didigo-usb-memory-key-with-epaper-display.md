@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover the Didigo USB memory key featuring a unique ePaper display that shows capacity and volume name, making data storage captivating."
 # Taxonomies
 categories: ["technology", "gadgets", "maker", "web"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "With Team Build in Team Foundation Server, you can have multiple build types for multiple projects."
 # Taxonomies
 categories: ["git", "tfs", "maker", "teamprise", "web"]
 tags: ["blog", "archive"]

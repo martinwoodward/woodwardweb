@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover how to easily install and set the Sun JRE on Ubuntu for seamless NTLM authentication with Teamprise."
 # Taxonomies
 categories: ["teamprise", "web"]
 tags: ["blog", "archive"]

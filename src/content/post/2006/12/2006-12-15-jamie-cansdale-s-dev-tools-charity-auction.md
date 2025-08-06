@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Jamie Cansdale launches a charity auction for Wells for Zoë, offering nearly £5,000 in software, including TestDriven.NET and more."
 # Taxonomies
 categories: ["tfs", "technology", "books", "dotnet", "web", "programming"]
 tags: ["blog", "archive"]

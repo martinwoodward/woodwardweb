@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Scott Guthrie introduces a new web project model for VS 2005, enhancing build automation and showcasing Microsoft's improved responsiveness."
 # Taxonomies
 categories: ["technology", "dotnet", "maker", "web"]
 tags: ["blog", "archive"]

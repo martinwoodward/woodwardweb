@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "My mate Jez has launched a blog—check it out, share some banter, and keep an eye on his new guitar affiliate site!"
 # Taxonomies
 categories: ["web", "podcast"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Reflecting on my first three months at Microsoft, I share insights on the transition and exciting projects amidst a busy start."
 # Taxonomies
 categories: ["git", "tfs", "technology", "books", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]

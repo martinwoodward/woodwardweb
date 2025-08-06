@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover Notion Solutions' innovative Team System eTraining, featuring live support from expert Mickey Gousset for a truly engaging experience."
 # Taxonomies
 categories: ["tfs", "technology", "books", "gadgets", "web", "programming", "personal"]
 tags: ["blog", "archive"]

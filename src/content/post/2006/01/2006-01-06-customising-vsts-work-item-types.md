@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover effective strategies for customising VSTS work item types to enhance your process and avoid common pitfalls."
 # Taxonomies
 categories: ["tfs", "dotnet", "web"]
 tags: ["blog", "archive"]

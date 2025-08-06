@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Explore the VSTS Guidance project on CodePlex, a fascinating initiative from patterns and practices for enhancing VSTS contributions."
 # Taxonomies
 categories: ["tfs", "web", "programming"]
 tags: ["blog", "archive"]

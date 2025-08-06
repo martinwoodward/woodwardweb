@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Join me in exploring the vibrant atmosphere of TechEd 2010 North America in New Orleans, featuring exciting sessions and my talk on Team."
 # Taxonomies
 categories: ["git", "tfs", "technology", "gadgets", "maker", "web", "programming", "personal"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "On the off chance that you read my blog and not Scott Hanselman's (shame on you) then I wanted to draw your attention to some invaluable."
 # Taxonomies
 categories: ["technology", "maker", "web"]
 tags: ["blog", "archive"]

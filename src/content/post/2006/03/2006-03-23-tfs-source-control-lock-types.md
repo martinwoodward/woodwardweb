@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Explore the different lock types in TFS Source Control—none, check-out, and check-in—to effectively manage file edits and avoid conflicts."
 # Taxonomies
 categories: ["git", "tfs", "technology", "maker", "web"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Learn how to create a slipstreamed ISO image of TFS 2008 with SP1 to streamline your installation for SQL Server and Windows Server 2008."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "maker", "web", "programming", "personal"]
 tags: ["blog", "archive"]

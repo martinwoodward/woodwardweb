@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "So, this isn't exactly original material - but I was having a chat with somebody today who I consider very knowledgeable about Visual Studio."
 # Taxonomies
 categories: ["tfs", "technology", "books", "dotnet", "maker", "web", "programming"]
 tags: ["blog", "archive"]

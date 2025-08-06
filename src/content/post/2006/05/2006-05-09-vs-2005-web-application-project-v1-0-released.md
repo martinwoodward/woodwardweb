@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "The VS 2005 Web Application Project has officially launched its V1.0, merging old and new features for an exciting development experience."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "maker", "web"]
 tags: ["blog", "archive"]

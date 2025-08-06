@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover how Pocket SharpMT on my HP4150 impresses with its features, despite my handwriting challenges and the keyboard dilemma."
 # Taxonomies
 categories: ["gadgets", "maker", "web"]
 tags: ["blog", "archive"]

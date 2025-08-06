@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Join the DDD community in Belfast on April 4th for a free, collaborative event celebrating .NET development and knowledge sharing."
 # Taxonomies
 categories: ["technology", "dotnet", "maker", "web", "programming", "personal"]
 tags: ["blog", "archive"]

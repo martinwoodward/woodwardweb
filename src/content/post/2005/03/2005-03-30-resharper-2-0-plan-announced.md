@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "JetBrains announces the Resharper 2.0 plan, introducing support for Visual Studio 2005, with an EAP starting next month and a full release."
 # Taxonomies
 categories: ["dotnet", "web", "personal"]
 tags: ["blog", "archive"]

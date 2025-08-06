@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Excited for TechEd 2007 in Orlando, enjoying a smooth journey from Newark, and thrilled to join the Team System TLC and Teamprise booth!"
 # Taxonomies
 categories: ["tfs", "technology", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]

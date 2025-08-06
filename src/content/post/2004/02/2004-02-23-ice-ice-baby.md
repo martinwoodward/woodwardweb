@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Explore the intriguing history of ice trade and discover why Brits favour warm drinks while Americans enjoy icy refreshment."
 # Taxonomies
 categories: ["technology", "books", "web"]
 tags: ["blog", "archive"]

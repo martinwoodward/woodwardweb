@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Learn how to upgrade from TFS RC to RTM while safeguarding custom data and modifying Agile process templates."
 # Taxonomies
 categories: ["tfs", "web"]
 tags: ["blog", "archive"]

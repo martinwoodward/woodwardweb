@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Join me in the Annual Year Planner Shuffle as I organise key dates for a busy and exciting New Year in the office."
 # Taxonomies
 categories: ["tfs", "technology", "books", "gadgets", "maker", "web"]
 tags: ["blog", "archive"]

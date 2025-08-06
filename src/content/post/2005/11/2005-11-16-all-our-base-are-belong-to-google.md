@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Exploring the potential of Google Base, a new searchable repository that could revolutionise online classifieds or fade into obscurity."
 # Taxonomies
 categories: ["git", "technology", "web", "programming"]
 tags: ["blog", "archive"]

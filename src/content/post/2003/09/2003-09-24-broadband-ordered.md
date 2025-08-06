@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I've ordered broadband from Nildram for its static IP and great customer service, eagerly awaiting installation after 15th October."
 # Taxonomies
 categories: ["maker", "web"]
 tags: ["blog", "archive"]

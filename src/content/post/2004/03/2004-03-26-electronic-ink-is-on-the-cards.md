@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Sony's LIBRIe, the first commercial E-Ink reader, launches in Japan this April, promising to revolutionise reading with a lightweight."
 # Taxonomies
 categories: ["technology", "web"]
 tags: ["blog", "archive"]

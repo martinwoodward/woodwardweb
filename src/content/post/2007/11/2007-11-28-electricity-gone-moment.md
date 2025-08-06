@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "This morning while I was preparing for a customer demo that I'll be doing over LiveMeeting later today, my DSL connection stopped working."
 # Taxonomies
 categories: ["technology", "dotnet", "gadgets", "web", "personal"]
 tags: ["blog", "archive"]

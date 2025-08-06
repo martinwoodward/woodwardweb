@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover how Sysinternals tools like Process Explorer and BgInfo can simplify troubleshooting and server management for enhanced efficiency."
 # Taxonomies
 categories: ["technology", "maker", "web"]
 tags: ["blog", "archive"]

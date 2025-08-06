@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Alan Irwin, the only person I know with passports from three countries, has started his own blog."
 # Taxonomies
 categories: ["web"]
 tags: ["blog", "archive"]

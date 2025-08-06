@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Frustrated by iTunes 7.6 freezing on close? Discover how disabling Bonjour can restore functionality and improve your experience."
 # Taxonomies
 categories: ["technology", "gadgets", "maker", "web", "programming", "podcast"]
 tags: ["blog", "archive"]

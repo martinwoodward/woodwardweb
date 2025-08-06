@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover the latest update of Team Foundation Sidekicks 2.4, featuring new tools and essential bug fixes for enhanced TFS 2010 support."
 # Taxonomies
 categories: ["tfs", "web", "programming"]
 tags: ["blog", "archive"]

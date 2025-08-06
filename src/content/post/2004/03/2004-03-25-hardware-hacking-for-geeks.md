@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Dive into Scott Fullam's "Hardware Hacking for Geeks" to explore fun, quirky projects that transform everyday gadgets into tech marvels."
 # Taxonomies
 categories: ["technology", "books", "gadgets", "maker", "web"]
 tags: ["blog", "archive"]

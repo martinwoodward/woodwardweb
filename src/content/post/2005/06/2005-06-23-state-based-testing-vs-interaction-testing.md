@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Explore the differences between State Based Testing and Interaction Testing, and reevaluate your testing strategies for better results."
 # Taxonomies
 categories: ["git", "dotnet", "maker", "web", "programming"]
 tags: ["blog", "archive"]

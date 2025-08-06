@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Explore the concept of detestable code—software that's untestable—and learn how it affects development and quality."
 # Taxonomies
 categories: ["technology", "web", "programming"]
 tags: ["blog", "archive"]

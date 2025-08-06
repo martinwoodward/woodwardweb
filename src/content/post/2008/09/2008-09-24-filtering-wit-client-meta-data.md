@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover how to enhance TFS 2008 SP1 performance by enabling WIT Client Meta-data Filtering to optimise network traffic and data management."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "maker", "teamprise", "web", "programming", "podcast", "personal"]
 tags: ["blog", "archive"]

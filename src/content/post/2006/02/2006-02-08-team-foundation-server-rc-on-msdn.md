@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Exciting news: the Release Candidate of Team Foundation Server is now available for download on MSDN for eager developers!"
 # Taxonomies
 categories: ["tfs", "books", "web"]
 tags: ["blog", "archive"]

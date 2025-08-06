@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Explore the SD West slide deck on deploying Visual Studio Team Foundation Server across your enterprise and connecting diverse platforms."
 # Taxonomies
 categories: ["tfs", "technology", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "BEA's announcement to join the Eclipse foundation aims to integrate WebLogic Workshop with Eclipse, enhancing developer tools."
 # Taxonomies
 categories: ["technology", "maker", "web", "programming"]
 tags: ["blog", "archive"]

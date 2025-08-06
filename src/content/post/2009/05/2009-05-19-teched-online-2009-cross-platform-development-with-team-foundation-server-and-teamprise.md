@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Explore insights from TechEd 2009 as Brian Keller discusses Teamprise's evolution and its role in cross-platform development with Team."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "teamprise", "web", "podcast"]
 tags: ["blog", "archive"]

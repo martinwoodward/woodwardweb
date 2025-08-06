@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Microsoft unveils Team Explorer Everywhere 2010, replacing Teamprise and enhancing support for multi-platform development."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "teamprise", "web", "programming", "podcast", "personal"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Effective C# by Bill Wagner offers essential insights for Java developers transitioning to C#, highlighting best practices and deeper understanding."
 # Taxonomies
 categories: ["technology", "books", "dotnet", "web", "programming"]
 tags: ["blog", "archive"]

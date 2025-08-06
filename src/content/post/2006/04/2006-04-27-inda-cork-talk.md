@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "At the Cork INDA talk, a passionate audience engaged deeply with Source Control discussions, showcasing dedication despite the lovely weather."
 # Taxonomies
 categories: ["tfs", "technology", "books", "dotnet", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]

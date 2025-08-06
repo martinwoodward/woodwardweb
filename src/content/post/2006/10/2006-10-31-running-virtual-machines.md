@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover how using external drives for virtual machines on a laptop can enhance performance significantly, even via USB 2.0 connections."
 # Taxonomies
 categories: ["git", "technology", "gadgets", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]

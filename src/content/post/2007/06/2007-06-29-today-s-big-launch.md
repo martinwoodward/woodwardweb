@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Excitement surrounds the release of Eclipse 3.3 (Europa) today, featuring enhanced support for Vista and a streamlined download experience."
 # Taxonomies
 categories: ["technology", "dotnet", "gadgets", "maker", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]

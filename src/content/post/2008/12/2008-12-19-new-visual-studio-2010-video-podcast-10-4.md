@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Join Brian Keller on the new weekly podcast 10-4 for insights and updates on Visual Studio 2010 and the .NET Framework 4.0."
 # Taxonomies
 categories: ["dotnet", "maker", "web", "programming", "podcast"]
 tags: ["blog", "archive"]

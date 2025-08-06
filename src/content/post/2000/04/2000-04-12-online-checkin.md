@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover the innovative seat selection interface for BA's pioneering online check-in, featuring a charming movable "little man" design."
 # Taxonomies
 categories: ["tfs"]
 tags: ["blog", "archive"]

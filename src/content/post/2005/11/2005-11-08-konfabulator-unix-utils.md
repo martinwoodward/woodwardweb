@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover how Konfabulator's Unix Utils bring familiar command-line tools to Windows, inspiring new widget creations and coding adventures."
 # Taxonomies
 categories: ["technology", "web"]
 tags: ["blog", "archive"]

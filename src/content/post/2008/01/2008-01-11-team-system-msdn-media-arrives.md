@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "The arrival of my MSDN DVD for Visual Studio 2008 Team System brought unexpected joy, highlighting the charm of tangible software in a digital age."
 # Taxonomies
 categories: ["git", "tfs", "technology"]
 tags: ["blog", "archive"]

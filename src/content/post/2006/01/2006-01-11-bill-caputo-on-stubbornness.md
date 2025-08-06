@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Bill Caputo reflects on stubbornness, blending pragmatism and experience in a thought-provoking morning read for all."
 # Taxonomies
 categories: ["web"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Explore Teamprise's plans for TFS 2010 Beta 1 and how their upcoming version will support new features of this release."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "teamprise", "web", "programming", "podcast"]
 tags: ["blog", "archive"]

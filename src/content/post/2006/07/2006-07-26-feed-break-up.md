@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover how I've adapted my blog feeds to cater to my growing audience while balancing personal insights and technical content."
 # Taxonomies
 categories: ["tfs", "technology", "books", "dotnet", "gadgets", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Experience the excitement of Scott Guthrie's insights on ASP.NET 2.0 and Atlas at the inaugural Irish National Developers Conference in Dublin."
 # Taxonomies
 categories: ["dotnet", "web", "programming", "podcast", "personal"]
 tags: ["blog", "archive"]

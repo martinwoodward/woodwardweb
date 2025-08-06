@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Learn how to easily restore the Telnet client on Vista for effective network troubleshooting in just a few simple steps."
 # Taxonomies
 categories: ["technology", "maker", "web", "programming", "podcast"]
 tags: ["blog", "archive"]

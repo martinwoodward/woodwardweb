@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover effective strategies for rallying developers to lunch, inspired by animal behaviour research on group dynamics."
 # Taxonomies
 categories: ["technology", "books", "gadgets", "web", "personal"]
 tags: ["blog", "archive"]

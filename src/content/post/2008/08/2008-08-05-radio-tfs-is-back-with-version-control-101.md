@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "In this first episode back from the summer break we talk about the features available in TFS Version Control and talk about some of the."
 # Taxonomies
 categories: ["tfs", "technology", "web", "podcast", "personal"]
 tags: ["blog", "archive"]

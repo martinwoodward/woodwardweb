@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover essential tips and tricks for successfully installing Ubuntu 7.10 in Microsoft Virtual PC 2007 in this comprehensive guide."
 # Taxonomies
 categories: ["technology", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]

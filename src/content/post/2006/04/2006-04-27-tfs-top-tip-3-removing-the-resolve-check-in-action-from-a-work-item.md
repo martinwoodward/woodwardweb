@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I don’t know about you, but I love associating my check-ins with work items using the Pending Changes view, it makes it so easy to maintain."
 # Taxonomies
 categories: ["tfs", "technology"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover how podcasting uses RSS technology to deliver downloadable audio content, enabling convenient offline listening on your devices."
 # Taxonomies
 categories: ["git", "technology", "dotnet", "maker", "web", "podcast"]
 tags: ["blog", "archive"]

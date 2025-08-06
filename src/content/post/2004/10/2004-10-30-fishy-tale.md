@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Capturing the charm of Belfast, this photo highlights the lamp post by Queen's Bridge, with the Waterfront concert hall and my office subtly behind."
 # Taxonomies
 categories: ["technology", "gadgets", "web", "personal"]
 tags: ["blog", "archive"]

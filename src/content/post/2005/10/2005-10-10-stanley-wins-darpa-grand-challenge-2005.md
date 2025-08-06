@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Stanford University's modified VW Touareg, Stanley, triumphs in the 2005 DARPA Grand Challenge by completing the 131-mile course."
 # Taxonomies
 categories: ["web"]
 tags: ["blog", "archive"]

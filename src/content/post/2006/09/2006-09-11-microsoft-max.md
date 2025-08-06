@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover Microsoft Max, a visually stunning photo-organising app that simplifies sharing while hinting at future online capabilities."
 # Taxonomies
 categories: ["technology", "dotnet", "gadgets", "web", "personal"]
 tags: ["blog", "archive"]

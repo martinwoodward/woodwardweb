@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Experience the excitement of the Apple Store in Chicago, where innovation meets vibrant urban culture."
 # Taxonomies
 categories: ["technology"]
 tags: ["blog", "archive"]

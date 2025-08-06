@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Excited to report a successful first-time install of VSTS Beta 3, despite minor reporting issues; it's significantly faster than Beta 2."
 # Taxonomies
 categories: ["tfs", "maker", "web"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Explore the challenges and benefits of keyword expansion in source control systems, highlighting its evolving relevance in modern development."
 # Taxonomies
 categories: ["tfs", "technology", "books", "web", "programming"]
 tags: ["blog", "archive"]

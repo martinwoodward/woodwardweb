@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "At VSLive, Soma Somasegar announced VSTS updates and showcased the Teamprise Explorer running on Ubuntu, drawing a positive crowd."
 # Taxonomies
 categories: ["tfs", "technology", "dotnet", "teamprise", "web"]
 tags: ["blog", "archive"]

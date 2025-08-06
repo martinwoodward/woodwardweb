@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Recently, I've had a surge of emails asking various questions about Team Foundation Server and how to do certain things."
 # Taxonomies
 categories: ["tfs", "technology", "gadgets", "maker", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]

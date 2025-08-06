@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover Meebo, an exceptional web-based chat platform that rivals Trillian with its outstanding Ajax features—check it out now!"
 # Taxonomies
 categories: ["technology", "web"]
 tags: ["blog", "archive"]

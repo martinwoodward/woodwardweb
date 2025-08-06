@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover Dan Fernandez's useful stored procedure utility that provides insightful code metrics for your sprocs, but remember—less code."
 # Taxonomies
 categories: ["books", "web", "programming"]
 tags: ["blog", "archive"]

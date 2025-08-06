@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "CodePlex's new project stats reveal impressive download numbers, reigniting my motivation to enhance my TFS Plug-in for CruiseControl.NET."
 # Taxonomies
 categories: ["tfs", "dotnet", "maker", "web", "programming"]
 tags: ["blog", "archive"]

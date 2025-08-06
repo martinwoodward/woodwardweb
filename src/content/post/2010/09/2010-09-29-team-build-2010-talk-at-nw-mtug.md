@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Join me at NW-MTUG for a talk on Team Foundation Build 2010, featuring automation tips and a chance to win my book."
 # Taxonomies
 categories: ["tfs", "technology", "books", "maker", "web", "programming", "personal"]
 tags: ["blog", "archive"]

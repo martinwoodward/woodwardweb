@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover how you can support my blog by joining the new Skype Affiliate Programme and purchasing Skype-Out credits today."
 # Taxonomies
 categories: ["dotnet", "web"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Join the Teamprise team at PDC 2008 for exciting new offerings, including TFS integration, while I share updates from afar."
 # Taxonomies
 categories: ["tfs", "technology", "gadgets", "maker", "teamprise", "web"]
 tags: ["blog", "archive"]

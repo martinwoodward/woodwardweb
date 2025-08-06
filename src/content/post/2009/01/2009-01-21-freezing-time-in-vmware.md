@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Learn how to freeze time in VMware to bypass the January 2009 timebomb issue in VS2010 (Rosario) seamlessly."
 # Taxonomies
 categories: ["tfs", "technology", "maker", "web", "podcast", "personal"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Join the MSDN Webcast to learn how to harness the Teamprise Plug-In for Eclipse to access Microsoft Visual Studio 2005 Team System features."
 # Taxonomies
 categories: ["tfs", "technology", "teamprise", "web"]
 tags: ["blog", "archive"]

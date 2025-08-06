@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "This is a follow-up to a post I made over a year ago."
 # Taxonomies
 categories: ["web", "podcast", "personal"]
 tags: ["blog", "archive"]

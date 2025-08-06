@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Skype experienced significant login issues today, linked to a server software fault exacerbated by Windows updates, but it's now resolved."
 # Taxonomies
 categories: ["technology", "dotnet", "gadgets", "maker", "web"]
 tags: ["blog", "archive"]

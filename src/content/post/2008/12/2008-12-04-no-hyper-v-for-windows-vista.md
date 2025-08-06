@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Windows Vista SP2 won't include Hyper-V support, clarifying earlier excitement about virtualization capabilities in the operating system."
 # Taxonomies
 categories: ["technology", "gadgets", "maker", "web", "programming"]
 tags: ["blog", "archive"]

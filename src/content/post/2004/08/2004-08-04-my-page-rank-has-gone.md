@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "After vanishing from Google search results, I battled to regain my rank, finally clawing back to page one—though I'm still in last place."
 # Taxonomies
 categories: ["technology", "web", "personal"]
 tags: ["blog", "archive"]

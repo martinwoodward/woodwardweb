@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Join me on my London adventure as I explore amusing WiFi names and enjoy free wireless while travelling at 125mph on the GNER service."
 # Taxonomies
 categories: ["dotnet", "web", "programming", "personal"]
 tags: ["blog", "archive"]

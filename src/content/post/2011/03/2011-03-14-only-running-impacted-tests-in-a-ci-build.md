@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover how customising your CI build to run only impacted tests can speed up feedback loops and enhance testing efficiency."
 # Taxonomies
 categories: ["tfs", "maker", "web", "programming", "personal"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover the amusing and sometimes uncanny world of BuzzWhack, where satire meets clever wordplay, including hits like Salad Doger."
 # Taxonomies
 categories: ["web"]
 tags: ["blog", "archive"]

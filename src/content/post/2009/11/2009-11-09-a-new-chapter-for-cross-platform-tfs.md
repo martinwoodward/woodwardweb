@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Microsoft acquires Teamprise, ushering in a new era for cross-platform access to TFS, as the Teamprise team joins their ranks."
 # Taxonomies
 categories: ["git", "tfs", "technology", "books", "maker", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]

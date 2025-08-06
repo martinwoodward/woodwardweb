@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover how to geocode your blog posts while travelling, adding location data for reference and enhancing your online storytelling."
 # Taxonomies
 categories: ["technology", "web", "programming", "personal"]
 tags: ["blog", "archive"]

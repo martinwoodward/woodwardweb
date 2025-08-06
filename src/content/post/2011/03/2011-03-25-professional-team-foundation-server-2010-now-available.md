@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover the new Pro TFS 2010 book, your comprehensive guide to mastering Team Foundation Server, now available in multiple formats."
 # Taxonomies
 categories: ["git", "tfs", "technology", "books", "dotnet", "gadgets", "maker", "web", "programming", "personal"]
 tags: ["blog", "archive"]

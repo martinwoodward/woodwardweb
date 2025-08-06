@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Watch Ron Jacobs interview a real-world organisation using Team Foundation Server in a cross-platform setting at TechEd Australia 2007."
 # Taxonomies
 categories: ["tfs", "technology", "teamprise", "web", "podcast", "personal"]
 tags: ["blog", "archive"]

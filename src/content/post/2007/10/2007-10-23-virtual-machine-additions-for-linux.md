@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Version 2.0 of Virtual Machine Additions for Linux enhances support for RedHat and SuSE systems, with mixed results for Debian users."
 # Taxonomies
 categories: ["technology", "maker", "web", "personal"]
 tags: ["blog", "archive"]

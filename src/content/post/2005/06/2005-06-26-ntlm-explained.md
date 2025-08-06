@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover the intricacies of NTLM authentication and its vital role in enabling seamless interoperability between MS and Unix-like environments."
 # Taxonomies
 categories: ["technology", "books", "dotnet", "web"]
 tags: ["blog", "archive"]

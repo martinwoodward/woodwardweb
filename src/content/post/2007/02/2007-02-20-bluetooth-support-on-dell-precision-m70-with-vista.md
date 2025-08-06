@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover how to restore Bluetooth functionality on your Dell Precision M70 running Vista with the latest official drivers and updates."
 # Taxonomies
 categories: ["technology", "books", "gadgets", "maker", "web", "personal"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Explore the Ten Commandments of Egoless Programming and reflect on enhancing collaboration and personal growth in code reviews and pair programming."
 # Taxonomies
 categories: ["books", "web", "programming", "personal"]
 tags: ["blog", "archive"]

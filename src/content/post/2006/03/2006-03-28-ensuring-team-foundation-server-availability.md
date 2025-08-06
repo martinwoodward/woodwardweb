@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Explore strategies to ensure Team Foundation Server availability while leveraging existing SQL Server expertise and optimising disk configurations."
 # Taxonomies
 categories: ["git", "tfs", "technology", "web", "personal"]
 tags: ["blog", "archive"]

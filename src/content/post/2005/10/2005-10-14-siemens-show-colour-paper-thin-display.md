@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Siemens unveils a cost-effective, paper-thin OLED display potentially revolutionising print media with vibrant colour integration."
 # Taxonomies
 categories: ["technology", "maker", "web"]
 tags: ["blog", "archive"]

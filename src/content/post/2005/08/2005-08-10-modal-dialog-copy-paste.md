@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover how to easily copy text from pesky modal dialog boxes using Ctrl-C—no more frustration!"
 # Taxonomies
 categories: ["git", "maker"]
 tags: ["blog", "archive"]

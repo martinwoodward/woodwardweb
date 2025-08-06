@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "After a power cut nearly doomed my aging Dell SX270, Dell's repair programme offers a surprise lifeline for the machine's revival."
 # Taxonomies
 categories: ["tfs", "technology", "gadgets", "maker", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]

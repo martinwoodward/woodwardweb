@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "I've won an HP Compaq laptop thanks to Intel Developer Services—exciting news to share as soon as it arrives!"
 # Taxonomies
 categories: ["technology", "books", "gadgets", "web"]
 tags: ["blog", "archive"]

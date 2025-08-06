@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Transform your Windows XP experience with the stunning Royale theme from Tablet PC Edition, now available for download from Microsoft New Zealand."
 # Taxonomies
 categories: ["technology", "gadgets", "maker", "web", "personal"]
 tags: ["blog", "archive"]

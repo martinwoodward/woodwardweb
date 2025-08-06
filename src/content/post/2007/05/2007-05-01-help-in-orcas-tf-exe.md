@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover how to access help in Orcas' Team Explorer client seamlessly with the new tf command in Visual Studio."
 # Taxonomies
 categories: ["technology", "web", "programming"]
 tags: ["blog", "archive"]

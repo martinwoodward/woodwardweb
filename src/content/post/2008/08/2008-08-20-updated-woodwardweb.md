@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "To celebrate my 5 year anniversary of blogging, I gave this site a long overdue refresh over the weekend."
 # Taxonomies
 categories: ["technology", "books", "web"]
 tags: ["blog", "archive"]

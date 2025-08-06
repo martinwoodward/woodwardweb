@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Learn how to navigate the unique check-out process in Team System, clarifying its differences from other source control systems."
 # Taxonomies
 categories: ["tfs", "teamprise"]
 tags: ["blog", "archive"]

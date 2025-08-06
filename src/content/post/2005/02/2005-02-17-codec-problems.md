@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Struggling with Microsoft webcasts on your PC? Learn how to manually download the VoiceAge codec to resolve playback issues."
 # Taxonomies
 categories: ["technology", "web", "programming"]
 tags: ["blog", "archive"]

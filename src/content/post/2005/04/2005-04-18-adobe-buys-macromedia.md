@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Adobe's acquisition of Macromedia reshapes the creative landscape, raising concerns about pricing and the future of popular tools like."
 # Taxonomies
 categories: ["technology", "web"]
 tags: ["blog", "archive"]

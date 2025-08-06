@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "After a brief hiatus, I'm back in Ballycastle, Northern Ireland, ready to share exciting updates on my new job and dive into .NET and C# topics!"
 # Taxonomies
 categories: ["dotnet", "web"]
 tags: ["blog", "archive"]

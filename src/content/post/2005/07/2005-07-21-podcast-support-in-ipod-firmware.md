@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover the new podcast features in iPod firmware that enhance listening with bookmarks, show notes, and improved navigation—it's worth the update!"
 # Taxonomies
 categories: ["technology", "books", "web", "podcast"]
 tags: ["blog", "archive"]

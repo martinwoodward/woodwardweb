@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Learn how to efficiently mark all unread emails as read in Gmail with this simple, step-by-step guide."
 # Taxonomies
 categories: ["books"]
 tags: ["blog", "archive"]

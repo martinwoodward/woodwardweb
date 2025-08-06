@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover the latest TFS Power Tools release featuring new admin console wizards and enhanced build extensions for Ant and Maven projects."
 # Taxonomies
 categories: ["git", "tfs", "technology", "maker", "web", "programming", "personal"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover essential UML 2.0 stencils and templates for Visio by Pavel Hruby for effective and flexible diagramming."
 # Taxonomies
 categories: ["technology", "books", "web", "programming"]
 tags: ["blog", "archive"]

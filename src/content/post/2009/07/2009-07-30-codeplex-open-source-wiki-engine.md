@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover CodePlex's newly released open-source wiki engine, available under the permissive MS-PL licence—perfect for SharePoint integration!"
 # Taxonomies
 categories: ["web", "programming"]
 tags: ["blog", "archive"]

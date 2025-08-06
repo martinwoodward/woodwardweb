@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Explore the new podcast support in iTunes 4.9, its ease of use, and the shift back to standard feeds by DotNetRocks."
 # Taxonomies
 categories: ["technology", "dotnet", "web", "podcast"]
 tags: ["blog", "archive"]

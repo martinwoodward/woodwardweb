@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover a simple iPod reset tip that revived my old Mini, ensuring my car journey is filled with favourite podcasts."
 # Taxonomies
 categories: ["technology", "dotnet", "gadgets", "maker", "web", "podcast"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "The Hitchhiker's Guide to the Galaxy is being revived with new radio series editions and a long-awaited movie adaptation this year."
 # Taxonomies
 categories: ["web", "podcast"]
 tags: ["blog", "archive"]

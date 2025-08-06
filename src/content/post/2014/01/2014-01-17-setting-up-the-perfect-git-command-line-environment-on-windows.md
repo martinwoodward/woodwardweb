@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover how to set up an efficient Git command line environment on Windows, optimising your workflow with essential tools and configurations."
 # Taxonomies
 categories: ["git", "tfs", "technology", "maker", "web", "programming", "personal", "github"]
 tags: ["blog", "archive"]

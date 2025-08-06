@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "After tweaking my blog's template, I regained the No. 2 spot on Google for my name, but faced a surge in comment spam."
 # Taxonomies
 categories: ["technology", "web", "personal"]
 tags: ["blog", "archive"]

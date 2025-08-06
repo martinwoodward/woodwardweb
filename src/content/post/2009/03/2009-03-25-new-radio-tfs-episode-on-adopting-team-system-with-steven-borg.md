@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Join Steven Borg on Radio TFS as he shares insights on effectively adopting Team System in real-world development teams."
 # Taxonomies
 categories: ["tfs", "technology", "web", "podcast", "personal"]
 tags: ["blog", "archive"]

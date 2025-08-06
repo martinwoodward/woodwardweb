@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Enjoying lovely weather at Teamprise HQ while low-flying planes survey Northern Ireland distracts from upcoming talks in Limerick and Galway."
 # Taxonomies
 categories: ["technology", "teamprise", "web"]
 tags: ["blog", "archive"]

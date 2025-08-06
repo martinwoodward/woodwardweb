@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Explore my nostalgic journey with my first computers, the Commodore Vic-20 and Plus/4, and the coding adventures they sparked."
 # Taxonomies
 categories: ["git", "technology", "books", "dotnet", "gadgets", "maker", "web", "programming", "personal"]
 tags: ["blog", "archive"]

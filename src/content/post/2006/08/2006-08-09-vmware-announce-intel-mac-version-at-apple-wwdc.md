@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "VMWare's upcoming Mac-Intel version will enhance cross-platform testing for Teamprise, streamlining development on multiple operating systems."
 # Taxonomies
 categories: ["tfs", "technology", "books", "dotnet", "gadgets", "teamprise", "web", "programming", "podcast"]
 tags: ["blog", "archive"]

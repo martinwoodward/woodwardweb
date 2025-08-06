@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover how to enrich your RSS feeds with comment details using extensions and essential namespace declarations."
 # Taxonomies
 categories: ["web"]
 tags: ["blog", "archive"]

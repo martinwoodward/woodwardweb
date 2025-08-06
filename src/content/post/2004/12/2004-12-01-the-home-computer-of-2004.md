@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Explore a 1954 vision of the 2004 home computer, featuring a teletype interface and Fortran, and uncover its intriguing backstory."
 # Taxonomies
 categories: ["git", "technology", "gadgets", "web", "programming", "personal"]
 tags: ["blog", "archive"]

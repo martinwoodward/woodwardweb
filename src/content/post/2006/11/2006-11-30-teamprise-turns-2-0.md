@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Celebrate the launch of Teamprise 2.0 as I share my favourite features from my second year with the team."
 # Taxonomies
 categories: ["teamprise", "web"]
 tags: ["blog", "archive"]

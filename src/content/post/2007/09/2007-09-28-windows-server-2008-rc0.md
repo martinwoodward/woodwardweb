@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Explore the enhanced installation experience and improved security features of Windows Server 2008 RC0, showcasing Microsoft's evolution."
 # Taxonomies
 categories: ["technology", "maker", "web"]
 tags: ["blog", "archive"]

@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover how I navigated booting issues between Vista and Mac OS X on my Intel Mac Mini, leading to a handy workaround."
 # Taxonomies
 categories: ["technology", "books", "gadgets", "maker", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]

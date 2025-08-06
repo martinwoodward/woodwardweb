@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover the thrill of listening to John Grisham's "The Broker," a captivating audio book that entertains with a blend of adventure and wit."
 # Taxonomies
 categories: ["technology", "books", "gadgets", "web", "podcast"]
 tags: ["blog", "archive"]

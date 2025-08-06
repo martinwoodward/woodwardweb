@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "SpaceShipOne has successfully reached space on its first X-prize run, despite a spin caused by pilot error during the ascent."
 # Taxonomies
 categories: ["web"]
 tags: ["blog", "archive"]

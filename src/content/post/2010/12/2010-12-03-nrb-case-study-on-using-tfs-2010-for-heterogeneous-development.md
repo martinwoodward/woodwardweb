@@ -7,7 +7,7 @@ images:
 #author
 author: "Martin Woodward"
 # description
-description: "Migrated from old blog archive"
+description: "Discover how Network Research Belgium cut development costs by 10% using TFS 2010 for diverse programming languages."
 # Taxonomies
 categories: ["tfs", "technology", "books", "dotnet", "web"]
 tags: ["blog", "archive"]
