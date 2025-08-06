@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 If you were at my talk at SD West today, then this is the [slide deck](http://www.woodwardweb.com/teamprise/SDWest_Connecting_to_Team_System_Across_the_Enterprise.pdf).  However, if 8.30 am was a little early for you then don't worry - you didn't miss much and at least you have the slides now so you can still pretend you were there.  If you were up but didn't come then I won't take it personally - I would have probably been next door in the AJAX session myself if I'd had the choice.
 
 **[Connecting to Team System Across the Enterprise - Microsoft Sponsored Partner Session](http://www.woodwardweb.com/teamprise/SDWest_Connecting_to_Team_System_Across_the_Enterprise.pdf)**

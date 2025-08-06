@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "dotnet", "maker", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Nasty things start to happen on Windows systems when you start having paths that are longer than 254 characters.  When NTFS is the underlying filesystem you can have up to 32767 unicode characters in the path, however in parts of Windows (and therefore .NET), a local file path (i.e. "C:\MyDir\MyFile.txt") is limited to 260 characters. Some older applications use 255 bytes for the path, while .NET's wrappers over the native file system API's seem to make the issue worse rather than better.
 
 The problem is that this limitation is pretty easily bumped up against when performing a build as your build itself will use up a lot of those characters, and so if you start your build deep in a directory structure (i.e. using the default build working directory of "C:\Documents and Settings\username\Local Settings\Temp\Build Definition Name") then you quickly run out of room.  [Aaron Hallberg](http://blogs.msdn.com/aaronhallberg/) has a [great post talking](http://blogs.msdn.com/aaronhallberg/archive/2007/06/20/team-build-and-260-character-paths.aspx) about this [in relation to build working directories](http://blogs.msdn.com/aaronhallberg/archive/2007/06/20/team-build-and-260-character-paths.aspx) - however at a recent customer, I ran into a similar problem because their build drop locations were quite long.  

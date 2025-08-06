@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["technology", "dotnet", "gadgets", "maker", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 The blogosphere today is buzzing with news of the [other launch](http://www.apple.com/iphone/) happening today, but there is one a bit closer to my own heart - [Eclipse 3.3 (Europa)](http://www.eclipse.org) has been released.  I'm downloading it right now. 
 
 I've been running Eclipse 3.3 since Milestone 3 at the start of the year, and as the releases have been coming out it has been getting better and better.  Interestingly, the download site today has broken down Eclipse into separate versions geared towards downloading the parts that different audiences are interested in - bringing the straight "Eclipse IDE for Java Developers" down to 78MB.  The version I need "Eclipse for RCP/Plug-in Developers" is a more substantial 153MB. 

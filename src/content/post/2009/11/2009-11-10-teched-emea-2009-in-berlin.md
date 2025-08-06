@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["git", "tfs", "technology", "teamprise", "web"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 I’m at TechEd EMEA again this year after missing last year’s EMEA event due to illness. I’m busy working the Visual Studio area in the Technical Learning Centre as usual, but for the first time as Microsoft staff rather than an MVP.  The show so far has been great.  We’ve been getting a lot of traffic by the TLC and lots of very challenging questions.  
 
 Having done a few of these events over the years I find it interesting how the questions change from year to year as the product and the market matures.  Things have come on a long way from the days when people just wanted high level summaries of the product.  Now getting a huge spread of questions, from the highly specialised point to broad architectural discussions.  The conversations around the Visual Studio 2010 ALM area have been simply superb – and time has flown by.  

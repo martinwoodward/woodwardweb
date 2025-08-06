@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "books", "dotnet", "maker", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 So, this isn't exactly original material - but I was having a chat with somebody today who I consider very knowledgeable about Visual Studio Team System and they were not aware of these so hopefully re-posting some will help more people discover them.  Strictly speaking, as all of these have been mentioned somewhere before the word "Secret" isn't correct - however it gave an otherwise very dull post a certain bit of excitement which kept you reading this far so forgive me.  The usual Caveats about messing with the registry apply, also the default settings are generally more logical to new users so use with caution.  Most of these tips apply to HKEY_LOCAL_MACHINE as well as HKEY_CURRENT_USER - I normally set them as a user preference so as not to confuse anyone else that should happen to use my machine. #### Hack #1 - Stopping Team Explorer from connecting on Visual Studio 2005 Start-up  
 
 Add a DWORD value called "AutoLoadServer" under HKEY_CURRENT_USER\Software\Microsoft\VisualStudio\8.0\TeamFoundation.  Zero means do not reconnect automatically. 

@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "web", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 One of the questions that came up from one of our users was "how do I delete the files from my local file system - and tell Team Foundation Server that I have done this". 
 
 The first thing you might try is to just delete them locally.  However, Team Foundation Server (TFS) uses your [workspace](http://msdn2.microsoft.com/en-us/library/ms181383(VS.80).aspx) to keep track of what files you have downloaded and what version you have of them.  The reason it does this is so that it can maintain your files without a costly (both in terms of network and CPU processing) sync step.  With TFS, when you say "Get latest", you only get the latest version of files that have changed since you last got them.  Nothing is downloaded that you don't need (thereby saving you network traffic).  A really neat thing about TFS is that if you delete a file on the server and check that delete in, then when somebody does a "Get Latest", the file is deleted on their local system as well - very nice.  Moves and renames also exhibit this behavior - really useful for keeping the local file system in sync with the servers.   

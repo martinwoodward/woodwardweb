@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["technology", "dotnet", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 As a professional programmer, the languages I code in during the day are very much dependant on the particular project I am working on.  Also as a programmer I have a very low threshold for repetitive or complex tasks - basically if I have to do something more than twice then I'll probably write a quick program to do it for me (sometimes taking longer than the repetitive task would have done, but I have a lot more fun along the way :-) ).  These little programs are throwaway pieces of code.  I'll probably never run them more than once - I'll almost certainly never come back to them and I'm certain that no-one else will see them.  
 
 I find it interesting what language people choose to write these little disposal programs with - I call it your "Pocket Knife Language".  Currently I would usually use C#, despite that fact that I code all day in Java.  I would normally use C# just because it is that much easier to access the bits of the operating system I normally run on (Windows) - but there are a huge number of libraries and methods in the .NET framework to do the heavy lifting for me.  Jumping between C# and Java is pretty easy for my brain to cope with.  

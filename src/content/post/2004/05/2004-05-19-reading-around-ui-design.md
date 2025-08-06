@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["technology", "books", "web", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Doing a big peice of UI design again at the moment.  While avoiding writing documentation, found a couple of books that are pretty good, however the titles will certainly not help improve my wife's opinion of my job.
 
 First up with have [Designing with Web Standards](http://www.amazon.co.uk/exec/obidos/ASIN/0735712018/woodwardwebcom) by Jeffrey Zeldman.  This is rapidly becoming a standard text on the subject like  [Designing Web Usability: The Practice of Simplicity](http://www.amazon.co.uk/exec/obidos/ASIN/156205810X/woodwardwebcom) by Jakob Nielsen.  However, unlike Nielsen's book [Designing with Web Standards](http://www.amazon.co.uk/exec/obidos/ASIN/0735712018/woodwardwebcom) is well laid out, up to date and an interesting read. 

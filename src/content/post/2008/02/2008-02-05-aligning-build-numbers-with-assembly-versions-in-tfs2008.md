@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["git", "tfs", "technology", "dotnet", "maker", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 I like my build numbers to be the same number that my assemblies are versioned with (and my end deliverables).  It just makes things easier to track, that way if I get a bug report in from a customer I can look at the version and easily look at the label in source control to see what code that included. In all deliverables provided to the customer, we always output the version obtained from the current assembly somewhere at the start of any diagnostic information, that way you can easily tell what version they are on and instantly track this back.  This all helps to make it easy for bugs to be filed against the correct version and reported in which version they have been fixed (using the nice integration between Team Build and the Work Item tracking portion of TFS).  
 
 People are often surprised that this feature does not work "out the box" with Team Build, so I thought I would just take the time to document how I made this work for us internally.  As you'll be able to see, in TFS2008 all the basic hooks are provided for us to support this way of working.  

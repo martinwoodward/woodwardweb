@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["technology", "books", "dotnet", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 [](http://www.amazon.co.uk/exec/obidos/ASIN/0321245660/woodwardwebcom)One of my friends recently gave me "[Effective C#](http://www.amazon.co.uk/exec/obidos/ASIN/0321245660/woodwardwebcom)" by Bill Wagner.  I just wanted to do a quick post to say what an excellent book this is.  
 
 I have recently moved from Java to C# and because the languages are so similar I can often do things in C# exactly the same way as I did them in Java but that isn't always the best way.  This book explains what those better ways are.  

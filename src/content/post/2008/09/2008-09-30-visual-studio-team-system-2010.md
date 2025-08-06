@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["git", "tfs", "technology", "dotnet", "maker", "teamprise", "web", "programming", "podcast"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 If you haven’t heard the news already, Microsoft have [officially announced](http://www.microsoft.com/presspass/press/2008/sep08/09-29VS10PR.mspx) the name of the next version of Team System, previously known by the codename of “Rosario”.  For Microsoft developers, this will be delivered on top of Visual Studio 2010.  While Team Foundation Server is already very mature, there will be a new version of TFS in the 2010 release with [significant improvements and enhancements](http://blogs.msdn.com/bharry/archive/2008/09/29/shining-the-light-on-rosario.aspx).  
 
 It is fantastic that the lid is starting to open on the 2010 release in the build up to [PDC](http://www.microsoftpdc.com/) and that we can start talking publically about all the great stuff in the next version.  Like most developers I love talking about cool new stuff and it has been a nightmare watching what I say for the past couple of years.  Here at Teamprise we have been working closely with Microsoft for some time now on Rosario.  I’ve been trying to remember exactly when our first meeting was about it, however it is all a bit of a blur.  I remember one particular meeting in April 2007 were we had the majority of the Teamprise team on-site with Microsoft but that was to discuss issues and get more detail on some Rosario feature stuff so we were already aware well before then.  Suffice to say that we’ve been in close contact and we are working on it.  We’ve had releases of Teamprise with-in weeks of the major TFS launches to-date and I would expect that trend to continue.  

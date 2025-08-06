@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["books"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 This took me a while to figure out, so I am writing down here to help me remember later.  It may also be useful if you are playing with Gmail at all (BTW, the spam filtering on Gmail is very good). 
 
 To mark all mail as read:-  In the search box, type "is:unread" In the select area press "All" A link will appear that says "Select all conversations that match this search", press it From the drop down, select "Mark All as Read". 

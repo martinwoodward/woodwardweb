@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["git", "tfs", "technology", "maker", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 A feature of changeset metadata in Team Foundation Server 2008 is that it is actually editable.  If you look at the changeset details for a historical check-in in Visual Studio you will notice that the comment and check-in notes fields are enabled and there is a “Save” button. This is by design, but I have known customers that find this fact very surprising.    
 
 In fact people are so surprised that this is even possible that in [Teamprise](http://www.teamprise.com) we currently do not provide a way to edit the comment or check-in notes and guess how many customer requests we have had so far to add it?  I’ll give you a clue – it’s less than 1.  

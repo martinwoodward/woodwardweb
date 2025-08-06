@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "gadgets", "maker", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 [](http://www.youtube.com/watch?v=Is32fWJJA-I) Since posting about [Brian the Build Bunny](http://www.woodwardweb.com/gadgets/000434.html), I have been getting a steady stream of emails from people who would like to know more about how it works.  
 
 [Team Foundation Server provides a mechanism by which you can subscribe to events when certain things happen](http://msdn.microsoft.com/en-us/magazine/cc507647.aspx).  This is actually how many of the components in TFS are integrated between themselves and like the rest of the TFS glue - Microsoft make these events available so you can customize your TFS instance.  

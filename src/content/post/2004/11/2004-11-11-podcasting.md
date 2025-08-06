@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["git", "technology", "dotnet", "maker", "web", "podcast"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 I've recently come across Podcasting (or blogcasting as it is sometimes called).  Basically it makes use of a feature in the [RSS spec](http://blogs.law.harvard.edu/tech/rss) called [enclosure](http://blogs.law.harvard.edu/tech/rss#ltenclosuregtSubelementOfLtitemgt) that allows links to downloadable content - in this case audio content.  Tools such as [ipodder](http://www.ipodder.org/) have come out that  allow a user to have the contents of the RSS feeds downloaded to their hard-drive for offline listening.  Combine this with syncronisation with your [iPod](http://www.amazon.co.uk/exec/obidos/ASIN/B0002OXOZM/woodwardwebcom) or other MP3 player and you have the ability for automated pushing of subscribed audio feeds to your MP3 player for listening to at your convienience.
 
 Though podcasting is a fairly new trend (<[2 months old](http://groups.yahoo.com/group/ipodder-dev/message/41)), it is certainly getting a lot of media attention, with articles in [Wired](http://www.wired.com/news/digiwood/0,1412,65237,00.html) and [Internet News](http://www.internetnews.com/bus-news/article.php/3431901).   Wonder how long before the BBC and the Guardian run a story?

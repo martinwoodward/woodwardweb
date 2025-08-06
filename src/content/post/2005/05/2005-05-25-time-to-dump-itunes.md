@@ -9,10 +9,9 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["technology", "gadgets", "maker", "teamprise", "web", "podcast"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Via [Wired](http://www.wired.com/news/digiwood/0,1412,67593,00.html), there is now a WinAmp plugin that allows you to sync your iPod from WinAmp.  Called [mlipod](http://www.mlipod.com/), it also allows you to copy songs from your iPod back onto your computer - fantastic.  Anyone know a plugin for WinAmp that downloads Podcasts?

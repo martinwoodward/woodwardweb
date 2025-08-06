@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "maker", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 [](http://galilee.microsoft.fr/TechDays2009/Default.aspx)On Tuesday February 10th I’ll be popping over to Paris where I have the privaledge of being invited to speak at [TechDays 09](http://galilee.microsoft.fr/TechDays2009/Default.aspx) courtesy of [Microsoft France](http://galilee.microsoft.fr).  Luckily it is a session close to my heart as the title is “Interopérabilité avec Visual Studio Team System” which I hopefully know something about :-)  
 
 I’ll be around all day, hanging out at the partners booth in the Development Village.  If you are coming along to TechDays09 in Paris then please stop by the booth and say “Hi”.  The limits of my French speaking stop at ordering a ham and cheese baguette so I’ll likely be the guy in the corner smiling politely and quietly not understanding a word of what is going on.  If you come and take pity on me it would be much appreciated.  

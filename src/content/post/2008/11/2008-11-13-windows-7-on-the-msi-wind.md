@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["git", "technology", "books", "gadgets", "maker", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 [](http://www.woodwardweb.com/WindowsLiveWriter/Windows7onMSIWind_9736/windwin7m3_2.jpg)   
 
 For the record, I like Windows Vista.  However, for those of us who remember the Vista beta program and even early days of running Windows Vista it wasn't always fun - largely due to the driver support but there were plenty of bugs to avoid even in the later betas. When I purchased my MSI Wind (OEM rebadged as an Advent 4211 here in the UK) XP was pre-installed.  I remember when I picked up my Wind from the local computer store the salesman tried to sell me on the fact that it came with XP rather than Vista which is not a good sign of Vista's reputation with consumers.  That said, XP didn't last long on my Wind before Vista replaced it.  The stock Wind runs a 1.6 Ghz Intel Atom processor on the Intel 945GSE chipset.  As part of the initial batch of Winds, mine happily has the Synaptics touchpad.  One of the many things I like about the Wind is that it is end-user upgradeable, but the only addition I have made was to upgrade it to 2Gb RAM as the stock Western Digital Scorpio 120GB hard drive is a pretty good one for a budget netbook.  

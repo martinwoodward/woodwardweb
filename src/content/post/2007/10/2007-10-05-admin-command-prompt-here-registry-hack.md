@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["git", "technology", "maker", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 A neat (if not well known) feature of Windows Vista is the built in ability to do a "Command Prompt Here" by selecting a folder, keeping the shift key down and right clicking on the folder.  While this is neat, I've sometimes found myself needing an Command Prompt with full administrative privileges. 
 
 I stumbled upon an excellent tip from Randy Rants on how to get an [elevated command prompt here](http://www.randyrants.com/2007/02/vista_tip_eleva.html).   

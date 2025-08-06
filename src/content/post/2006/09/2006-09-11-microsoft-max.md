@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["technology", "dotnet", "gadgets", "web", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 I just discovered [Microsoft Max](http://www.microsoft.com/max/index.html).  While the application still seems to be in the early stages, it has to be the prettiest application I have ever used - just take a look at the semi-transparent splash screen with it's lovely wobbly progress bar.   
 
 This is currently a photo-organizing/sharing app based on top of the WPF and WCF stuff in the [.NET 3.0 release](http://www.woodwardweb.com/dotnet/000278.html) (think [Picasa](http://picasa.google.com/) but from Microsoft).  I'm pretty happy to see that my Dell M70 with Nvida Quadro FX Go 1400 graphics card qualifies as a "Tier 2" device for WPF world - hopefully signifying a Vista upgrade will actually give me the fancy look and feel. 

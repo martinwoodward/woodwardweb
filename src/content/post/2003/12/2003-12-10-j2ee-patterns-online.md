@@ -9,10 +9,9 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["technology", "books", "teamprise", "web"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 The new version on the [Core J2EE patterns book](http://www.amazon.co.uk/exec/obidos/ASIN/0131422464/woodwardwebcom) is now [online](http://java.sun.com/blueprints/corej2eepatterns/index.html) as part of the updated [java.sun.com](http://java.sun.com) site.

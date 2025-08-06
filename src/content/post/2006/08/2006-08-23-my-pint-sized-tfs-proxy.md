@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["git", "tfs", "technology", "gadgets", "maker", "teamprise", "web", "podcast"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 [](http://www.woodwardweb.com/WindowsLiveWriter/PintSizedTFSProxy_F31B/tfs_proxy%5B3%5D.jpg) I use Team Foundation Server over the end of a VPN connection to from my house in the UK over to Teamprise HQ back in Champaign, IL.  Using Team Foundation Server the performance has been satisfactory, but I've always been jealous of the performance that the guys in the office get over their 1Gbs connection.  We have gigabit networks both sides of the Atlantic, but the ADSL line to my house is a 2Mbs downstream and 256kps upstream connection which slows everything down.  As an experiment, I've just installed a very small machine as a TFS Version Control Proxy Server and the performance increase is astounding - I wish I had done this earlier. 
 
 In my office, I had an old Dell Optiplex SX270 lying round.  Measuring 240x240x85 mm (~9x9x3 inches), it used to run woodwardweb.com before Teamprise kindly offered to host my blog for me.  It's not a powerhouse by any stretch of the imagination - a 2.4 Ghz P4 with 512Mb RAM and a 5,400rpm 20Gb Laptop hard disk.  I picked it up on the Dell Outlet store for less than £300 over 3 years ago.  However, it will run Windows Server 2003 without any complaints, so I configured the box as a VPN gateway for my network and also installed the Team Foundation Server Version Control Proxy onto it. 

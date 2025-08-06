@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["technology", "gadgets", "maker", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 [](http://www.woodwardweb.com/WindowsLiveWriter/MacVistawithFries_9450/TeampriseOnVistaOnMac2%5B12%5D.png) At the moment, we are going through a heavy testing phase on Version 2.0 of the [Teamprise](http://www.teamprise.com/) Client Suite.  This happily coincided with the RTM of [Windows Vista](http://www.microsoft.com/windowsvista/), so - like any self-respecting Early Adopter, I figured I should go install the RTM edition of Vista and see how Teamprise performs. 
 
 Initially, I tired out Vista on a laptop that I've had for a while (yes, [that](http://www.woodwardweb.com/gadgets/000005.html) [one](http://www.woodwardweb.com/gadgets/000006.html)).  The Vista RTM experience was a lot better than with any of the pre-releases, but the latest graphics drivers for the ATI Mobility Radeon 9000 inside the Compaq nx7010 were still no good at driving the built in display so I had to switch back to the XP drivers again.  Even then, the graphics card only scored a 1.9 on the Aero experience index - making it unable to run with the Fancy Aero interface.  Obviously that wasn't quite good enough - so I had to look around for another spare machine that wasn't too important (i.e. not my main development machine). 

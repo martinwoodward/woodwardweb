@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "gadgets", "maker", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 I'm always keen try new and novel ways to keep in touch with the status of my software projects.  Fortunately, Team Foundation Server provides many ways to do this.  While the [Build Wallboard](http://www.woodwardweb.com/vsts/000395.html) is fun if you have a spare monitor and machine lying around, I wanted to experiment with some inexpensive dedicated devices, and so Brian the Build Bunny was born.   
 
 ";" alt="">  

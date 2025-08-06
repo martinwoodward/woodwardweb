@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "dotnet", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 [Jeffrey Fredrick](http://www.developertesting.com/archives/individual_weblogs-jeffrey_fredrick-index.html) just announced that [CruiseControl](http://cruisecontrol.sourceforge.net/) 2.7.2 is now available for download: [http://tinyurl.com/2zm9mz](http://tinyurl.com/2zm9mz).  
 
 There are lots of bug fixes, lots of changes to the Dashboard and some new plug-ins, but the bit that is of most interest to me was (from the release notes)  

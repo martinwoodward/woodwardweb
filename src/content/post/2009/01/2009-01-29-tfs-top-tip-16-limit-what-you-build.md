@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["git", "tfs", "technology", "dotnet", "maker", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 When you create a new build definition in Team Foundation Server, you get to define how the workspace looks for the build.  By default this includes the ENTIRE team project.  While this **usually always works**, it is nearly always **not what you want**.  #### **Build Definition = What, How and When**  
 
 You can think of a build definition as you telling TFS "What, How and When" you want to build something.  The "What" is covered by the workspace template.  The "How" is covered by the Project File (the TFSBuild.proj file in TFS2005 or TFS2008 or the WF Process in TFS2010).  The "When" is the trigger.   

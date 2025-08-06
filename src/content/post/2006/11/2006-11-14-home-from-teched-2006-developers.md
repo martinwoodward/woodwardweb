@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "dotnet", "maker", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 [](http://www.woodwardweb.com/WindowsLiveWriter/HomefromTechEd2006Developers_9F0A/booth%5B1%5D.jpg)I'm back home from sunny Barcelona, and just wanted to post a quick note to thank all the folks who stopped by.  It was great to meet some old friends again, and also to make some new ones. 
 
 The week went very well after such an inauspicious start.  After my power-supply incident, I went out for some lovely tapas and drinks at the MVP dinner, however I must have caught something or eaten a dodgy prawn as I woke in the night and was violently ill.   I stumbled into the conference centre for a full day at the booth on only 2 hours sleep - sorry if you came to speak to me on Tuesday... 

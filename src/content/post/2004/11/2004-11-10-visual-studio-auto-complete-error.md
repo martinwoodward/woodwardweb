@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["dotnet", "maker", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Been using Visual Studio 2003 lately, not a bad editor (no where near as good as [intellij](http://www.jetbrains.com/idea/) for Java for pretty good).  Today, all of a sudden the autocomplete feature - called Intellisense (TM - M$) stopped working.  Now normally, this is because of an error earlier in the code, not yet displayed to you (dumb).  However this time my project was building fine, just no auto-complete.  After much scratching of heads, the following seems to work:-
 
 Shut down Visual Studio .NET

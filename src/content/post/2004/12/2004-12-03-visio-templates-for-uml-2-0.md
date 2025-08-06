@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["technology", "books", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Recently discovered these excellent [UML 2.0 Stencils and Templates](http://www.phruby.com/stencildownload.html) for Visio by Pavel Hruby.  
 
 While I am still waiting for my ideal UML drawing tool, I keep coming back to [Visio](http://r.office.microsoft.com/r/rlidAppFolder?clid=1033&p1=visio).  It is much better than [Rose](http://www-306.ibm.com/software/rational/) and better performing than [Poseidon](http://www.gentleware.com/) (you also don't get that daft fish dude in the background as you do with [Poseidon](http://www.gentleware.com/) exports).

@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["git", "tfs", "technology", "maker", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Team Foundation Server source control has a great feature called Shelving.  Shelving lets you set store a batch of pending changes onto the server and optionally remove them from your local workspace.  It comes in really handy for the times when you want to backup your code and store it on the server but don't want to commit it to source control.  I also sometimes use it when I would like a remote colleague to take a look at some code I have written before I commit it into the code base.  For more information about Shelving, see the [MSDN documentation](http://msdn2.microsoft.com/en-us/library/ms181403.aspx).  A Shelveset is identified by developer and the name the developer gave it when shelving. 
 
 One of the features of shelving (and how it differs from working in a private developer branch) is that a Shelveset is in itself not versioned.  If the same developer saves a Shelveset with the same name, then it will overwrite the previous Shelveset.  This comes in really handy when you have a Shelveset that you commonly use for one thing - for example, I have a Shelveset that I normally call "Work In Progress" (actually, I normally call it "wip" because I am lazy when it comes to typing, but you get the idea).  If I need to stop work, but I haven't been able to get to a point where I can check-in the code, then I shelve the pending changes and call the Shelveset "Work In Progress".  That way, I only have one of these and I know the purpose of it. 

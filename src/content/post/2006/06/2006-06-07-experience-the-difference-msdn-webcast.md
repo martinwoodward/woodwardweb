@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "dotnet", "gadgets", "teamprise", "web", "programming", "podcast", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 In a couple of weeks I’ll be presenting a [MSDN webcast on Team Foundation Server Source Control](http://www.microsoft.com/emea/msdn/visualstudio/webcasts.aspx)  For those of you that have attended [one of the talks I did around Ireland](http://www.woodwardweb.com/vsts/000242.html) it is probably nothing new, but if you missed the talk then now is your opportunity to join in the fun from the comfort of your own computer. I’ll only briefly touch on [Teamprise](http://www.teamprise.com/) related material – most of the talk is regarding general concepts in TFS and also some little gotchas if you are coming from other source control systems such as VSS or Subversion.
 
 There are a series of webcasts on the way.  Even if you have no interest in TFS there is probably something that will interest you [here](http://www.microsoft.com/emea/msdn/visualstudio/webcasts.aspx).  Personally, I’ll be listening in to [Rob Burkes](http://blogs.msdn.com/robburke/) presentation on WPF as I just caught the end of his talk at the [INDC](http://blogs.msdn.com/robburke/archive/2006/05/05/590678.aspx) and it seemed like a fantastic session – also helps that the presenter to so passionate about the technology in question.  If you have the chance then you can catch Rob’s session [in person](http://www.itag.ie/CalendarofEvents/tabid/83/ctl/View/mid/410/Event/202/Start/200606121900/End/200606122130/Default.aspx) at the [Galway ITAG](http://www.itag.ie/CalendarofEvents/tabid/83/ctl/View/mid/410/Event/202/Start/200606121900/End/200606122130/Default.aspx) next Monday (June 12th).

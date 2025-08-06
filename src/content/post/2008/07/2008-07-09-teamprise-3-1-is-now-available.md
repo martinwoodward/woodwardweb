@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["git", "tfs", "technology", "maker", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 At the Microsoft [Worldwide Partner Conference](https://partner.microsoft.com/global/40018508) in Houston today, Corey Steffen (General Manager of Teamprise and the guy that pays my wages) announced the [public availability of Teamprise 3.1](http://www.teamprise.com/).  
 
 This is a maintenance release free to everyone with a valid Teamprise 3.0 license and includes several bug fixes along with a few new features.  For the proper release notes, take a look [here](http://download-us.teamprise.com/cs/3.1.0.8392R/release-notes/release-notes.html).  However I just wanted to point out a few highlights.  

@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["technology", "maker", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 A [new project has been released over on CodePlex](http://www.codeplex.com/process/Release/ProjectReleases.aspx?ReleaseId=5626) from the Patterns and Practices folks which attempts to improve the guidance generation process.    
 
 "The interim solution makes it easier to customise the narrative guidance than the current mechanisms, but I should emphasize that it will be replaced by our longer term solution. Please use it in the meantime if you'd like to, but don't place any reliance on it being there long term." 

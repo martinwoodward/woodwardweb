@@ -9,10 +9,9 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "dotnet", "maker", "web", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Finally got round to packaging up and releasing a [CC.NET plugin for VSTS](http://vstsplugins.sourceforge.net/index.php/archives/news/2005/8) compiled against VSTS Beta 3.  Great thanks to Troy Gould who did all the changes to the source files from the Beta 2 version.  Now all I need to post some instuctions to give people a clue as to how to install it...

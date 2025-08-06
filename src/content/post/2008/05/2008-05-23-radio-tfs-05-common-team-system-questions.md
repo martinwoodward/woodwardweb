@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "dotnet", "teamprise", "web", "podcast"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 [](http://feeds.feedburner.com/~r/radiotfs/~5/296872926/radiotfs_005.mp3) I've just posted the latest installment of Radio TFS.  I'm actually a show behind on editing so expect to see episode 6 up soon.  However, in episode 5 Paul, Mickey and I attempt to answer some of the common questions we hear people ask about Team System including:  What is Team System?  Which edition is right for me?  Why can't I find Team Foundation Server on MSDN?  What is Team Foundation Server Workgroup Edition?  Is VSTS 2005 compatible with TFS 2008?  Why can't I see Team Foundation Server when I install Team Suite?  What are my options for migrating from my old system(s) to TFS?  Can I use TFS with VB6, .NET 1.1, Eclipse etc?  What is a Team Project - how should it be scoped?  I deleted a file locally, I do a "Get Latest" and TFS doesn't download it - why? 
 
 As well as the usual sprinkling of tangents along the way. 

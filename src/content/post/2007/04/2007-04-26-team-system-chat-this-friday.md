@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "maker", "web"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 As you may have seen elsewhere, the VSTS team will be available for you to talk with on Friday.  This is a great opportunity to talk directly with the team, get answers direct from from the folks that know as well as pass along any feedback you might have.  Due to popular demand, there are two sessions scheduled to try and give everyone a chance to talk without having to get up in the middle of the night in their timezone.   
 
 Join the [chat](http://msdn.microsoft.com/chats) on Friday, April 27th, 2007 from 10:00am - 11:00am Pacific Time.

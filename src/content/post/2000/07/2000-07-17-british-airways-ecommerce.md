@@ -9,10 +9,9 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["books"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Involved in different sections of this site that is very complex, with many legacy system interfaces and high transaction numbers. There were so many good people involved in this project that I can take no credit for any one part. I never did get the airplane to fly while waiting for the ticket booking screen...

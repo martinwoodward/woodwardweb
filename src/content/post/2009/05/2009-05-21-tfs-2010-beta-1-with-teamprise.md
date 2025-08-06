@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "maker", "teamprise", "web", "programming", "podcast"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Now that [TFS 2010 Beta 1 is publically available](http://msdn.microsoft.com/en-us/vstudio/dd582936.aspx), I thought it would make sense to share our plans with everyone.  Teamprise has been working closely with Microsoft on the TFS 2010 release.  First of all, can I quickly thank all the people at Microsoft who have been helping us so far. All the way from the individual developers working on features all the way up to the very highest leadership, we have had nothing put fantastic support and rapid responses to our questions.  
 
 I remember attending meetings almost two years ago now with many of the [Teamprise](http://www.teamprise.com) developers at the Microsoft offices to talk about this version back when it was known only with the codename Rosario.  We’ve been actively working on builds since last year and in fact [Brian Harry demonstrated Teamprise talking to TFS2010 at PDC in October 2008](http://www.woodwardweb.com/vsts/tfs_2010_teampr.html).  

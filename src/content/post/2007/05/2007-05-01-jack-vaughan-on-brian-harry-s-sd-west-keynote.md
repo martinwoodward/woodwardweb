@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "books", "dotnet", "maker", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 I wasn't at SD West this year, however I'd heard that [Brian Harry](http://blogs.msdn.com/bharry/default.aspx) was going to be doing an interesting keynote.  [Jack Vaughan has recently published some of his "take-aways" from Brian's presentation](http://www.theserverside.net/news/thread.tss?thread_id=45195) and it certainly looks like there was some good stuff in it.  My favorite quote is:-  
 
 “In version 1.0, I took all my paths and sorted them. Unfortunately, if I was to access all of the files in a folder, I end up seeking dramatically more because of interleaving in all of the subtrees. We went back to looking at what order we want the data to be on the disk to give us a geometric pattern as to how to optimize the data on the platter. When I look across all of the operations, the one change resulted in a 10X improvement. Sometimes you have to drop the relational model and look at what is happening at the disk level.” 

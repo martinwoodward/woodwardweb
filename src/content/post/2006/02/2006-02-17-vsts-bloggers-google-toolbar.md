@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["git", "tfs", "technology", "books", "maker", "teamprise", "web", "programming", "podcast"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 [](http://www.woodwardweb.com/blog/vsts_google_toolbar.jpg)Well, having tried new new beta of [Google Toolbar](http://www.google.com/tools/toolbar/T4/) I just had to try implementing my own toolbar button.  Here is one that will give you the top previous posts from folks around the VSTS blogosphere.  Clicking on the button will take you to the excellent [Team System Rocks](http://teamsystemrocks.com/) website.
 
 Once you have installed Google Toolbar, you can click [here](http://toolbar.google.com/buttons/add?url=http://www.woodwardweb.com/vstsbloggers/vsts_button.xml) to get the [VSTS Community Button](http://toolbar.google.com/buttons/add?url=http://www.woodwardweb.com/vstsbloggers/vsts_button.xml).

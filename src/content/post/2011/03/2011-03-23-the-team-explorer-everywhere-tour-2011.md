@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 [](http://www.woodwardweb.com/Windows-Live-Writer/f15622a5b7ac_8071/TEE_World_Tour_2.jpg)[Ed Thomson](http://www.edwardthomson.com/) from the Team Explorer Everywhere team is going to be doing a tour of the mid-west and central United States in early April.  For those of you who don’t know Ed, he is one of the original Teamprise developers that came over to Microsoft after the acquisition and now one of the core developers on Team Explorer Everywhere.  He knows more about the inner workings of our Eclipse integration than anyone else on the planet.  
 
 While he’ll be speaking at a lot of user groups and Microsoft events in various cities, places are filling up fast.  However there is still some availability in a few cities.  If you are nearby or know someone who is then I encourage you to register and come along.  

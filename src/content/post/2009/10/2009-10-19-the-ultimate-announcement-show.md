@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "teamprise", "web", "programming", "podcast"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Today, Microsoft made some important announcements regarding the future of Visual Studio 2010 along with the availability of Visual Studio 2010 Beta 2 and Team Foundation Server 2010 Beta 2.  Paul, Mickey and I were lucky enough to grab a few minutes to record a show with Doug Seven, Product Manager with Visual Studio, where he took us through the announcements and we got chance to quiz him on some of the details.
 
 Play Now: [The Ultimate Announcement Show](http://www.podtrac.com/pts/redirect.mp3/listen.radiotfs.com/radiotfs_027.mp3).

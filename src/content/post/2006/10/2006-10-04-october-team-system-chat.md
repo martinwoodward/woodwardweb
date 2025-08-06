@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "web", "programming", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Just a reminder that the next Team System chat is this afternoon.  Not only is this a great opportunity to talk about the Orcas CTP and the "Data Dude" edition of Team System, but any other questions you have.  The Team Chats are a great way to talk directly to the product group and to influence the direction of the product in the future. 
 
 **Visual Studio Team System Chat** 

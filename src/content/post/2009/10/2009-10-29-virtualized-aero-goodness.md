@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["technology", "books", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 [](http://www.woodwardweb.com/WindowsLiveWriter/VirtualizedAeroGoodness_C4A5/fusion3_2.png)   
 
 On Tuesday, VMware announced the latest in their product lines, VMware [Fusion 3](http://www.vmware.com/company/news/releases/fusion3-ga.html) and [Workstation 7](http://www.vmware.com/company/news/releases/wkstn7-ga.html).  While I have been a fan of VMware Fusion on the Mac for a while – this latest version is fantastic.  As well as Snow Leopard fixes, there are lots of improvements in how “Mac-ish” the product feels. Best of all Aero is now fully supported inside a virtual machine.  

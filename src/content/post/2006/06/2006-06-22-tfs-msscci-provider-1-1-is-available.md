@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "maker", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 As announced yesterday by [Brian Harry](http://blogs.msdn.com/bharry/archive/2006/06/21/641884.aspx) and also by  [Michal Malecki](http://blogs.msdn.com/michalma/) in the [TFS Version Control Forum](http://forums.microsoft.com/MSDN/ShowPost.aspx?PostID=494881&SiteID=1), version 1.1 of Team Foundation Msscci Provider is now available for download [here](http://www.microsoft.com/downloads/details.aspx?FamilyId=87E1FFBD-A484-4C3A-8776-D560AB1E6198&displaylang=en).
 
 It incorporates the following changes:-

@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "gadgets", "teamprise", "web"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 [Brian Harry](http://blogs.msdn.com/bharry/) has been on a blogging spree this week!.  Last night he [announced some new Team Foundation Server Power Toys](http://blogs.msdn.com/bharry/archive/2006/09/07/744993.aspx).  This also shows a new and very welcome trend from Microsoft's DevDiv - the Power Toys are available as a [separate download](http://go.microsoft.com/?linkid=5431080), but more interestingly many of them also integrate seamlessly into the IDE.  This is a great way of providing new features to customers in a much more Agile fashion.  It is fantastic to see a large company like Microsoft being able to move in a more nimble way and not have to wait for that big release train to come along. 
 
 There are many interesting things in the Power Toys and the supplied word documentation is also pretty good.  There are a new set of commands for manipulating work items from the command line (a bit like the "wit" command in Teamprise) - however Microsoft have implemented a feature which we had discussed internally but not got around to yet, which is output as XML.  Anyone that has tried to write some sort of shim over the existing tf.exe commands will know how hard that is - output as XML gives a very easy way of making the command line computer readable. 

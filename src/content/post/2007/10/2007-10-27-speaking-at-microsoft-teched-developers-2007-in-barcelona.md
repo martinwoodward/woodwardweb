@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "maker", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 [](http://www.microsoft.com/europe/teched-developers)I'm joining my good friend [Brian Randell](http://mcwtech.com/cs/blogs/brianr/) to do a session on Team Build 2008 at [TechEd Developers in Barcelona](http://www.mseventseurope.com/teched/07/developers/content/Pages/Default.aspx) on November 8th.  If you are at TechEd then please do come along - it is shaping up to be a fun talk.  If you can't make it to the talk, then I'll be loitering around the Team System Ask The Experts area during other times.  Feel free to drop me a line if you want to meet up. 
 
 **TLA316 Code It and Ship It with Team Build 2008

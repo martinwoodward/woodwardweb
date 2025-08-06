@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["dotnet", "maker", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 I have been investigating several ways of generating files suitable for use in Excel from a C# application.   
 
 As with most problems, there is more than one way to crack a nut.  Various examples on the web show how to generate formatted sheets in Excel, either by controlling Excel from a C# application or by transforming  XML data.  The XML transformation has the disadvantage that is limits your clients to the most recent versions of Excel, whereas dire manipulation of Excel requires that you have it installed on the server.  You also have to be very careful not to leave instances of Excel running in the background, eventually grinding your server to a halt.

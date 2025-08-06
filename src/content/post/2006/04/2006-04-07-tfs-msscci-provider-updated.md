@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "dotnet", "maker", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 A lot of people were asking about this [when I was in Dublin](http://www.woodwardweb.com/vsts/000217.html).  [Brian Harry](http://blogs.msdn.com/bharry/default.aspx) has [announced](http://blogs.msdn.com/bharry/archive/2006/04/06/570305.aspx) the version 1.0 of the [TFS MSSCCI provider](http://www.microsoft.com/downloads/details.aspx?FamilyId=32202966-EF04-442F-8C5C-88BDF15F551C&displaylang=en) allowing you to access the power of Team Foundation Server from the following platforms (among others):-
 
 Visual Studio .NET 2003

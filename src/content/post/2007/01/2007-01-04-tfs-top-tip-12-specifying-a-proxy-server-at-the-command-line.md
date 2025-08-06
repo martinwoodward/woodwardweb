@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "maker", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 If ([like me](http://www.woodwardweb.com/vsts/000273.html)) you are using the [tf.exe](http://msdn2.microsoft.com/en-us/cc31bk2e(VS.80).aspx) command line to access your Team Foundation Server via a Version Control Proxy from a remote office, then the following tip is extremely useful - much more so than my previous [registry hack](http://www.woodwardweb.com/vsts/000286.html).   
 
 There is currently no option with the Microsoft command line to pass a version control proxy server in to TF.exe.  It will pick one up if you have one set in the registry if you have used the Team Explorer GUI - but that isn't great for scripted scenarios.  [James Manning](http://blogs.msdn.com/jmanning/) recently pointed me in the direction of an undocumented environment variable called TFSPROXY.  If set, the TFS client will use that setting to proxy your requests.  Therefore the following will call tf.exe passing a proxy server to use in your connection:- 

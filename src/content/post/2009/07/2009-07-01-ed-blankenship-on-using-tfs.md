@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "web", "podcast"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 [](http://www.flickr.com/photos/bgervin/3320077849/in/set-72157614557110879/) Recently I had the pleasure of sitting down with my good friend and fellow MVP [Ed Blankenship](http://www.edsquared.com/) to learn about the Team Foundation Server deployment in [Infragistics](http://www.infragistics.com/). They have a global development team working 24x7 and their Team Foundation Server is now critical to the daily operation of the business.  Ed has plenty of tips and tricks in keeping TFS running with high availability but also in the organizational challenges when deploying the tools across a diverse, global software development organization.  
 
 We recorded our chat and I've just made it available as [Radio TFS episode 23](http://www.radiotfs.com/2009/07/01/UsingTFSWithEdBlankenship.aspx). 

@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["git", "tfs", "technology", "web", "podcast", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Just released the latest Radio TFS episode.  We got the whole gang together so decided to have a catch up and a chat about our first impression from using Beta 1 of Team System for a few weeks.     
 
 Play Now: [Random Beta 1 Stuff](http://www.podtrac.com/pts/redirect.mp3/listen.radiotfs.com/radiotfs_026.mp3)   

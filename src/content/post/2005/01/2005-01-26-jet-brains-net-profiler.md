@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "dotnet", "gadgets", "maker", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 [Jet Brains](http://www.jetbrains.com) have just announced the opening of the EAP for their new [.NET Profiler](http://www.jetbrains.net/confluence/display/NetProf/Home), available for [download](http://www.jetbrains.net/confluence/display/NetProf/Download).  [Resharper](http://www.jetbrains.com/resharper) by Jet Brains and of course [IntelliJ](http://www.jetbrains.com/idea) are excellent tools, however the future of Resharper and now the [.NET Profiler](http://www.jetbrains.net/confluence/display/NetProf/Home) are by no means certain, with Microsoft adopting many of Jetbrain's excellent features in [Visual Studio 2005](http://lab.msdn.microsoft.com/vs2005/).
 
 From what I have seen on [Visual Studio 2005](http://lab.msdn.microsoft.com/vs2005/) it is a much better IDE than VS 2003 is, but still a little behind the usability that IntelliJ brought to the Java IDE market.  It wil be interesting to see if development of Resharper for VS 2005 can bring anything that makes people who have not allready invested $99 in the product part with their cash.  At the moment, Resharper in VS 2003 still makes me smile every time I use it - and I really miss it when I am working from a computer that doesn't have Resharper installed.

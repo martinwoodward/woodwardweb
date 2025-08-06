@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["git", "technology", "gadgets", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 I use VMWare a lot.  Not only do I use it for demonstrations of Teamprise, I also use it for day-to-day development and testing (one of the joys of developing a cross platform product that talks to a Microsoft server product). 
 
 I work on a laptop most of the time.  It's a Dell Precision M70 with 2Gb Ram, but the hard drive is only 60Gb (I went for speed rather than size).  When I first started running out of space, I ran up a virtual machine over my USB2.0 connection to an external hard drive.  I'd assumed that this was going to be even slower, but much to my surprise it was noticeably faster. 

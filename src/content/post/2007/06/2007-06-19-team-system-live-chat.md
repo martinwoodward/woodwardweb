@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "maker", "web"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 By the time I post this, you'll probably see it posted a hundred places, however on the rare chance that you only read my blog and not one of the many other great blogs about team system, can I point you to the upcoming Team System chat.  The reason why these get so widely blogged about is not because we get asked to (well, it might have a little to do with that) - but actually because these chats are actually really worthwhile attending.  You get the opportunity to talk with loads of people from the product groups, from the decision makers who sign the cheques on which features get worked on, through to the actual guys and gals who do the actual work on those features.  You also get to ask questions about how something you use today works and get the answer, in real-time, from the person that wrote it (or at least, someone who knows that person).  It is a great opportunity to influence the team as well as get your questions answered. 
 
 **Come chat with the Team System product team – July 3rd**  

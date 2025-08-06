@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "maker", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 As you may have read over on [Brian Harry’s blog](http://blogs.msdn.com/b/bharry/archive/2011/05/16/announcing-a-java-sdk-for-tfs.aspx), we recently made available a TFS SDK for Java.  This is the same core code that we use in Team Explorer Everywhere 2010 SP1 to talk to TFS from Eclipse and from our Cross-platform command line client – just packaged up into a single jar file to make it easier to consume and re-distribute in your own applications.  
 
 The TFS SDK for Java ships with a bunch of sample applications, check-in policies, custom work item controls and some handy snippets of code.  It also includes an Ant build script to allow you to build the samples that we ship.  However – I thought it would be interesting to walk through how you can consume the SDK in a simple Eclipse project and make use of some of the nice Eclipse features such as inline Javadoc.  

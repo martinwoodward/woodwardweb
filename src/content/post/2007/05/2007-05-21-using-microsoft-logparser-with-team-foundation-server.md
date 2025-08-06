@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "maker", "teamprise", "web", "programming", "podcast", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Anyone who has spent time on the inside of the Microsoft LAN knows that they have a ton of great internal tools and utilities that never make it into the outside world.  One of those ones that did is [Microsoft LogParser](http://www.microsoft.com/technet/scriptcenter/tools/logparser/default.mspx).  It gives you a universal querying capability to log files, active directory, event log data, the registry etc using a SQL like syntax.  It was initially created to look at IIS log files, and is lighteningly quick.  If you want to know more about Microsoft Log Parser 2.2 then go take a look at the [website](http://www.microsoft.com/technet/scriptcenter/tools/logparser/default.mspx), download it and take a read of the installed help documentation.  You can tell something is powerful when [Mike Gunderloy](http://www.larkware.com/) hosts a website ([LogParser.com](http://www.logparser.com/)) giving people tips and tricks around it :-) 
 
 LogParser is able to output into all sorts of things, text files, charts or even HTML reports.  Personally I normally like to output into a CSV file so that I can load the data up into Excel and play a bit more with it there. 

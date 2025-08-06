@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "dotnet", "maker", "teamprise", "web"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 If you had the mis-fortune of hearing me speak at the Belfast launch event for  SQL 2005 / Visual Studio 2005 / Biztalk 2006 this morning then the following links may be of interest:-[Rob Caron's Blog](http://blogs.msdn.com/robcaron/default.aspx) - Best place for VSTS related information
 
 [Visual Studio Team System](http://lab.msdn.microsoft.com/teamsystem/) - Official Microsoft pages

@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "maker", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Whenever I talk about TFS, one of the things I always mention is the fact that because all the data about the software project is now being tracked in a SQL Server database, Microsoft were able to stick a Data Warehouse over the top of all that raw data to give you a really good view on reporting.  This is where the real benefits of standardizing on a single ALM solution can really reap rewards and Microsoft in their wisdom give us these reporting features in all versions of TFS including the 5-user limited TFS Workgroup edition that is included with most peoples MSDN subscription.  
 
 The only problem with the reporting side is that many people think that this means they have to go learn SQL Server Reporting Services to write reports.  While you might want to figure out Reporting Services to provide custom reports automatically to your team and customers, I personally get the most value out of using my trusty old bedfellow, the tool that got me my first paid “programming” gig and is probably the most abused software package on the planet – Excel.  

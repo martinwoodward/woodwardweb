@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["technology", "gadgets", "maker", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 When I saw the news about the upcoming Windows Vista SP2, there was a little note right down at the bottom that got me quite excited.
 
 "Windows Vista SP2 includes Hyper-V™ technology, enabling full virtualization of server workloads"

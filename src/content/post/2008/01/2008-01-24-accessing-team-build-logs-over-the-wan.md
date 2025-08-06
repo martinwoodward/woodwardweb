@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "dotnet", "gadgets", "maker", "teamprise", "web", "programming", "podcast"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 In [a previous post](http://www.woodwardweb.com/teamprise/000413.html), I talked about how Windows file sharing sucks over the WAN. This is particularly annoying for me when trying to view the log of a TFS Build - especially if that build has failed and I want to know why in a hurry. On my computer (sitting on the end of a VPN nearly 4000 miles from my TFS instance), there is a delay of about 50-70 seconds to view the log file depending on the size and the speed of the link at that moment in time.  During that time, Visual Studio is hanging waiting for the file to open.  The issue is compounded by the fact that the rest of the Team Build UI - and in fact the whole of TFS access in general - is so speedy over the same VPN link, that I really notice the time delay accessing build logs.  
 
 Therefore - it didn't take too many 70-seconds delays for me to fire up a second instance of Visual Studio to create a work-around.  In Visual Studio 2008 (and in the upcoming Teamprise 3.0 Team Build integration), if the log location provided is not a UNC style path (i.e. \\server\drop\build\BuildLog.txt) but a http:// address, then it will open the file in a browser instead.  Accessing the build log over http helps in two important ways.     HTTP is much less latency sensitive than accessing a file from a Windows share     A browser will display the contents of the file before it has finished loading.  When accessing the build log directly from a file share, the application (i.e. Notepad) will have to wait until it has recieved the whole file before displaying any of it to you.  These log files can get large - so the improvement in perceived speed is significant. (http:// urls are a lot more cross-platform friendly than UNC paths as well, which is nice for us Teamprise folks).    

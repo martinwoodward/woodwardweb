@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "books", "dotnet", "gadgets", "teamprise", "web"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 [](/images/blog/geomap.html)Well, despite the massive load that Google Analytics took, they have done me proud and are now happily tracking the data from 3 of the sites I look after that I'm most interested in.  This blog, [VSTSPlugins](http://vstsplugins.sourceforge.net) and [VSTSEclipse](http://www.vstseclipse.org).
 
 First surprise was that my blog actually gets quite a few hits - significantly more than the other two sites.  While we are only talking 100's in a day, it is still a lot more than I thought - and that doesn't include those people who read all my content using RSS.  I only really write stuff here of interest to myself or when I don't find something in Google and have to work it out.  Anyway, it's nice to have you.  I might pay more attention to my spelling and grammar now that I know people are reading.  

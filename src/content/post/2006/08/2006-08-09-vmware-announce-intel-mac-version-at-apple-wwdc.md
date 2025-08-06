@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "books", "dotnet", "gadgets", "teamprise", "web", "programming", "podcast"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 I use [VMWare](http://www.vmware.com/) a lot.  As we work on a cross-platform client to Team Foundation Server, I not only need to test our client on many operating systems, I also run Team Foundation Server in VMWare to talk to test our client against.  [Teamprise](http://www.teamprise.com/)[ ](http://www.teamprise.com/)Explorer and the Eclipse plug-in use SWT for the UI Layer.  This means that not only is performance great – the client takes on the native look and feel of the host operating system.  However, you do need to test dialogs on those operating systems to make sure they all look ok and size correctly.
 
 Yesterday, I was so busy looking over the Specs of the new [Mac Pro](http://www.apple.com/macpro/) that I nearly missed the [announcement](http://www.vmware.com/news/releases/mac.html) from VMWare that their Mac-Intel version is on its way.  This means that we can get another one of those shiny [Mac Book Pro](http://www.apple.com/macbookpro/)’s and do a totally stand-alone demonstration of [Teamprise](http://www.teamprise.com/) talking to a (virtual) Team Foundation Server from Mac, Windows XP, Solaris and Linux all from one laptop.  It will also be a boon for testing as nearly a third of the [Teamprise](http://www.teamprise.com/) development team work on Macs (both Intel based and PowerPC based G5’s)

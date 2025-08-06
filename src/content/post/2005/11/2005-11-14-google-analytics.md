@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["technology", "dotnet", "web", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Google has recently announced it's new [Analytics](http://www.google.com/analytics/) service.  I've just added the tracker to this site so we'll see what the data looks like in a few hours.  From all the screen shots it looks pretty nice, will post an update when I see what it thinks to my small site traffic...
 
 Rather than being a [20% time](http://www.eightypercent.net/Archive/2005/03/24.html) project, this appears to be the result of Google buying Web Analytics firm [Urchin](http://www.urchin.com/) back in March.  Looks like they've done a [Keyhole](http://www.keyhole.com) and are now giving away the basic service for free.  In this case to massively bolster Google's AdSense scheme.

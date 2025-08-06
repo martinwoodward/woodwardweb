@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["books", "gadgets", "web", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 I am giving a [talk tonight](http://www.developers.ie/session.aspx?s=44).  As usual, I'm busy avoiding preparing for it.  It is a rare day now-a-days that I put on a shirt and smart trousers but as I'm meeting folks I've never met before in a city I've never been to, I thought I'd better make an effort.
 
 While polishing my shoes this morning it occurred to me that this was probably one of the few things that I do that my father and grandfather would have done in a similar way.  Sure, you can get those cream things that paint your shoes black but you cannot beat a good old fashioned bit of spit, brush and polish to make them look nice.

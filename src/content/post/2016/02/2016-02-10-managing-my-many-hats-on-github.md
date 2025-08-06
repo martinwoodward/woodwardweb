@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["git", "technology", "books", "dotnet", "maker", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Like many developers, I contribute to open source projects at home – usually to scratch an itch, learn something new or just to contribute to something [I love using myself](http://openlivewriter.org). However, I work for the open source [.NET Foundation](http://www.dotnetfoundation.org/) which means I have a dream job of getting paid to work on open source. Finally, I’m also still employed by Microsoft and get to make contributions to open source projects on their behalf which is also a pretty good gig.  
 
 When I commit to Git, I make sure my email address is set correctly based on what hat I’m wearing. On my work machines I have my work email configured by default and on my home machine I have my personal email configured by default.  To configure your default email address for Git [remember](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) from the [excellent Git Book](https://git-scm.com/book) that you do:     

@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "dotnet", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 I thought I’d try and post some quick Top Tips for Team Foundation Server – in no particular order apart from as I think of them.  Today, this came up in the [forums](http://forums.microsoft.com/MSDN/ShowPost.aspx?PostID=366920&SiteID=1) so I thought I’d elaborate.
 
 WIQL (pronounced Wickle), stands for Work Item Query Language and is what is used when talking to the work item store in Team Foundation Server.  It has a SQL like construct and is used to pass queries to the server.  Visual Studio 2005 comes with a Query Editor that generate WIQL.  While the query editor is straightforward, it is pretty powerful and allows you to do most things.

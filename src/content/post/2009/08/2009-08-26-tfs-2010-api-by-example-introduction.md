@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "maker", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 As I am exploring programming against TFS 2010, I usually build myself up a collection of code snippets that show me how to do various discrete operations. I thought it would be useful for me to post some of these to my blog so that others might benefit later.  Note that this code was written against TFS 2010 Beta 1 so may well change by the time you read this – but hopefully it will give you some idea where to get started.  
 
 I’ve got a few that I wanted to post, but before I do I thought I’d better take some time to explain a fundamental new level TFS Object Model – the TeamFoundationApplicationInstance.  #### **Team Foundation Server Application Instance.**  

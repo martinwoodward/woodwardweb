@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["technology", "dotnet", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 [](http://cid-c7a08ae2600d197a.office.live.com/self.aspx/Public/YearPlanner)As [I’ve mentioned in the past](http://www.woodwardweb.com/dotnet/the_year_planne.html), I like to have a compact year planner on the wall next to my desk so that I can quickly reference stuff.  What day of the week a date would be, when I’m supposed to be on vacation, when the major conferences are and product milestones etc.  
 
 The various templates for year planners I had in Office 2010 were not quite what I like, and I couldn’t find a simple year planner for 2011 around online so I knocked up a quick spreadsheet that will generate a year planner for me.  Simply rename a sheet to a different year and the sheet will change to be the year planner for that year.  The whole thing is formula based using conditional formatting, no macros etc.  

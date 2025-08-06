@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "maker", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 From time to time I hear from people who dislike the automatic check out behaviour common with TFS.  One of the great things about TFS is the the pending changes list that shows you the files you have currently checked out and allows you to easily undo any un-intentional check outs.  While I personally find the auto-checkout features a productivity boon - like most things there is a preference that you can use to adjust the default behaviour if you find it causes problems with the way you like to work.  
 
 In Visual Studio 2008 (with the Team Explorer 2008 installed), go to Tools, Options, Source Control, Environment and change the Checked-in items for Saving and Editing to "Prompt for check out" rather than the default which is "Check out automatically".  

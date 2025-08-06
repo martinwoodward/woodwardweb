@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["gadgets", "teamprise", "programming", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 At this years TechEd EMEA, they were doing a pilot recording video of the speakers along-side the usual audio/visual recordings that you get on your conference DVD's a few months after the event.  At an event such as this one where a lot of the content was about the pending Visual Studio 2008 release it is even more important for that information to get into the hands of the delegates as quick as possible and unbelievably they have already edited all the sessions together and have them available on the TechEd site for people who were registered to attend the conference. 
 
 Personally, I feel that the videos work much better than the traditional recorded format of just a voice with what was being presented on the screen.  For many of the sessions, watching the presenters really helps the message get across and it feels a much more natural way of consuming the content.  The camera work and editing of the sessions themselves has been very well done - each session had two live action cameras to view from as well as the projected video content.  The fact that all the hours of sessions is already edited and available from the TechEd site is pretty amazing (especially when you consider that everyone involved is still currently onsite doing TechEd.  I'm also amazed that modern codecs allow you to view live action video of a stream that is also perfectly readable when looking at the screen action to view the code being typed. 

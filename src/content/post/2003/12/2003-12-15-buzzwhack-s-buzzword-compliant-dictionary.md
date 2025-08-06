@@ -9,10 +9,9 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["web"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Just started to leverage [BuzzWhack](http://www.buzzwhack.com/).  Some very funny - some a bit too close to the mark (see [Salad Doger](http://www.buzzwhack.com/buzzcomp/indsu.htm))

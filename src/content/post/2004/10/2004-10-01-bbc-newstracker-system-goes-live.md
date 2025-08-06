@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["technology", "gadgets", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 The [BBC](http://news.bbc.co.uk) have rather quietly released a new version of their website, with related links powered by their [Newstraker](http://news.bbc.co.uk/1/hi/help/3676692.stm) system.  This appears to automate the production of links to external news sites.  
 
 According to the [BBC Story](http://news.bbc.co.uk/1/hi/help/3676692.stm) this is in reaction to users comments that:-

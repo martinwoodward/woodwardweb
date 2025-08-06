@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["dotnet", "maker", "web", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Just discovered [SharpReader](http://www.sharpreader.net/index.html) a pretty decent free RSS reader.  My lunchtime trawl of the net may have just got a lot faster.  The [interface](http://www.sharpreader.net/screenshots.html) is functional, and the pop-ups notifications are very well done.
 
 Bradbury (the people behind the excellent TopStyle) have produced an excellent reader called [FeedDemon](http://www.bradsoft.com/feeddemon/index.asp) that from the [screen shots](http://www.bradsoft.com/feeddemon/screenshots/) looks very like Outlook 2003.  At the moment I cannot justify the $30 when SharpReader does such a good job.

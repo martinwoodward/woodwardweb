@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "maker", "web", "podcast", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 That's right folks, 2008 SP1 is now available for everyone to download.  Get it while it's hot!  
 
 [Visual Studio 2008 SP1](http://www.microsoft.com/downloads/details.aspx?familyid=fbee1648-7106-44a7-9649-6d9f6d58056e) (needed for Visual Studio and Visual Studio Team System client, including Team Explorer), ([exe version](http://www.microsoft.com/downloads/details.aspx?familyid=fbee1648-7106-44a7-9649-6d9f6d58056e)) ([iso image version](http://www.microsoft.com/downloads/details.aspx?familyid=27673c47-b3b5-4c67-bd99-84e525b5ce61))  

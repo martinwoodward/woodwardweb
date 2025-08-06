@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["git", "technology", "gadgets", "teamprise", "web", "programming", "podcast"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 People go on about iPod + iTunes + Store being this all time great combination.  I'll admit that I love my iPod, and if/when one comes out with similar capabilities to the iPhone player I'll be buying it.  However, I don't think I'm being controversial here when I say that iTunes on Windows really sucks. 
 
 It's not just the fact that the interface is alien to the OS in which it is running, or the fact that the much vaunted coverflow is much less "scrolling like butter" more "scrolls like screeching fingernails on a chalkboard".  It's not even the fact that it is a highly intrusive install, requiring QuickTime and making it take over more default file types than it should.  It's just the fact that it is really buggy, has a habit of totally crashing (especially when I am trying to access the iTunes store), occasionally trashes it's own library xml file that it requires for some reason and is a complete resource hog.  The software sucks. 

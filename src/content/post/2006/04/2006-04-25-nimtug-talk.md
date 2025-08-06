@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "books", "dotnet", "teamprise", "web", "podcast", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Thanks to everyone that came along to my talk in Belfast last night.  It was great to catch up with some old friends and good fun to stand up in front of my home crowd.
 
 As promised, here is the copy of the slide deck as a [zipped PowerPoint File (2.4 MB)](http://www.woodwardweb.com/blog/SourceControl101WithTFS_BELFAST.zip) and some links for further reading:-

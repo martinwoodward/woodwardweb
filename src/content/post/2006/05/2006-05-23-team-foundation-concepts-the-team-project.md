@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "dotnet", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Recently I was putting together some slides for a talk and I was trying to put together a short sentence regarding the definition of each.  The one that gave me most problems was that of the Team Project.  [Clark Sell recently posted](http://csell.net/PermaLink,guid,a47d4174-1fb7-4d6e-8d7c-d17f3645ec47.aspx) a link to the [official guidance on MSDN](http://msdn2.microsoft.com/en-us/library/ms181234(VS.80).aspx).  As you can see it is hard to sum up.  The following things should be considered when deciding how to split your work into Team Projects.
 
 By default, a team project has a portal site created, a reporting site and a root level node in source control (however this can be customised)

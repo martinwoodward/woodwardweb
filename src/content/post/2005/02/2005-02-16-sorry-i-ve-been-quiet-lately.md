@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["dotnet", "web", "programming", "podcast", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Sorry about the lack of posts lately.  Had lots on at work and then lots on at home when I eventually get there so been too busy to play and find things of interest.
 
 Just for interest these are the [podcasts](http://en.wikipedia.org/wiki/Podcasting) that I listen to on my long commute.  If anyone has any recomendations for me then let me know.  Techie stuff or science type stuff is cool (anything that keeps me up to date with what is going on).  Comedy would also be good.

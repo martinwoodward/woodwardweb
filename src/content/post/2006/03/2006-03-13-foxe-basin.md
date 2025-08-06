@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "maker", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 According to the in flight map, I am currently 36000 feet above Baffin Bay, traveling at 550 Mph with mild amusement towards Foxe Bain. The temperature outside is a balmy -53 degrees Celsius. However, having watched the latest Harry Potter thriller and with 2987 miles to go until I reach San Francisco, I thought I'd better actually work on the [talk](http://www.woodwardweb.com/vsts/000193.html) I'm supposed to be giving in a couple of days time.
 
 I was just trying to figure out what I am trying to say (which is basically Team System is cool you should buy it, hey while you have the corporate card out why not take a look at our company).  A couple of things struck me while I messing in PowerPoint so I though I would write them here - I'm very easily distracted when it comes to preparing for talks...

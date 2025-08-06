@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "maker", "teamprise", "web", "programming", "podcast", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Today, I am pleased to [announce](http://www.teamprise.com/news/2007/03/teamprise_enables_crossplatfor.html) that Teamprise are offering complimentary licenses of the Teamprise client suite for anyone wanting to use Teamprise to connect to an open source project on CodePlex.  If you want to take advantage of this offer, see [the sign up page](http://www.teamprise.com/partners/codeplex.py). 
 
 For those of you who don't know, Teamprise offers three clients to help you talk to Visual Studio Team Foundation Server (TFS) from outside of Visual Studio 2005.  They are:-  [Teamprise plug-in for Eclipse](http://www.teamprise.com/product/plugin_eclipse.html) - A plug-in to TFS that gives you full IDE integration inside an Eclipse based IDE.  [Teamprise Explorer](http://www.teamprise.com/product/explorer_client.html) - A stand-alone GUI client for TFS that will runs using native look and feel on multiple platforms including Windows Vista, Windows XP, Mac OS X, GTK Linux, Solaris etc etc  [Teamprise Command Line Client](http://www.teamprise.com/product/command-line.html) - A command line client for TFS familiar in operation to Microsoft's tf.exe only ours runs from any platform with the necessary Java JRE 

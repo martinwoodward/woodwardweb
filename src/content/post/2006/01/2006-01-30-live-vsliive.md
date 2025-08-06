@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "maker", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 I am in the pre-workshop conference [VSTS for Everyone: Best Practices for the Whole Team](http://www.ftponline.com/conferences/vslive/2006/sf/vsts.aspx).  It is really interesting watching other people learning VSTS and also what common questions that they ask.  [Rob Caron](http://blogs.msdn.com/robcaron/default.aspx) is here as well, he is doing a better job than me of not interrupting the speakers but it is funny to watch him squirm at some of the things the speakers say.
 
 To be honest, I have been a bit disappointed so far with the talk.  It was billed as a workshop, which to me suggests audience participation.  Really, it was just a day long demo or some of the VSTS functionality, but never really getting too deeply involved with any of it.  Anyway, an encouraging thing to take from the day is the number of folks that think VSTS is really cool - but have Java or Mac folks in their company that they want to get involved.

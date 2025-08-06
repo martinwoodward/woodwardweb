@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "dotnet", "gadgets", "maker", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 **Update: ** With [Teamprise 3.0](http://www.teamprise.com/) we included this work into the freely downloadable [Teamprise Extensions for Team Build](http://www.teamprise.com/products/build/).  The source is also provided under the MS-PL if you are interested.  You should definately look at [the new version ](http://www.teamprise.com/products/build/)as it contains some fixes and additional features based on feedback during beta testing.
 
 Original Post:

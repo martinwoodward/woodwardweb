@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "maker", "teamprise", "web"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 I know I probably shouldn't be this excited, but I've just installed VSTS B3 into a single VPC image, and it worked first time!!  
 
 Still a couple of funnies, reports don't seem to be working doesn't look fatal, probably a configuration setting missing somewhere but apart from that everything is good.  

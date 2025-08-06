@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["technology", "gadgets", "maker", "web", "podcast", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 [](http://www.woodwardweb.com/brian/wallpaper/) It turns out that the [little video I posted yesterday](http://www.woodwardweb.com/gadgets/000434.html) has taken on a bit of a life of it's own.  Last time I checked, it was in the top 10 Science and Technology posts for YouTube in Ireland.  It's funny how it is always the posts that you do more for your own entertainment that take off.    
 
 Anyway, there is no doubting that Brian is a bit of a character, he's already recorded his first TV appearance as a guest on this weeks, "[This Week in Channel 9](http://channel9.msdn.com/shows/This_Week_On_Channel_9)" (to be broadcast soon).  I wish that Nabaztag had an affiliate program as it sounds like I may have sold a few rabbits for them.    

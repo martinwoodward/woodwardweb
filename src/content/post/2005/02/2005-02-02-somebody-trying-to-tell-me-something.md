@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 I was have a quick trawl through some of my logs, and found this funny set of search queries...
 
 2004.12.17 11:08:42 167.127.107.11 Search: query for 'noisy and annoying' 

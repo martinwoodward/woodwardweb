@@ -9,10 +9,9 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "teamprise"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Member of the team who produced the pioneering online check-in site for BA.   Full J2EE n-tier application, however the best bit is the "little man" interface where you can click on a seat to select which seat you want and the little man moves.  A shortcut feature is that you can actually type the number in an it moves the little man.  This style of interface has been much re-used on other systems since it was done.

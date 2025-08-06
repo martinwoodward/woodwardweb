@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["git", "technology", "books", "dotnet", "maker", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 If you want to work with your local Git repositories in some .NET code then [LibGit2Sharp](https://github.com/libgit2/libgit2sharp) is your friend.  It’s the open source library used by the [Visual Studio Tools for Git](http://aka.ms/Git4VS) and gives you a very idiomatic way to talk to Git from C# or VB.NET.  I thought it would be worth a quick tutorial post showing how easy it is to get started by querying a repository helping us learn a bit about the library but also learn more about Git itself. As LibGit2Sharp is open source in this example I’m going to point to cloned copy of the repository I have locally already by using the Git tooling in Visual Studio or by typing git clone https://github.com/libgit2/libgit2sharp.git. However you can obviously point to any Git repository you already have locally.  
 
 To begin, create a new console project in Visual Studio. We need to add a reference to the Lib2Sharp library and the quickest way to do that is to open the NuGet package manager by right-clicking on your project in Solution Explorer and select Manage NuGet Packages…  Search online for “LibGit2Sharp” and Install.  

@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "gadgets", "maker", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 This morning we had a power cut which killed a particular tricky upgrade mid-way through trashing the machine I was attempting it on.  Luckily the machine in question was a VM Ware image and I had recent taken a backup snap-shot so I only lost a few hours work. 
 
 When the power returned I went out to the ([now infamous](http://www.woodwardweb.com/personal/000347.html)) garage to switch on the machine I have running out there that acts as a VPN Gateway, TFS Proxy ([the world's smallest](http://www.woodwardweb.com/vsts/000273.html)) and Build Mirror which allows my network to seamlessly be part of the main Teamprise network.   

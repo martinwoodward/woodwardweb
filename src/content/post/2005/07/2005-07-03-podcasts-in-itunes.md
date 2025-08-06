@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["technology", "dotnet", "web", "podcast"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 [](http://www.woodwardweb.com/images/blog/itunes_podcasts.html)I downloaded version 4.9 of iTunes today that contains support for Podcasts.  Overall it seems ok, very easy to use but no support for Bittorrent which means I'll be sticking with nimiq for a while yet to keep up to date with [DotNetRocks](http://www.dotnetrocks.com).  For more information about this version, take a look at [iPodLounge](http://www.ipodlounge.com/index.php/articles/comments/the-complete-guide-to-itunes-49-with-podcasts/).
 
 For more info about how to get your RSS feed integrated with the iTune Music Store (and iTunes specific tags), see [http://phobos.apple.com/static/podcast_specifications.pdf](http://phobos.apple.com/static/podcast_specifications.pdf).

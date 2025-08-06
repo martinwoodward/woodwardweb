@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "web", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 The Team System Chat's are a great way for you to talk direct to very influential members of the product group - the people that actually write the code behind team system.  If you have a query or there is a feature that you would really like then this is a great way of talking to the people direct and getting your feedback heard.  
 
 So, join members of the Visual Studio Team System product group to discuss features available in Team Foundation Server, Team Suite, Architecture Edition, Development Edition, Database Edition, and Test Edition. In addition, discuss what's new for these editions for Visual Studio 2008.   

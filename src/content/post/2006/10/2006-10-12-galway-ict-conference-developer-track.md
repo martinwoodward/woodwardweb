@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "books", "dotnet", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Thanks to all the people who came along to the Developer Track of todays conference in Galway.  It was great to see such a mix of people with different experience of .NET and Team System in General - but also nice to see some Java folks.  Here are m y slides as promised:-
 
 [Agenda Slides (184 KB)](http://www.woodwardweb.com/blog/Developer_Seminars_Agenda.pdf) – This was the timings of the day as planned…

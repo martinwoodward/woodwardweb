@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["git", "tfs", "technology", "maker", "teamprise", "web"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 As I have [mentioned before](http://www.woodwardweb.com/vsts/000179.html), when you check out a file for edit in Team Foundation Source Control, you are actually telling the server that you are going to edit a particular version of a particular file that you have in your local workspace.  At that point, you can optionally select one of three lock types:-
 
 "none", "check-out" or "check-in"

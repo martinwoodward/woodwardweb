@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["technology", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 I’ve been running Eclipse Juno regularly since the M5 milestone.  One of the things I’ve really noticed is that the default theme for Eclipse Juno on Mac OS X blends in better with other Cocoa applications than Juno looks on my Windows machines. Today I just realised that this is because Eclipse is picking up the Eclipse “Windows XP Blue” theme by default. Below is a picture of Juno RC3 with a Windows Explorer window over it for comparison.  
 
 [](http://www.woodwardweb.com/Windows-Live-Writer/Eclipse-Juno-Themes-on-Windows-8_2A06/e4_winxpblue_2.png)  

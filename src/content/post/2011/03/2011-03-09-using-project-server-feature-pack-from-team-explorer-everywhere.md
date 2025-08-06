@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 As Brian Harry announced earlier today, it’s been a busy week already here.  Not only was Visual Studio 2010 SP1 released but so was Team Foundation Server 2010 SP1 and also the topic of this post, the Project Server Feature Pack.  
 
 For more information, see Brian’s Blog Post:     [VS/TFS 2010 SP1 and TFS-Project Server Integration Feature Pack have Released](http://blogs.msdn.com/b/bharry/archive/2011/03/08/vs-tfs-2010-sp1-and-tfs-project-server-integration-feature-pack-have-released.aspx)   

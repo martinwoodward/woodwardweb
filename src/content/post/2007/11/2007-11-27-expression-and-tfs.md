@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["git", "tfs", "technology", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Recently I've been playing more and more with the [Expression](http://www.microsoft.com/expression/) suite of tools.  I especially enjoy playing with [Blend 2](http://www.microsoft.com/expression/products/features.aspx?key=blend2preview) and pretending that I can draw. 
 
 While the integration with Visual Studio 2008 is very good, a big thing that is missing for me is that there is no integration with TFS.  If you would also like TFS integration in the Expression products then be sure to vote on the following feature request in Connect:- 

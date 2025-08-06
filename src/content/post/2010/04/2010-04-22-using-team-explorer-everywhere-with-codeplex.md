@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "books", "teamprise", "web", "programming", "podcast", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 [](http://www.codeplex.com/) People using CodePlex can download [Visual Studio Team Explorer](http://www.microsoft.com/downloads/details.aspx?displaylang=en&FamilyID=fe4f9904-0480-4c9d-a264-02fedd78ab38) to access a CodePlex hosted TFS instance free of charge, but what if you want to be a project team member and access the code from Eclipse or a non-windows machine?  
 
 Well, I’m proud to say that we’ve continued the tradition and you can now use Team Explorer Everywhere with CodePlex.  Simply download the [trial edition of Team Explorer Everywhere](http://www.microsoft.com/downloads/details.aspx?FamilyID=AF1F5168-C0F7-47C6-BE7A-2A83A6C02E57) and then enter the [license key given on the CodePlex wiki](http://codeplex.codeplex.com/wikipage?title=Obtaining%20the%20Team%20Explorer%20Everywhere%20Client).  Note that if you already have a full license to Team Explorer Everywhere (either through retail, volume licensing or MSDN) then you can obviously use this to access CodePlex as well.  

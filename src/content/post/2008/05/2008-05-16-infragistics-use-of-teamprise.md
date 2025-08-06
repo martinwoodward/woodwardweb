@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "dotnet", "gadgets", "maker", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 [](http://www.infragistics.com/Default.aspx)Infragistics is the world's largest publisher of reusable presentation layer development tools for Windows Forms, ASP.NET, WPF, Tablet PC and Java (JSF) environments.  I think they can count most of the Fortune 2000 as customers of theirs.  They also happen to be a customer of ours.   
 
 I was in an email discussion with fellow MVP [Ed Blankenship](http://www.edsquared.com/), when he came out with the following quote which Infragistics have kindly given me permission to share.  

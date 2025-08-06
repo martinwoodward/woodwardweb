@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "books", "maker", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Tonight I’ll be giving a talk on Team Foundation Build for NW-MTUG at the University of Ulster’s Magee Campus.  The event starts at 6.30pm – if you are around it would be great to see you there.  I’ll be giving away [a copy of my book](http://amzn.to/bXPvaz) to one lucky person prepared to sit through the whole talk :-)  
 
 **Session Summary:**  

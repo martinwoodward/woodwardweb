@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["technology", "dotnet", "gadgets", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 This morning while I was preparing for a customer demo that I'll be doing over LiveMeeting later today, my DSL connection stopped working.  I have a reasonably complicated home office network arrangement - but it is most often my VPN connection or my unmanaged gigabit switch that are the problem. This morning however, my DSL was down.  Not a surprise to a lot of people, but I am with [Nildram](http://www.nildram.net/) and this sort of thing hardly ever happens (BTW - I cannot say enough good things about Nildram as a broadband provider). 
 
 Anyway, I was kinda connected (the LCP was allowed to come up - whatever that means, and the ADSL light was green on the router), but I wasn't able to get my IP address or anything.  I have a static IP for my DSL connection so that is a little unusual.  While the demo is over 10 hours away, it still focuses the mind a little - I may have to change my plans for the day and fall back to my "disaster recovery office" (the spare room in my mother-in-law's house) if I'm not going to be able to get connected to the LiveMeeting from my home office. 

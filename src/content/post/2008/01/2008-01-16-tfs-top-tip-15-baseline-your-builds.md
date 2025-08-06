@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "maker", "teamprise"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Microsoft Team Foundation Server 2008 has a great new improved build system (often referred to as "Team Build").  An advantage of running your build from Team Build is that (by default) all changes between your current build and the last good one are reported in the build report and any work items that were associated with those changesets are automatically updated with the build number they were fixed in. 
 
 However, when demonstrating this feature - the following thing always catches me out and is important to remember when using Team Build in production.  The very first time you run a build, it does not associate that build with changesets or update any work items. 

@@ -9,10 +9,9 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "web"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Grr, [Ed](http://www.edwardthomson.com/) has laid down the gauntlet and gone to rather [extreme lengths to beat](http://www.edwardthomson.com/blog/2007/06/the_new_smallest_tfs_proxy.html) my claim to have the world's smallest TFS Proxy server up and running.  I'm off to go talk to the embedded folks...

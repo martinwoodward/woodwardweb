@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "maker", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 The day that Intel Macs first started shipping I walked into an Apple store, downloaded [Teamprise](http://www.teamprise.com/) and tried to run it to see if it would work.  It didn’t.  I wasn’t that surprised, but I had kinda been hoping that the magic of Rosetta would just take over and automagically make it work.  But sadly Rosetta (while clever) isn’t that clever.
 
 You see, although on most of the marketing material it says our client is 100% Java, that is not strictly true.  It should say 100% java rounded to the nearest percent – in terms of lines of code we are actually about 99.8% Java with a few small lines of JNI code to call a few (very isolated) native functions.  While we seriously did consider a marketing tagline of “nearly 100% java” or “99.8% Java”, however we felt that the message would just confuse things.

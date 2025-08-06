@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "maker", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Tonight I have the pleasure of speaking with the [Team System Users Group Virtual Edition](http://www.tsug-ve.com/).  We are going to be talking about Team Build 2010 based on the Beta 1 bits.     
 
 **TSUG-VE September Meeting (EMEA)**    

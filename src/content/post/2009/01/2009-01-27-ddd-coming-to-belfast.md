@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["technology", "dotnet", "maker", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 [](http://developerdeveloperdeveloper.com/belfast/) After the highly successful [Developer Developer Developer event in Galway last year](http://www.woodwardweb.com/dotnet/ddd_is_coming_t.html), this time it is moving north to my neck of the woods – [Belfast](http://developerdeveloperdeveloper.com/belfast/). For those not familiar with the DDD events they are run on a Saturday and everyone gets together in this great free event run for the community, by the community.  Session submissions are an [open process](http://developerdeveloperdeveloper.com/belfast/Speaker/AddSession.aspx) – and session can be submitted by anyone and the sessions that are held are the ones with most community interest.  
 
 There are no Microsoft speakers present, just speakers from the .NET developer community – although I hear on the grapevine that our local Irish DPE’s will be hanging around the crowd to soak up the atmosphere and chat to people that want to the idea behind the get together is that we all get to share in our real world experiences and knowledge from working down at the code face.  

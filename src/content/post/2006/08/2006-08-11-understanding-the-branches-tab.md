@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["git", "tfs", "technology", "maker", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Showing branch history in a visual way is not something that the current version 1.0 of the Microsoft Team Foundation Server client is great at.  In fairness to the team, showing the branch history of files in an graphical way is pretty complicated and would involve many lines of code – especially when you build a version control system as flexible and powerful as Team Foundation Server.  
 
 I’ve been around the business for a good few years now, and before I joined a software company specialising in Version Control tools I had only used branching twice[*](#only_twice).  This suggests that branching is not something that everyone uses all the time  – and those that do don’t often need to see the branch history.  Therefore the VSTS team not spending an awful lot of time on a branch visualisation tool that will only get used less than 1%  of requests seems like a pragmatic approach to me (especially if the data is available – just not in the easiest way to understand)

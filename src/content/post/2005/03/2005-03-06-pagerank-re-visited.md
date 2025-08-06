@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["technology", "web", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Well, for some reason I seem to be back at my No. 2 spot in Google when you search for "Martin Woodward".  I changes my blog templates a little bit.  The Martin Woodward header at the top of every page is a bit of text that has a screen stylesheet applied that hides the text and displays the ": Martin Woodward" graphic instead.  If you are using a text based browser then you don't see the image but get the text.
 
 Now I had the text set to be a hyperlink back to the Woodwardweb homepage - but this seems like it tripped out the Google spam filter (as there were hidden text links contained within the site - a tactic sometimes used by search engine spammers trying to inflate their search engine rankings.).

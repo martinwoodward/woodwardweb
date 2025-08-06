@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["git", "tfs", "technology", "gadgets", "maker", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Just posted a reply to the VSTS Forums, but this is such a common question that I thought I'd post the response here in a place that Google is more likely to stumble across it.  The problem is when somebody leaves a file checked out from Team Foundation Source Control (formally known as Hatterras).
 
 If you want to do anything advanced with Team Foundation Source Control, then you will need to get friendly with the command line.  This used to be called h.exe but is now tf.exe.

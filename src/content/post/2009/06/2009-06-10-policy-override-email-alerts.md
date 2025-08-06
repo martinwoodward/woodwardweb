@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "maker", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 A guiding principle with Team Foundation Server is that all the flexibility of configuration and all the control should not get in the way of getting work done.  For example, if you try to do a check-in that fails a defined check-in policy, you get the following warning.  
 
 The key thing about check-in policies is that you can always override them.  Some check-in policies (such as the Build policy) actually rely on this behaviour.  However, this fact can irk some software configuration managers when they first figure this out.  They’ve defined a check-in policy for a good reason, and gosh darned it they do not want their developers to be able to check-in unless they meet the check-in policy or they better have a really good reason.  

@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "maker", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 One of the most frequent questions I get when talking to people about TFS if how to upgrade from the freely downloadable [90-day TFS 2008 trial](http://www.microsoft.com/downloads/details.aspx?FamilyID=B0155166-B0A3-436E-AC95-37D7E39A440C&displaylang=en) to a full version of TFS.  Our TFS 2008 license key arrived at the weekend, so I thought I would take the opportunity to record the process.  The first two steps have nothing to do with installing your license key, just purchasing it - but sadly are often the most complicated.  Installing the actual key once received, is pretty trivial as I hope you will see. 
 
 **Step 1:  Purchase a TFS License Key.** 

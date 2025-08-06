@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "books", "web", "podcast", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Over the weekend [we published](http://www.radiotfs.com/2009/02/22/GettingAgileWithTeamFoundationServer.aspx) a new [Radio TFS](http://www.radiotfs.com) episode.  This month we chatted with [Tommy Norman](http://tommynorman.blogspot.com/) about his real world experiences using using Team Foundation Server in agile software development projects.     
 
 [Play Now: Getting Agile With Team Foundation Server](http://www.radiotfs.com/ct.ashx?id=50aa5f4f-b1f0-42b5-b20a-568110735d7e&url=http%3a%2f%2ffeedproxy.google.com%2f%257Er%2fradiotfs%2f%257E5%2fmTEtuUKkdxU%2fradiotfs_017.mp3)   

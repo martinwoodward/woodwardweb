@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["git", "tfs", "technology", "maker", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Over the past couple of weeks I’ve had several people ask me about my dev environment for working with Git on Windows so I decided to write it up here for me to point people to. Of course the first thing that you want is Visual Studio 2013 with the built in Git tooling. While I’m obviously very biased in terms of the Visual Studio tools I’m actually more familiar with the command line workflow – especially coming from the Mac. However the team specifically designed the Visual Studio tools to work well with the command line and compliment them – I find myself swapping more and more between the command line and the UI depending on what’s quickest for me. I NEVER use the command line for merging any more, but I still use if for dealing with multiple remotes (very common in OSS workflows) squashing and rebasing my commits etc. There are some things I actually find myself using Visual Studio for that I never thought I would. For example I quite often find myself swapping my email address around when I’m doing commits for work or if I’m working on a demo or a side project and I’ve noticed I’ve been using the Git settings panel in Team Explorer more and more rather than going to “git config” which surprised me.  
 
 **So, how do I set up my command line Git experience?**  

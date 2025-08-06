@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["technology", "dotnet", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 So, the day after I get made a Microsoft MVP I do two posts about Java - go figure.  Anyway, today I had one of those moments where you thought you understood something and then realize you didn't and probably a lot of your code that you've written over the past 10 years doesn't work as well as you thought...  All this with the humble String.compareTo method. 
 
 Take the following strings:-  charlotte Chloé Raoul Real Réal Rico 

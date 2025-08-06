@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["git", "tfs", "technology", "books", "dotnet", "gadgets", "maker", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 If [bunnies](http://www.woodwardweb.com/gadgets/000434.html) are just a little bit too cute and fluffy for you, then you might be interested in a little side project that reader Terry Humphries just got in touch with me about.  You see Terry had no love for [robotic rabbits in the build process](http://www.woodwardweb.com/gadgets/000434.html) – but an electric guitar was something that he and the other developers in his team would pay attention to. So he hooked up a vintage 1990’s Warlock Electric guitar made by B.C.Rich to TFS and let that rock their world.  I thought this was a cool project so asked permission to share his email with you all. If you want to get in touch with Terry, drop me a line and I’ll send your details on to him.  
 
 **From: Terry Humphries**     

@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "maker", "teamprise", "web"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 [](http://www.teamprise.com)Preview 5 of Teamprise is now available for registered users to [download](http://www.teamprise.com/preview-register.py) (registration is free).  This release is compatible with Beta 3 and Beta 3 refresh of Visual Studio 2005 Team Foundation Server.  We'll be releasing another preview release after Release Candidate comes out (due [any time soon](http://blogs.msdn.com/jeffbe/archive/2006/01/19/514801.aspx)).  
 
 I use the Preview 5 release day-to-day for the continued development of Teamprise in Eclipse.  Considering I spend most of my time on the end of a VPN connection the source control works incredibly well.  We also use the command line client in the build scripts to download the source onto the build server (which is on a meaty linux box).  

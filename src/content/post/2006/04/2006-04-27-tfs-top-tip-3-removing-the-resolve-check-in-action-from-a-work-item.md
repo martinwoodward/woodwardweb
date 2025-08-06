@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "teamprise"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 I don’t know about you, but I love associating my check-ins with work items using the Pending Changes view, it makes it so easy to maintain requirements traceability and helps me feel less guilty as I’m doing one more thing that I should have been doing for years.  
 
 The only problem with the default definitions for Bug and Task are that if you select the item then by default the “Resolve” check-in action is selected.  This is annoying for me as it the action I want to take in probably about 5% of check-ins.  95% of the time I just want to associate and 90% of the time I forgot that I have to change the default setting and end up going back to the work item and re-activating it.

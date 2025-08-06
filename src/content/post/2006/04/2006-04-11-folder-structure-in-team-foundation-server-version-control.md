@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["git", "tfs", "technology", "dotnet", "maker", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 I’ve seen a few forum posts on this topic and talk about it a lot whenever meeting new users to Team Foundation Server so I thought it worthwhile posting on the subject.
 
 When you create a new team project on the Team Foundation server, the new team project wizard will ask you where you want to create a folder in source control for your project.  Every team project has to have a root level folder to store files under – in fact under the covers TFS uses annotations on that root level folder to store team project level source control settings (such as check-in notes, check-in policies and if you want to disable checking out of files with no lock).

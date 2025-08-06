@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "dotnet", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 [](http://www.igate.com/)   
 
 TFS has a many strengths.  Two of them that I particularly like talking about are it's performance over a wide area network and the strong IDE integration available for both .NET and Java developers (the latter via [Teamprise](http://www.teamprise.com) of course).  Microsoft have just posted a [new case study with iGate](http://www.microsoft.com/india/CustomerEvidence/details.aspx?casestudyid=636&type=C), one of the top 20 global outsourcing companies which talks about this in depth.  

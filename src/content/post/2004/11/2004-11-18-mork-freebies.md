@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["books", "gadgets", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 [The Register](http://www.theregister.co.uk) have published the results of an important benchmark test - what is the best [free rucksack](http://go.theregister.com/feed/2004/11/18/rucksacks_evaluation/).  No matter how boring the presentation, everyones eyes always light up when the contents of the marketing cupboard are raided.  
 
 A simple but particular favourite of mine is my rather solid [BEA](http://www.bea.com) pen - much better than the pack of crayons or USB power laptop light.  I know many a [BEA](http://www.bea.com) consultant who are fond of their watches.  Sometimes I wonder what normal people place under their mice and where they get mouse mats from.  Their are plenty of alternative uses for CD's (any probably a few websites devoted to the topic) but I don't know any other uses for mouse mats - so mine live in the back of dark drawers, hibernating.  

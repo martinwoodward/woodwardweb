@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["dotnet", "gadgets", "web", "programming", "podcast"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 A few people have asked me this recently, so this is the current list of podcasts that I subscribe to and enjoy on my daily commute.
 
 [.NET Rocks!](http://www.dotnetrocks.com/) - *The* internet audio talkshow for dotnet developers.

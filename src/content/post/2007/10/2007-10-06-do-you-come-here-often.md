@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["technology", "gadgets", "maker", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 An odd smirk followed by "You come here a lot" is not what you want to hear when at the customs desk waiting to come into the US.  Immediately I expected the worst - an armed SWAT team absailing from the ceiling to lead me off into a quiet room for interrogation while the snapping sounds of latex gloves ricochet out of the distant bowels of the customs hall. 
 
 When travelling for work, you get asked some interesting and always flummoxing questions on your way in to a country - one particular favorite appears to be "When did you last come to the United States", the other more boring question is "what is the purpose of your visit to the United States, Business? - what kind of business?".  After 8 hours sat on a plane cursing myself for choosing [chicken over beef again](http://www.woodwardweb.com/personal/000171.html) - the questions at customs always seem to throw me.  So much so that as I stand in line for hours waiting to have questions fired at me by the seriously grumpy immigration official, I prepare answers to all the questions I have had before so that I don't freeze during my passport stamping/fingerprinting session. 

@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["git", "technology", "books", "dotnet", "gadgets", "maker", "web", "programming", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 So, at the risk of starting one of those annoying meme's, I've kinda had this conversation with a few folks before and people of my age always seem to enjoy it so here goes.  My first computers. #### My First Computer 
 
 The computer I first learnt to code on was a [Commodore Vic-20](http://en.wikipedia.org/wiki/VIC-20).  My parents bought it because they saw William Shatner advertising it on the telly and suspected that these computer things might catch on one day and I should probably learn about them.  We spent hours sitting and typing in code from printouts in magazines and then debugging our typing mistakes.  Unlike some people, we were lucky enough to have a tape drive to save our work before we switched it off.  The following year I got the 8k expansion pack which doubled my available memory.  The Vic-20 was when I learned binary arithmetic because a poke instruction was needed to draw a character to the screen that was not a standard Alpha-numeric - what you were actually doing was writing directly to the [6560 Video Interface Chip](http://en.wikipedia.org/wiki/MOS_Technology_VIC) after which the computer was named (VIC - geddit?).  Any spare squared paper I could find was always covered with little grids with drawings in them of graphics for potential games.  I still use this skill today but more often for bitwise flags than for coding space invaders.  My favorite game for the Vic-20 was "Psycho Shopper" - a game who's premise escapes me but I seem to remember it had something to do with old women and walking frames. 

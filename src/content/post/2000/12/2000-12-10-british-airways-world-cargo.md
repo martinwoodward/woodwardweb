@@ -9,10 +9,9 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["web", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 The site was a full J2EE based eBusiness platform for BA World Cargo. It introduced track and trace functionality, which involves communicating with a legacy mainframe system. I am particulary proud of the [barcode generation jsp pages](http://www.baworldcargo.com/barcode/index.jsp) which I wrote in the back of a car while on my way across Scotland to catch a ferry.

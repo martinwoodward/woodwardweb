@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["git", "tfs", "technology", "dotnet", "maker", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Just wanted to let folks know that [Preview 2](http://www.teamprise.com/preview/preview-register.py) is now available for download to our preview program customers.  If you want to take a look at [Preview 2](http://www.teamprise.com/preview/preview-register.py), then you can sign up [here](http://www.teamprise.com/preview/preview-register.py).  This preview release builds on the code we released last month in [Preview 1](http://www.woodwardweb.com/vsts/000265.html), including some new features, lots of performance improvements and also suggestions from our [existing Preview Program community](http://support.teamprise.com/index.php). #### What is new in Preview 2? 
 
 A lot of the changes this time are under the hood - many of which you won't notice if you've been happily using Teamprise so far, but they are based on our performance and scalability testing.  We actually have made significant changes to our web service proxy layer to make it much faster and orders of magnitude more memory efficient - especially for servers with a large number of Team Projects.  The command line client start up times are also significantly improved.  There were however some new features that everyone will notice:- #### [](http://www.woodwardweb.com/WindowsLiveWriter/TeampriseV2Preview2_FD83/merge_wizard3.png)Branching support.   

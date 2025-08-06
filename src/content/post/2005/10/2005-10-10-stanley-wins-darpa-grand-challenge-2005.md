@@ -9,10 +9,9 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["web"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 This years [DARPA Grand Challenge](http://www.grandchallenge.org/) has seen a winner.  [Stanley](http://www.stanfordracing.org/), the modified VW Toureg from Stanford University, completed the 131 mile off-road course with a 19 mph average speed.  [Stanford University News](http://news-service.stanford.edu/news/2005/may18/darpasr-051805.html) has an excellent article, I'm sure there are more articles to follow.

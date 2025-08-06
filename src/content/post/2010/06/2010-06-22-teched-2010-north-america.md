@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["git", "tfs", "technology", "gadgets", "maker", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 I had the pleasure of travelling to New Orleans for the first time to speak at TechEd 2010 North America.  New Orleans is now my favourite city to go to for a big conference like this.  While there were plenty of hotels that you could walk to (if you can stand the humidity), there was also plenty of things to see and do.  
 
 For [my session I got to talk about Team Explorer Everywhere](http://www.msteched.com/2010/NorthAmerica/DEV308) which was a lot of fun.  For the first time, TechEd sessions are now available to everyone even if you didn’t attend the conference so you can find my session below.  You can even download the [slide deck](http://ecn.channel9.msdn.com/o9/te/NorthAmerica/2010/pptx/DEV308.pptx) or a version to watch on your [iPhone /iPod](http://ecn.channel9.msdn.com/o9/te/NorthAmerica/2010/mp4/DEV308.mp4) (it was a cross-platform talk after all :-) )  

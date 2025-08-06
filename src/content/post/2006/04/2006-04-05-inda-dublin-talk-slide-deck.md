@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "dotnet", "maker", "teamprise", "web", "podcast", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 If you came along to my [talk last night in Dublin](http://www.developers.ie/session.aspx?s=44), then thanks for your time.  I really enjoyed the chat as folks got stuck in and asked questions rather than just listening to me drone on.  It’s also the first time I’ve spoke at an event and then wandered through into the bar to have pints lined up in front of me.  Admitidly, they were pints courtesy of the Microsoft tab (thanks [Clare](http://blogs.msdn.com/clare_dillon/)) but then conversation after my talk was fantastic – my turn to learn a lot from the assembled crowd.
 
 Anyway, as promised here is my slide deck (as [zipped ppt](http://www.woodwardweb.com/blog/SourceControl101WithTFS_DUBLIN_PPT.zip) and a [zipped pdf](http://www.woodwardweb.com/blog/SourceControl101WithTFS_DUBLIN_PDF.zip)).  There are a set of links in the slides but the following are things that came up in questions:-

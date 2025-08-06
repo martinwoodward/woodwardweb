@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["dotnet", "maker", "web", "programming", "podcast"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 [](http://channel9.msdn.com/shows/10-4/) [Brian Keller](http://blogs.msdn.com/briankel/) (of [This Week on Channel 9](http://channel9.msdn.com/shows/This+Week+On+Channel+9/) fame) has [just announced](http://blogs.msdn.com/briankel/archive/2008/12/17/announcing-10-4.aspx) a new weekly show on Channel 9 called [10-4](http://channel9.msdn.com/shows/10-4/) where you can learn about what's coming in Visual Studio 2010 and the .NET Framework 4.0.  
 
 [http://channel9.msdn.com/shows/10-4/](http://channel9.msdn.com/shows/10-4/)  

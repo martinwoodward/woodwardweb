@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["git", "dotnet", "maker", "web", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 I'm currently thinking a lot about different testing strategies.  [Martin Fowler](http://www.martinfowler.com) has an intesting post entitled [Mock Aren't Stubs](http://www.martinfowler.com/articles/mocksArentStubs.html) in which he also discusses the differences between State testing and Interaction testing.  In summary state based testing is when you set up your test conditions and say that when you do *x* the result in the data or from your method is *y*.  Iteraction testing is when you say that when I call the method it should call *a*, *b* and *c* passing the appropriate parameters.
 
 In the days when I first started learning to write code professionally (on an MVS mainframe in PL/1) a test was described as a set of conditions that if your code passes then by definition it is working.  This is classic state testing.  We didn't do interaction based testing then, possibly becuase we couldn't - we didn't have nMock on the mainframe..  

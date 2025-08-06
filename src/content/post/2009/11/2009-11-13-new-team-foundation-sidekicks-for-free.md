@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "web", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 In my inbox this morning I got news of another new version of the Team Foundation Sidekicks from Attrice.  I recommended these tools to several people during the recent TechEd EMEA event in Berlin and so it is great to new tools being added all the time.     
 
 With this release we conclude support for Visual Studio/TFS 2005 & 2008; from now on any future releases will target VS/TFS 2010. Sidekicks version for 2010 (based on Beta 2 bits) may be expected by the end of 2009.    

@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "maker", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Those of you lucky enough to have an MSDN subscription can go download Beta 1 very shortly, according to the [announcement](http://msdn2.microsoft.com/en-us/vstudio/aa700831.aspx) it is available now (but it isn't showing up in my MSDN subscription yet) - I suspect that the lovely bits on on the way through the MSDN distribution pipe as we speak. 
 
 However, while you are waiting you can check out the C[hannel 9 video of the announcement from Soma](http://channel9.msdn.com/ShowPost.aspx?PostID=302229#302229). 

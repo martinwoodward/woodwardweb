@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["technology", "web", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Nightmare.  Just done a search on [Google](http://www.google.com) for [Martin Woodward](http://www.woodwardweb.com) and I no longer appear!   My pagerank has just totally dissapeared!  I still have a 5/10 ranking in the google toolbar but [Martin Woodward](http://www.woodwardweb.com) no longer works - [try for yourself](http://www.google.co.uk/search?q=Martin+Woodward).  Could this be a result of my latest re-design?  I'm absolutely gutted. If you know me, can you please put a link to my homepage like this:-
 
 <A HREF="http://www.woodwardweb.com">Martin Woodward</A>

@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["git", "tfs", "technology", "dotnet", "maker", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Thanks to everyone that came along to [my talk](http://indc.wordpress.com/2006/04/26/indc-session-top-10-tips-for-team-foundation-server-by-martin-woodward/) at the [2006 Irish National Developers Conference](http://indc.wordpress.com/) yesterday.  As it was Jedi Day, the session was appropriately aimed at being a deep-dive into some tips and tricks when using Team Foundation Server in the real world.  As promised, here is the [here is the slide deck (1.9 MB)](http://www.woodwardweb.com/blog/IDC2006_Top_10_Tips_For_TFS.ppt).  The point of the session was for it to be a very interactive and demo led one so the deck might not be that useful, therefore the following is a quick summary of what we discussed:-
 
 **Introduction**

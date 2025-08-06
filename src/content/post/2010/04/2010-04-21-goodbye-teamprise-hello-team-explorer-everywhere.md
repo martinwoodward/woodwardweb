@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "maker", "teamprise", "web", "programming", "podcast", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 In case you missed it, as part of [Bob Muglia’s keynote](http://www.microsoft.com/presspass/exec/bobmuglia/apr10/04-12visualstudio2010.mspx) announcing the launch of Visual Studio 2010 last week he also announced the launch of Microsoft® Visual Studio® Team Explorer Everywhere 2010.  This is the initial release of the bits that Microsoft acquired from Teamprise back in November and this release is the result of what my team has been working very hard on since that acquisition.  
 
 [Team Explorer Everywhere](http://www.microsoft.com/downloads/details.aspx?displaylang=en&FamilyID=af1f5168-c0f7-47c6-be7a-2a83a6c02e57) contains the following components:     [Team Foundation Server plug-in for Eclipse](http://www.microsoft.com/downloads/details.aspx?displaylang=en&FamilyID=af1f5168-c0f7-47c6-be7a-2a83a6c02e57)    [Cross-platform command-line client for Team Foundation Server](http://www.microsoft.com/downloads/details.aspx?displaylang=en&FamilyID=af1f5168-c0f7-47c6-be7a-2a83a6c02e57)    [Visual Studio Team Explorer 2010](http://www.microsoft.com/downloads/details.aspx?familyid=FE4F9904-0480-4C9D-A264-02FEDD78AB38&displaylang=en)   

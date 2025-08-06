@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "teamprise", "web", "podcast"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Well.  I've had the pleasure of clashing with some great presenters in my time - but today I have the opportunity to clash with the great Zen master of presenters - Steve Jobs doing the keynote at MacWorld 2007.  If you are not listening to Mr Jobs speak then why not go for the second best option and come and watch me demo Teamprise :-)  If you do happen to be at MacWorld or you have some other reason to miss my webcast live then you'll be able to watch a recording of it:-  
 
 **[MSDN Webcast: Accessing Visual Studio 2005 Team Foundation Server Using the Teamprise Plug-in for Eclipse (Level 200)](http://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032320652&Culture=en-US)****

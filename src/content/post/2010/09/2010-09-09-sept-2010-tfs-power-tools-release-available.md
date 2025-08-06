@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["git", "tfs", "technology", "maker", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Today the team released a brand new version of the Team Foundation Server Power Tools.  You can download the latest versions from here:     [TFS Power Tools](http://visualstudiogallery.msdn.microsoft.com/en-us/c255a1e4-04ba-4f68-8f4e-cd473d6b971f)    [Team Foundation Build Extensions](http://visualstudiogallery.msdn.microsoft.com/en-us/2d7c8577-54b8-47ce-82a5-8649f579dcb6)    [MSSCCI Provider](http://visualstudiogallery.msdn.microsoft.com/en-us/bce06506-be38-47a1-9f29-d3937d3d88d6) (no updates this release)   
 
 [Brian Harry](http://blogs.msdn.com/b/bharry/) has a [great post highlighting three of the new features in the TFS power Tools](http://blogs.msdn.com/b/bharry/archive/2010/09/09/sept-2010-tfs-power-tools-release-available.aspx) up on [his blog](http://blogs.msdn.com/b/bharry/).  Not only is there now a new Admin Console backup/restore wizard but there have been some handy improvements to Team Explorer of which my personal favourites are “View With…” in Source Control Explorer and “Clone Build Definition…”.  For more details see [Brian’s post](http://blogs.msdn.com/b/bharry/archive/2010/09/09/sept-2010-tfs-power-tools-release-available.aspx).  

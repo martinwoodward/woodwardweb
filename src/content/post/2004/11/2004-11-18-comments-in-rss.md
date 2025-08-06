@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["web"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Just found out about the various extensions to RSS 2 that allow information about comments to be included in the RSS feeds.  
 
 I have revised [my feed](http://www.woodwardweb.com/index.xml) to include the full article along with links to the comments in it, numbers of comments etc.  For more information on supporting comments in Moveable Type see this [excellent HOWTO](http://www.tkachenko.com/blog/archives/000133.html) by [Oleg Tkachenko](http://www.tkachenko.com/).  

@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["git", "tfs", "dotnet", "gadgets", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 In case you missed the excellent news, [Jamie Cansdale has announced](http://weblogs.asp.net/nunitaddin/archive/2006/10/30/TestDriven.NET-2.0.aspx) that [TestDriven.NET 2.0](http://www.testdriven.net/default.aspx) is now shipping.  The [TestDriven plug-in](http://www.testdriven.net/default.aspx) is essential for anyone wanting to run unit tests from with Visual Studio (any edition).  Not only does it allow you to run any flavor of test from the comfort of your right mouse button - it is also lightening fast (much faster than the built in test runner than comes with Visual Studio Team System). 
 
 Along side the ability to run all common unit testing frameworks from any version of Visual Studio, Version 2.0 brings many new "power" features that are just fantastic for those of us that spend a lot of time creating plug-ins to Visual Studio. 

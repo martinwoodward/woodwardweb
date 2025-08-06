@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "books", "dotnet", "gadgets", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Lately a shocking thing has happened.  People have started reading my blog.  While this probably isn’t surprising to you (the reader) it is highly surprising to me (the author).  I started blogging as a way to make it easier for me to find stuff in Google.  When something wasn’t immediately clear using the keywords I had tried I would blog about it making sure I used the appropriate keywords so that I would be able to find it again.  This also helps out other people and even now 70% of my site traffic comes from people using a search engine and landing on some random article.  The ones about [generating excel files in C#](http://www.woodwardweb.com/dotnet/000065.html) and what to do if [SourceSafe tells you your ss.ini file is not found](http://www.woodwardweb.com/dotnet/000133.html) seems to be consistently popular.  When other people started arriving at my site, I found this highly motivating and posted more.  Occasionally, a work colleague would stumble upon my blog as an answer to a work related question – another unexpected business benefit to blogging.
 
 However, since I have been regularly posting about my experiences with Team Foundation Server, many more people have subscribed to my blog – so I can only assume that they are subscribing for TFS information.  I say this is an assumption because when I do drift off-topic those posts seem to get most response.

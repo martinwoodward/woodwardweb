@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["technology", "teamprise", "web", "podcast"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 **Update: **17.15  Fixed now, nothing to see here.  Move along. 
 
 As of the time of writing, all the [BBC Podcasts](http://www.bbc.co.uk/radio/downloadtrial/) have broke.  Attempting to access the link gives a 404 error (reported as "The URL xxx could not be found on the server" in iTunes)  This is a bit of a bummer for me as I am about to get in my car and drive down to Dublin ready for the [big Vista launch](http://www.microsoft.com/ireland/business/launch2007/event.mspx) event tomorrow with Neil Armstrong - yes [that one](http://en.wikipedia.org/wiki/Neil_Armstrong). 

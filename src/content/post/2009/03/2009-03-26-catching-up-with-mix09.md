@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "gadgets", "teamprise", "web", "podcast"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Sadly, I couldn't go along to [MIX](http://www.visitmix.com/) this year. However luckily for me, Microsoft has followed a new trend with its conferences and made [all the sessions available online for free for everyone to access](http://videos.visitmix.com/MIX09).  As well as being able to browse the sessions online, [Mike Swanson](http://blogs.msdn.com/mswanson/) has posted a [comprehensive list of all the sessions on his blog](http://blogs.msdn.com/mswanson/archive/2009/03/26/mix09-keynote-and-session-videos.aspx).  However, I like to download them all so that I have them locally and can watch them on the move (sat in airplanes or doing jobs around the house etc).  Therefore I created the following text file containing links to all the downloads so that I can copy the list of sessions into the excellent [Free Download Manager](http://www.freedownloadmanager.org/) to download them in the background over the next few days.  I thought that others might find the file useful so here it is:  
 
                    [](http://www.woodwardweb.com/mix09_content.txt)          [mix09_content.txt](http://www.woodwardweb.com/mix09_content.txt) (32KB)             

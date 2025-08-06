@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["git", "tfs", "technology", "books", "dotnet", "maker", "teamprise", "web", "programming", "podcast"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Yesterday we made version 2.1 of Teamprise [publicly available](http://www.teamprise.com/download/index.html).  If you've previously installed Teamprise, then I recommend that you upgrade to this version as it includes a number of bug-fixes that while not critical are definitely useful.  People who purchased a Teamprise Client Suite for Version 1 or 2.0 get the upgrade free of charge.  For the full [release notes look here](http://download.teamprise.com/cs/latest/release-notes/release-notes-2.1.1.5341R.html).   
 
 This is the fourth public release from Teamprise since Team Foundation Server went RTM [a year ago this month](http://blogs.msdn.com/jeffbe/archive/2006/03/17/553858.aspx), and we have been continuing to add features based on user feedback.  As has become the tradition - here are some of my favorites. #### Work Item Query Editor 

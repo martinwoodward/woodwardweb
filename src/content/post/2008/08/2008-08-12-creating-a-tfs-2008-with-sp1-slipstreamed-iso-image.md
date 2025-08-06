@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "dotnet", "maker", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Now that TFS 2008 SP1 is here, time to create a version of the TFS installer media that just contains the bits with SP1 applied.  This is essential for installations targeting SQL Server 2008, but also makes the installation process onto Windows Server 2008 much easier and any installation faster (otherwise you have to install TFS 2008, then apply the service pack).  Note that this is only required for new TFS installations - if you already have TFS installed then you are best of simply running the excellent service pack installer and it will do the business.  Hopefully in a few weeks Microsoft will make a TFS 2008 with SP1 ISO image available, but in the meantime I thought I would write up the process of creating your own as I did mine.  
 
 **Update**:  After creating the patched install of everything and running it, there were errors for the Team Build and Proxy installers.  Talking with fellow MVP [Etienne Tremblay](http://geekswithblogs.net/etiennetremblay/Default.aspx) this is apparently a known issue, documented as such (d'oh, I should really RTFM) and that slipstreaming of the Build and Proxy stuff is not supported at this present time.  I've therefore updated this post to include the TFS SP1 rather than patched Build and Proxy installations so that you can do it the old fashioned way of installing, then patching...  

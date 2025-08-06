@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["maker", "web"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 I've finally joined the broadband masses as my exchange has just been enabled and my [nildram](http://www.nildram.com) account has been activated.
 
 Works a treat as well, which I was suprised about.

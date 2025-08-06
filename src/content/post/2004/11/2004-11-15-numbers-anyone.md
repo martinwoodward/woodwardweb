@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["technology", "maker", "web"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 [Interesting article](http://www.wired.com/news/technology/0,1282,65698,00.html) in [Wired](http://www.wired.com/) about "Numbers Stations" that broadcast on Shortwave.  These are high-powered transmitters across the planet are are broadcasting strings of numbers, letters, backwards music, or even the noise of a fruit machine.
 
 Spectrographic analysis of the signals has revealed that modulated data bursts are sometimes contained within the transmissions.  A subculture of obsessive listeners has built up around the stations, despite the fact that they have little hope of ever decoding the signals.  

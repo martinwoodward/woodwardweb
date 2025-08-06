@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["technology", "teamprise", "web", "programming", "podcast"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 I’m currently writing a diagnostics tool to perform all the same connectivity diagnostic checks that I do manually when I am having trouble connecting to something.  The following code snippet is how I am checking to see if a web or proxy server is listening on a particular port.  I thought I’d post a similar example here in case it was useful to you.
     public String pingHttp(String host, int port) throws Exception 
     { 

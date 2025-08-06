@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "maker", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 **UPDATE**: Just heard from [Brian Randell](http://www.pluralsight.com/blogs/brian/archive/2008/04/01/50626.aspx) that the VPC is now ready to download.  Updated links are below.  
 
 [Anthony Borton](http://myvstsblog.com/default.aspx) just pointed out to me that the new version of the Team [System evaluation VPC is available](http://www.microsoft.com/downloads/details.aspx?FamilyID=c7a809d8-8c9f-439f-8147-948bc6957812&DisplayLang=en).  The Virtual PC is the best way to easily take Team System for a quick spin, as it comes with everything installed.  This release also contains 38 hands-on labs WITH sample data - awesome work.  

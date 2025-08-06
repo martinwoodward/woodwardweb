@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["git", "tfs", "technology", "maker", "teamprise", "web"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 **UPDATE**:  [Brian Harry](http://blogs.msdn.com/bharry/) has [posted a new utility](http://blogs.msdn.com/bharry/archive/2006/08/23/714412.aspx) to help you determine the trial expiration dates on your server.  View [Brian's post for more details](http://blogs.msdn.com/bharry/archive/2006/08/23/714412.aspx). 
 
 Like a lot of early adopters, we installed the Team Foundation Server 180–day trial edition so that we could use is right away while we were waiting for our TFS license key. 

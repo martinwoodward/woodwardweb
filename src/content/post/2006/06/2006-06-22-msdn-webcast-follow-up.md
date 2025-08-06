@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["git", "tfs", "technology", "dotnet", "maker", "web", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Thanks to the folks that dropped by the webcast early today.  Hopefully it was ok – I found it very weird talking to the sheep in the field outside my house while all you folks were “out there”.  Anyway, here are some links that I promised to people during the Q&A Session.  I’ll post a link to the session recording as soon as I have it.
 
 [Team System Forums](http://forums.microsoft.com/MSDN/default.aspx?ForumGroupID=5&SiteID=1) – The place to ask questions of people much cleverer than me (including many of the VSTS team).  I also hang around on here and it the best place to ask a team system related question and get it answered.

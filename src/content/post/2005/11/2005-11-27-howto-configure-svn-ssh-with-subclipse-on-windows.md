@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["git", "technology", "dotnet", "gadgets", "maker", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 **Problem:**
 
 Use ssh tunnelling to access a Subversion repository using SSH tunneling (i.e. with a subversion repository url of svn+ssh://myservername/myrepo) using the Subclipse subversion integration with Eclipse.  I tried various things and used each of the three interfaces for configuring Subclipse (Window, Preferences..., Team, SVN).  

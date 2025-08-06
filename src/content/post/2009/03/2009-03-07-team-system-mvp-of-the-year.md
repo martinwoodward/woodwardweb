@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "dotnet", "web", "podcast"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 [](http://channel9.msdn.com/shows/This+Week+On+Channel+9/This-Week-Martin-Woodward-MVP-Summit-Web-Perf-Show-Off-and-a-VSTS-Pep-Talk/)   
 
 This week I have been in Seattle for the [MVP Summit 2009](http://mvp.support.microsoft.com/gp/MVPsummit). It has been a busy week chatting with the Team System team and catching up with all my friends from the MVP community around the world.  

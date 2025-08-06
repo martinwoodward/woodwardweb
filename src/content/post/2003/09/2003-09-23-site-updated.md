@@ -9,10 +9,9 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["web"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Well, I have finally completed my site update.  It is now using stylesheets for layout instead of tables.  I'm also using [Blogger](http://www.blogger.com) to publish to the site.  Hopefully this will mean that the site get's updated with content more often...

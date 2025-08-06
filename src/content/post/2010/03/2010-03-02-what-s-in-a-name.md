@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "dotnet", "maker", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 When the Teamprise technology was acquired by Microsoft, one of the first non-TFS 2010 feature things that we knew we needed to do was change the name.  You’d think re-branding would be simple, just do a global search and replace for “Teamprise” and replace with the official Microsoft name – and then reformat everything because the Microsoft name is obviously going to be longer :-)  Obviously nothing is that simple.  It took a while before we decided on a name, at the moment we are *Microsoft Team Explorer 2010 codename “Eaglestone”* – which in the team we sometimes abbreviate to “TEE” (because it is shorter, but it is also handily a slight homage to the Teamprise logo which is the T power button).  
 
 However, in the past we used “Teamprise” to mean different things.  For example we have “Teamprise” views in Eclipse.  When you whent to import a project from Team Foundation Server you selected “Teamprise”.  Sometimes we used Teamprise as a product name, sometimes as a metaphor for accessing TFS. Sometimes we used it under the covers as well – for example as the name of an annotation in version control when storing check-in polices or as the layout type when doing work item forms.    

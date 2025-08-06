@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "maker", "teamprise", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 I couldn't find this with a quick google, so guessed the answer.  If you want to pass login credentials to the Hatteras command line client (h.exe or soon to be renamed tf.exe) then you can use the /login command line parameter.  
 
 The bit I couldn't find in the helpfile is that the format is /login:username,password.  For example, if you want to connect to your team server as a certain user and see what workspaces are set up you do:-

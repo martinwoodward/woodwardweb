@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "books", "gadgets", "maker", "teamprise", "web"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 [](http://url.ie/11q9) Today is the first day of the new year in the office and so it is time for me to do the dance that I always do after [Auld Lang Syne](http://en.wikipedia.org/wiki/Auld_Lang_Syne), and that is the Annual Year Planner Shuffle.  This morning I threw away the 2008 year planner, moved the 2009 one up and printed out a new 2010 sheer.  
 
 While I have my Outlook / Google / Apple iCal calendars all synchronized and duplicated onto my mobile devices, I also love to have a simple year planner printed on a sheet of paper and up on the wall next to my desk for quick reference. I have the current year and the following year on my wall and fill it out with key dates as I know about them.  Things like public holidays, conferences, release dates etc.  Anything that I would want to know about when taking a quick look out in the future to do some long term planning.  

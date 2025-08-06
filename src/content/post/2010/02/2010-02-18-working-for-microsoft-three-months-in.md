@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["git", "tfs", "technology", "books", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 This morning I got an email from HR congratulating me on completing my three month probationary period at Microsoft.  I hadn’t realised I had a probation period (in fact I’m pretty sure I don’t, but as I passed I’m not going to rock the boat).  Getting it did make me think that I was well over-due a blog post on how things are going.  
 
 Since September 2003 I’ve been posting to my blog in every month.  I join Microsoft in November 2009 and then all goes quiet…  As you might be able to guess, things are a little busy here.  Not just with joining the company but also because I’ve had an alternative outlet for my thoughts.    

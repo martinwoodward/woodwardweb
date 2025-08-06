@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["git", "tfs", "technology", "gadgets", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Hopefully you have heard the news by now that in February we shipped [Team Explorer Everywhere 2010 SP1](http://www.microsoft.com/downloads/en/details.aspx?FamilyID=53c27216-c4f0-48b6-9bed-fe1718a2e3b0).  Brian Harry has a couple of great blog posts ([here](http://blogs.msdn.com/b/bharry/archive/2011/02/09/team-explorer-everywhere-2010-sp1-is-available.aspx) and [here](http://blogs.msdn.com/b/bharry/archive/2010/11/03/team-explorer-everywhere-2010-sp1-beta-is-available-for-download.aspx)) talking about the headline features of what was added, but I wanted to follow up with some smaller features that I personally use every day that you probably didn’t know about.  Note that the features have been deliberately made somewhat hard to find as we’d currently class them as “power user” functionality, but I figure anyone bothering to read my blog comes into the power user category :-)  
 
 **1: Links to Shelvesets**  

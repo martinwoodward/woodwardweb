@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["git", "tfs", "technology", "maker", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 [](http://www.eclipsecon.org/2010/) Tomorrow I will be making my making my maiden talk at EclipseCon in Santa Clara.  I’ve been at the conference all week manning the Microsoft booth and sneaking along to sessions when possible.  I have to say that I’ve really enjoyed my week here.  The conference has a very “un-conference” feel and the calibre of attendees is incredibly high.  I’ve learnt a lot just by joining in hallway conversations and it has been a surreal experience at times chatting with some of the folks that contributed parts of the code that I use on a daily basis or folks that have fixed up and committed the patches that I have submitted.  The Birds of a Feather sessions have also been fantastic.  
 
 Many people have done a double-take at the company name on my badge this week – especially when I start bemoaning the difficulties of doing a headless PDE build or paging tables of data containing thousands of rows in an efficient manner via SWT virtual tables.  People are generally pleasantly surprised but intrigued and also pleased that Microsoft has developers using and developing for Eclipse.  

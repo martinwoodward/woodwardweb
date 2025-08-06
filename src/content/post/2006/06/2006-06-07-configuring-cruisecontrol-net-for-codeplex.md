@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "dotnet", "maker", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Apologies for being quiet on the blogging front lately, we’ve been busy getting ready for TechEd in Boston next week.  I’ll soon be able to share some exciting news so stay tuned.  One of the areas I have been playing with in my spare time recently is with [CodePlex](http://www.codeplex.com/) – the new developer community site from Microsoft that uses Team Foundation Server for Version Control and Work Item Tracking.  I noticed that the Turtle project had a work item to configure CruiseControl.NET to talk to their project tree so I thought I’d quickly describe how to do it here in case anyone else is interested.
 
 First things first, you’ll need to install [CruiseControl.NET 1.0](http://ccnet.thoughtworks.com/) on your build server, the [TFS Client](http://download.microsoft.com/download/2/a/d/2ad44873-8ccb-4a1b-9c0d-23224b3ba34c/VSTFClient.img) and also the [TFS Source Control Block](http://prdownloads.sourceforge.net/vstsplugins/ccnet_vsts_plugin_1_2_0_bin.zip?download) from [VSTSPlugins](http://vstsplugins.sourceforge.net/).  (To be honest, you don’t actually need to install the TFS Client, you could just copy the [appropriate assemblies](http://vstsplugins.sourceforge.net/index.php/archives/news/2006/11) into the CruiseControl server directory).

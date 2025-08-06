@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "books", "dotnet", "maker", "teamprise", "web", "programming", "podcast"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 That is the question that I am frequently asked by folks looking at the impact of Team Foundation Build moving to Windows Workflow 4.0 from MSBuild as the master build orchestration language in the TFS 2010 release.  
 
 In general I would always think carefully about re-writing everything in WF 4.0 if you have a perfectly functional MSBuild based build process.  Just because things have moved towards workflow based builds in 2010, there is still plenty of logic (such as the actual compile) that is conducted in MSBuild.

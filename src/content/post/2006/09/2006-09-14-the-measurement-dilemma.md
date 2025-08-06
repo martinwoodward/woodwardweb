@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "gadgets", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Visual Studio Team Foundation Server gives a fantastic ability to track and report on various facts about your software development process.  It frees managers (and team members) from the chore of recording and collating data about the development process.  Managers can now get on with managing the project - removing obstacles before they seriously impact the team, reporting on the progress of the project to its owners and organizing deliverables to maximize the productivity of the teams.  With all new powers, there comes some danger and the need for responsibility (just ask [King Midas](http://www.primaryresources.co.uk/english/kingmidas.htm) or the scriptwriters of [countless](http://www.imdb.com/title/tt0315327/) [Hollywood](http://www.imdb.com/title/tt0207201/) [films](http://www.imdb.com/title/tt0086393/)).   ### The Uncertainty Principle 
 
 The uncertainty principle was first enunciated by Werner Heisenberg in 1927.  Broadly stated is describes that we can know the path an electron takes as it moves through space or we can know its position as a given point in time - but we can not know both.  Any attempt to measure one will unavoidably disturb the other.  What Heisenberg proved is sometimes improving the instruments won't help - *a measurement affects the thing being measured and that it is an immutable property of the universe.* 

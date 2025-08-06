@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "dotnet", "web", "podcast"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Recently I had the pleasure of chatting with Carl Franklin and Richard Campbell about [Source Control and Continuous Integration](http://www.dotnetrocks.com/default.aspx?showNum=238) - this was recorded for [DotNetRocks](http://www.dotnetrocks.com/) and the show is [now available for you to enjoy](http://www.dotnetrocks.com/default.aspx?showNum=238). 
 
 As [Eric](http://www.ericsink.com/) has [mentioned](http://www.ericsink.com/entries/DotNetRocks.html), I've been a fan of DNR for [a while](http://www.woodwardweb.com/technology/000058.html).  In fact, back in November 2004 when I used to burn the shows onto CD (in fact it was 2-CD's per episode back then), Carl mentioned that he was going to start making the show available as a "podcast" and it was because of this that I ended up purchasing my first iPod. 

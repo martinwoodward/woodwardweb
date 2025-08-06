@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "dotnet", "gadgets", "maker", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 I recently stumbled across a handy [Team Foundation Build screensaver](http://teambuildscreensaver.codeplex.com/) created by Jim Liddell and wanted to share it as it seems very good.  For my team build talks I created a [Team Build Wallboard](http://code.msdn.microsoft.com/buildwallboard) as a code sample, however Jim has created his own as a WPF based screensaver and it looks very nice.  
 
 A few features that I particularly liked:     Deployed as a screen saver (.scr) with full configuration options via the screen saver properties    Ability to display multiple builds from multiple team projects    Nice, clean WPF based vector graphics    Multi-monitor support   

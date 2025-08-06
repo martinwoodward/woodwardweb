@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "dotnet", "web", "podcast", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Tomorrow (October 12th), I'll be talking at the first annual [ICT Conference in Galway](http://www.itag.ie/Conference2006/tabid/335/Default.aspx), Ireland.  While having me attend is probably reason for you to stay away, [Eric Lee](http://blogs.msdn.com/ericlee/) (PM on Visual Studio Team System) is flying in from Redmond especially to talk. 
 
 Eric is one of the best presenters on Team System that I have ever had the pleasure of witnessing.  Also, as a senior manager on the team, it is your opportunity to ask questions face to face and influence the team as they plan out what to include in future releases of Team System.  Also presenting in the [Developer Track](http://www.itag.ie/Home/tabid/81/ctl/View/mid/475/Event/237/Date/20061009/Start/200610120830/End/200610121800/Default.aspx) is [Rob Burke](http://blogs.msdn.com/robburke/), who is just a pleasure to listen to.  To be honest, it's a conference that I agreed to talk at just so I could listen to the other speakers - hopefully my sections will be worth listening to as well. 

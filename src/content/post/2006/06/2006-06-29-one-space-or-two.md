@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["git", "technology", "gadgets", "maker", "web", "programming", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 I’ve just learnt something today from our resident tech-writer that I feel needs sharing. Apparently it is “old” to put two spaces after a full-stop (or “period” for you American’s out there).  See the following articles for evidence:-
 
 [http://www.webword.com/reports/period.html](http://www.webword.com/reports/period.html) 

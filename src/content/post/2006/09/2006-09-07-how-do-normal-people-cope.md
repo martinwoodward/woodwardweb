@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["git", "technology", "gadgets", "maker", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 We have some friends staying with us from out of town at the moment.  They are actually friends of my parents - the type of people that were always around when I was growing up and I called my Aunt and Uncle even though they are not blood-relatives.  Anyway, they have recently retired and have decided to buy a computer and get on the Internet. 
 
 Considering they have never really used a computer in their lives, it is really interesting to see how well they have got on.  Impressively, they have managed to download pictures from their digital camera onto their hard-drive and print them out.  Also, they have recently managed to transfer some songs from CD's onto an MP3 player which they brought with them on Holiday. 

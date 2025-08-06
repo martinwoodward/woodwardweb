@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "dotnet", "maker", "teamprise", "web", "programming", "podcast", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 ### In TFS 2008 SP1, a new feature was quietly introduced, WIT Client Metadata Filtering.  This feature could boost the performance of your Team Foundation Server experience, reduce the amount of traffic flowing over your network and reduce the data porosity of your TFS instance. Yet it is not enabled by default. In this post I'm going to explain the feature, what it does and how and when to enable it.  
 
 But first, what the heck is WIT meta-data and why do you care about filtering it?  #### **WIT Meta-data Explained**  

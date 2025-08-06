@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["git", "tfs", "technology", "books", "maker", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Four years ago this month, I joined a small start-up being created called [Teamprise](http://www.teamprise.com) after reading about it on [Eric Sink's](http://www.ericsink.com/) blog. Our mission was to bring the benefits of application lifecycle management (ALM) with Microsoft Team Foundation Server to everyone. After all, your customers and requirements do not care about the artificial technological borders inside your organisation - so why should your ALM tools?  
 
 Today we start a new chapter in the story of accessing Team Foundation Server from Eclipse and non-Windows platforms with the [announcement that Microsoft has acquired the Teamprise technology](http://www.microsoft.com/presspass/press/2009/nov09/11-09TeamprisePR.mspx) and will be releasing a new TFS 2010 targeted version next year.  

@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["teamprise", "web", "podcast"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Fantastic news.  Belfast is to host the [2005 World Toilet Summit](http://www.cleanpoint.com/articles/news_article.asp?news_unique_id=10557), very near to where I work.
 
 According to Cleanpoint.com:-  *Hosted by The British Toilet Association, the Summit is being supported by the Northern Ireland Tourist Board, Belfast City Council, the International Fund for Ireland and Belfast Visitor Convention Bureau, along with The World Toilet Organisation (WTO). *

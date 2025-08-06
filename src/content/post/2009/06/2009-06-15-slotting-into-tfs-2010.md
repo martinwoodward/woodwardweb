@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["git", "tfs", "technology", "maker", "teamprise", "web", "podcast", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 In TFS 2010 quite a few things have been fundamentally changed for the better, but from an end user point of view people hopefully won't notice.  Things like hierarchical work items will very quickly because just how work items should work and people will scratch their heads when they go look at a TFS 2008 or TFS 2005 server and wondered how we ever got by.  
 
 However in version control, the changes have been even more subtle from the end user point of view but are actually huge under the covers.  The biggest change by far in TFS 2010 is the move to Slot Mode version control from the current Item Mode.  Version Control PM [Matt Mitrik](http://blogs.msdn.com/mitrik/) has a excellent post entitled "[Changing to Slot Mode in TFS 2010 Version Control](http://blogs.msdn.com/mitrik/archive/2009/05/28/changing-to-slot-mode-in-tfs-2010-version-control.aspx)" which I encourage you to take a look at.     

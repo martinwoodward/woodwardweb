@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["technology", "books", "teamprise", "web", "podcast"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 I'm probably late to the party, but I very rarely bother to update the firmware on my iPod.  I'd heard the new [iPod Updater (2005-06-26)](http://www.apple.com/ipod/download/) contains support for podcasts but had not seen any details anywhere.  I can confirm it is worth the effort if you listen to podcasts on your iPod.
 
 The podcast support includes:-Viewing of shownotes (press select 3 times)

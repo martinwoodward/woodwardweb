@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "dotnet", "gadgets", "web", "podcast"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 [](http://www.dotnetrocks.com/default.aspx?showNum=615)On Monday I was a little under the weather suffering from the winter tummy bug that is floating around at the moment, but my day was cheered up by a phone call from Carl and Richard over at [.NET Rocks](http://www.dotnetrocks.com/).  We had a catch-up chat as to what has been happening in the past year since starting work at Microsoft, talked about Team Explorer Everywhere and TFS in general.  Blame the fact that I hadn’t eaten for two days, but we jumped around a lot and covered a whole different bunch of stuff about Team Foundation Server and ALM in general.       
 
 [.NET Rocks #615: Martin Woodward Brings Team Foundation Server to Everyone!](http://www.dotnetrocks.com/default.aspx?showNum=615)   

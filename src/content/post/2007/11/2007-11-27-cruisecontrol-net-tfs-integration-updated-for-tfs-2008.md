@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "dotnet", "maker", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Recently, I noticed a [small change in the way TFS 2008 (RTM) handles history calls between date ranges](http://connect.microsoft.com/VisualStudio/feedback/ViewFeedback.aspx?FeedbackID=312511) that unfortunately breaks the existing CruiseControl.NET integration to TFS.  Should you want to carry on using CC.NET using TFS2008 as your source control then the [following 1.4.0 release may be of interest](http://www.codeplex.com/TFSCCNetPlugin/Release/ProjectReleases.aspx?ReleaseId=1816).   
 
 It includes the work around for the [TFS 2008 server issue](http://connect.microsoft.com/VisualStudio/feedback/ViewFeedback.aspx?FeedbackID=312511) and is compiled against the V9.0.0.0 versions of the TFS Client assemblies that ship with the [VS 2008 Team Explorer Client](http://www.microsoft.com/downloads/details.aspx?familyid=0ed12659-3d41-4420-bbb0-a46e51bfca86&displaylang=en).   

@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "dotnet", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Now V1.0 of [Teamprise](http://www.teamprise.com/) is out the door, we have started on the next release and are looking at the features that people want.  One of these is Check-in policy support.  Due to the way check-in policies are implemented in Team Foundation Server it presents us with several architectural challenges.
 
 I’d be interested to hear what Check-in policies people either use currently or would like to have.  Feel free to join in the discussion even if you only currently use Team Foundation Server to manage your .NET projects.  To get the discussion started here are the ones that I’ve heard discussed previously:-

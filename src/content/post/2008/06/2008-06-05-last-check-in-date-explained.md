@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "teamprise", "web", "podcast"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 I've been doing a lot of work with the Team Foundation Server 2008 SP1 Preview, and even recorded a [podcast about it](http://www.radiotfs.com/2008/06/03/RadioTFS06TeamFoundationServer2008SP1.aspx) (also see [Brian Harry's](http://blogs.msdn.com/bharry/default.aspx) [blog post for more details on TFS 2008 SP1 features](http://blogs.msdn.com/bharry/archive/2008/04/28/team-foundation-server-2008-sp1.aspx)).  
 
 One out of the many new features introduced in TFS 2008 SP1 is the "Last Check-in" column in the source control explorer. It is a handy little thing that I think a lot of people will find useful.    

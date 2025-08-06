@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["git", "tfs", "technology", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 While even it's own mother would admit that VSS has some issues, the one thing in it's favour is it's simplicity.  You only need a file server to keep a VSS repository available and organisations have a lot of experience keeping file systems up and running.  Recently I've been talking to a lot of Architect types who are trying to figure out how Team Foundation Server will fit into their organisation and the issue of ensuring availability frequently crops up.
 
 [Buck Hodges](http://blogs.msdn.com/buckh/) has an [interesting post on the topic](http://blogs.msdn.com/buckh/archive/2006/03/27/562031.aspx), linking to some MSDN documentation on the topic.  Good news is that we can use database clustering and database backup skills that most large companies using SQL Server have in house - but we are reliant on a warm standby option for application tier availability.

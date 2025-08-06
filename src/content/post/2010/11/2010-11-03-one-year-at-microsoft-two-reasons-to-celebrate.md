@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["git", "tfs", "technology", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Today, we have two things to celebrate.  First is the fact that we just released a [beta version of Team Explorer Everywhere 2010 SP1](http://blogs.msdn.com/b/bharry/archive/2010/11/03/team-explorer-everywhere-2010-sp1-beta-is-available-for-download.aspx).  Brian Harry has an [excellent write up over on his blog](http://blogs.msdn.com/b/bharry/archive/2010/11/03/team-explorer-everywhere-2010-sp1-beta-is-available-for-download.aspx).  I’ll be diving into more details of this release soon in some follow-up posts, but please give it a go and [let us know what you think](http://social.msdn.microsoft.com/Forums/en/tee/thread/).  
 
 The second reason to celebrate is that today marks our one year anniversary at Microsoft.  

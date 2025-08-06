@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "teamprise", "programming", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Earlier in the week I was on a support call with a customer who was seeing strange issues.  It later transpired that they had a TFS workspace configuration issue that we were not able to solve quickly over email.  When we were saying the words “TFS Workspace”, they had been translating this as “Working Folder Mapping” which is a perfectly sensible thing to do for someone new to TFS – but was sadly not helping in this case.  Once we’d ran the user through a couple of scenarios they instantly “got it”.  
 
 One of the many pleasures of working for Teamprise is that our end users are nearly all developers which makes our life much easier.  In this particular case, once the customer “got it”, they quickly forgot the time when they hadn’t and became a little apologetic blaming “User Error” for their troubles.  

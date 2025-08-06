@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["git", "tfs", "technology", "teamprise"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 It's funny, in these days of digital distribution, but seeing some physical media for a software project you have been closely involved with still means a great deal.    
 
 Today my January MSDN shipment arrived in the mail - and lo and behold in included a proper physical DVD for Visual Studio 2008 Team System Team Suite.  While it isn't as exciting as a full retail box - it still brought a smile to my face on a foggy morning (sad, I know).  

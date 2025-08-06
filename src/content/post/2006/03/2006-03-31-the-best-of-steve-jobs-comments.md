@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["technology", "maker", "teamprise", "web", "programming", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 With Apple about to celebrate it's 30th Anniversary, Wired is running a piece on the [best Steve Jobs' comments ever](http://www.wired.com/news/culture/mac/1,70512-0.html).  While I don't particularly like the proprietary way in which Apple goes about things - you have to admire the man's presentation skills, charisma, vision and the ability to go from a two man in a garage team to being a CEO.  Also, there ain't no denying that his companies products are awfully nice looking and the consumer experience of buying technology from the Apple store compared with [Best Buy](http://www.bestbuy.com/) or [Dixons](http://www.dixons.co.uk/) is like the difference between buying jewelry from [Tiffany](http://www.tiffany.com/)'s instead of [Elizabeth Duke](http://www.argos.co.uk/webapp/wcs/stores/servlet/ArgosBrowseCounts?catalogId=4501&storeId=10001&categoryId=35755&languageId=-1&top=N). The following are my personal favourites quotes from the [Wired piece](http://www.wired.com/news/culture/mac/1,70512-0.html):-
 
 "We made the buttons on the screen look so good you'll want to lick them."

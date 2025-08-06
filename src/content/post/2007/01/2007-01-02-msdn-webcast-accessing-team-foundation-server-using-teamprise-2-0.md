@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "teamprise", "web"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 On Tuesday January 9th, I'll be doing a short MSDN webcast to demonstrate Teamprise 2.0 in action.  If you haven't yet seen a demo of Teamprise or have some questions that you've been wanting answered then please [sign up](http://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032320652&Culture=en-US).  I'll be concentrating on our Eclipse plug-in but I will also show a little of Teamprise Explorer 2.0 and the command line tools. 
 
 **[MSDN Webcast: Accessing Visual Studio 2005 Team Foundation Server Using the Teamprise Plug-in for Eclipse (Level 200)](http://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032320652&Culture=en-US)****

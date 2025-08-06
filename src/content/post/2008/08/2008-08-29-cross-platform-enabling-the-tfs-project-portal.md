@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "maker", "teamprise", "web", "podcast"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Team Foundation Server uses Windows Sharepoint Services (WSS) to provide the project portal infrastructure. If you installed TFS 2005 then you will probably have WSS 2.0 installed, even if you later upgraded to TFS 2008.  WSS 3.0 gets installed by default with TFS 2008 installations and is *much* better than WSS 2.0 - not just in the area of cross-platform and cross-browser support but just better all round.  If you have a WSS 2.0 site running your TFS 2008 project portals then I would encourage you to [upgrade to WSS 3.0](http://blogs.msdn.com/sudhir/archive/2007/05/31/upgrade-2005-with-wss2-0-to-orcas-wss3-0.aspx) wether you need cross-platform support or not.  
 
 Anyway.  Here at [Teamprise](http://www.teamprise.com) we like the Wiki way of working to manage content on our team project portal, and WSS 3.0 comes with basic wiki capabilities.  The only problem is that by default the Sharepoint wiki uses an ActiveX control for content editing which obviously presents a few problems when editing content from a Mac or Linux machine.  

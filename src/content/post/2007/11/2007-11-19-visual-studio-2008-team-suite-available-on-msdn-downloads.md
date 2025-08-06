@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "teamprise", "web"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 I got an IM message from fellow Team System MVP [Grant Holliday](http://ozgrant.com/) this morning prompting me to log-in to [MSDN Subscription Downloads](http://msdn2.microsoft.com/en-gb/vstudio/aa718656.aspx) and see what was new - lo and behold I'm downloading VSTS 2008 as we speak ;-) 
 
 I am currently getting above 220 Kb/sec download which is close to the maximum I ever get on my DSL line so they are obviously doing something special with the 2008 release to get it in everyone's hands as quick as possible. 

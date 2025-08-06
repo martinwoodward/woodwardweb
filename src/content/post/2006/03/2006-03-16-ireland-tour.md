@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "dotnet", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 I've been living in Northern Ireland for over a year now however I've only been to Ireland once - and that was to get some cheap petrol as I was near the border.  Next month I'm going to have a celebratory tour of the INDA user groups to talk about Team System now that it has been [officially launched](http://blogs.msdn.com/robcaron/archive/2006/03/16/553177.aspx).
 
 **Source Control With Team System**

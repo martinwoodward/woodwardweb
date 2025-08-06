@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["git", "tfs", "teamprise", "web"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 [](http://www.woodwardweb.com/images/blog/tfs_properties_full.png)The source control system within Visual Studio Team System has a very powerful security model.  One of the nice things is that if a user does not have read permissions on one of the objects in a tree, then that object is totally hidden from view - the server never even tells the client about it's existence.
 
 While this is very nice, there is an option on the security settings for each object that allows you to disable inherited permission from the parent. It's a nice feature , but **USE THIS FEATURE CAREFULLY**.  In Beta3 Refresh, when you de-select it - by default all of the permissions on that object get removed.  You have to maually select which ones you want to add to it.  This is exactly by design and maybe the behaviour you want.  However, if you remove read permissions for everyone - that includes you.  You will no longer be able to view it in the tree and so not able to select the object so that you can retore your read permission.  It just sit's there in your repository totally hidden.  

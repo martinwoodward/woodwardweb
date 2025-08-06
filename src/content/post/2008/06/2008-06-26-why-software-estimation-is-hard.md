@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["technology", "gadgets", "teamprise", "web", "programming", "podcast"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Over the years, I have tried many different approaches to software estimation.  From the Ceiling and Weller method (look up to the ceiling, scratch your chin and say "Well-errr"), FITA analysis (Finger In The Air) through various variations (both formal and informal) of metric based estimation techniques to things like IFPUG etc.  
 
 Today, I had something happen that reminded me why software estimation is so hard. I've just wasted about 8 hours trying to figure out an issue with what I thought was some bizarre firewall problem with Windows Vista SP1 x64 when it turns out that some code that **I wrote** was actually working correctly and was picking up a HTTP proxy preference that was pointing to a server that no longer exists.  I'd just forgotten I'd fixed this bug, and that I had the proxy set in my preferences.  

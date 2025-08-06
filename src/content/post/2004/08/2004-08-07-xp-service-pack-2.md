@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["maker", "teamprise", "web"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 So, took the plunge and installed XP Service Pack 2 today.  Wanted to see if the changes to Internet Explorer did anything strange to website I have designed, but also if the Service Pack would work on my HP Compaq nx7010.  So far so good, having a few intermittent problems with my WiFi, but everything else seems to work.
 
 **Update:** WiFi working now.  Looked like a problem with the WPA fix in SP2.

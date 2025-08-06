@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["technology", "dotnet", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 [](http://www.codeplex.com/Wiki/View.aspx?ProjectName=Highlight4Writer)Well, the benefits of the Live Writer SDK are already coming true for me.  One of my bug-bears with BlogJet was to copy/paste in code samples was pretty tricky.  I ended up evolving a manual process of visiting the excellent [CodeHTMLer](http://puzzleware.net/codeHTMLer/) site to convert into HTML and then pasting the source into BlogJet source view (when pasting Java code I just to tell that CodeHTMLer it was C# and it usually looks great. 
 
 I was over at the CodePlex site this morning and noticed that [Alexander Concha Abarca](http://www.buayacorp.com/) has posted a [Syntax Highlighting Plug-in for LiveWriter](http://www.codeplex.com/Wiki/View.aspx?ProjectName=Highlight4Writer). 

@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "books", "dotnet", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Tonight I [spoke at the Cork INDA group](http://www.developers.ie/session.aspx?s=47).  Despite the excellent weather outside loads of people turned up and sat in on a talk on Source Control, which shows true dedication (especially from the folks standing at the back).  I particularly enjoyed it that the audience asked loads of questions that got us off onto interesting tangents.  Thanks again to [Joe](http://developers.ie/blogs/joegill/) for organising everything.
 
 I arrived in Cork city early this morning and it is a very pleasant place to hang out.  If you are a geek in the city then I would recommend sitting in the [Clarion Hotel](http://www.clarioncork.com/) as it is a very pleasant environment to work with free Wifi and they serve an excellent cup of hot tea.  Anyone who knows the Marketing manager for [Teamprise](http://www.teamprise.com/) will know that he has great taste in hotels and the Clarion is one he would like.  Sadly, when I’m booking hotels myself I tend to go a little more low-budget, but the one I am currently sitting in has plenty of old world charm.  Cork also has a municipal Wifi service – while you have to pay €10 a day to access that, the signal strength is pretty good from the hotel room from which I write this post.

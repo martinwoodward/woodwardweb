@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["git", "tfs", "technology", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Just wanted to thank the good folks who attended my recent talks on source control with Team Foundation Server in [Limerick](http://www.developers.ie/event.aspx?s=48) and [Galway](http://www.itag.ie/CalendarofEvents/tabid/83/ctl/View/mid/410/Event/186/Start/200605121900/End/200605122030/Default.aspx).  I had a fantastic welcome and enjoyed myself hugely.
 
 I revised the format slightly from earlier talks and so the [slide deck (2.6MB)](http://www.woodwardweb.com/blog/SourceControl101WithTFS_WEST.PPT) is in a slightly different order then on previous occasions.  This meant I was able to spend more time on branching which seemed to be appreciated.

@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "maker", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 [](http://www.teamprise.com/)Preview 6 of Teamprise is now available for registered users to [download](http://www.teamprise.com/preview-register.py) (registration is free). This release is compatible with the RC version of Team Foundation Server only - Beta 3 and Beta 3 refresh users should stick with Preview 5 or [upgrade TFS now to claim your free T-shirt](http://blogs.msdn.com/robcaron/archive/2006/02/17/534416.aspx).
 
 Apart from the move from Beta 3 to RC, we've been busy adding some more Work Item Tracking features to the product to avoid you having to leave the IDE. We've also fixed a ton of bugs and added loads of functionality around the edge cases. 

@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["technology", "gadgets", "maker", "teamprise", "web", "programming", "podcast"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 I swear, one day I'll learn.  Despite having [promised myself to steer clear](http://www.woodwardweb.com/podcasting/000371.html) of the initial release of any Windows version of iTunes because they are consistently broke in some pretty severe ways - I read [this report on Engadget](http://www.engadget.com/2008/01/15/apples-itunes-7-6-plays-nice-with-64-bit-vista/) and decided to upgrade thinking that they may finally haved solved the issues I have been having.  (My main one being that I could consistently crash iTunes on any PC by downloading a podcast and pressing the "pause" button during the download). 
 
 However, iTunes 7.6 gave me a great new issue - iTunes wouldn't close.  Every time I tried to close it (by pressing the X button, or doing File, Close) it would freeze and start consuming as much of my CPU as possible - the only way to get rid of it was to kill the process in Task Manager. 

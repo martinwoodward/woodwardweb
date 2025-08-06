@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "web"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Next week you can have the opportunity to join the VSTS product group to discuss the features available in the different editions and Team Foundation Server.  If you have some feedback that you have been dying to give about the product then this is a great opportunity to influence the team directly. 
 
 **Join the [chat](http://msdn.microsoft.com/chats) on Wednesday September 6th, 2006 10:00am - 11:00am Pacific time (6pm BST)** 

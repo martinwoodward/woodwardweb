@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "dotnet", "maker", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 I just noticed that on Wednesday January 16th at 5pm, the [Minnesota Visual Studio Team System User Group](http://vstsmn.net/) are having a [talk](http://team-foundation-server.blogspot.com/2008/01/vsts-meeting-on-wednesday-january-16th.html) by [Mac Noland](http://team-foundation-server.blogspot.com/). 
 
 Mac is a good guy with some very interesting real-life experience in the use of TFS, and I would expect this talk from Mac to give people a great understanding of TFS could fit in their enterprise - but also a realistic, unbiased, warts and all view of TFS with Teamprise in the real world.   

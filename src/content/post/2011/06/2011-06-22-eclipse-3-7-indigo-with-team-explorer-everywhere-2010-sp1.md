@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["technology", "maker", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 As you have probably heard by now, [Eclipse 3.7 shipped today](http://www.eclipse.org).  Congratulations to everyone involved.  From a personal point of view I’m secretly pleased to see that one of my own bug reports manage to sneak it’s way in to this release as well which I think means I have managed to do my bit and contribute a little something to every Eclipse since 3.4  
 
 We’ve been tracking the Indigo release internally through the latter milestone builds and so far we’ve yet to discover any issues when using Eclipse 3.7 with Team Explorer Everywhere 2010 SP1 (as many of the team do every day).  

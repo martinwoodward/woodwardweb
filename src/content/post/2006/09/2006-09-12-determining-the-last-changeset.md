@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["git", "tfs", "technology", "dotnet", "maker", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 We've just been having a discussion internally about ways of numbering our builds.  It seems a sensible idea to qualify a build with the changeset number in our TFS repository, that way we are able to easily identify the exact status of all the files included in that build without the need to add a label into TFS.  My thought process when figuring out how to get the data was a typical one so I thought I'd post it here... 
 
 Idea 1)  My first thought was to go directly to the web services.  I know there is an Administration web service for VersionControl that gives you lots of nice jucy stats about your TFS instance including the maximum changeset ID (the QueryRepositoryInformation operation on http://tfs_at:8080/VersionControl/v1.0/Administration.asmx).  However, as I've ranted about before, going against the web services should always be avoided and only used as a last resort when all other alternatives have been ruled out - so I thought I'd try to resist the temptation and do it another way. 

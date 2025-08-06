@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "dotnet", "web", "programming", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 [](http://www.tsug-ve.com/)  
 
 Chewing Glas (aka [Paul Hacker](http://phacker.wordpress.com/)) and Daven Finesmith (aka [Dave McKinstry](http://weblogs.asp.net/dmckinstry)) are proud to announce a new users group, the Team System User Group - Virtual Edition.  The user group will use Live Meeting for demos and talks, holding the social side of the user group meeting (let's face it often the best part) over in Second Life.  

@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "dotnet", "teamprise", "web"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 [](http://feeds.feedburner.com/VstsBloggers) I have just added [Richard Hundhausen](http://blog.accentient.com/)’s excellent blog into the list of blogs that I slurp for the [VSTS Community Bloggers Google Toolbar button](http://www.woodwardweb.com/vsts/000188.html).  While I was there I made the blog a bit more reader friendly.  While not overly useful, it means that you can now customise your Visual Studio 2005 start page to show news from around the VSTS blogosphere.  
 
 To customise the Visual Studio 2005 start page, go to Tools, Options…  In the dialog select Environment, Start Page and enter the feed address there.  My feed is available at [http://feeds.feedburner.com/VstsBloggers](http://feeds.feedburner.com/VstsBloggers)

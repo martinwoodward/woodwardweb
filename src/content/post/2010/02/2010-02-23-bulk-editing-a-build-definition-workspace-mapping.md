@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["git", "tfs", "technology", "maker", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 This morning I was creating a new build definition for the Beta branch of the initial Microsoft release of the Teamprise acquired bits.  Creating a new build definition in Visual Studio 2010 is remarkably easy, but we have a fairly complex workspace template.  Our files are stored in version control in a way optimised to make it easy to get the source and build/debug in locally in Eclipse rather than for the automated Ant based build.  Because we have a lot of plug-ins, Eclipse features etc that make up our build we actually have over 30 separate entries in the workspace section of the build definition.  Is looks something like the following:  
 
 [](http://www.woodwardweb.com/WindowsLiveWriter/BulkEditingaBuildDefinitionWorkspaceMapp_9DD0/tpbuildmain_2.png)   

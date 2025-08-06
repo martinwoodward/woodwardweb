@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["git", "tfs", "technology", "dotnet", "maker", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Here at Teamprise we've recently changed our build numbering scheme.  We use the traditional Major.Minor.Revision.Build approach with Major.Minor.Revision being the only thing an end user should care about and Major.Minor the only thing we would every do any marketing for.  The build number used to be an integer that incremented everytime we did a build.  On day one it started at 1 (i.e. 1.0.0.1) and when we got to the final 2.0 build it was 2058 (i.e. 2.0.0.2058).   
 
 Internally, we have several different build types.  For example, we have a build for development which runs really fast but is missing steps like code obfuscation.  The "Release Build" is the build that compiles, generates documentation and obfuscates all the code just as we would distribute it to customers and would performs all of the automated tests etc.  Release Builds are the ones that our internal QA folks use to test against.  We used to label when we made a build so that we could tie that build to the exact versions of all the files included in it. 

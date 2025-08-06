@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["technology", "maker", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 I'd been having trouble getting Visual Studio Team Suite up and running on my new vista install.  I was assuming it was something nasty in the long winded installs of Visual Studio Team Suite, Team Explorer, SP1 for both and the Beta of the Vista GDR for Team Suite.  Every time I tried to start Visual Studio, I got the following error:- 
 
 "[An error has occurred while trying to access the log file. Logging may not function properly](http://forums.microsoft.com/MSDN/ShowPost.aspx?PostID=1114955&SiteID=1&mode=1)". 

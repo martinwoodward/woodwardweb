@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["technology"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 I logged into my MSDN subscription account this morning to find the following additions in my Operating Systems section!  Obviously, the first thing I did was to start the download of the (single) DVD image for all 32-bit versions of Windows Vista.  I tired to request my product key for Windows Vista Ultimate Edition, however there was an error in the MSDN Application - I guess that they are still getting those set up.  Anyway, the current estimate is that my download will finish in 20 hours 10 minutes (and that's while the US is asleep), so I'm guessing the keys will be available by the time I finish downloading. 
 
 **Update**:  It's 2pm now and my download got to 16% complete before it was interrupted.  Now I cannot get a connection at all probably because everyone else in the world is trying to download it.  I think I'd better wait until the weekend... 

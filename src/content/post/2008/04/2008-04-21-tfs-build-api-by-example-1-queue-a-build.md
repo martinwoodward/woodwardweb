@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "dotnet", "maker", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 [](http://www.woodwardweb.com/WindowsLiveWriter/TFSBuildAPIbyExample1Queueabuild_C1CE/BuildAPI_2.gif) As we all know by now - the build system in TFS2008 was substantially improved.  Along with the many improvements came an official API for talking to the build system.  This is the same API that the Team Foundation Build UI in Visual Studio uses, however there are many additional methods that were added that were not for the UI at all but for potential consumers of the Build API. 
 
 In talking with folks at community events, and on the MSDN forums I have realized that there isn't a huge awareness of this API.  Having written a parallel implementation of the build API, but in Java for the Teamprise 3.0 release I have spent a great deal of time with the .NET API and have a few examples lying around of how to accomplish certain common tasks - so I thought I would run through a some of them.  If you have an example of something you would like to see with the build API then please leave a comment for this post or drop me a line. 

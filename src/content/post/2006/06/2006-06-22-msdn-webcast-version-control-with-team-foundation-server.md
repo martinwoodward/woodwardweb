@@ -9,12 +9,11 @@ author: "Martin Woodward"
 # description
 description: "Migrated from old blog archive"
 # Taxonomies
-categories: ["Technology"]
+categories: ["tfs", "technology", "teamprise", "web"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Later today I’m presenting a webcast for Microsoft EMEA on Team Foundation Server Version Control. The registration process to sign up for it was a little complicated but apparently I’m allowed to give people the direct URL to log into the live meeting account as a participant.
 
 If you are available for an hour at 3pm in the UK & Ireland (4pm CET or 9am CST), then feel free to drop in - don't worry if you are a bit late joining, the beginning covers an overview of VSTS and the basics of source control.   
