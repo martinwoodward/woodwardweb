@@ -3,10 +3,15 @@ import react from '@astrojs/react';
 import mdx from '@astrojs/mdx';
 import AutoImport from 'astro-auto-import';
 import tailwindcss from '@tailwindcss/vite';
+import remarkGfm from 'remark-gfm';
+import remarkEmoji from 'remark-emoji';
 
 // https://astro.build/config
 export default defineConfig({
   site: 'https://woodwardweb.com',
+  markdown: {
+    remarkPlugins: [remarkGfm, remarkEmoji],
+  },
   integrations: [
     AutoImport({
       imports: [
@@ -22,7 +27,9 @@ export default defineConfig({
       ]
     }),
     react(),
-    mdx()
+    mdx({
+      remarkPlugins: [remarkGfm, remarkEmoji],
+    })
   ],
   vite: {
     plugins: [tailwindcss()],
