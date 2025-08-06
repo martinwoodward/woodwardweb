@@ -7,7 +7,7 @@ const SearchModal = () => {
 
   // handle input change
   const handleSearch = (e: React.FormEvent<HTMLInputElement>) => {
-    setSearchString(e.currentTarget.value.replace("\\", "").toLowerCase());
+    setSearchString(e.currentTarget.value.replace(/\\/g, "").toLowerCase());
   };
 
   // generate search result
