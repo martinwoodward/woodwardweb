@@ -14,11 +14,7 @@ tags: ["camera", "setup", "streaming", "video", "technology"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
-# My Camera Setup
-
-Thanks for saying you like my camera set up!  As you asked, here are the deets. There are cheaper ways to achieve
-some of the same results and possibly better ways to - however this is what I ended up with.
+A few folks have been commenting on my camera setup so here are the deets. There are cheaper ways to achieve some of the same results and possibly better ways to - however this is what I ended up with.
 
 - [Sony A6600 with 18-135mm zoom lens.](https://amzn.to/3y3BtOS)
 - [55mm Polorizing Filter](https://amzn.to/33uZncu)
