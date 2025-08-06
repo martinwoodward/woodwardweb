@@ -114,6 +114,8 @@ Always test these scenarios after making changes:
 
 ### Content Creation Testing
 
+**For blog post creation testing:** See [Blog Post Writing Instructions](.github/copilot-instructions-blog-posts.md) for detailed blog post creation workflow testing.
+
 When adding new blog posts:
 
 1. **Create post:** Add to `src/content/post/yyyy/descriptive-filename.md`
@@ -159,56 +161,7 @@ After successful builds:
 
 ## Content Management
 
-### Blog Posts
-
-**Location:** `src/content/post/yyyy/`
-**Format:** Markdown (.md) or MDX (.mdx)
-**Organization:** Posts organized by year in subdirectories
-
-**Frontmatter requirements:**
-```yaml
----
-title: "Post Title"
-date: 2024-01-15T10:00:00.000Z
-images:
-  - "/images/post/2024/01/15/featured-image.jpg"
-author: "Martin Woodward"
-description: "Post description"
-categories: ["technology", "web"]
-tags: ["astro", "blog"]
-type: "regular"  # or "featured"
-draft: false
----
-```
-
-### Blog Post Creation
-When adding a post in a PR, you should NEVER have to include an updated `package-lock.json` in the PR.
-If you are creating a new post on behalf of the user in a PR and no image is supplied then copy the 
-`public/images/image-placeholder.png` image into the new image location and ask the user to replace
-that image before merging the PR.
-
-### Images
-
-**Location:** `public/images/post/yyyy/mm/`
-**Organization:** Year/month structure matches CI expectations
-**Reference:** Use absolute paths from public directory: `/images/post/2024/01/image.jpg`
-
-### Post Categories
-
-Use these standardized categories:
-- `books` - Book reviews, reading recommendations
-- `dotnet` - .NET development, C#, Microsoft technologies  
-- `gadgets` - Hardware reviews, devices, electronics
-- `git` - Git version control, workflows, tips
-- `github` - GitHub platform, features, integrations
-- `maker` - DIY projects, building things, creativity
-- `personal` - Personal thoughts, life updates
-- `podcast` - Podcast recommendations, audio content
-- `programming` - General programming topics
-- `teamprise` - Teamprise product, cross-platform TFS
-- `technology` - General technology topics, trends
-- `tfs` - Team Foundation Server, Azure DevOps
-- `web` - Web development, web technologies
+**For blog post creation and editing:** See dedicated [Blog Post Writing Instructions](.github/copilot-instructions-blog-posts.md) for detailed guidance on creating and editing `.md` and `.mdx` files in `src/content/post/`.
 
 ## Development Guidelines
 
@@ -249,27 +202,18 @@ Use these standardized categories:
 
 ## Common Tasks
 
-### Adding a New Blog Post
-
-1. Create file: `src/content/post/2024/my-new-post.md`
-2. Add frontmatter with required fields
-3. Add images to: `public/images/post/2024/01/`
-4. Run: `yarn generate-json`
-5. Test: `yarn dev` and navigate to post
-6. Format: `yarn format`
-
-### Updating Site Configuration
-
-1. Edit relevant config in `src/config/`
-2. Test: `yarn dev`
-3. Format: `yarn format`
-
 ### Adding New Components
 
 1. Create component in appropriate directory
 2. Add to `astro.config.mjs` imports if for MDX usage
 3. Test in development
 4. Format: `yarn format`
+
+### Updating Site Configuration
+
+1. Edit relevant config in `src/config/`
+2. Test: `yarn dev`
+3. Format: `yarn format`
 
 ## Troubleshooting
 
