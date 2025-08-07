@@ -58,8 +58,9 @@ jobs:
           if [ ! -z "$NEW_POSTS" ]; then
             for post in $NEW_POSTS; do
               if [ -f "$post" ]; then
-                # Check if post has blueskyPostURI in frontmatter
-                if ! grep -q "blueskyPostURI:" "$post"; then
+                # Check if post has blueskyPostURI in frontmatter (only between --- markers)
+                FRONTMATTER=$(awk '/^---$/{if(seen){exit} seen=1; next} seen{print}' "$post")
+                if ! echo "$FRONTMATTER" | grep -q "blueskyPostURI:"; then
                   HAS_NEW_POSTS_WITHOUT_BLUESKY="true"
                   if [ -z "$NEW_POSTS_WITHOUT_BLUESKY" ]; then
                     NEW_POSTS_WITHOUT_BLUESKY="$post"

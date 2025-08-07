@@ -1,5 +1,5 @@
 ---
-title: "Automated BlueSky Integration: From Blog Post to Social Media and Back Again"
+title: "From Blog Post to BlueSky and Back"
 date: 2025-08-07T12:00:00.000Z
 # post thumb
 images:
@@ -42,9 +42,11 @@ The workflow starts in my GitHub Actions CI pipeline (`/.github/workflows/ci.yml
 CHANGED_FILES=$(git diff --name-only HEAD~1 HEAD)
 NEW_POSTS=$(echo "$CHANGED_FILES" | grep "^src/content/post/.*\.md$")
 
-# Check if any new posts don't have blueskyPostURI
+# Check if any new posts don't have blueskyPostURI in frontmatter
 for post in $NEW_POSTS; do
-  if ! grep -q "blueskyPostURI:" "$post"; then
+  # Extract only the frontmatter (between --- markers) to avoid false positives
+  FRONTMATTER=$(awk '/^---$/{if(seen){exit} seen=1; next} seen{print}' "$post")
+  if ! echo "$FRONTMATTER" | grep -q "blueskyPostURI:"; then
     # This post needs BlueSky integration
   fi
 done
