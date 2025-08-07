@@ -55,7 +55,7 @@ done
 
 ### Step 2: AI-Generated Social Media Text
 
-This is where the magic happens. Using GitHub Models' integration with OpenAI's GPT-4.1, the workflow analyses the blog post content and generates contextual social media text:
+This is where the magic happens. With the appropriate permission granted, GitHub Actions can talk to GitHub Models using the ```GITHUB_TOKEN```. There is a pretty healthy free allowance and a huge set of models. At the moment I'm using GPT-4.1 to analyses the blog post content and generates contextual social media text. Probably overkill on the model front and could go for a smaller one - but working great for now:
 
 ```bash
 # Extract post metadata and content
