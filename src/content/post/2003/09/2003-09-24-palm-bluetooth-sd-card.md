@@ -14,4 +14,5 @@ tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-Got my GPRS connection to my mobile phone (a Nokia 6310i) to my Palm m125 using IR.  Works a treat.  However I realise how handy a bluetooth connection would be.  Thinking about getting a [Palm Bluetooth SD Card](http://www.amazon.co.uk/exec/obidos/ASIN/B00008W5WT/woodwardwebcom).
+
+Got my GPRS connection to my mobile phone (a Nokia 6310i) to my Palm m125 using IR. Works a treat. However I realise how handy a bluetooth connection would be. Thinking about getting a [Palm Bluetooth SD Card](http://www.amazon.co.uk/exec/obidos/ASIN/B00008W5WT/woodwardwebcom).
