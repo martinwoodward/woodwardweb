@@ -12,6 +12,7 @@ description: "Step-by-step instructions for building an Octolamp - a 3D printabl
 categories: ["maker", "github", "technology"]
 tags: ["3d-printing", "led", "wled", "esp8266", "diy", "github", "smart-home", "maker"]
 type: "regular"
+blueskyPostURI: "3juk7ac3rb42u"
 draft: false
 ---
 
