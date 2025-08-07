@@ -22,6 +22,45 @@ export const humanize = (content: string) => {
     });
 };
 
+// humanizeWithSpecialCases - like humanize but handles special cases like GitHub
+export const humanizeWithSpecialCases = (content: string) => {
+  let result = content
+    .replace(/^[\s_]+|[\s_]+$/g, "")
+    .replace(/[_\s]+/g, " ")
+    .replace(/[-\s]+/g, " ")
+    .replace(/^[a-z]/, function (m) {
+      return m.toUpperCase();
+    });
+  
+  // Handle special cases
+  result = result.replace(/\bgithub\b/gi, "GitHub");
+  
+  return result;
+};
+
+// formatCategoryForDisplay - formats category names with special cases, then applies case transformation
+export const formatCategoryForDisplay = (content: string, lowercase: boolean = false) => {
+  let result = content
+    .replace(/^[\s_]+|[\s_]+$/g, "")
+    .replace(/[_\s]+/g, " ")
+    .replace(/[-\s]+/g, " ");
+  
+  // Handle special cases first
+  result = result.replace(/\bgithub\b/gi, "GitHub");
+  
+  // Apply case transformation
+  if (lowercase) {
+    // Special handling for GitHub - keep the camelCase even in lowercase context
+    return result.replace(/\bGitHub\b/g, "GitHub").toLowerCase().replace(/\bgithub\b/g, "GitHub");
+  } else {
+    result = result.replace(/^[a-z]/, function (m) {
+      return m.toUpperCase();
+    });
+  }
+  
+  return result;
+};
+
 // titleify
 export const titleify = (content: string) => {
   const humanized = humanize(content);
