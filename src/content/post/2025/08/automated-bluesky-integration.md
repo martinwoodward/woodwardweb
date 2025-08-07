@@ -20,7 +20,10 @@ Thanks to the power of GitHub Copilot's Agent mode, I've recently created a new 
 
 Thanks to the amazing work by [whitep4nth3r](https://whitep4nth3r.com/blog/show-bluesky-likes-on-blog-posts/#i-used-client-side-javascript) and with inspiration from [Ashley Willis](https://github.com/ashleymcnamara/ashley.dev/blob/main/src/components/BlueskyLikes.astro) I've added integration with BlueSky to show likes and comments.  But that requires me to remember to post the blog to BlueSky, manually copy the post ID and then republish the site.
 
-This evening I've been tinkering with an automated workflow that bridges the gap between my blog and BlueSky social media platform. The result is a seamless system that automatically posts new blog entries to BlueSky using AI-generated social media text powered by GitHub Models, then updates the blog post to display likes and comments from the social platform. Here's how it all works.
+This evening I've been tinkering with an automated workflow that bridges the gap between my blog and BlueSky social media platform. 
+The result is a system that automatically posts new blog entries to BlueSky using AI-generated social media text powered by GitHub Models, then updates the blog post to display likes and comments from the social platform.
+
+It's still a work in progress that I'm ironing out, but here's how it all works currently.
 
 ## Automated Social Integration for GitHub Pages
 
