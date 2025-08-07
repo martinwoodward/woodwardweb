@@ -10,9 +10,10 @@ on:
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
+  models: read
 
 # Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
 # However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
@@ -25,24 +26,71 @@ env:
   # BUILD_PATH: subfolder
 
 jobs:
-  build:
-    name: Build
+  build-and-deploy:
+    name: Build and Deploy
     runs-on: ubuntu-latest
+    outputs:
+      page-url: ${{ steps.deployment.outputs.page_url }}
+      new-posts: ${{ steps.detect.outputs.new-posts }}
+      has-new-posts-without-bluesky: ${{ steps.detect.outputs.has-new-posts-without-bluesky }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+          
+      - name: Detect new posts without Bluesky URI
+        id: detect
+        run: |
+          # Get changed files
+          CHANGED_FILES=$(git diff --name-only HEAD~1 HEAD)
+          echo "Changed files:"
+          echo "$CHANGED_FILES"
+          
+          # Find new posts in src/content/post/
+          NEW_POSTS=$(echo "$CHANGED_FILES" | grep "^src/content/post/.*\.md$" | grep -v "^D" || true)
+          echo "New posts: $NEW_POSTS"
+          
+          # Check if any new posts don't have blueskyPostURI
+          HAS_NEW_POSTS_WITHOUT_BLUESKY="false"
+          NEW_POSTS_WITHOUT_BLUESKY=""
+          
+          if [ ! -z "$NEW_POSTS" ]; then
+            for post in $NEW_POSTS; do
+              if [ -f "$post" ]; then
+                # Check if post has blueskyPostURI in frontmatter
+                if ! grep -q "blueskyPostURI:" "$post"; then
+                  HAS_NEW_POSTS_WITHOUT_BLUESKY="true"
+                  if [ -z "$NEW_POSTS_WITHOUT_BLUESKY" ]; then
+                    NEW_POSTS_WITHOUT_BLUESKY="$post"
+                  else
+                    NEW_POSTS_WITHOUT_BLUESKY="$NEW_POSTS_WITHOUT_BLUESKY,$post"
+                  fi
+                fi
+              fi
+            done
+          fi
+          
+          echo "new-posts=$NEW_POSTS_WITHOUT_BLUESKY" >> $GITHUB_OUTPUT
+          echo "has-new-posts-without-bluesky=$HAS_NEW_POSTS_WITHOUT_BLUESKY" >> $GITHUB_OUTPUT
+          echo "Has new posts without Bluesky: $HAS_NEW_POSTS_WITHOUT_BLUESKY"
+          echo "New posts without Bluesky: $NEW_POSTS_WITHOUT_BLUESKY"
+          
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: "20"
+          
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
+        
       - name: Clean install dependencies
         run: |
           rm -rf node_modules package-lock.json
           npm install
         working-directory: ${{ env.BUILD_PATH }}
+        
       - name: Build with Astro
         run: |
           npm run generate-json
@@ -51,19 +99,187 @@ jobs:
             --site "${{ steps.pages.outputs.origin }}" \
             --base "${{ steps.pages.outputs.base_path }}"
         working-directory: ${{ env.BUILD_PATH }}
+        
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: ${{ env.BUILD_PATH }}/dist
 
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    needs: build
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+  bluesky-social:
+    name: Post to Bluesky
     runs-on: ubuntu-latest
-    name: Deploy
+    needs: build-and-deploy
+    if: needs.build-and-deploy.outputs.has-new-posts-without-bluesky == 'true'
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Process new posts and post to Bluesky
+        id: process-posts
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PAGE_URL: ${{ needs.build-and-deploy.outputs.page-url }}
+        run: |
+          # Install jq for JSON processing
+          sudo apt-get update && sudo apt-get install -y jq
+          
+          # Initialize variables
+          BLUESKY_TEXT=""
+          POST_FILE=""
+          
+          # Process each new post
+          IFS=',' read -ra POSTS <<< "${{ needs.build-and-deploy.outputs.new-posts }}"
+          for post_file in "${POSTS[@]}"; do
+            echo "Processing $post_file"
+            
+            # Extract post title and description
+            POST_TITLE=$(grep "^title:" "$post_file" | sed 's/title: *"//' | sed 's/"$//')
+            POST_DESCRIPTION=$(grep "^description:" "$post_file" | sed 's/description: *"//' | sed 's/"$//')
+            
+            # Extract categories and tags for context
+            POST_CATEGORIES=$(grep "^categories:" "$post_file" | sed 's/categories: *//')
+            POST_TAGS=$(grep "^tags:" "$post_file" | sed 's/tags: *//')
+            
+            # Extract and clean post content (first few paragraphs)
+            # Remove frontmatter and get first 500 characters of actual content
+            POST_CONTENT=$(awk '
+              BEGIN { in_frontmatter = 0; content_started = 0; }
+              /^---$/ { 
+                if (in_frontmatter == 1) { content_started = 1; }
+                in_frontmatter = !in_frontmatter; 
+                next; 
+              }
+              content_started == 1 && in_frontmatter == 0 {
+                # Skip empty lines at start
+                if (NF == 0 && length(content) == 0) next;
+                # Skip markdown headers and links for cleaner text
+                gsub(/^#+\s*/, "");
+                gsub(/\[([^\]]*)\]\([^\)]*\)/, "\\1");
+                gsub(/\*\*([^\*]*)\*\*/, "\\1");
+                gsub(/\*([^\*]*)\*/, "\\1");
+                content = content " " $0;
+                if (length(content) > 500) exit;
+              }
+              END { print substr(content, 1, 500); }
+            ' "$post_file")
+            
+            # Convert file path to URL path
+            POST_URL_PATH=$(echo "$post_file" | sed 's|src/content/post/||' | sed 's|\.md$||')
+            POST_URL="${PAGE_URL}post/${POST_URL_PATH}/"
+            
+            echo "Post title: $POST_TITLE"
+            echo "Post description: $POST_DESCRIPTION"
+            echo "Post URL: $POST_URL"
+            echo "Post categories: $POST_CATEGORIES"
+            echo "Post content preview: ${POST_CONTENT:0:200}..."
+            
+            # Create enhanced prompt with post context
+            PROMPT="Write a short, engaging social media post (under 250 characters) for a new blog post. Use UK english, never use emdash and only use hashtags sparingly and if they fit into the body of the text in a way that reads like a sentence. Title: $POST_TITLE. Description: $POST_DESCRIPTION. Categories: $POST_CATEGORIES. Content preview: $POST_CONTENT. Make it conversational and include relevant hashtags. Don't include the URL."
+            
+            AI_RESPONSE=$(curl -s "https://models.github.ai/inference/chat/completions" \
+              -H "Content-Type: application/json" \
+              -H "Authorization: Bearer $GITHUB_TOKEN" \
+              -d "{
+                \"messages\": [
+                  {
+                    \"role\": \"user\",
+                    \"content\": $(echo "$PROMPT" | jq -R -s .)
+                  }
+                ],
+                \"model\": \"openai/gpt-4.1\"
+              }")
+            
+            # Extract the message from the response
+            AI_MESSAGE=$(echo "$AI_RESPONSE" | jq -r '.choices[0].message.content')
+            BLUESKY_TEXT="${AI_MESSAGE} ${POST_URL}"
+            POST_FILE="$post_file"
+            
+            echo "Generated message: $BLUESKY_TEXT"
+            
+            # Set outputs for next step
+            echo "BLUESKY_TEXT=$BLUESKY_TEXT" >> $GITHUB_OUTPUT
+            echo "POST_FILE=$POST_FILE" >> $GITHUB_OUTPUT
+            
+            # Only process one post for now
+            break
+          done
+
+      - name: Post to Bluesky
+        if: steps.process-posts.outputs.BLUESKY_TEXT != ''
+        uses: zentered/bluesky-post-action@v0.1.0
+        id: bluesky-post
+        with:
+          post: ${{ steps.process-posts.outputs.BLUESKY_TEXT }}
+        env:
+          BSKY_IDENTIFIER: ${{ secrets.BSKY_IDENTIFIER }}
+          BSKY_PASSWORD: ${{ secrets.BSKY_PASSWORD }}
+
+      - name: Update post with Bluesky URI
+        if: steps.bluesky-post.outputs.uri != ''
+        run: |
+          # Update the post file with the Bluesky URI
+          POST_FILE="${{ steps.process-posts.outputs.POST_FILE }}"
+          
+          # Find the line with draft: false and add blueskyPostURI after it
+          sed -i "/^draft: false$/a blueskyPostURI: \"${{ steps.bluesky-post.outputs.uri }}\"" "$POST_FILE"
+          
+          echo "Updated $POST_FILE with Bluesky URI: ${{ steps.bluesky-post.outputs.uri }}"
+          
+      - name: Commit updated post files
+        if: steps.bluesky-post.outputs.uri != ''
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add src/content/post/
+          git diff --staged --quiet || git commit -m "Add Bluesky post URI to new blog post"
+          git push
+
+  rebuild-after-bluesky:
+    name: Rebuild After Bluesky Update
+    runs-on: ubuntu-latest
+    needs: bluesky-social
+    if: always() && needs.bluesky-social.result == 'success'
+    steps:
+      - name: Checkout updated code
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v5
+        
+      - name: Clean install dependencies
+        run: |
+          rm -rf node_modules package-lock.json
+          npm install
+        working-directory: ${{ env.BUILD_PATH }}
+        
+      - name: Build with Astro
+        run: |
+          npm run generate-json
+          npx astro check
+          npx astro build \
+            --site "${{ steps.pages.outputs.origin }}" \
+            --base "${{ steps.pages.outputs.base_path }}"
+        working-directory: ${{ env.BUILD_PATH }}
+        
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ${{ env.BUILD_PATH }}/dist
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
