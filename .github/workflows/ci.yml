@@ -48,7 +48,7 @@ jobs:
           echo "$CHANGED_FILES"
           
           # Find new posts in src/content/post/
-          NEW_POSTS=$(echo "$CHANGED_FILES" | grep "^src/content/post/.*\.md$" | grep -v "^D" || true)
+          NEW_POSTS=$(echo "$CHANGED_FILES" | grep "^src/content/post/.*\.mdx\?$" | grep -v "^D" || true)
           echo "New posts: $NEW_POSTS"
           
           # Check if any new posts don't have blueskyPostURI
@@ -174,7 +174,7 @@ jobs:
             ' "$post_file")
             
             # Convert file path to URL path
-            POST_URL_PATH=$(echo "$post_file" | sed 's|src/content/post/||' | sed 's|\.md$||')
+            POST_URL_PATH=$(echo "$post_file" | sed 's|src/content/post/||' | sed 's|\.mdx\?$||')
             POST_URL="${PAGE_URL}post/${POST_URL_PATH}/"
             
             echo "Post title: $POST_TITLE"
