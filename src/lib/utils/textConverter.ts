@@ -51,7 +51,7 @@ export const formatCategoryForDisplay = (content: string, lowercase: boolean = f
   // Apply case transformation
   if (lowercase) {
     // Special handling for GitHub - keep the camelCase even in lowercase context
-    return result.replace(/\bGitHub\b/g, "GitHub").toLowerCase().replace(/\bgithub\b/g, "GitHub");
+    return result.toLowerCase().replace(/\bgithub\b/g, "GitHub");
   } else {
     result = result.replace(/^[a-z]/, function (m) {
       return m.toUpperCase();
