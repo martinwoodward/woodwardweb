@@ -18,7 +18,7 @@ draft: false
 
 Thanks to the power of GitHub Copilot's Agent mode, I've recently created a new blog using Astro and ported all 521 of my old blog posts from a HTML archive into the new site.  
 
-Thanks to inspiration from [whitep4nth3r](https://whitep4nth3r.com/blog/show-bluesky-likes-on-blog-posts/#i-used-client-side-javascript) and [ashleymcnamara](https://github.com/ashleymcnamara/ashley.dev/blob/main/src/components/BlueskyLikes.astro) I've added integration with BlueSky to show likes and comments.  But that requires me to remember to post the blog to BlueSky, manually copy the post ID and then republish the site.
+Thanks to the amazing work by [whitep4nth3r](https://whitep4nth3r.com/blog/show-bluesky-likes-on-blog-posts/#i-used-client-side-javascript) and with inspiration from [Ashley Willis](https://github.com/ashleymcnamara/ashley.dev/blob/main/src/components/BlueskyLikes.astro) I've added integration with BlueSky to show likes and comments.  But that requires me to remember to post the blog to BlueSky, manually copy the post ID and then republish the site.
 
 This evening I've been tinkering with an automated workflow that bridges the gap between my blog and BlueSky social media platform. The result is a seamless system that automatically posts new blog entries to BlueSky using AI-generated social media text powered by GitHub Models, then updates the blog post to display likes and comments from the social platform. Here's how it all works.
 
@@ -138,4 +138,4 @@ One delightful detail: the AI is specifically prompted to use UK English spellin
 
 The entire system is open source and built on GitHub's infrastructure, making it accessible to any developer with a GitHub login and a BlueSky account.
 
-*This post hopefully demonstrates the system in action - it was automatically posted to BlueSky with AI-generated text, and you should see the social engagement displayed below.*
+This post hopefully demonstrates the system in action - it was automatically posted to BlueSky with AI-generated text, and you should see the social engagement displayed below.  You can find the source of my CI workflow [here](https://github.com/martinwoodward/martinwoodward.github.io/blob/main/.github/workflows/ci.yml).
