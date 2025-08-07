@@ -3,7 +3,7 @@
 const fs = require('fs');
 const path = require('path');
 const { execSync, spawn } = require('child_process');
-
+const sanitizeHtml = require('sanitize-html');
 // Function to check if gh models is available
 function isGhModelsAvailable() {
     try {
@@ -23,11 +23,10 @@ async function generateLLMSummary(content, title) {
 
     try {
         // Clean the content for LLM processing
-        const cleanContent = content
+        const cleanContent = sanitizeHtml(content, { allowedTags: [], allowedAttributes: {} })
             .replace(/^---[\s\S]*?---/, '') // Remove frontmatter
             .replace(/\[([^\]]*)\]\([^)]*\)/g, '$1') // Remove markdown links but keep text
             .replace(/!\[([^\]]*)\]\([^)]*\)/g, '') // Remove markdown images
-            .replace(/<[^>]*>/g, '') // Remove HTML tags
             .replace(/\s+/g, ' ') // Normalize whitespace
             .trim()
             .substring(0, 2000); // Limit content for API
