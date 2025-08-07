@@ -21,7 +21,7 @@ const { title, images } = post.data;
         <ul class="post-meta mb-4">
           <li class="flex justify-center items-center meta-link">
             <FaUser className="mr-2" />
-            <a href={`/author`} set:html={post.data.author} />
+            <a href={`/about`} set:html={post.data.author} />
           </li>
           <li class="meta-link">
             Date : <span>{dateFormat(post.data.date)}</span>

@@ -1,5 +1,5 @@
 ---
-title: "John Doe"
+title: "Martin Woodward"
 meta_title: "Logbook author"
 description: "this is meta description"
 image: "/images/author.jpg"
