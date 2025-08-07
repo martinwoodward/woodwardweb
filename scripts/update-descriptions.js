@@ -3,7 +3,7 @@
 const fs = require('fs');
 const path = require('path');
 const { marked } = require('marked');
-
+const striptags = require('striptags');
 // Function to clean and extract text from markdown content
 function extractTextFromMarkdown(content) {
     // Remove frontmatter if any (shouldn't be present in content part)
@@ -16,7 +16,7 @@ function extractTextFromMarkdown(content) {
     content = content.replace(/!\[([^\]]*)\]\([^)]*\)/g, '');
     
     // Remove HTML tags
-    content = content.replace(/<[^>]*>/g, '');
+    content = striptags(content);
     
     // Remove extra whitespace and normalize
     content = content.replace(/\s+/g, ' ').trim();
