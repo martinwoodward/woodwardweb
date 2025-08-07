@@ -12,6 +12,7 @@ description: "Learn how I automated my blog's social media workflow using GitHub
 categories: ["technology", "web", "github"]
 tags: ["bluesky", "automation", "github-actions", "github-models", "ai", "social-media", "astro", "blog"]
 type: "regular"
+blueskyPostURI: "3lvrk6viyag2t"
 draft: false
 ---
 
