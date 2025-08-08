@@ -59,6 +59,7 @@ description: "Short description of the post summarizing the content"
 categories: ["git", "technology", "books", "dotnet", "maker", "web", "personal", "github"]
 tags: ["git", "technology", "books", "dotnet", "maker", "web", "personal", "github"]
 type: "regular" # available type (regular or featured)
+blueskyPostURI: ""
 draft: false
 ---
 ```

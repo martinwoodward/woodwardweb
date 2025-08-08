@@ -23,7 +23,8 @@ const { pathname } = Astro.url;
 ---
 
 <header
-  class={`header z-30 ${settings.sticky_header && "sticky top-0 border-border border-b"}`}
+  id="main-header"
+  class={`header z-30 transition-all duration-300 ${settings.sticky_header && "sticky top-0 border-border border-b"}`}
 >
   <nav class="navbar container">
     <!-- logo -->
@@ -87,3 +88,56 @@ const { pathname } = Astro.url;
     </ul>
   </nav>
 </header>
+
+<script>
+  document.addEventListener("astro:page-load", () => {
+    const logoDefault = document.querySelector("#logo-default") as HTMLElement;
+    const logoHorizontal = document.querySelector("#logo-horizontal") as HTMLElement;
+    const header = document.querySelector("#main-header") as HTMLElement;
+    const navMenu = document.querySelector("#nav-menu") as HTMLElement;
+    
+    if (!logoDefault || !logoHorizontal || !header) return;
+    
+    let isScrolled = false;
+    
+    function handleScroll() {
+      const scrollY = window.scrollY;
+      const scrollDownThreshold = 150; // Show horizontal logo after scrolling 150px down
+      const scrollUpThreshold = 50; // Switch back to normal logo when scrolling up to 50px
+      
+      if (!isScrolled && scrollY > scrollDownThreshold) {
+        isScrolled = true;
+        // Animate to horizontal logo
+        logoDefault.style.transform = "translateY(-10px) scale(0.9)";
+        logoDefault.style.opacity = "0";
+        logoHorizontal.style.transform = "translateY(0) scale(1)";
+        logoHorizontal.style.opacity = "1";
+        header.classList.add("header-scrolled");
+        // Remove padding classes that make header tall
+        if (navMenu) {
+          navMenu.classList.remove("pb-6");
+          navMenu.classList.add("pb-0");
+        }
+      } else if (isScrolled && scrollY < scrollUpThreshold) {
+        isScrolled = false;
+        // Animate to default logo
+        logoHorizontal.style.transform = "translateY(10px) scale(0.9)";
+        logoHorizontal.style.opacity = "0";
+        logoDefault.style.transform = "translateY(0) scale(1)";
+        logoDefault.style.opacity = "1";
+        header.classList.remove("header-scrolled");
+        // Restore original padding
+        if (navMenu) {
+          navMenu.classList.add("pb-6");
+          navMenu.classList.remove("pb-0");
+        }
+      }
+    }
+    
+    // Add scroll listener
+    window.addEventListener("scroll", handleScroll);
+    
+    // Initial check
+    handleScroll();
+  });
+</script>

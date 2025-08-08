@@ -23,8 +23,18 @@ const hasValidImage = images && images[0] && (() => {
 function smartTruncate(text: string, maxLength: number): string {
   if (!text || text.length <= maxLength) return text;
   
+  // Remove MDX/JSX import statements and other coding directives
+  const cleanedText = text
+    .replace(/^import\s+.*?from\s+["'].*?["'];?\s*$/gm, '') // Remove import statements
+    .replace(/^export\s+.*?;?\s*$/gm, '') // Remove export statements
+    .replace(/^\s*<[A-Z][^>]*>.*?<\/[A-Z][^>]*>\s*$/gm, '') // Remove JSX components on their own lines
+    .replace(/\n\s*\n/g, '\n') // Remove extra blank lines
+    .trim();
+  
+  if (!cleanedText || cleanedText.length <= maxLength) return cleanedText;
+  
   // First try to truncate to nearest sentence
-  const truncated = text.slice(0, maxLength);
+  const truncated = cleanedText.slice(0, maxLength);
   const lastSentenceEnd = Math.max(
     truncated.lastIndexOf('.'),
     truncated.lastIndexOf('!'),

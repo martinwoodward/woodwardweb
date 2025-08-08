@@ -12,6 +12,7 @@ description: "Building the ultimate vibe coding accessory for enhanced programmi
 categories: ["maker", "programming", "ai"]
 tags: ["maker", "programming", "AI", "hardware", "DIY"]
 type: "regular" # available type (regular or featured)
+blueskyPostURI: "3lvtvzpo6vs2k"
 draft: false
 ---
 import Notice from "@/shortcodes/Notice";
@@ -39,7 +40,7 @@ Remove all stickers (and any foam inserts) from the Pelican 1150 case.  I found 
 Drill a hole in the back of thePelican case to fit the USB C panel mount. This is used to pass the USB C cable through the case into the Raspberry Pi Pico board.
 
 ##### Apply decals
-I used my Cricut Maker to cut out some vinyl decals to apply to the case. I used black vinyl and made use of transfer tape to apply them smoothly.  You can get the decal images from [the repo](https://github.com/martinwoodward/vibecodr/tree/main/images).  Easiest thing is to import the PDF into Cricut Design Space as it keeps the sizes correct but I've also include the SVG file in case you want to make some changes.  You should then have something that looks like this. ![Decal Preview](/public/images/post/2025/08/08/vibecodr-decals.jpg)
+I used my Cricut Maker to cut out some vinyl decals to apply to the case. I used black vinyl and made use of transfer tape to apply them smoothly.  You can get the decal images from [the repo](https://github.com/martinwoodward/vibecodr/tree/main/images).  Easiest thing is to import the PDF into Cricut Design Space as it keeps the sizes correct but I've also include the SVG file in case you want to make some changes.  You should then have something that looks like this. ![Decal Preview](/images/post/2025/08/08/vibecodr-decals.jpg)
 
 ##### 3D Print & Prep the Button Housing
 I designed a simple button housing that can be 3D printed. You can find the STL files in [the repo](https://github.com/martinwoodward/vibecodr/tree/main/models). Print the housing in black PLA or PETG for durability.  You could try using a textured plate for the surface finish but I went with a carbon fiber vinyl wrap for a sleek look that really hides that this is a 3D printed part.  The best thing about 3d printing this is that a single component provides all the structural support needed for the button to stand up to abuse as well as house the electronics and also give cable strain relief points to make sure this box will survive many shows.
@@ -58,7 +59,7 @@ Then re-assemble the button by putting the circle on top of the plunger, the cle
 ##### Wiring
 Now we need to wire up the button.  The Pimoroni Plasma has handy screw terminals for 5V, Ground and Data for the LED ring.  For the button, solder two ends of a JST PH 2.0mm connector to the micro-switch terminals. One should be connected to +3V and the other to SDA (blue on my wires).  The other end of the JST connector will plug into the Plasma board via the QT/Stemma connector as a handy way to connect the button to the Plasma board without having to permanently solder anything.  You can find the pinout for the Plasma board in the [documentation](https://docs.pimoroni.com/plasma/).
 
-You should now have a fully assembled button, looking like this. ![Assembled Button](/public/images/post/2025/08/08/vibecodr-internals.jpg)
+You should now have a fully assembled button, looking like this. ![Assembled Button](/images/post/2025/08/08/vibecodr-internals.jpg)
 
 <Notice type="tip">You can happily run this on any board that supports CircuitPython or even MicroPython. I just made use of the Plasma because I had a few handy and it has all the connections I needed.</Notice>
 
@@ -94,7 +95,7 @@ while True:
 
 Now when you plug the button into your computer, it should be recognized as a USB HID device and you can use it to send key presses.
 
-![Assembled Button](/public/images/post/2025/08/08/vibecodr-animated.gif)
+![Assembled Button](/images/post/2025/08/08/vibecodr-animated.gif)
 
 One of the things we learnt while using the VibeCodr is the importance of feedback. The LED ring provides visual feedback when the button is pressed, which is crucial for a good user experience. But also people like to hold the button down sometimes which meant I had to add logic to the [Copilot Spinner](https://github.com/octobooth/spinner) application to handle that and debounce lots of keypresses.  People can really hit the button hard!  So I was grateful to have made the 3D printed button housing super robust and used an arcade button for the switch.
 
