@@ -7,24 +7,31 @@ const {
   logo,
   logo_width,
   logo_height,
+  logo_horizontal,
+  logo_horizontal_width,
+  logo_horizontal_height,
   logo_text,
   title,
 }: {
   logo: string;
   logo_width: any;
   logo_height: any;
+  logo_horizontal: string;
+  logo_horizontal_width: any;
+  logo_horizontal_height: any;
   logo_text: string;
   title: string;
 } = config.site;
 ---
 
-<a href="/" class="navbar-brand inline-block">
+<a href="/" class="navbar-brand inline-block relative">
   {
     src || logo ? (
-      <>
+      <div class="relative flex items-center justify-start">
         <ImageMod
+          id="logo-default"
           src={src ? src : logo}
-          class="inline-block"
+          class="transition-opacity duration-300"
           width={logo_width.replace("px", "") * 2}
           height={logo_height.replace("px", "") * 2}
           alt={title}
@@ -33,8 +40,23 @@ const {
             width: logo_width.replace("px", "") + "px",
           }}
           format="webp"
+          quality={90}
         />
-      </>
+        <ImageMod
+          id="logo-horizontal"
+          src={logo_horizontal}
+          class="transition-opacity duration-300 opacity-0 absolute top-1/2 left-0 transform -translate-y-1/2"
+          width={logo_horizontal_width.replace("px", "") * 2}
+          height={logo_horizontal_height.replace("px", "") * 2}
+          alt={title}
+          style={{
+            height: logo_horizontal_height.replace("px", "") + "px",
+            width: logo_horizontal_width.replace("px", "") + "px",
+          }}
+          format="webp"
+          quality={90}
+        />
+      </div>
     ) : logo_text ? (
       logo_text
     ) : (
