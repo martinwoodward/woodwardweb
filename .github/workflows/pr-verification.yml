@@ -1,6 +1,11 @@
 name: PR Verification
+
+# Sets permissions of the GITHUB_TOKEN to **not** allow deployment to GitHub Pages
 permissions:
-  contents: read
+  contents: write
+  pages: read
+  id-token: write
+  models: read
 
 on:
   pull_request:
