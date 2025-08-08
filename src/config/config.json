@@ -6,8 +6,11 @@
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.png",
-    "logo_width": "150",
-    "logo_height": "30",
+    "logo_width": "281",
+    "logo_height": "143",
+    "logo_horizontal": "/images/logo-horizontal.png",
+    "logo_horizontal_width": "250",
+    "logo_horizontal_height": "40",
     "logo_text": "Martin Woodward"
   },
 

@@ -14,7 +14,7 @@ This is an Astro-based static site generator blog with the following key charact
 
 #### Blog Posts
 - **Location**: Posts are stored in `src/content/post/`
-- **Organization**: Posts are organized by year in subdirectories: `yyyy/`
+- **Organization**: Posts are organized by year in subdirectories: `yyyy/mm`
 - **Naming**: Post files should follow a descriptive naming convention
 - **Format**: Posts are written in Markdown (.md) or MDX (.mdx) format
 - **Frontmatter**: Each post requires frontmatter with metadata (title, date, description, etc.)
@@ -23,6 +23,7 @@ This is an Astro-based static site generator blog with the following key charact
 #### Post Categories
 Posts are organized using the following standardized categories in the frontmatter:
 
+- **`ai`** - Artificial Intelligence, machine learning, AI tools, GitHub Copilot, vibe coding.
 - **`books`** - Book reviews, reading recommendations, technical books
 - **`dotnet`** - .NET development, C#, Microsoft technologies
 - **`gadgets`** - Hardware reviews, devices, electronics
@@ -58,6 +59,7 @@ description: "Short description of the post summarizing the content"
 categories: ["git", "technology", "books", "dotnet", "maker", "web", "personal", "github"]
 tags: ["git", "technology", "books", "dotnet", "maker", "web", "personal", "github"]
 type: "regular" # available type (regular or featured)
+blueskyPostURI: ""
 draft: false
 ---
 ```

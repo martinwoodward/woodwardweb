@@ -14,6 +14,7 @@ interface Props {
   class?: string;
   style?: any;
   quality?: number;
+  id?: string;
 }
 
 // Destructuring Astro.props to get the component's props
@@ -28,6 +29,7 @@ let {
   format,
   style,
   quality,
+  id,
 } = Astro.props;
 
 src = `/public${src}`;
@@ -48,6 +50,7 @@ const isValidPath = images[src] ? true : false;
 {
   isValidPath && (
     <Image
+      id={id}
       src={images[src]() as Promise<{ default: ImageMetadata }>}
       alt={alt}
       width={width}

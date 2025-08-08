@@ -21,6 +21,6 @@
       "secondary": "Hubot Sans:wght@400",
       "secondary_type": "sans-serif"
     },
-    "font_size": { "base": "16", "scale": "1.2" }
+    "font_size": { "base": "20", "scale": "1.1" }
   }
 }
