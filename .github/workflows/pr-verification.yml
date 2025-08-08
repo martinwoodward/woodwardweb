@@ -1,0 +1,185 @@
+name: PR Verification
+
+on:
+  pull_request:
+    branches: ["main"]
+    types: [opened, synchronize, reopened, ready_for_review]
+
+# Cancel in-progress runs when a new commit is pushed
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+env:
+  BUILD_PATH: "."
+
+jobs:
+  verify-build:
+    name: Verify Astro Build
+    runs-on: ubuntu-latest
+    if: github.event.pull_request.draft == false
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: 'npm'
+          
+      - name: Install dependencies
+        run: npm ci
+        working-directory: ${{ env.BUILD_PATH }}
+        
+      - name: Generate JSON and run Astro checks
+        run: |
+          npm run generate-json
+          npx astro check
+        working-directory: ${{ env.BUILD_PATH }}
+        
+      - name: Build Astro site
+        run: |
+          npx astro build \
+            --site "https://martinwoodward.github.io" \
+            --base ""
+        working-directory: ${{ env.BUILD_PATH }}
+        
+      - name: Setup Chrome for screenshot
+        uses: browser-actions/setup-chrome@latest
+        with:
+          chrome-version: stable
+          
+      - name: Start preview server
+        run: |
+          # Start the preview server in the background
+          npx astro preview --port 4321 --host 0.0.0.0 &
+          
+          # Wait for server to be ready
+          timeout 60 bash -c 'until curl -s http://localhost:4321 > /dev/null; do sleep 1; done'
+        working-directory: ${{ env.BUILD_PATH }}
+        
+      - name: Take homepage screenshot
+        run: |
+          # Create screenshots directory
+          mkdir -p screenshots
+          
+          # Take screenshot of homepage using Chrome headless
+          google-chrome --headless --disable-gpu --disable-software-rasterizer \
+            --disable-dev-shm-usage --no-sandbox \
+            --window-size=1200,800 \
+            --screenshot=screenshots/homepage.png \
+            http://localhost:4321/
+            
+          # Also take a full page screenshot for reference
+          google-chrome --headless --disable-gpu --disable-software-rasterizer \
+            --disable-dev-shm-usage --no-sandbox \
+            --window-size=1200,800 \
+            --screenshot=screenshots/homepage-full.png \
+            --full-page \
+            http://localhost:4321/
+            
+          # Verify screenshots were created
+          ls -la screenshots/
+        working-directory: ${{ env.BUILD_PATH }}
+        
+      - name: Upload screenshots as artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: homepage-screenshots
+          path: |
+            ${{ env.BUILD_PATH }}/screenshots/
+          retention-days: 30
+          
+      - name: Upload build artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: astro-build
+          path: |
+            ${{ env.BUILD_PATH }}/dist/
+          retention-days: 7
+          
+      - name: Create build summary
+        run: |
+          # Start the summary
+          echo "# 🚀 Astro Build Verification Complete" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "The Astro build completed successfully for this PR!" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          
+          # Add build info
+          echo "## 📊 Build Information" >> $GITHUB_STEP_SUMMARY
+          echo "- **Branch:** \`${{ github.head_ref }}\`" >> $GITHUB_STEP_SUMMARY
+          echo "- **Commit:** \`${{ github.sha }}\`" >> $GITHUB_STEP_SUMMARY
+          echo "- **Node Version:** \`$(node --version)\`" >> $GITHUB_STEP_SUMMARY
+          echo "- **Build Time:** \`$(date)\`" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          
+          # Add screenshot section
+          echo "## 📸 Homepage Screenshot" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "Below is a screenshot of the homepage after the build:" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          
+          # Convert screenshot to base64 for inline display
+          if [ -f "screenshots/homepage.png" ]; then
+            SCREENSHOT_BASE64=$(base64 -w 0 screenshots/homepage.png)
+            echo "![Homepage Screenshot](data:image/png;base64,${SCREENSHOT_BASE64})" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "❌ Screenshot not available" >> $GITHUB_STEP_SUMMARY
+          fi
+          
+          echo "" >> $GITHUB_STEP_SUMMARY
+          
+          # Add artifacts info
+          echo "## 📦 Artifacts" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "The following artifacts are available for download:" >> $GITHUB_STEP_SUMMARY
+          echo "- **Homepage Screenshots**: Contains screenshots of the homepage in PNG format" >> $GITHUB_STEP_SUMMARY
+          echo "- **Astro Build**: Contains the complete built site ready for deployment" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          
+          # Add file count
+          if [ -d "dist" ]; then
+            FILE_COUNT=$(find dist -type f | wc -l)
+            echo "- **Files Generated**: ${FILE_COUNT} files" >> $GITHUB_STEP_SUMMARY
+            
+            # Get build size
+            BUILD_SIZE=$(du -sh dist | cut -f1)
+            echo "- **Build Size**: ${BUILD_SIZE}" >> $GITHUB_STEP_SUMMARY
+          fi
+          
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "✅ **Build verification passed!** The site is ready for deployment." >> $GITHUB_STEP_SUMMARY
+        working-directory: ${{ env.BUILD_PATH }}
+
+  lint-and-format:
+    name: Code Quality Checks
+    runs-on: ubuntu-latest
+    if: github.event.pull_request.draft == false
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: 'npm'
+          
+      - name: Install dependencies
+        run: npm ci
+        working-directory: ${{ env.BUILD_PATH }}
+        
+      - name: Run Prettier format check
+        run: |
+          # Check if code is properly formatted
+          npx prettier --check ./src
+        working-directory: ${{ env.BUILD_PATH }}
+        
+      - name: TypeScript type check
+        run: |
+          npx astro check
+        working-directory: ${{ env.BUILD_PATH }}
