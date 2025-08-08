@@ -31,13 +31,14 @@ const {
         <ImageMod
           id="logo-default"
           src={src ? src : logo}
-          class="transition-opacity duration-300"
+          class="transition-all duration-300 ease-out"
           width={logo_width.replace("px", "") * 2}
           height={logo_height.replace("px", "") * 2}
           alt={title}
           style={{
             height: logo_height.replace("px", "") + "px",
             width: logo_width.replace("px", "") + "px",
+            transform: "translateY(0) scale(1)",
           }}
           format="webp"
           quality={90}
@@ -45,13 +46,14 @@ const {
         <ImageMod
           id="logo-horizontal"
           src={logo_horizontal}
-          class="transition-opacity duration-300 opacity-0 absolute top-1/2 left-0 transform -translate-y-1/2"
+          class="transition-all duration-300 ease-out opacity-0 absolute top-1/2 left-0 transform -translate-y-1/2"
           width={logo_horizontal_width.replace("px", "") * 2}
           height={logo_horizontal_height.replace("px", "") * 2}
           alt={title}
           style={{
             height: logo_horizontal_height.replace("px", "") + "px",
             width: logo_horizontal_width.replace("px", "") + "px",
+            transform: "translateY(10px) scale(0.9)",
           }}
           format="webp"
           quality={90}

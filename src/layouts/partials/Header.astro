@@ -107,7 +107,10 @@ const { pathname } = Astro.url;
       
       if (!isScrolled && scrollY > scrollDownThreshold) {
         isScrolled = true;
+        // Animate to horizontal logo
+        logoDefault.style.transform = "translateY(-10px) scale(0.9)";
         logoDefault.style.opacity = "0";
+        logoHorizontal.style.transform = "translateY(0) scale(1)";
         logoHorizontal.style.opacity = "1";
         header.classList.add("header-scrolled");
         // Remove padding classes that make header tall
@@ -117,8 +120,11 @@ const { pathname } = Astro.url;
         }
       } else if (isScrolled && scrollY < scrollUpThreshold) {
         isScrolled = false;
-        logoDefault.style.opacity = "1";
+        // Animate to default logo
+        logoHorizontal.style.transform = "translateY(10px) scale(0.9)";
         logoHorizontal.style.opacity = "0";
+        logoDefault.style.transform = "translateY(0) scale(1)";
+        logoDefault.style.opacity = "1";
         header.classList.remove("header-scrolled");
         // Restore original padding
         if (navMenu) {
