@@ -11,6 +11,11 @@ export default defineConfig({
   site: 'https://woodwardweb.com',
   markdown: {
     remarkPlugins: [remarkGfm, remarkEmoji],
+    syntaxHighlight: 'shiki',
+    shikiConfig: {
+      theme: 'github-dark',
+      wrap: true
+    }
   },
   integrations: [
     AutoImport({
@@ -29,6 +34,11 @@ export default defineConfig({
     react(),
     mdx({
       remarkPlugins: [remarkGfm, remarkEmoji],
+      syntaxHighlight: 'shiki',
+      shikiConfig: {
+        theme: 'github-dark',
+        wrap: true
+      }
     })
   ],
   vite: {
