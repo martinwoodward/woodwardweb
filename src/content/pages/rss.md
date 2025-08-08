@@ -12,6 +12,7 @@ Stay updated with the latest posts by subscribing to our RSS feeds. Choose the f
 ## Main Feeds
 
 ### [All Posts RSS Feed](/rss.xml)
+
 Subscribe to get all published blog posts delivered to your RSS reader.
 
 # Category Feeds
@@ -21,7 +22,7 @@ You can also subscribe to specific category feeds to get posts only from topics 
 - Photography: `/rss/photography.xml`
 - Test: `/rss/test.xml`
 
-*Note: Category feeds are automatically generated based on the categories used in blog posts. Replace spaces with hyphens and use lowercase letters in the URL.*
+_Note: Category feeds are automatically generated based on the categories used in blog posts. Replace spaces with hyphens and use lowercase letters in the URL._
 
 ## How to Use RSS Feeds
 

@@ -14,6 +14,7 @@ tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-I just found out about the following project going on at CodePlex out of the patterns and practices project which find a very interesting idea that I am going to try and find out if I can contribute to:-  
+
+I just found out about the following project going on at CodePlex out of the patterns and practices project which find a very interesting idea that I am going to try and find out if I can contribute to:-
 
 VSTSGuidance: [http://www.codeplex.com/VSTSGuidance](http://www.codeplex.com/VSTSGuidance)

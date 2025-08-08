@@ -14,4 +14,5 @@ tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-Excellent Google Hack via [Scott Hanselman](http://www.hanselman.com/blog/). Take a look at [my guestmap](#)    Let me know where you live!  It's a bit buggy and performance isn't great - but still pretty good.
+
+Excellent Google Hack via [Scott Hanselman](http://www.hanselman.com/blog/). Take a look at [my guestmap](#) Let me know where you live! It's a bit buggy and performance isn't great - but still pretty good.

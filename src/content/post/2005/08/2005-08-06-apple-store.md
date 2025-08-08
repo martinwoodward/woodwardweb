@@ -14,4 +14,5 @@ tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
+
 Now I'm in the Apple Store in Chicago - sweet!!

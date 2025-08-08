@@ -10,17 +10,27 @@ author: "Martin Woodward"
 description: "Learn how I automated my blog's social media workflow using GitHub Actions and GitHub Models to post to BlueSky and automatically embed social engagement back into the blog posts"
 # Taxonomies
 categories: ["technology", "web", "github"]
-tags: ["bluesky", "automation", "github-actions", "github-models", "ai", "social-media", "astro", "blog"]
+tags:
+  [
+    "bluesky",
+    "automation",
+    "github-actions",
+    "github-models",
+    "ai",
+    "social-media",
+    "astro",
+    "blog",
+  ]
 type: "regular"
 blueskyPostURI: "3lvrk6viyag2t"
 draft: false
 ---
 
-Thanks to the power of GitHub Copilot's Agent mode, I've recently created a new blog using Astro and ported all 521 of my old blog posts from a HTML archive into the new site.  
+Thanks to the power of GitHub Copilot's Agent mode, I've recently created a new blog using Astro and ported all 521 of my old blog posts from a HTML archive into the new site.
 
-Thanks to the amazing work by [whitep4nth3r](https://whitep4nth3r.com/blog/show-bluesky-likes-on-blog-posts/#i-used-client-side-javascript) and with inspiration from [Ashley Willis](https://github.com/ashleymcnamara/ashley.dev/blob/main/src/components/BlueskyLikes.astro) I've added integration with BlueSky to show likes and comments.  But that requires me to remember to post the blog to BlueSky, manually copy the post ID and then republish the site.
+Thanks to the amazing work by [whitep4nth3r](https://whitep4nth3r.com/blog/show-bluesky-likes-on-blog-posts/#i-used-client-side-javascript) and with inspiration from [Ashley Willis](https://github.com/ashleymcnamara/ashley.dev/blob/main/src/components/BlueskyLikes.astro) I've added integration with BlueSky to show likes and comments. But that requires me to remember to post the blog to BlueSky, manually copy the post ID and then republish the site.
 
-This evening I've been tinkering with an automated workflow that bridges the gap between my blog and BlueSky social media platform. 
+This evening I've been tinkering with an automated workflow that bridges the gap between my blog and BlueSky social media platform.
 The result is a system that automatically posts new blog entries to BlueSky using AI-generated social media text powered by GitHub Models, then updates the blog post to display likes and comments from the social platform.
 
 It's still a work in progress that I'm ironing out, but here's how it all works currently.
@@ -58,7 +68,7 @@ done
 
 ### Step 2: AI-Generated Social Media Text
 
-This is where the magic happens. With the appropriate permission granted, GitHub Actions can talk to GitHub Models using the ```GITHUB_TOKEN```. There is a pretty healthy free allowance and a huge set of models. At the moment I'm using GPT-4.1 to analyses the blog post content and generates contextual social media text. Probably overkill on the model front and could go for a smaller one - but working great for now:
+This is where the magic happens. With the appropriate permission granted, GitHub Actions can talk to GitHub Models using the `GITHUB_TOKEN`. There is a pretty healthy free allowance and a huge set of models. At the moment I'm using GPT-4.1 to analyses the blog post content and generates contextual social media text. Probably overkill on the model front and could go for a smaller one - but working great for now:
 
 ```bash
 # Extract post metadata and content
@@ -67,9 +77,9 @@ POST_DESCRIPTION=$(grep "^description:" "$post_file")
 POST_CATEGORIES=$(grep "^categories:" "$post_file")
 
 # Create enhanced prompt with post context
-PROMPT="Write a short, engaging social media post (under 250 characters) for a new blog post. 
-Use UK english, never use emdash and only use hashtags sparingly. 
-Title: $POST_TITLE. Description: $POST_DESCRIPTION. Categories: $POST_CATEGORIES. 
+PROMPT="Write a short, engaging social media post (under 250 characters) for a new blog post.
+Use UK english, never use emdash and only use hashtags sparingly.
+Title: $POST_TITLE. Description: $POST_DESCRIPTION. Categories: $POST_CATEGORIES.
 Make it conversational and include relevant hashtags. Don't include the URL."
 
 # Call GitHub Models API
@@ -135,10 +145,11 @@ const threadURL = `${BSKY_PUBLIC_API}app.bsky.feed.getPostThread?uri=${postURI}`
 ```
 
 ## The UK English Touch
+
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDF5Zzhjd2dkbGxwNXd0Zno1aDI0dGR5dGg1eHJhZ2Uzc3U4ZGxnMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xGocUH8RYoDKKs/giphy.gif" alt="Just my cup of tea" />
 
 One delightful detail: the AI is specifically prompted to use UK English spelling and avoid em-dashes (which I find jarring in social media contexts). This ensures the generated content maintains consistency with my writing style and preferences. I can tweak the prompt as we go to make it more like me.
 
 The entire system is open source and built on GitHub's infrastructure, making it accessible to any developer with a GitHub login and a BlueSky account.
 
-This post hopefully demonstrates the system in action - it was automatically posted to BlueSky with AI-generated text, and you should see the social engagement displayed below.  You can find the source of my CI workflow [here](https://github.com/martinwoodward/martinwoodward.github.io/blob/main/.github/workflows/ci.yml).
+This post hopefully demonstrates the system in action - it was automatically posted to BlueSky with AI-generated text, and you should see the social engagement displayed below. You can find the source of my CI workflow [here](https://github.com/martinwoodward/martinwoodward.github.io/blob/main/.github/workflows/ci.yml).
