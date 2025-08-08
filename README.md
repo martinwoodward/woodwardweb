@@ -45,6 +45,22 @@ This project is based on the **Logbook Astro** template by Themefisher. You can 
 
 4. **Open your browser** and navigate to `http://localhost:4321` to see the site running locally.
 
+### Development Container (Recommended)
+
+For a consistent development experience, this repository includes a VS Code development container configuration:
+
+1. **Open in VS Code** with the [Dev Containers extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) installed
+2. **Reopen in Container** when prompted (or use Command Palette: "Dev Containers: Reopen in Container")
+3. **Automatic setup** - dependencies are installed automatically and VS Code is configured with Astro-specific extensions
+
+This provides:
+- Node.js 20 environment
+- Pre-configured VS Code extensions for Astro, TypeScript, Tailwind CSS, and MDX
+- Automatic port forwarding for the development server
+- Consistent development environment across all contributors
+
+See [.devcontainer/README.md](.devcontainer/README.md) for detailed information.
+
 ### Available Scripts
 
 - `npm run dev` - Start the development server
