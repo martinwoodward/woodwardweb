@@ -48,7 +48,7 @@ h6:not([class*="primer"]),
 
 /* Keep fallback styles for non-Primer paragraphs */
 p:not([class*="primer"]) {
-  @apply font-normal text-[14px];
+  @apply font-normal text-[16px];
 }
 
 b,
