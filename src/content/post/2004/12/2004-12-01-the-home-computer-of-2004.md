@@ -14,8 +14,9 @@ tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-[](http://www.woodwardweb.com/images/blog/1954Popularmechanics.html)Got forwarded this today, apparently from a 1954 Popular Mechanics magazine. 
 
-"...how a 'home computer' could look like in the year 2004.  With teletype interface and the Fortran language, the computer will be easy to use."
+[](http://www.woodwardweb.com/images/blog/1954Popularmechanics.html)Got forwarded this today, apparently from a 1954 Popular Mechanics magazine.
 
-I thought that the image looked a bit suspicious, the paper was a bit funny at the bottom of the teletype.  One quick search on google later and an interesting story emerges...
+"...how a 'home computer' could look like in the year 2004. With teletype interface and the Fortran language, the computer will be easy to use."
+
+I thought that the image looked a bit suspicious, the paper was a bit funny at the bottom of the teletype. One quick search on google later and an interesting story emerges...

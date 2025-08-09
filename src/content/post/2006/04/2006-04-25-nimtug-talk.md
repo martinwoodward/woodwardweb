@@ -9,16 +9,27 @@ author: "Martin Woodward"
 # description
 description: "Reflecting on a lively Belfast talk, I share my slide deck and useful resources on Team Foundation Server for further exploration."
 # Taxonomies
-categories: ["tfs", "technology", "books", "dotnet", "teamprise", "web", "podcast", "personal"]
+categories:
+  [
+    "tfs",
+    "technology",
+    "books",
+    "dotnet",
+    "teamprise",
+    "web",
+    "podcast",
+    "personal",
+  ]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-Thanks to everyone that came along to my talk in Belfast last night.  It was great to catch up with some old friends and good fun to stand up in front of my home crowd.
+
+Thanks to everyone that came along to my talk in Belfast last night. It was great to catch up with some old friends and good fun to stand up in front of my home crowd.
 
 As promised, here is the copy of the slide deck as a [zipped PowerPoint File (2.4 MB)](http://www.woodwardweb.com/blog/SourceControl101WithTFS_BELFAST.zip) and some links for further reading:-
 
-[Eric Sink’s SourceControl HOWTO](http://software.ericsink.com/scm/source_control.html) – a series of great source control posts from my boss. 
+[Eric Sink’s SourceControl HOWTO](http://software.ericsink.com/scm/source_control.html) – a series of great source control posts from my boss.
 [Rob Caron’s Blog ](http://blogs.msdn.com/robcaron/default.aspx)– The “Team System Blogfather” and all round nice chap (with Irish roots might I add)
 [Team System Rocks](http://teamsystemrocks.com/default.aspx) – Great VSTS community site.
 [CruiseControl.NET Plugin for TFS](http://vstsplugins.sourceforge.net/)

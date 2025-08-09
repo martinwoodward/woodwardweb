@@ -14,10 +14,11 @@ tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-I got an IM message from fellow Team System MVP [Grant Holliday](http://ozgrant.com/) this morning prompting me to log-in to [MSDN Subscription Downloads](http://msdn2.microsoft.com/en-gb/vstudio/aa718656.aspx) and see what was new - lo and behold I'm downloading VSTS 2008 as we speak ;-) 
 
-I am currently getting above 220 Kb/sec download which is close to the maximum I ever get on my DSL line so they are obviously doing something special with the 2008 release to get it in everyone's hands as quick as possible. 
+I got an IM message from fellow Team System MVP [Grant Holliday](http://ozgrant.com/) this morning prompting me to log-in to [MSDN Subscription Downloads](http://msdn2.microsoft.com/en-gb/vstudio/aa718656.aspx) and see what was new - lo and behold I'm downloading VSTS 2008 as we speak ;-)
 
-The betas of VSTS 2008 have proved to be very solid and I am looking forward to taking the released version for a spin.  I'm actually doing [a talk at my local user group (NIMTUG) tonight](http://nimtug.org/events/45/default.aspx) and I'm sorely tempted to see if I can give them an exclusive first look ;-) 
+I am currently getting above 220 Kb/sec download which is close to the maximum I ever get on my DSL line so they are obviously doing something special with the 2008 release to get it in everyone's hands as quick as possible.
+
+The betas of VSTS 2008 have proved to be very solid and I am looking forward to taking the released version for a spin. I'm actually doing [a talk at my local user group (NIMTUG) tonight](http://nimtug.org/events/45/default.aspx) and I'm sorely tempted to see if I can give them an exclusive first look ;-)
 
 Congratulations to the team at Microsoft!

@@ -14,7 +14,8 @@ tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-Been using Visual Studio 2003 lately, not a bad editor (no where near as good as [intellij](http://www.jetbrains.com/idea/) for Java for pretty good).  Today, all of a sudden the autocomplete feature - called Intellisense (TM - M$) stopped working.  Now normally, this is because of an error earlier in the code, not yet displayed to you (dumb).  However this time my project was building fine, just no auto-complete.  After much scratching of heads, the following seems to work:-
+
+Been using Visual Studio 2003 lately, not a bad editor (no where near as good as [intellij](http://www.jetbrains.com/idea/) for Java for pretty good). Today, all of a sudden the autocomplete feature - called Intellisense (TM - M$) stopped working. Now normally, this is because of an error earlier in the code, not yet displayed to you (dumb). However this time my project was building fine, just no auto-complete. After much scratching of heads, the following seems to work:-
 
 Shut down Visual Studio .NET
 
@@ -24,4 +25,4 @@ Delete the bin and obj directories from within the project that is causing probl
 
 Start up Visual Studio
 
-Alternatively, you could install [Resharper](http://www.jetbrains.com/resharper/), which is also from Jetbrains and seems to put most of the stuff that was in IntelliJ into Visual Studio, and so far works a treat.  Infact I think that Ctrl-Shift-N could well be the new Ctrl-Shift-N
+Alternatively, you could install [Resharper](http://www.jetbrains.com/resharper/), which is also from Jetbrains and seems to put most of the stuff that was in IntelliJ into Visual Studio, and so far works a treat. Infact I think that Ctrl-Shift-N could well be the new Ctrl-Shift-N

@@ -10,15 +10,30 @@ author: "Martin Woodward"
 description: "A fun Halloween project combining a Raspberry Pi, Unicorn HAT, and a pumpkin to create a spooky build status indicator that glows different colours based on your CI/CD pipeline status."
 # Taxonomies
 categories: ["maker", "programming", "github", "technology"]
-tags: ["raspberry-pi", "python", "halloween", "ci-cd", "maker", "diy", "hardware", "github-actions"]
+tags:
+  [
+    "raspberry-pi",
+    "python",
+    "halloween",
+    "ci-cd",
+    "maker",
+    "diy",
+    "hardware",
+    "github-actions",
+  ]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
+
 import Youtube from "../../../layouts/shortcodes/Youtube.tsx";
 
 Halloween is the perfect time to combine technology with spookiness, and this year I've created something rather special: a build status indicator that brings your CI/CD pipeline to life in the most festive way possible. Meet **PumpkinPi** - a Raspberry Pi-powered pumpkin that glows different colours to show whether your builds are passing or failing.
 
-<Youtube client:load id="4i2JAVgHE-w" title="PumpkinPi Build Status Indicator" />
+<Youtube
+  client:load
+  id="4i2JAVgHE-w"
+  title="PumpkinPi Build Status Indicator"
+/>
 
 ## The Concept
 
@@ -126,7 +141,7 @@ The 10-second delay allows the network to come up before the script starts monit
 When everything's working, you'll have a delightfully spooky build status indicator that:
 
 - **Glows green** when your builds are passing
-- **Shows orange** for warnings or unstable builds  
+- **Shows orange** for warnings or unstable builds
 - **Flashes red** when builds fail
 - **Displays flame effects** for really catastrophic failures
 
@@ -148,4 +163,4 @@ Whether you carve a real pumpkin or 3D print a precision case, PumpkinPi is a fu
 
 ---
 
-*For electronics purchases, I highly recommend [AdaFruit](https://www.adafruit.com/) in the US and [The Pi Hut](https://thepihut.com/) in the UK. They're fantastic suppliers who really know their stuff.*
+_For electronics purchases, I highly recommend [AdaFruit](https://www.adafruit.com/) in the US and [The Pi Hut](https://thepihut.com/) in the UK. They're fantastic suppliers who really know their stuff._

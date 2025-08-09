@@ -9,18 +9,20 @@ author: "Martin Woodward"
 # description
 description: "At the Cork INDA talk, a passionate audience engaged deeply with Source Control discussions, showcasing dedication despite the lovely weather."
 # Taxonomies
-categories: ["tfs", "technology", "books", "dotnet", "teamprise", "web", "personal"]
+categories:
+  ["tfs", "technology", "books", "dotnet", "teamprise", "web", "personal"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-Tonight I [spoke at the Cork INDA group](http://www.developers.ie/session.aspx?s=47).  Despite the excellent weather outside loads of people turned up and sat in on a talk on Source Control, which shows true dedication (especially from the folks standing at the back).  I particularly enjoyed it that the audience asked loads of questions that got us off onto interesting tangents.  Thanks again to [Joe](http://developers.ie/blogs/joegill/) for organising everything.
 
-I arrived in Cork city early this morning and it is a very pleasant place to hang out.  If you are a geek in the city then I would recommend sitting in the [Clarion Hotel](http://www.clarioncork.com/) as it is a very pleasant environment to work with free Wifi and they serve an excellent cup of hot tea.  Anyone who knows the Marketing manager for [Teamprise](http://www.teamprise.com/) will know that he has great taste in hotels and the Clarion is one he would like.  Sadly, when I’m booking hotels myself I tend to go a little more low-budget, but the one I am currently sitting in has plenty of old world charm.  Cork also has a municipal Wifi service – while you have to pay €10 a day to access that, the signal strength is pretty good from the hotel room from which I write this post.
+Tonight I [spoke at the Cork INDA group](http://www.developers.ie/session.aspx?s=47). Despite the excellent weather outside loads of people turned up and sat in on a talk on Source Control, which shows true dedication (especially from the folks standing at the back). I particularly enjoyed it that the audience asked loads of questions that got us off onto interesting tangents. Thanks again to [Joe](http://developers.ie/blogs/joegill/) for organising everything.
 
-As promised, here is the slide deck as a [zipped Powerpoint file (2196 KB)](http://www.woodwardweb.com/blog/SourceControl101WithTFS_CORK.zip)  – also some useful links that were mentioned during questions.
+I arrived in Cork city early this morning and it is a very pleasant place to hang out. If you are a geek in the city then I would recommend sitting in the [Clarion Hotel](http://www.clarioncork.com/) as it is a very pleasant environment to work with free Wifi and they serve an excellent cup of hot tea. Anyone who knows the Marketing manager for [Teamprise](http://www.teamprise.com/) will know that he has great taste in hotels and the Clarion is one he would like. Sadly, when I’m booking hotels myself I tend to go a little more low-budget, but the one I am currently sitting in has plenty of old world charm. Cork also has a municipal Wifi service – while you have to pay €10 a day to access that, the signal strength is pretty good from the hotel room from which I write this post.
 
-[Eric Sink’s SourceControl HOWTO](http://software.ericsink.com/scm/source_control.html) – a series of great source control posts from my boss. 
+As promised, here is the slide deck as a [zipped Powerpoint file (2196 KB)](http://www.woodwardweb.com/blog/SourceControl101WithTFS_CORK.zip) – also some useful links that were mentioned during questions.
+
+[Eric Sink’s SourceControl HOWTO](http://software.ericsink.com/scm/source_control.html) – a series of great source control posts from my boss.
 [Rob Caron’s Blog ](http://blogs.msdn.com/robcaron/default.aspx)– The “Team System Blogfather” and all round nice chap (with Irish roots might I add)
 [Team System Rocks](http://teamsystemrocks.com/default.aspx) – Great VSTS community site maintained by Team System MVP [Mickey Gousset](http://teamsystemrocks.com/blogs/mickey_gousset/default.aspx).
 [CruiseControl.NET Plugin for TFS](http://vstsplugins.sourceforge.net/)

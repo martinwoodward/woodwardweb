@@ -14,6 +14,7 @@ tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-[Jetbrains](http://www.jetbrains.com/) have announced the [plan for Resharper 2.0](http://www.jetbrains.net/confluence/display/ReSharper/ReSharper+2.0+Plan), including the much awaited support for Visual Studio 2005!.  Fantastic news as VS 2005 without resharper is worse than VS 2003 in my humble opinion. (I'd forgotton just how much Resharper does for you!)  The full plan is posted [here](http://www.jetbrains.net/confluence/display/ReSharper/ReSharper+2.0+Plan).
+
+[Jetbrains](http://www.jetbrains.com/) have announced the [plan for Resharper 2.0](http://www.jetbrains.net/confluence/display/ReSharper/ReSharper+2.0+Plan), including the much awaited support for Visual Studio 2005!. Fantastic news as VS 2005 without resharper is worse than VS 2003 in my humble opinion. (I'd forgotton just how much Resharper does for you!) The full plan is posted [here](http://www.jetbrains.net/confluence/display/ReSharper/ReSharper+2.0+Plan).
 
 EAP for it will start in about a month and complete set of features will be implemented by the middle of summer. The release is planned for the autumn (about the same time as the release of Visual Studio 2005).

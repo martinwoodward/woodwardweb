@@ -14,4 +14,5 @@ tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
+
 If you want to know more about what I’ve been up to lately, then take a look at Ben’s [latest post](http://www.benpryor.com/blog/index.php?/archives/10-What-is-Teamprise.html).

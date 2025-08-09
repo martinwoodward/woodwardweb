@@ -14,4 +14,5 @@ tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
+
 Demonstration of the [CONTENTEDITABLE](http://msdn.microsoft.com/workshop/author/dhtml/reference/properties/contentEditable.asp) attribute that was introduced in IE 5.5 [Show Example](/sandbox/htmledit.html).
