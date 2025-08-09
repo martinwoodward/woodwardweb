@@ -10,17 +10,7 @@ author: "Martin Woodward"
 description: "Step-by-step instructions for building an Octolamp - a 3D printable, GitHub-themed, WiFi-enabled smart light powered by WLED and compatible with Home Assistant"
 # Taxonomies
 categories: ["maker", "github", "technology"]
-tags:
-  [
-    "3d-printing",
-    "led",
-    "wled",
-    "esp8266",
-    "diy",
-    "github",
-    "smart-home",
-    "maker",
-  ]
+tags: ["3d-printing", "led", "wled", "esp8266", "diy", "github", "smart-home", "maker"]
 type: "regular"
 blueskyPostURI: "3juk7ac3rb42u"
 draft: false
@@ -137,7 +127,6 @@ Power up your device - you should see about half your LEDs glowing orange (this 
 4. **Save settings**: Click Save - now all your LEDs should light up orange
 
 Now comes the fun part! Explore WLED's incredible effects library. You can create:
-
 - Smooth color transitions
 - Reactive audio effects
 - Custom patterns and animations
@@ -157,14 +146,12 @@ This is where the Octolamp really shines. With WLED's API and webhook support, y
 ## Sharing Your Creation
 
 I'd love to see your finished Octolamp! Share photos in the [project discussions](https://github.com/martinwoodward/octolamp/discussions) or tag me on social media:
-
 - Mastodon: [@martinwoodward@hachyderm.io](https://hachyderm.io/@martinwoodward)
 - Twitter: [@martinwoodward](https://twitter.com/martinwoodward)
 
 ## Design Notes
 
 The Octolamp model includes several thoughtful features:
-
 - **Wall mounting options** for different installation scenarios
 - **Multiple USB cable routing paths** to suit your setup
 - **Tool-free assembly** with snap-fit connections

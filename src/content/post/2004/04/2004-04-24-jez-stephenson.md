@@ -14,5 +14,4 @@ tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
-[Jez Stephenson](http://www.mtbroutes.com) has done a rather fantastic [Mountain Bike Routes](http://www.mtbroutes.com) site. He keeps adding stuff to it so if exercise is your thing (you crazy fool) then take a look.
+[Jez Stephenson](http://www.mtbroutes.com) has done a rather fantastic [Mountain Bike Routes](http://www.mtbroutes.com) site.  He keeps adding stuff to it so if exercise is your thing (you crazy fool) then take a look.

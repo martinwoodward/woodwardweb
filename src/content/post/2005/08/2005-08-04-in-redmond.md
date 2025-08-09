@@ -14,5 +14,4 @@ tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
-Just a quick post from inside the MS Vistor Centre in Redmond. Just seen a Compaq Luggable I still have in my Dad's loft inside a museum exibit - that's bad. Anyway, I'm now heading back to the office, then back to Chicago at the weekend.
+Just a quick post from inside the MS Vistor Centre in Redmond.  Just seen a Compaq Luggable I still have in my Dad's loft inside a museum exibit - that's bad.  Anyway, I'm now heading back to the office, then back to Chicago at the weekend.

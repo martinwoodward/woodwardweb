@@ -14,5 +14,4 @@ tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
-[](http://www.woodwardweb.com/images/blog/john_peel_memorial.html)I've been meaning to post about this for a while. While driving into Belfast I spotted this bit of grafitti. In a city infamous for murials of a different kind, I think John may have appreciated the tribute.
+[](http://www.woodwardweb.com/images/blog/john_peel_memorial.html)I've been meaning to post about this for a while.  While driving into Belfast I spotted this bit of grafitti.  In a city infamous for murials of a different kind, I think John may have appreciated the tribute.

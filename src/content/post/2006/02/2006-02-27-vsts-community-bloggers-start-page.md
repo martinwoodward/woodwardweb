@@ -14,12 +14,11 @@ tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
+[](http://feeds.feedburner.com/VstsBloggers) I have just added [Richard Hundhausen](http://blog.accentient.com/)’s excellent blog into the list of blogs that I slurp for the [VSTS Community Bloggers Google Toolbar button](http://www.woodwardweb.com/vsts/000188.html).  While I was there I made the blog a bit more reader friendly.  While not overly useful, it means that you can now customise your Visual Studio 2005 start page to show news from around the VSTS blogosphere.  
 
-[](http://feeds.feedburner.com/VstsBloggers) I have just added [Richard Hundhausen](http://blog.accentient.com/)’s excellent blog into the list of blogs that I slurp for the [VSTS Community Bloggers Google Toolbar button](http://www.woodwardweb.com/vsts/000188.html). While I was there I made the blog a bit more reader friendly. While not overly useful, it means that you can now customise your Visual Studio 2005 start page to show news from around the VSTS blogosphere.
+To customise the Visual Studio 2005 start page, go to Tools, Options…  In the dialog select Environment, Start Page and enter the feed address there.  My feed is available at [http://feeds.feedburner.com/VstsBloggers](http://feeds.feedburner.com/VstsBloggers)
 
-To customise the Visual Studio 2005 start page, go to Tools, Options… In the dialog select Environment, Start Page and enter the feed address there. My feed is available at [http://feeds.feedburner.com/VstsBloggers](http://feeds.feedburner.com/VstsBloggers)
-
-If you have a favourite feed that you want adding to the list of feeds then drop me a line or post a comment. For information, the following feeds are all ready included (in no particular order):-
+If you have a favourite feed that you want adding to the list of feeds then drop me a line or post a comment.  For information, the following feeds are all ready included (in no particular order):-
 
 [Rob Caron](http://blogs.msdn.com/robcaron/) – [http://blogs.msdn.com/robcaron/rss.aspx](http://blogs.msdn.com/robcaron/rss.aspx)
 [Team System Rocks](http://www.teamsystemrocks.com/) – [http://teamsystemrocks.com/blogs/team_system_news/rss.aspx](http://teamsystemrocks.com/blogs/team_system_news/rss.aspx)

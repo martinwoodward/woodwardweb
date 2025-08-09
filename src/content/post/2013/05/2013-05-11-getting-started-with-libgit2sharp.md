@@ -9,29 +9,18 @@ author: "Martin Woodward"
 # description
 description: "If you want to work with your local Git repositories in some."
 # Taxonomies
-categories:
-  [
-    "git",
-    "technology",
-    "books",
-    "dotnet",
-    "maker",
-    "web",
-    "programming",
-    "github",
-  ]
+categories: ["git", "technology", "books", "dotnet", "maker", "web", "programming", "github"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
+If you want to work with your local Git repositories in some .NET code then [LibGit2Sharp](https://github.com/libgit2/libgit2sharp) is your friend.  It’s the open source library used by the [Visual Studio Tools for Git](http://aka.ms/Git4VS) and gives you a very idiomatic way to talk to Git from C# or VB.NET.  I thought it would be worth a quick tutorial post showing how easy it is to get started by querying a repository helping us learn a bit about the library but also learn more about Git itself. As LibGit2Sharp is open source in this example I’m going to point to cloned copy of the repository I have locally already by using the Git tooling in Visual Studio or by typing git clone https://github.com/libgit2/libgit2sharp.git. However you can obviously point to any Git repository you already have locally.  
 
-If you want to work with your local Git repositories in some .NET code then [LibGit2Sharp](https://github.com/libgit2/libgit2sharp) is your friend. It’s the open source library used by the [Visual Studio Tools for Git](http://aka.ms/Git4VS) and gives you a very idiomatic way to talk to Git from C# or VB.NET. I thought it would be worth a quick tutorial post showing how easy it is to get started by querying a repository helping us learn a bit about the library but also learn more about Git itself. As LibGit2Sharp is open source in this example I’m going to point to cloned copy of the repository I have locally already by using the Git tooling in Visual Studio or by typing git clone https://github.com/libgit2/libgit2sharp.git. However you can obviously point to any Git repository you already have locally.
+To begin, create a new console project in Visual Studio. We need to add a reference to the Lib2Sharp library and the quickest way to do that is to open the NuGet package manager by right-clicking on your project in Solution Explorer and select Manage NuGet Packages…  Search online for “LibGit2Sharp” and Install.  
 
-To begin, create a new console project in Visual Studio. We need to add a reference to the Lib2Sharp library and the quickest way to do that is to open the NuGet package manager by right-clicking on your project in Solution Explorer and select Manage NuGet Packages… Search online for “LibGit2Sharp” and Install.
+[](http://www.woodwardweb.com/Windows-Live-Writer/Getting-Started-with-LibGit2Sharp_1091B/nuget_2.png)  
 
-[](http://www.woodwardweb.com/Windows-Live-Writer/Getting-Started-with-LibGit2Sharp_1091B/nuget_2.png)
-
-Then accessing an existing repo is trivial, simply use the LibGit2Sharp.Repository class. A handy way to get a particular commit is by its hash if you know it.
+Then accessing an existing repo is trivial, simply use the LibGit2Sharp.Repository class. A handy way to get a particular commit is by its hash if you know it.  
 
 ```csharp
       public static void Main(string[] args)
@@ -77,7 +66,7 @@ So if you want to list the contents at the root of the repository then you can d
         {
             Console.WriteLine("Path:{0} - Type:{1}", treeEntry.Path, treeEntry.TargetType);
         }
-```
+``` 
 
 That will give you something like the following when against the LibGit2Sharp repository
 
@@ -105,14 +94,14 @@ Path:nuget.package - Type:Tree
 Path:square-logo.png - Type:Blob
 ```
 
-To see which files changed in a particular commit. To do that we need to find the diff between the commit and it’s parent. For now let’s just assume that we have a single parent (i.e. we’re not a merge commit). Therefore we can do this
+To see which files changed in a particular commit.  To do that we need to find the diff between the commit and it’s parent. For now let’s just assume that we have a single parent (i.e. we’re not a merge commit). Therefore we can do this
 
 ```csharp
         Tree commitTree = repo.Head.Tip.Tree;
         Tree parentCommitTree = repo.Head.Tip.Parents.Single().Tree;
-
+ 
         TreeChanges changes = repo.Diff.Compare(parentCommitTree, commitTree);
-
+ 
         Console.WriteLine("{0} files changed.",changes.Count());
 ```
 
@@ -121,8 +110,8 @@ And finally to iterate over the changes to show what files changed in that commi
 ```csharp
         foreach(TreeEntryChanges treeEntryChanges in changes)
         {
-            Console.WriteLine("Path:{0} +{1} -{2} ",
-                    treeEntryChanges.Path,
+            Console.WriteLine("Path:{0} +{1} -{2} ", 
+                    treeEntryChanges.Path, 
                     treeEntryChanges.LinesAdded,
                     treeEntryChanges.LinesDeleted
                 );

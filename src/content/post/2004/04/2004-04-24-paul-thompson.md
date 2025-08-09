@@ -14,5 +14,4 @@ tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
-Visit [Paul Thompson](http://www.hollowearth.co.uk)'s excellent and sometimes disturbing site. His photographic artwork it superb as is his humour.
+Visit [Paul Thompson](http://www.hollowearth.co.uk)'s excellent and sometimes disturbing site.  His photographic artwork it superb as is his humour.

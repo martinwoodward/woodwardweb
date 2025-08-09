@@ -14,5 +14,4 @@ tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
-Now that the V1 of the [TFS Migration and Synchronization Toolkit](http://www.codeplex.com/MigrationSyncToolkit) is up and running on CodePlex, [Matt and the team](http://blogs.msdn.com/tfs_migration/) are looking for feedback on what systems you would like migration options allowing you to abandon your old system and move to TFS. Please spare a moment to take a look at the features suggested and [vote for your favorite](http://www.codeplex.com/MigrationSyncToolkit/WorkItem/List.aspx).
+Now that the V1 of the [TFS Migration and Synchronization Toolkit](http://www.codeplex.com/MigrationSyncToolkit) is up and running on CodePlex, [Matt and the team](http://blogs.msdn.com/tfs_migration/) are looking for feedback on what systems you would like migration options allowing you to abandon your old system and move to TFS.  Please spare a moment to take a look at the features suggested and [vote for your favorite](http://www.codeplex.com/MigrationSyncToolkit/WorkItem/List.aspx).

@@ -14,5 +14,4 @@ tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
-[Joe](http://jsango.blogspot.com/) has managed to get an article into the August edition [Dr Dobbs Journal](http://www.ddj.com/) about our [VSTSEclipse](http://www.vstseclipse.org) project. Good work fella! Now all we need to do is get it written...
+[Joe](http://jsango.blogspot.com/) has managed to get an article into the August edition [Dr Dobbs Journal](http://www.ddj.com/) about our [VSTSEclipse](http://www.vstseclipse.org) project.  Good work fella!  Now all we need to do is get it written...

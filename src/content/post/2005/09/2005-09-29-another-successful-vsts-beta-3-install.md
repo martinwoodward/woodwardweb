@@ -14,11 +14,10 @@ tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
+I know I probably shouldn't be this excited, but I've just installed VSTS B3 into a single VPC image, and it worked first time!!  
 
-I know I probably shouldn't be this excited, but I've just installed VSTS B3 into a single VPC image, and it worked first time!!
+Still a couple of funnies, reports don't seem to be working doesn't look fatal, probably a configuration setting missing somewhere but apart from that everything is good.  
 
-Still a couple of funnies, reports don't seem to be working doesn't look fatal, probably a configuration setting missing somewhere but apart from that everything is good.
+Now let's see how much the API's and web services have changed.  This beta is certainly significantly faster than Beta 2.
 
-Now let's see how much the API's and web services have changed. This beta is certainly significantly faster than Beta 2.
-
-**Update:** This is the work-around for the issue I was having. [Reporting problem with installing Beta 3 on a domain controller](http://blogs.msdn.com/robcaron/archive/2005/10/05/477565.aspx).
+**Update:**  This is the work-around for the issue I was having.  [Reporting problem with installing Beta 3 on a domain controller](http://blogs.msdn.com/robcaron/archive/2005/10/05/477565.aspx).

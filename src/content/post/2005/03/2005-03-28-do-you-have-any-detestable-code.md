@@ -14,7 +14,6 @@ tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 From [Martin Fowler](http://martinfowler.com/bliki/Detestable.html)'s site:
 
 **Detestable** (adjective): software that isn't testable.

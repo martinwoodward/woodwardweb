@@ -14,21 +14,20 @@ tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
+I’ve been running Eclipse Juno regularly since the M5 milestone.  One of the things I’ve really noticed is that the default theme for Eclipse Juno on Mac OS X blends in better with other Cocoa applications than Juno looks on my Windows machines. Today I just realised that this is because Eclipse is picking up the Eclipse “Windows XP Blue” theme by default. Below is a picture of Juno RC3 with a Windows Explorer window over it for comparison.  
 
-I’ve been running Eclipse Juno regularly since the M5 milestone. One of the things I’ve really noticed is that the default theme for Eclipse Juno on Mac OS X blends in better with other Cocoa applications than Juno looks on my Windows machines. Today I just realised that this is because Eclipse is picking up the Eclipse “Windows XP Blue” theme by default. Below is a picture of Juno RC3 with a Windows Explorer window over it for comparison.
+[](http://www.woodwardweb.com/Windows-Live-Writer/Eclipse-Juno-Themes-on-Windows-8_2A06/e4_winxpblue_2.png)  
 
-[](http://www.woodwardweb.com/Windows-Live-Writer/Eclipse-Juno-Themes-on-Windows-8_2A06/e4_winxpblue_2.png)
+To change the theme, go to Window, Preferences, General, Appearance and select Windows 7.  This looks a lot better on my Windows 8 Release Preview machine as shown below.  
 
-To change the theme, go to Window, Preferences, General, Appearance and select Windows 7. This looks a lot better on my Windows 8 Release Preview machine as shown below.
+[](http://www.woodwardweb.com/Windows-Live-Writer/Eclipse-Juno-Themes-on-Windows-8_2A06/e4_win7_2.png)  
 
-[](http://www.woodwardweb.com/Windows-Live-Writer/Eclipse-Juno-Themes-on-Windows-8_2A06/e4_win7_2.png)
-
-Now, one of the great things about e4 is that it is skinnable using CSS. I thought I’d knock up a quick stylesheet to get rid of the gradient in the toolbar and tidy up a few other little things. It’s also really easy to define a theme as part of the plugin.xml and only have it apply to people running Windows 8 – simply add the following (note the condition on OS version of 6.2):
+Now, one of the great things about e4 is that it is skinnable using CSS.  I thought I’d knock up a quick stylesheet to get rid of the gradient in the toolbar and tidy up a few other little things.  It’s also really easy to define a theme as part of the plugin.xml and only have it apply to people running Windows 8 – simply add the following (note the condition on OS version of 6.2):     
 
 <extension
    point="org.eclipse.e4.ui.css.swt.theme">
-
-<theme
+  
+   <theme
 
          basestylesheeturi="css/e4_default_win8.css"
 
@@ -48,13 +47,13 @@ This is what my Windows 8 theme for Juno currently looks like against explorer:
 
 [](http://www.woodwardweb.com/Windows-Live-Writer/Eclipse-Juno-Themes-on-Windows-8_2A06/image_2.png)
 
-Needs a bit of playing with (for example, I’ve noticed that swapping themes in Eclipse works a lot better if you explicitly override things like the background images that have been used previously in themes in that Eclipse session rather than just leaving them not set). What do you think? If you are interested the CSS is below but it’s just a subtly changed version of the default win7 theme.
+Needs a bit of playing with (for example, I’ve noticed that swapping themes in Eclipse works a lot better if you explicitly override things like the background images that have been used previously in themes in that Eclipse session rather than just leaving them not set).  What do you think?  If you are interested the CSS is below but it’s just a subtly changed version of the default win7 theme.
 
 @import url('e4_basestyle.css');
 
-.MTrimmedWindow {
+.MTrimmedWindow { 
 
-    background-color: #EFF6FE;
+    background-color: #EFF6FE; 
 
 }
 
@@ -72,7 +71,7 @@ Needs a bit of playing with (for example, I’ve noticed that swapping themes in
 
 .MTrimBar {
 
-    background-color: #EFF6FE;
+    background-color: #EFF6FE; 
 
 }
 
@@ -92,7 +91,7 @@ Needs a bit of playing with (for example, I’ve noticed that swapping themes in
 
 }
 
-#PerspectiveSwitcher {
+#PerspectiveSwitcher  {
 
     background-color: #E1E6F6 #EFF6FE 100%;
 
@@ -100,33 +99,33 @@ Needs a bit of playing with (for example, I’ve noticed that swapping themes in
 
 #org-eclipse-ui-editorss {
 
-swt-tab-renderer: url('bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.CTabRendering');
+   swt-tab-renderer: url('bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.CTabRendering');
 
-swt-unselected-tabs-color: #F0F0F0 #F0F0F0 #F0F0F0 100% 100%;
+   swt-unselected-tabs-color: #F0F0F0 #F0F0F0 #F0F0F0 100% 100%;
 
-swt-outer-keyline-color: #B4B4B4;
+   swt-outer-keyline-color: #B4B4B4;
 
-swt-inner-keyline-color: #F0F0F0;
+   swt-inner-keyline-color: #F0F0F0;
 
-swt-tab-outline: #F0F0F0;
+   swt-tab-outline: #F0F0F0;
 
-color: #F0F0F0;
+   color: #F0F0F0;
 
-swt-tab-height: 8px;
+   swt-tab-height: 8px;
 
-padding: 0px 5px 7px;
+   padding: 0px 5px 7px;
 
 }
 
 CTabFolder.MArea .MPartStack, CTabFolder.MArea .MPartStack.active {
 
-swt-shadow-visible: false;
+   swt-shadow-visible: false;
 
 }
 
 CTabFolder Canvas {
 
-background-color: #F8F8F8;
+  background-color: #F8F8F8;
 
 }
 

@@ -14,22 +14,21 @@ tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-
 Later today I’m presenting a webcast for Microsoft EMEA on Team Foundation Server Version Control. The registration process to sign up for it was a little complicated but apparently I’m allowed to give people the direct URL to log into the live meeting account as a participant.
 
-If you are available for an hour at 3pm in the UK & Ireland (4pm CET or 9am CST), then feel free to drop in - don't worry if you are a bit late joining, the beginning covers an overview of VSTS and the basics of source control.
+If you are available for an hour at 3pm in the UK & Ireland (4pm CET or 9am CST), then feel free to drop in - don't worry if you are a bit late joining, the beginning covers an overview of VSTS and the basics of source control.   
 
-To view the webcast live:-
+To view the webcast live:- 
 
-1. Visit the following URL: [https://www.livemeeting.com/cc/emea/join?id=EDC2206&role=attend&pw=K%7B%29%25wg6](https://www.livemeeting.com/cc/emea/join?id=EDC2206&role=attend&pw=K%7B%29%25wg6)
+1. Visit the following URL: [https://www.livemeeting.com/cc/emea/join?id=EDC2206&role=attend&pw=K%7B%29%25wg6](https://www.livemeeting.com/cc/emea/join?id=EDC2206&role=attend&pw=K%7B%29%25wg6) 
 
-2. The Join Meeting page appears. In the following fields, verify or enter this information:
+2. The Join Meeting page appears. In the following fields, verify or enter this information: 
 
-Your Name: (enter your first and last name)
-Meeting ID: EDC2206
-Meeting Key (if required): K{)%wg6
+Your Name: (enter your first and last name) 
+Meeting ID: EDC2206 
+Meeting Key (if required): K{)%wg6 
 
-3. Click Submit.
+3. Click Submit. 
 
 Hope fully you'll be more or less straight in. Check back with this blog post after the event where I'll point to any follow up information that may come out of the talk along with the slide deck, associated links and eventually details of where the recording of the web.
 

@@ -14,7 +14,6 @@ tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
+A couple of weeks ago, Brian Harry [posted](http://blogs.msdn.com/bharry/archive/2006/10/06/The-Training-That-Just-Won_2700_t-Die.aspx) about some Team System training content that is now available.  If you missed the post and you have an interest in Team System then I highly recommend you [take a read](http://blogs.msdn.com/bharry/archive/2006/10/06/The-Training-That-Just-Won_2700_t-Die.aspx). 
 
-A couple of weeks ago, Brian Harry [posted](http://blogs.msdn.com/bharry/archive/2006/10/06/The-Training-That-Just-Won_2700_t-Die.aspx) about some Team System training content that is now available. If you missed the post and you have an interest in Team System then I highly recommend you [take a read](http://blogs.msdn.com/bharry/archive/2006/10/06/The-Training-That-Just-Won_2700_t-Die.aspx).
-
-The training content is being made available through the [http://connect.Microsoft.com](http://connect.Microsoft.com) site. Currently there is some Level 300 training available and some Level 200 stuff is on the way. Not only is this content a great way of learning the vast Team System product, it is also very valuable for training companies and in-house training initiatives. I was also happy to see that [Teamprise](http://www.teamprise.com/) gets several mentions in the official course material :-)
+The training content is being made available through the [http://connect.Microsoft.com](http://connect.Microsoft.com) site.  Currently there is some Level 300 training available and some Level 200 stuff is on the way.  Not only is this content a great way of learning the vast Team System product, it is also very valuable for training companies and in-house training initiatives.  I was also happy to see that [Teamprise](http://www.teamprise.com/) gets several mentions in the official course material :-)

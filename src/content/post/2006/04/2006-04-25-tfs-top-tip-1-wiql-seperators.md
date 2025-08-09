@@ -14,41 +14,40 @@ tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
+I thought I’d try and post some quick Top Tips for Team Foundation Server – in no particular order apart from as I think of them.  Today, this came up in the [forums](http://forums.microsoft.com/MSDN/ShowPost.aspx?PostID=366920&SiteID=1) so I thought I’d elaborate.
 
-I thought I’d try and post some quick Top Tips for Team Foundation Server – in no particular order apart from as I think of them. Today, this came up in the [forums](http://forums.microsoft.com/MSDN/ShowPost.aspx?PostID=366920&SiteID=1) so I thought I’d elaborate.
+WIQL (pronounced Wickle), stands for Work Item Query Language and is what is used when talking to the work item store in Team Foundation Server.  It has a SQL like construct and is used to pass queries to the server.  Visual Studio 2005 comes with a Query Editor that generate WIQL.  While the query editor is straightforward, it is pretty powerful and allows you to do most things.
 
-WIQL (pronounced Wickle), stands for Work Item Query Language and is what is used when talking to the work item store in Team Foundation Server. It has a SQL like construct and is used to pass queries to the server. Visual Studio 2005 comes with a Query Editor that generate WIQL. While the query editor is straightforward, it is pretty powerful and allows you to do most things.
+However, the query editor is region sensitive which sometimes causes confusion.  Take the following example where I am using an “IN” statement to list a set of values for the work item status:-
 
-However, the query editor is region sensitive which sometimes causes confusion. Take the following example where I am using an “IN” statement to list a set of values for the work item status:-
-
-Note that the values are separated by commas. Those of you from a SQL background find this very sensible, but what the query editor is actually doing is taking the list of values and converting them into the following WIQL statement:-
-SELECT [System.Id], [System.WorkItemType], [Microsoft.VSTS.Common.Rank], [System.State], [System.AssignedTo], [System.Title]  
-FROM WorkItems  
-WHERE [System.TeamProject] = @project  
-AND [System.State] IN ('Active', 'Pending', 'Proposed', 'Requested')  
+Note that the values are separated by commas.  Those of you from a SQL background find this very sensible, but what the query editor is actually doing is taking the list of values and converting them into the following WIQL statement:-
+SELECT   [System.Id], [System.WorkItemType], [Microsoft.VSTS.Common.Rank], [System.State], [System.AssignedTo], [System.Title]  
+FROM     WorkItems  
+WHERE    [System.TeamProject] = @project   
+AND      [System.State] IN ('Active', 'Pending', 'Proposed', 'Requested')  
 ORDER BY [Microsoft.VSTS.Common.Rank], [System.WorkItemType], [System.Id]
 
-(A top sub-tip is that it is possible to save WIQL files from Visual Studio by editing the query then selecting File, Save Query As.. and then select file. To run a saved query from the file system double click the \*.wiq file from explorer)
+(A top sub-tip is that it is possible to save WIQL files from Visual Studio by editing the query then selecting File, Save Query As.. and then select file.  To run a saved query from the file system double click the *.wiq file from explorer)
 
 The comma separator used by the query editor is actually being picked up from the “List separator” of your regional settings (shown below) (Start, Control Panel, Regional Settings, Customize…)
 
 [](http://www.woodwardweb.com/blog/region_settings.png)
 
-If you are in one of the many regions of the world that use a different list separator then you have to use that in the Visual Studio 2005 Query Editor. For example, if I change my list separator to be a semi-colon and then re-edit the query in the Visual Studio 2005 Query Editor I get the following:-
+If you are in one of the many regions of the world that use a different list separator then you have to use that in the Visual Studio 2005 Query Editor.  For example, if I change my list separator to be a semi-colon and then re-edit the query in the Visual Studio 2005 Query Editor I get the following:-
 
-This behaviour has some interesting side effects. Remember when I said that the Visual Studio 2005 Query Editor “allows you to do most things”. Well, one small problem is forcing the editor to take a character to say that you want the following to be treated as a string. For example, if you have a comma in the text value you are trying to use in an “IN” statement then you are hosed because the query editor assumes that this is a new value in your list. For example, if you try the following:
+This behaviour has some interesting side effects.  Remember when I said that the Visual Studio 2005 Query Editor “allows you to do most things”.  Well, one small problem is forcing the editor to take a character to say that you want the following to be treated as a string.  For example, if you have a comma in the text value you are trying to use in an “IN” statement then you are hosed because the query editor assumes that this is a new value in your list.  For example, if you try the following:
 
 This actually gets translated by the query editor as the following:
-SELECT [System.Id], [System.WorkItemType], [Microsoft.VSTS.Common.Rank], [System.State], [System.AssignedTo], [System.Title]  
-FROM WorkItems  
-WHERE [System.TeamProject] = @project  
-AND [System.AssignedTo] IN ('''Woodward', 'Martin''', '''Sell', 'Clark''')  
+SELECT   [System.Id], [System.WorkItemType], [Microsoft.VSTS.Common.Rank], [System.State], [System.AssignedTo], [System.Title]  
+FROM     WorkItems  
+WHERE    [System.TeamProject] = @project   
+AND      [System.AssignedTo] IN ('''Woodward', 'Martin''', '''Sell', 'Clark''')  
 ORDER BY [Microsoft.VSTS.Common.Rank], [System.WorkItemType], [System.Id]
 
-As you can tell, it parses on the commas first, which is not want you wanted at all. If you manually type in the WIQL correctly as IN (‘Woodward, Martin’, ‘Sell, Clark’) then the query editor will display this as Woodward, Martin, Sell, Clark – which in turn gets treated as IN (‘Woodward’,’Martin’,’Sell’,’Clark’) when the WIQL is generated by the editor.
+As you can tell, it parses on the commas first, which is not want you wanted at all.  If you manually type in the WIQL correctly as IN (‘Woodward, Martin’, ‘Sell, Clark’) then the query editor will display this as Woodward, Martin, Sell, Clark – which in turn gets treated as IN (‘Woodward’,’Martin’,’Sell’,’Clark’) when the WIQL is generated by the editor.  
 
 Hey ho – [Clark Sell](http://www.csell.net/) has a [post](http://csell.net/PermaLink,guid,aae3824a-d5d5-4326-a5b0-d7ee1b5c1d25.aspx) about changing the regional settings to enable to to query assigned to names but be warned it may have nasty side effects in other programs on your machine.
 
-Hmm. When I thought about posting a TFS Tip a day for the next couple of weeks I didn’t intend them to be this long. Expect the next one to be more concise…
+Hmm.  When I thought about posting a TFS Tip a day for the next couple of weeks I didn’t intend them to be this long.  Expect the next one to be more concise…
 
 **Now playing:** [Carl Franklin](http://phobos.apple.com/WebObjects/MZSearch.woa/wa/advancedSearchResults?artistTerm=Carl Franklin) - [Avalon, AJAX, Vista, and more with Tim Huckaby](http://phobos.apple.com/WebObjects/MZSearch.woa/wa/advancedSearchResults?songTerm=Avalon, AJAX, Vista, and more with Tim Huckaby&artistTerm=Carl Franklin)
