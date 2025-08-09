@@ -34,12 +34,6 @@ a {
 }
 .notice-head {
   @apply flex items-center;
-  svg {
-    @apply mr-3;
-  }
-  p {
-    @apply font-secondary text-xl font-semibold text-text-dark;
-  }
 }
 .notice-body {
   @apply mt-3;
