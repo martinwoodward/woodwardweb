@@ -92,6 +92,25 @@ jobs:
           npm install
         working-directory: ${{ env.BUILD_PATH }}
         
+      - name: Install Puppeteer system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            fonts-liberation \
+            libappindicator3-1 \
+            libasound2 \
+            libatk-bridge2.0-0 \
+            libdrm2 \
+            libgtk-3-0 \
+            libnspr4 \
+            libnss3 \
+            libxcomposite1 \
+            libxdamage1 \
+            libxrandr2 \
+            xdg-utils \
+            libxss1 \
+            libgconf-2-4
+        
       - name: Build with Astro
         run: |
           npm run generate-json
@@ -99,6 +118,7 @@ jobs:
           npx astro build \
             --site "${{ steps.pages.outputs.origin }}" \
             --base "${{ steps.pages.outputs.base_path }}"
+          npm run generate-og-images
         working-directory: ${{ env.BUILD_PATH }}
         
       - name: Upload artifact
@@ -270,6 +290,25 @@ jobs:
           npm install
         working-directory: ${{ env.BUILD_PATH }}
         
+      - name: Install Puppeteer system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            fonts-liberation \
+            libappindicator3-1 \
+            libasound2 \
+            libatk-bridge2.0-0 \
+            libdrm2 \
+            libgtk-3-0 \
+            libnspr4 \
+            libnss3 \
+            libxcomposite1 \
+            libxdamage1 \
+            libxrandr2 \
+            xdg-utils \
+            libxss1 \
+            libgconf-2-4
+        
       - name: Build with Astro
         run: |
           npm run generate-json
@@ -277,6 +316,7 @@ jobs:
           npx astro build \
             --site "${{ steps.pages.outputs.origin }}" \
             --base "${{ steps.pages.outputs.base_path }}"
+          npm run generate-og-images
         working-directory: ${{ env.BUILD_PATH }}
         
       - name: Upload artifact
