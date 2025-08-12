@@ -1,0 +1,113 @@
+---
+import Base from "@/layouts/Base.astro";
+import { getSinglePage } from "@/lib/contentParser.astro";
+
+// Get some sample posts for preview
+const posts = await getSinglePage("post");
+const samplePosts = posts.slice(0, 8);
+---
+
+<Base title="OG Image Preview" noindex={true}>
+  <section class="section">
+    <div class="container">
+      <div class="row justify-center">
+        <div class="col-12">
+          <h1 class="h2 mb-8">Open Graph Image Preview</h1>
+          <p class="mb-8">This page allows you to preview how Open Graph images will look for your blog posts. Click on any image to see it full size.</p>
+          
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+            {samplePosts.map((post) => (
+              <div class="border rounded-lg overflow-hidden shadow-lg">
+                <div class="og-preview-container">
+                  <iframe 
+                    src={`/api/og/${post.id}.png`}
+                    class="og-preview-iframe"
+                    title={`OG Image for ${post.data.title}`}
+                  ></iframe>
+                </div>
+                <div class="p-4">
+                  <h3 class="font-semibold text-lg mb-2">{post.data.title}</h3>
+                  <div class="text-sm text-gray-600 mb-2">
+                    Categories: {post.data.categories?.join(', ') || 'None'}
+                  </div>
+                  <div class="text-xs text-gray-500 mb-3">
+                    {post.data.date ? new Date(post.data.date).toLocaleDateString('en-GB') : 'No date'}
+                  </div>
+                  <div class="flex gap-2">
+                    <a 
+                      href={`/api/og/${post.id}.png`} 
+                      target="_blank"
+                      class="text-blue-600 hover:text-blue-800 text-sm"
+                    >
+                      View Full Size →
+                    </a>
+                    <a 
+                      href={`/post/${post.id}`} 
+                      class="text-green-600 hover:text-green-800 text-sm"
+                    >
+                      View Post →
+                    </a>
+                  </div>
+                </div>
+              </div>
+            ))}
+          </div>
+          
+          <div class="mt-12 p-6 bg-yellow-50 border border-yellow-200 rounded-lg">
+            <h2 class="text-lg font-semibold text-yellow-800 mb-4">Customization Guide</h2>
+            <div class="text-yellow-700 space-y-2">
+              <p><strong>To customize the OG image template:</strong></p>
+              <ol class="list-decimal list-inside space-y-1 ml-4">
+                <li>Edit the <code>generateOGImageHTML</code> function in <code>src/pages/api/og/[...slug].png.ts</code></li>
+                <li>Modify the CSS styles to match your brand</li>
+                <li>Adjust the layout, colors, fonts, and sizing</li>
+                <li>Test your changes by refreshing this preview page</li>
+                <li>The images will automatically be used when sharing your blog posts on social media</li>
+              </ol>
+              <p class="mt-4"><strong>Category Themes:</strong> Each post category has its own color theme that's automatically applied to the OG image.</p>
+              <p class="mt-2"><strong>Performance:</strong> In production, you'll want to convert these HTML templates to actual PNG images using a service like Vercel OG or Puppeteer.</p>
+            </div>
+          </div>
+
+          <div class="mt-8 p-6 bg-blue-50 border border-blue-200 rounded-lg">
+            <h2 class="text-lg font-semibold text-blue-800 mb-4">Implementation Notes</h2>
+            <div class="text-blue-700 space-y-2">
+              <p><strong>Current Status:</strong> This is currently serving HTML previews. For production, you'll need to:</p>
+              <ul class="list-disc list-inside space-y-1 ml-4">
+                <li>Install a service like <a href="https://vercel.com/docs/functions/edge-functions/og-image-generation" class="underline">Vercel OG</a> for automatic PNG conversion</li>
+                <li>Or use Puppeteer to convert HTML to images</li>
+                <li>Or use an external service like Bannerbear or similar</li>
+              </ul>
+              <p class="mt-4"><strong>Static Fallbacks:</strong> Homepage and about page continue using the static <code>og-image.png</code> file.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</Base>
+
+<style>
+  .og-preview-container {
+    width: 100%;
+    height: 200px;
+    overflow: hidden;
+    background: #f3f4f6;
+    position: relative;
+  }
+  
+  .og-preview-iframe {
+    width: 400%;
+    height: 400%;
+    border: 0;
+    transform: scale(0.25);
+    transform-origin: top left;
+  }
+  
+  code {
+    background: rgba(0, 0, 0, 0.1);
+    padding: 2px 4px;
+    border-radius: 3px;
+    font-size: 0.9em;
+  }
+</style>

@@ -34,11 +34,28 @@ export interface Props {
   image?: string;
   noindex?: boolean;
   canonical?: string;
+  postSlug?: string; // New prop for post slug to generate dynamic OG images
 }
 
 // destructure frontmatter
-const { title, meta_title, description, image, noindex, canonical } =
+const { title, meta_title, description, image, noindex, canonical, postSlug } =
   Astro.props;
+
+// Determine OG image URL
+let ogImageUrl = image ? `${config.site.base_url}${image}` : `${config.site.base_url}${config.metadata.meta_image}`;
+
+// Use dynamic OG image for blog posts
+if (postSlug) {
+  ogImageUrl = `${config.site.base_url}/api/og/${postSlug}.png`;
+}
+
+// For homepage and about page, keep using static image
+const isHomepage = Astro.url.pathname === '/' || Astro.url.pathname === '';
+const isAboutPage = Astro.url.pathname === '/about' || Astro.url.pathname === '/about/';
+
+if (isHomepage || isAboutPage) {
+  ogImageUrl = `${config.site.base_url}${config.metadata.meta_image}`;
+}
 ---
 
 <!doctype html>
@@ -161,20 +178,16 @@ const { title, meta_title, description, image, noindex, canonical } =
       )}
     />
 
-    <!-- og-image -->
+    <!-- og-image (updated to use dynamic images for posts) -->
     <meta
       property="og:image"
-      content={`${config.site.base_url}${
-        image ? image : config.metadata.meta_image
-      }`}
+      content={ogImageUrl}
     />
 
     <!-- twitter-image -->
     <meta
       name="twitter:image"
-      content={`${config.site.base_url}${
-        image ? image : config.metadata.meta_image
-      }`}
+      content={ogImageUrl}
     />
     <meta name="twitter:card" content="summary_large_image" />
   </head>

@@ -7,11 +7,13 @@
   "packageManager": "yarn@1.22.22",
   "scripts": {
     "dev": "yarn generate-json && astro dev",
-    "build": "yarn generate-json && astro build",
-    "ci": "yarn generate-json && astro check && astro build",
+    "build": "yarn generate-json && astro build && node scripts/generate-og-images.js",
+    "ci": "yarn generate-json && astro check && astro build && node scripts/generate-og-images.js",
     "preview": "astro preview",
     "format": "prettier -w ./src",
-    "generate-json": "node scripts/jsonGenerator.js"
+    "generate-json": "node scripts/jsonGenerator.js",
+    "og-preview": "echo 'Open http://localhost:4321/og-preview in your browser to preview OG images (make sure dev server is running)'",
+    "generate-og-images": "node scripts/generate-og-images.js"
   },
   "dependencies": {
     "@astrojs/check": "^0.9.4",
@@ -37,16 +39,17 @@
     "remark-emoji": "^5.0.1",
     "remark-gfm": "^4.0.1",
     "remark-toc": "^9.0.0",
-    "swiper": "^11.2.5",
-    "vite": "^6.2.1",
+    "sanitize-html": "^2.17.0",
     "striptags": "^3.2.0",
-    "sanitize-html": "^2.17.0"
+    "swiper": "^11.2.5",
+    "vite": "^6.2.1"
   },
   "devDependencies": {
     "@tailwindcss/forms": "^0.5.10",
     "@tailwindcss/typography": "^0.5.16",
     "@tailwindcss/vite": "^4.0.13",
     "@types/node": "22.13.10",
+    "@types/puppeteer": "^5.4.7",
     "@types/react": "^19.1.9",
     "@types/react-dom": "^19.1.7",
     "autoprefixer": "^10.4.21",
@@ -55,6 +58,7 @@
     "prettier": "^3.5.3",
     "prettier-plugin-astro": "^0.14.1",
     "prettier-plugin-tailwindcss": "^0.6.11",
+    "puppeteer": "^24.16.1",
     "sass": "^1.85.1",
     "sharp": "0.33.5",
     "tailwindcss": "^4.0.13",

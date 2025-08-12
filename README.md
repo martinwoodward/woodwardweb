@@ -64,9 +64,10 @@ See [.devcontainer/README.md](.devcontainer/README.md) for detailed information.
 ### Available Scripts
 
 - `npm run dev` - Start the development server
-- `npm run build` - Build the site for production
+- `npm run build` - Build the site for production (includes OG image generation)
 - `npm run preview` - Preview the production build locally
 - `npm run astro` - Run Astro CLI commands
+- `npm run generate-og-images` - Generate PNG files from OG image templates (automatically run during build)
 
 ### Development Workflow
 
@@ -74,6 +75,41 @@ See [.devcontainer/README.md](.devcontainer/README.md) for detailed information.
 2. **Styling**: Customize styles in the `src/styles/` directory
 3. **Components**: Create or modify Astro components in `src/layouts/components/`
 4. **Configuration**: Update site settings in `src/config/` files
+
+## Open Graph Image Generation
+
+This site automatically generates custom Open Graph (OG) images for each blog post to enhance social media sharing. Each post gets a unique image featuring the post title, description, categories, and author information.
+
+**Key files:**
+- `src/pages/api/og/[...slug].png.ts` - Main template and styling
+- `src/lib/utils/ogImageUtils.ts` - Utility functions
+- `scripts/generate-og-images.js` - Build-time PNG conversion
+
+### How It Works
+
+- **Development**: During `npm run dev`, OG images are served as HTML previews
+- **Production**: During `npm run build`, HTML templates are converted to PNG images using Puppeteer
+- **Static Pages**: Homepage and about page use the static `/images/og-image.png`
+
+### Previewing OG Images
+
+1. **Start the development server**:
+   ```bash
+   npm run dev
+   ```
+
+2. **View the preview page**:
+   Visit `http://localhost:4321/og-preview` to see all OG images
+
+3. **View individual images**:
+   Visit `/api/og/{post-slug}.png` for specific posts
+
+### Customizing OG Images
+
+To modify the OG image template:
+
+1. **Edit the template**: Modify `src/pages/api/og/[...slug].png.ts`
+2. **Update styles**: Customize the CSS within the `generateOGImageHTML()` function
 
 ### Configuration
 
