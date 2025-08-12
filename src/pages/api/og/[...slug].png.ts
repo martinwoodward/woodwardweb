@@ -1,5 +1,8 @@
 import type { APIRoute } from 'astro';
 import { getSinglePage } from '@/lib/contentParser.astro';
+import { existsSync } from 'fs';
+import { join } from 'path';
+import theme from '@/config/theme.json';
 
 export const GET: APIRoute = async ({ params, request, url }) => {
   const { slug } = params;
@@ -18,7 +21,7 @@ export const GET: APIRoute = async ({ params, request, url }) => {
       return new Response('Post not found', { status: 404 });
     }
 
-    const { title, description, categories, date, author } = post.data;
+    const { title, description, categories, date, author, images } = post.data;
 
     // Generate the image using HTML/CSS
     const ogImageHtml = generateOGImageHTML({
@@ -31,7 +34,8 @@ export const GET: APIRoute = async ({ params, request, url }) => {
         day: 'numeric' 
       }) : '',
       author: author || 'Martin Woodward',
-      baseUrl: url.origin
+      baseUrl: url.origin,
+      postImage: images && images[0] ? images[0] : null
     });
 
     // Return HTML that will be converted to PNG during build process
@@ -64,14 +68,29 @@ interface OGImageData {
   date: string;
   author: string;
   baseUrl: string;
+  postImage: string | null;
 }
 
 function generateOGImageHTML(data: OGImageData): string {
-  const { title, description, categories, date, author } = data;
+  const { title, description, categories, date, author, postImage } = data;
+  
+  // Check if we have a post image and it actually exists on the filesystem
+  // Only consider it valid if it starts with /images/ (indicating it's in the project),
+  // doesn't contain placeholder, and the file actually exists
+  const hasValidImagePath = postImage && 
+                           postImage.length > 0 && 
+                           postImage.startsWith('/images/') &&
+                           !postImage.includes('placeholder');
+  
+  const hasPostImage = hasValidImagePath && existsSync(join(process.cwd(), 'public', postImage));
+  
+  // Adjust text lengths based on whether we have an image
+  const titleMaxLength = hasPostImage ? 80 : 100;
+  const descriptionMaxLength = hasPostImage ? 200 : 240;
   
   // Truncate title and description to fit
-  const truncatedTitle = title.length > 60 ? title.substring(0, 60) + '...' : title;
-  const truncatedDescription = description.length > 120 ? description.substring(0, 120) + '...' : description;
+  const truncatedTitle = title.length > titleMaxLength ? title.substring(0, titleMaxLength) + '...' : title;
+  const truncatedDescription = description.length > descriptionMaxLength ? description.substring(0, descriptionMaxLength) + '...' : description;
   
   // Primary category for color theming
   const primaryCategory = categories[0] || 'general';
@@ -82,6 +101,14 @@ function generateOGImageHTML(data: OGImageData): string {
     if (category.toLowerCase() === 'tfs') return 'TFS';
     if (category.toLowerCase() === 'ai') return 'AI';
     return category.charAt(0).toUpperCase() + category.slice(1).toLowerCase();
+  };
+  
+  // Generate CSS for category theming from config
+  const generateCategoryThemeCSS = (): string => {
+    const categoryColors = theme.colors.categories;
+    return Object.entries(categoryColors)
+      .map(([category, color]) => `.theme-${category} { --theme-color: ${color}; }`)
+      .join('\n        ');
   };
   
   return `
@@ -178,6 +205,31 @@ function generateOGImageHTML(data: OGImageData): string {
           justify-content: center;
         }
         
+        .content.with-image {
+          flex-direction: row;
+          gap: 32px;
+          align-items: center;
+        }
+        
+        .content-text {
+          flex: 1;
+        }
+        
+        .post-thumbnail {
+          width: 180px;
+          height: 180px;
+          border-radius: 16px;
+          overflow: hidden;
+          box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.15);
+          flex-shrink: 0;
+        }
+        
+        .post-thumbnail img {
+          width: 100%;
+          height: 100%;
+          object-fit: cover;
+        }
+        
         .title {
           font-size: 56px;
           font-weight: 700;
@@ -187,11 +239,20 @@ function generateOGImageHTML(data: OGImageData): string {
           letter-spacing: -0.025em;
         }
         
+        .title.with-image {
+          font-size: 44px;
+          margin-bottom: 16px;
+        }
+        
         .description {
           font-size: 24px;
           line-height: 1.4;
           color: #6b7280;
           font-weight: 400;
+        }
+        
+        .description.with-image {
+          font-size: 20px;
         }
         
         .footer {
@@ -253,20 +314,7 @@ function generateOGImageHTML(data: OGImageData): string {
         }
         
         /* Category-specific theming */
-        .theme-ai { --theme-color: #10b981; }
-        .theme-books { --theme-color: #f59e0b; }
-        .theme-dotnet { --theme-color: #8b5cf6; }
-        .theme-gadgets { --theme-color: #ef4444; }
-        .theme-git { --theme-color: #f97316; }
-        .theme-github { --theme-color: #6366f1; }
-        .theme-maker { --theme-color: #84cc16; }
-        .theme-personal { --theme-color: #ec4899; }
-        .theme-podcast { --theme-color: #06b6d4; }
-        .theme-programming { --theme-color: #8b5cf6; }
-        .theme-technology { --theme-color: #3b82f6; }
-        .theme-web { --theme-color: #10b981; }
-        .theme-teamprise { --theme-color: #0ea5e9; }
-        .theme-tfs { --theme-color: #0ea5e9; }
+        ${generateCategoryThemeCSS()}
         
         [class*="theme-"] .card::before {
           background: var(--theme-color);
@@ -293,9 +341,16 @@ function generateOGImageHTML(data: OGImageData): string {
           </div>
         </div>
         
-        <div class="content">
-          <h1 class="title">${truncatedTitle}</h1>
-          ${truncatedDescription ? `<p class="description">${truncatedDescription}</p>` : ''}
+        <div class="content${hasPostImage ? ' with-image' : ''}">
+          <div class="content-text">
+            <h1 class="title${hasPostImage ? ' with-image' : ''}">${truncatedTitle}</h1>
+            ${truncatedDescription ? `<p class="description${hasPostImage ? ' with-image' : ''}">${truncatedDescription}</p>` : ''}
+          </div>
+          ${hasPostImage ? `
+          <div class="post-thumbnail">
+            <img src="${postImage}" alt="Post thumbnail" />
+          </div>
+          ` : ''}
         </div>
         
         <div class="footer">
