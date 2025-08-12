@@ -92,7 +92,7 @@ jobs:
           npm install
         working-directory: ${{ env.BUILD_PATH }}
         
-      - name: Install Puppeteer system dependencies
+      - name: Install Playwright system dependencies
         run: |
           sudo apt-get update
           sudo apt-get install -y \
@@ -109,6 +109,7 @@ jobs:
             xdg-utils \
             libxss1 \
             libgconf-2-4
+          npx playwright install-deps chromium
         
       - name: Build with Astro
         run: |
@@ -289,7 +290,7 @@ jobs:
           npm install
         working-directory: ${{ env.BUILD_PATH }}
         
-      - name: Install Puppeteer system dependencies
+      - name: Install Playwright system dependencies
         run: |
           sudo apt-get update
           sudo apt-get install -y \
@@ -307,6 +308,7 @@ jobs:
             xdg-utils \
             libxss1 \
             libgconf-2-4
+          npx playwright install-deps chromium
         
       - name: Build with Astro
         run: |

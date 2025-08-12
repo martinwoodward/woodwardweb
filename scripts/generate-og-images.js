@@ -1,14 +1,31 @@
-const puppeteer = require('puppeteer');
+const { chromium } = require('playwright');
 const fs = require('fs');
 const path = require('path');
 
 async function generateOGImages() {
   console.log('🎨 Starting OG image generation...');
   
-  const browser = await puppeteer.launch({
-    headless: true,
-    args: ['--no-sandbox', '--disable-setuid-sandbox', '--disable-web-security', '--disable-features=VizDisplayCompositor']
-  });
+  let browser;
+  try {
+    // Try to use system browser first if available
+    browser = await chromium.launch({
+      headless: true,
+      executablePath: '/usr/bin/google-chrome',
+      args: ['--no-sandbox', '--disable-setuid-sandbox', '--disable-web-security', '--disable-features=VizDisplayCompositor']
+    });
+  } catch (error) {
+    console.log('System Chrome not available, trying Playwright managed browser...');
+    try {
+      browser = await chromium.launch({
+        headless: true,
+        args: ['--no-sandbox', '--disable-setuid-sandbox', '--disable-web-security', '--disable-features=VizDisplayCompositor']
+      });
+    } catch (playwrightError) {
+      console.error('❌ Failed to launch browser:', playwrightError.message);
+      console.log('💡 Please run "npx playwright install chromium" to install the browser');
+      return;
+    }
+  }
 
   try {
     const distPath = path.join(__dirname, '..', 'dist');
@@ -24,7 +41,7 @@ async function generateOGImages() {
     console.log(`📁 Found ${htmlFiles.length} OG image files to convert`);
 
     const page = await browser.newPage();
-    await page.setViewport({ width: 1200, height: 630 });
+    await page.setViewportSize({ width: 1200, height: 630 });
 
     let converted = 0;
     let failed = 0;
