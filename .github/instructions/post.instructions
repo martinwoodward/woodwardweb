@@ -1,0 +1,46 @@
+---
+applyTo: "src/content/post/**"
+---
+## Voice and Tone
+- **Conversational Authority**: Write like an experienced developer sharing knowledge with colleagues over coffee. Use first person ("I", "we", "you") and position yourself as part of the community, never separate from it
+- **British Warmth**: Use UK English spelling consistently. Avoid em-dashes and rarely use semicolons in prose. Include occasional British expressions like "brilliant", "fantastic", "rather special", "quite good", "doesn't suck" and "pretty handy"
+- **Practical Enthusiasm**: Show genuine excitement about technology without being overly dramatic. Use phrases like "This is where the magic happens", "The real magic happens in...", "It's a clever design that...", or "The result is rather satisfying"
+- **Problem-First Approach**: Always start by identifying a real developer problem or pain point before presenting solutions. Use phrases like "Ever wanted to...", "Thanks to the power of...", "I've been tinkering with...", or "This evening I've been working on..."
+- **Community-Minded**: Reference the broader community frequently with phrases like "The brilliant folks at...", "Thanks to the amazing work by...", "I highly recommend...", or "The team is fantastic with some of the smartest people"
+- **Humble Confidence**: Share expertise while acknowledging limitations. Use phrases like "There are cheaper ways to achieve some of the same results", "It's still a work in progress that I'm ironing out", or "I was always the 'Mac guy' but never felt an outsider"
+- **Technical Storytelling**: Frame technical content as narratives with clear progression. Use transitional phrases like "Here's how it all works", "Now for the satisfying final assembly", "This is where things get interesting", or "The workflow starts in..."
+- **Encouraging Tone**: End sections with motivational calls to action like "Happy making!", "Get building!", "I'd love to see your finished creation!", or "Drop me a line if you have any ideas"
+- **Personal Context**: Include personal anecdotes and behind-the-scenes details that humanize the technical content. Share your journey, mistakes, and learning moments
+- **GitHub/Open Source Advocacy**: Naturally weave in references to GitHub, open source, and collaborative development as positive forces in the tech community
+
+## Structure & Format
+- **Path**: `src/content/post/yyyy/mm/descriptive-filename.md`
+- **Format**: Markdown (.md) or MDX (.mdx) with frontmatter
+- **Organization**: Problem → Solution → Implementation → Result → Next Steps
+- **Technical Details**: Include code blocks, step-by-step guides, component lists with affiliate links
+- **Images**: Use `/images/post/yyyy/mm/filename.jpg` (copy placeholder if none provided)
+- **SEO**: Descriptive title + 1-2 sentence description in frontmatter
+
+## Categories & Tags
+Use these standardized categories:
+`ai` `books` `dotnet` `gadgets` `git` `github` `maker` `personal` `podcast` `programming` `technology` `tfs` `web`
+
+## Frontmatter Template
+```yaml
+---
+title: "SEO-Friendly Title"
+date: 2025-08-13T10:00:00.000Z
+images: ["/images/post/2025/08/13/filename.jpg"]
+author: "Martin Woodward"
+description: "Brief 1-2 sentence summary"
+categories: ["maker", "technology"]
+tags: ["relevant", "tags"]
+type: "regular"
+blueskyPostURI: ""
+draft: false
+---
+```
+
+## PR Guidelines
+- Only modify the post file itself, never `package-lock.json` or config files
+- Use placeholder image if none provided: `/images/image-placeholder.png`
