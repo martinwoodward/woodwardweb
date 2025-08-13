@@ -65,7 +65,7 @@ const samplePosts = posts.slice(0, 8);
                 <li>The images will automatically be used when sharing your blog posts on social media</li>
               </ol>
               <p class="mt-4"><strong>Category Themes:</strong> Each post category has its own color theme that's automatically applied to the OG image.</p>
-              <p class="mt-2"><strong>Performance:</strong> In production, you'll want to convert these HTML templates to actual PNG images using a service like Vercel OG or Puppeteer.</p>
+              <p class="mt-2"><strong>Performance:</strong> In production, you'll want to convert these HTML templates to actual PNG images using a service like Vercel OG or Playwright.</p>
             </div>
           </div>
 
@@ -75,7 +75,7 @@ const samplePosts = posts.slice(0, 8);
               <p><strong>Current Status:</strong> This is currently serving HTML previews. For production, you'll need to:</p>
               <ul class="list-disc list-inside space-y-1 ml-4">
                 <li>Install a service like <a href="https://vercel.com/docs/functions/edge-functions/og-image-generation" class="underline">Vercel OG</a> for automatic PNG conversion</li>
-                <li>Or use Puppeteer to convert HTML to images</li>
+                <li>Or use Playwright to convert HTML to images</li>
                 <li>Or use an external service like Bannerbear or similar</li>
               </ul>
               <p class="mt-4"><strong>Static Fallbacks:</strong> Homepage and about page continue using the static <code>og-image.png</code> file.</p>

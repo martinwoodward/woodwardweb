@@ -33,8 +33,8 @@ export async function convertHtmlToPng(html: string, options: {
   // Option 1: Vercel OG (recommended for Vercel deployments)
   // https://vercel.com/docs/functions/edge-functions/og-image-generation
   
-  // Option 2: Puppeteer (for self-hosted environments)
-  // const browser = await puppeteer.launch();
+  // Option 2: Playwright (for self-hosted environments)
+  // const browser = await playwright.chromium.launch();
   // const page = await browser.newPage();
   // await page.setContent(html);
   // const screenshot = await page.screenshot({
