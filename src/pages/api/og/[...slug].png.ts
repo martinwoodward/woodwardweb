@@ -1,6 +1,6 @@
 import type { APIRoute } from 'astro';
 import { getSinglePage } from '@/lib/contentParser.astro';
-import { existsSync } from 'fs';
+import { existsSync, readFileSync } from 'fs';
 import { join } from 'path';
 import theme from '@/config/theme.json';
 
@@ -72,7 +72,41 @@ interface OGImageData {
 }
 
 function generateOGImageHTML(data: OGImageData): string {
-  const { title, description, categories, date, author, postImage } = data;
+  const { title, description, categories, date, author, postImage, baseUrl } = data;
+  
+  // Helper function to convert images to base64 data URLs for build time, HTTP URLs for dev
+  const getImagePath = (webPath: string): string => {
+    if (!webPath.startsWith('/')) {
+      return webPath;
+    }
+    
+    // Check if we're in a build environment or development/preview
+    const isStaticBuild = process.env.NODE_ENV === 'production' || 
+                         process.env.ASTRO_SSG === 'true' ||
+                         !baseUrl.startsWith('http://localhost') && !baseUrl.startsWith('http://127.0.0.1');
+    
+    if (isStaticBuild) {
+      // Convert to base64 data URL for build time (Playwright compatibility)
+      try {
+        const imagePath = join(process.cwd(), 'public', webPath);
+        if (existsSync(imagePath)) {
+          const imageBuffer = readFileSync(imagePath);
+          const ext = webPath.split('.').pop()?.toLowerCase();
+          const mimeType = ext === 'jpg' || ext === 'jpeg' ? 'image/jpeg' : 
+                          ext === 'png' ? 'image/png' : 
+                          ext === 'svg' ? 'image/svg+xml' : 'image/png';
+          return `data:${mimeType};base64,${imageBuffer.toString('base64')}`;
+        }
+      } catch (error) {
+        console.warn(`Failed to load image ${webPath}:`, error instanceof Error ? error.message : String(error));
+      }
+      // Fallback to file path if base64 conversion fails
+      return `file://${join(process.cwd(), 'public', webPath)}`;
+    } else {
+      // Use HTTP URL for development/preview
+      return `${baseUrl}${webPath}`;
+    }
+  };
   
   // Check if we have a post image and it actually exists on the filesystem
   // Only consider it valid if it starts with /images/ (indicating it's in the project),
@@ -334,7 +368,7 @@ function generateOGImageHTML(data: OGImageData): string {
       <div class="card">
         <div class="header">
           <div class="logo">
-            <img src="/images/logo.png" alt="Martin Woodward" />
+            <img src="${getImagePath('/images/logo.png')}" alt="Martin Woodward" />
           </div>
           <div class="categories">
             ${categories.slice(0, 3).map(cat => `<span class="category">${formatCategoryName(cat)}</span>`).join('')}
@@ -348,7 +382,7 @@ function generateOGImageHTML(data: OGImageData): string {
           </div>
           ${hasPostImage ? `
           <div class="post-thumbnail">
-            <img src="${postImage}" alt="Post thumbnail" />
+            <img src="${getImagePath(postImage)}" alt="Post thumbnail" />
           </div>
           ` : ''}
         </div>
@@ -356,7 +390,7 @@ function generateOGImageHTML(data: OGImageData): string {
         <div class="footer">
           <div class="author-info">
             <div class="avatar">
-              <img src="/images/author.jpg" alt="Martin Woodward" />
+              <img src="${getImagePath('/images/author.jpg')}" alt="Martin Woodward" />
             </div>
             <div class="author-details">
               <div class="author-name">${author}</div>

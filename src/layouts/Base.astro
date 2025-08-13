@@ -34,7 +34,7 @@ export interface Props {
   image?: string;
   noindex?: boolean;
   canonical?: string;
-  postSlug?: string; // New prop for post slug to generate dynamic OG images
+  postSlug?: string;
 }
 
 // destructure frontmatter
@@ -42,29 +42,22 @@ const { title, meta_title, description, image, noindex, canonical, postSlug } =
   Astro.props;
 
 // Determine OG image URL
-let ogImageUrl = image ? `${config.site.base_url}${image}` : `${config.site.base_url}${config.metadata.meta_image}`;
+let ogImageUrl = image
+  ? `${config.site.base_url}${image}`
+  : `${config.site.base_url}${config.metadata.meta_image}`;
 
 // Use dynamic OG image for blog posts
 if (postSlug) {
   ogImageUrl = `${config.site.base_url}/api/og/${postSlug}.png`;
 }
 
-// For homepage and about page, keep using static image
-const isHomepage = Astro.url.pathname === '/' || Astro.url.pathname === '';
-const isAboutPage = Astro.url.pathname === '/about' || Astro.url.pathname === '/about/';
-
-if (isHomepage || isAboutPage) {
-  ogImageUrl = `${config.site.base_url}${config.metadata.meta_image}`;
-}
 ---
 
 <!doctype html>
 <html lang="en">
   <head>
-    <!-- favicon -->
     <link rel="shortcut icon" href={config.site.favicon} />
-    <!-- theme meta -->
-    <meta name="theme-name" content="logbook" />
+    <meta name="theme-name" content="woodwardweb" />
     <meta name="msapplication-TileColor" content="#000000" />
     <meta
       name="theme-color"
@@ -76,10 +69,7 @@ if (isHomepage || isAboutPage) {
       media="(prefers-color-scheme: dark)"
       content="#000"
     />
-    <meta name="generator" content={Astro.generator} />
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-
-    <!-- google font css -->
     <AstroFont
       config={[
         {
@@ -103,24 +93,19 @@ if (isHomepage || isAboutPage) {
       ]}
     />
 
-    <!-- responsive meta -->
     <meta
       name="viewport"
       content="width=device-width, initial-scale=1, maximum-scale=5"
     />
 
-    <!-- title -->
     <title>
       {plainify(title ? title : meta_title ? meta_title : config.site.title)}
     </title>
 
-    <!-- canonical url -->
     {canonical && <link rel="canonical" href={canonical} item-prop="url" />}
 
-    <!-- noindex robots -->
     {noindex && <meta name="robots" content="noindex,nofollow" />}
 
-    <!-- meta-description -->
     <meta
       name="description"
       content={plainify(
@@ -128,7 +113,6 @@ if (isHomepage || isAboutPage) {
       )}
     />
 
-    <!-- RSS feeds -->
     <link
       rel="alternate"
       type="application/rss+xml"
@@ -138,18 +122,14 @@ if (isHomepage || isAboutPage) {
 
     <ClientRouter />
 
-    <!-- author from config.json -->
     <meta name="author" content={config.metadata.meta_author} />
 
-    <!-- og-title -->
     <meta
       property="og:title"
       content={plainify(
         meta_title ? meta_title : title ? title : config.site.title
       )}
     />
-
-    <!-- og-description -->
     <meta
       property="og:description"
       content={plainify(
@@ -161,34 +141,22 @@ if (isHomepage || isAboutPage) {
       property="og:url"
       content={`${config.site.base_url}/${Astro.url.pathname.replace("/", "")}`}
     />
+    <meta property="og:image" content={ogImageUrl} />
+    <meta property="og:logo" content="/images/author.jpg" size="500x500" />
 
-    <!-- twitter-title -->
     <meta
       name="twitter:title"
       content={plainify(
         meta_title ? meta_title : title ? title : config.site.title
       )}
     />
-
-    <!-- twitter-description -->
     <meta
       name="twitter:description"
       content={plainify(
         description ? description : config.metadata.meta_description
       )}
     />
-
-    <!-- og-image (updated to use dynamic images for posts) -->
-    <meta
-      property="og:image"
-      content={ogImageUrl}
-    />
-
-    <!-- twitter-image -->
-    <meta
-      name="twitter:image"
-      content={ogImageUrl}
-    />
+    <meta name="twitter:image" content={ogImageUrl} />
     <meta name="twitter:card" content="summary_large_image" />
   </head>
   <body>

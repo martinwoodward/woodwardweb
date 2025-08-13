@@ -42,8 +42,8 @@ jobs:
           npm cache clean --force
           # Remove package-lock.json and node_modules to fix Rollup optional dependency issue
           rm -rf package-lock.json node_modules
-          # Fresh install
           npm install
+          npx playwright install-deps chromium
         working-directory: ${{ env.BUILD_PATH }}
         
       - name: Generate JSON and run Astro checks

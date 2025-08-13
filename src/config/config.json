@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "Woodwardweb",
-    "base_url": "https://woodwardweb.com",
+    "base_url": "https://www.woodwardweb.com",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
