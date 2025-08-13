@@ -94,21 +94,6 @@ jobs:
         
       - name: Install Playwright system dependencies
         run: |
-          sudo apt-get update
-          sudo apt-get install -y \
-            fonts-liberation \
-            libappindicator3-1 \
-            libatk-bridge2.0-0 \
-            libdrm2 \
-            libgtk-3-0 \
-            libnspr4 \
-            libnss3 \
-            libxcomposite1 \
-            libxdamage1 \
-            libxrandr2 \
-            xdg-utils \
-            libxss1 \
-            libgconf-2-4
           npx playwright install-deps chromium
         
       - name: Build with Astro
