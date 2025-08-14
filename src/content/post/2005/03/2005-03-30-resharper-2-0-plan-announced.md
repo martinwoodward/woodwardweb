@@ -3,7 +3,7 @@ title: "Resharper 2.0 Plan Announced"
 date: 2005-03-30T19:03:26.000Z
 # post thumb
 images:
-  - "/images/post/2005-resharper-2-0-plan-announced.jpg"
+  - "/images/post/2005/03/2005-resharper-2-0-plan-announced.jpg"
 #author
 author: "Martin Woodward"
 # description

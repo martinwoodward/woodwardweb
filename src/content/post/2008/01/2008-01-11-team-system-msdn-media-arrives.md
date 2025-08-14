@@ -3,7 +3,7 @@ title: "Team System MSDN Media Arrives"
 date: 2008-01-11T12:26:20.000Z
 # post thumb
 images:
-  - "/images/post/2008-team-system-msdn-media-arrives.jpg"
+  - "/images/post/2008/01/2008-team-system-msdn-media-arrives.jpg"
 #author
 author: "Martin Woodward"
 # description

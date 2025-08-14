@@ -3,7 +3,7 @@ title: "Community TFS Build Extensions Released"
 date: 2011-07-05T13:36:51.000Z
 # post thumb
 images:
-  - "/images/post/2011-community-tfs-build-extensions-released.jpg"
+  - "/images/post/2011/07/2011-community-tfs-build-extensions-released.jpg"
 #author
 author: "Martin Woodward"
 # description

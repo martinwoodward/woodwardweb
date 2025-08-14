@@ -3,7 +3,7 @@ title: "The Year Planner Shuffle"
 date: 2009-01-05T13:05:29.000Z
 # post thumb
 images:
-  - "/images/post/2009-the-year-planner-shuffle.jpg"
+  - "/images/post/2009/01/2009-the-year-planner-shuffle.jpg"
 #author
 author: "Martin Woodward"
 # description

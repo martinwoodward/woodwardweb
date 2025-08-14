@@ -3,7 +3,7 @@ title: "Current Podcasts"
 date: 2005-05-23T20:54:34.000Z
 # post thumb
 images:
-  - "/images/post/2005-current-podcasts.jpg"
+  - "/images/post/2005/05/2005-current-podcasts.jpg"
 #author
 author: "Martin Woodward"
 # description

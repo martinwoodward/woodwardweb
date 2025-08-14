@@ -3,7 +3,7 @@ title: "Another RC Team Foundation Server Up and Running"
 date: 2006-02-08T22:08:27.000Z
 # post thumb
 images:
-  - "/images/post/2006-another-rc-team-foundation-server-up-and-running.jpg"
+  - "/images/post/2006/02/2006-another-rc-team-foundation-server-up-and-running.jpg"
 #author
 author: "Martin Woodward"
 # description

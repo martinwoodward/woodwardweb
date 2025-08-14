@@ -3,7 +3,7 @@ title: "What Check-in Policies Do You Want?"
 date: 2006-04-18T18:22:22.000Z
 # post thumb
 images:
-  - "/images/post/2006-what-check-in-policies-do-you-want.jpg"
+  - "/images/post/2006/04/2006-what-check-in-policies-do-you-want.jpg"
 #author
 author: "Martin Woodward"
 # description

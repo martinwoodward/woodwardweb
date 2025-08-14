@@ -3,7 +3,7 @@ title: "Buck Hodges on No Keyword Expansion in TFS"
 date: 2007-07-09T10:44:04.000Z
 # post thumb
 images:
-  - "/images/post/2007-buck-hodges-on-no-keyword-expansion-in-tfs.jpg"
+  - "/images/post/2007/07/2007-buck-hodges-on-no-keyword-expansion-in-tfs.jpg"
 #author
 author: "Martin Woodward"
 # description

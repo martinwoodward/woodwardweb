@@ -3,7 +3,7 @@ title: "Radio TFS Podcast #17 - Getting Agile with Team Foundation Server"
 date: 2009-02-23T13:21:37.000Z
 # post thumb
 images:
-  - "/images/post/2009-radio-tfs-podcast-17-getting-agile-with-team-foundation-server.jpg"
+  - "/images/post/2009/02/2009-radio-tfs-podcast-17-getting-agile-with-team-foundation-server.jpg"
 #author
 author: "Martin Woodward"
 # description

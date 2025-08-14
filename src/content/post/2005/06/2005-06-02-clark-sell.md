@@ -3,7 +3,7 @@ title: "Clark Sell"
 date: 2005-06-02T19:06:31.000Z
 # post thumb
 images:
-  - "/images/post/2005-clark-sell.jpg"
+  - "/images/post/2005/06/2005-clark-sell.jpg"
 #author
 author: "Martin Woodward"
 # description

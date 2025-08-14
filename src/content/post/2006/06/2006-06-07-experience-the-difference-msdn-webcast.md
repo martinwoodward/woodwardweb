@@ -3,7 +3,7 @@ title: "Experience the Difference MSDN Webcast"
 date: 2006-06-07T13:55:50.000Z
 # post thumb
 images:
-  - "/images/post/2006-experience-the-difference-msdn-webcast.jpg"
+  - "/images/post/2006/06/2006-experience-the-difference-msdn-webcast.jpg"
 #author
 author: "Martin Woodward"
 # description

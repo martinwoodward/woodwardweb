@@ -3,7 +3,7 @@ title: "TFS Swag Arrives"
 date: 2006-05-23T12:37:40.000Z
 # post thumb
 images:
-  - "/images/post/2006-tfs-swag-arrives.jpg"
+  - "/images/post/2006/05/2006-tfs-swag-arrives.jpg"
 #author
 author: "Martin Woodward"
 # description

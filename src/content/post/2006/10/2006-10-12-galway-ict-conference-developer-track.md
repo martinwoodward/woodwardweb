@@ -3,7 +3,7 @@ title: "Galway ICT Conference - Developer Track"
 date: 2006-10-12T23:35:55.000Z
 # post thumb
 images:
-  - "/images/post/2006-galway-ict-conference-developer-track.jpg"
+  - "/images/post/2006/10/2006-galway-ict-conference-developer-track.jpg"
 #author
 author: "Martin Woodward"
 # description

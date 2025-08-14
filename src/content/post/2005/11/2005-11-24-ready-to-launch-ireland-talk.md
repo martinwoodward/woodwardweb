@@ -3,7 +3,7 @@ title: "Ready to Launch Ireland Talk"
 date: 2005-11-24T19:39:32.000Z
 # post thumb
 images:
-  - "/images/post/2005-ready-to-launch-ireland-talk.jpg"
+  - "/images/post/2005/11/2005-ready-to-launch-ireland-talk.jpg"
 #author
 author: "Martin Woodward"
 # description

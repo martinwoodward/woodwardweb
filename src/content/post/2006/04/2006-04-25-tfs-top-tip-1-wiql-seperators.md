@@ -3,7 +3,7 @@ title: "TFS Top Tip #1 - WIQL Seperators"
 date: 2006-04-25T16:13:21.000Z
 # post thumb
 images:
-  - "/images/post/2006-tfs-top-tip-1-wiql-seperators.jpg"
+  - "/images/post/2006/04/2006-tfs-top-tip-1-wiql-seperators.jpg"
 #author
 author: "Martin Woodward"
 # description

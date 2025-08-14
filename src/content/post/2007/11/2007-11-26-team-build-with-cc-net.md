@@ -3,7 +3,7 @@ title: "Team Build with CC.NET"
 date: 2007-11-26T10:01:52.000Z
 # post thumb
 images:
-  - "/images/post/2007-team-build-with-cc-net.jpg"
+  - "/images/post/2007/11/2007-team-build-with-cc-net.jpg"
 #author
 author: "Martin Woodward"
 # description

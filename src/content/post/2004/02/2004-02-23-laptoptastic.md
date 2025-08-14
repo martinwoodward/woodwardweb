@@ -3,7 +3,7 @@ title: "Laptoptastic!!"
 date: 2004-02-23T20:17:48.000Z
 # post thumb
 images:
-  - "/images/post/2004-laptoptastic.jpg"
+  - "/images/post/2004/02/2004-laptoptastic.jpg"
 #author
 author: "Martin Woodward"
 # description

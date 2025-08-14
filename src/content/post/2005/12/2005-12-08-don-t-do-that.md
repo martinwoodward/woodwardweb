@@ -3,7 +3,7 @@ title: "Don't do that"
 date: 2005-12-08T18:51:24.000Z
 # post thumb
 images:
-  - "/images/post/2005-don.jpg"
+  - "/images/post/2005/12/2005-don.jpg"
 #author
 author: "Martin Woodward"
 # description

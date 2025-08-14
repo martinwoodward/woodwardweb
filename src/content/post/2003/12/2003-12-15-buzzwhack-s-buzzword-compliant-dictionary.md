@@ -3,7 +3,7 @@ title: "BuzzWhack's Buzzword Compliant Dictionary"
 date: 2003-12-15T17:40:31.000Z
 # post thumb
 images:
-  - "/images/post/2003-buzzwhack.jpg"
+  - "/images/post/2003/12/2003-buzzwhack.jpg"
 #author
 author: "Martin Woodward"
 # description

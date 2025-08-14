@@ -3,7 +3,7 @@ title: "Creating Custom Workflow Activities for TFS Build 2010"
 date: 2009-11-27T23:32:06.000Z
 # post thumb
 images:
-  - "/images/post/2009-creating-custom-workflow-activities-for-tfs-build-2010.jpg"
+  - "/images/post/2009/11/2009-creating-custom-workflow-activities-for-tfs-build-2010.jpg"
 #author
 author: "Martin Woodward"
 # description

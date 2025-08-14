@@ -3,7 +3,7 @@ title: "Team System Training Content"
 date: 2006-10-16T09:56:48.000Z
 # post thumb
 images:
-  - "/images/post/2006-team-system-training-content.jpg"
+  - "/images/post/2006/10/2006-team-system-training-content.jpg"
 #author
 author: "Martin Woodward"
 # description

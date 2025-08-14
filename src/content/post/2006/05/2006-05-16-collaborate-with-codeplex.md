@@ -3,7 +3,7 @@ title: "Collaborate With CodePlex"
 date: 2006-05-16T10:47:21.000Z
 # post thumb
 images:
-  - "/images/post/2006-collaborate-with-codeplex.jpg"
+  - "/images/post/2006/05/2006-collaborate-with-codeplex.jpg"
 #author
 author: "Martin Woodward"
 # description

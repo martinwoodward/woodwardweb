@@ -3,7 +3,7 @@ title: "\"Fix Windows Search\" Registry Hacks"
 date: 2006-11-24T10:41:03.000Z
 # post thumb
 images:
-  - "/images/post/2006-.jpg"
+  - "/images/post/2006/11/2006-.jpg"
 #author
 author: "Martin Woodward"
 # description

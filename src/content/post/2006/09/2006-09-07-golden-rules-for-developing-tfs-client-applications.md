@@ -3,7 +3,7 @@ title: "Golden Rules for Developing TFS Client Applications."
 date: 2006-09-07T16:18:31.000Z
 # post thumb
 images:
-  - "/images/post/2006-golden-rules-for-developing-tfs-client-applications.jpg"
+  - "/images/post/2006/09/2006-golden-rules-for-developing-tfs-client-applications.jpg"
 #author
 author: "Martin Woodward"
 # description

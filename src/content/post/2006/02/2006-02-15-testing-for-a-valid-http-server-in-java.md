@@ -3,7 +3,7 @@ title: "Testing for a Valid HTTP Server in Java"
 date: 2006-02-15T14:56:45.000Z
 # post thumb
 images:
-  - "/images/post/2006-testing-for-a-valid-http-server-in-java.jpg"
+  - "/images/post/2006/02/2006-testing-for-a-valid-http-server-in-java.jpg"
 #author
 author: "Martin Woodward"
 # description

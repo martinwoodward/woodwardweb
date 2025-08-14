@@ -3,7 +3,7 @@ title: "Explaining TFS to a Subversion User"
 date: 2011-03-08T07:21:24.000Z
 # post thumb
 images:
-  - "/images/post/2011-explaining-tfs-to-a-subversion-user.jpg"
+  - "/images/post/2011/03/2011-explaining-tfs-to-a-subversion-user.jpg"
 #author
 author: "Martin Woodward"
 # description

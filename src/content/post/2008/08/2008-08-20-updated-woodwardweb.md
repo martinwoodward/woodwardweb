@@ -3,7 +3,7 @@ title: "Updated WoodwardWeb"
 date: 2008-08-20T14:01:11.000Z
 # post thumb
 images:
-  - "/images/post/2008-updated-woodwardweb.jpg"
+  - "/images/post/2008/08/2008-updated-woodwardweb.jpg"
 #author
 author: "Martin Woodward"
 # description

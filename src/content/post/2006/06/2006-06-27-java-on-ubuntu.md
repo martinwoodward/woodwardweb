@@ -3,7 +3,7 @@ title: "Java on Ubuntu"
 date: 2006-06-27T18:10:28.000Z
 # post thumb
 images:
-  - "/images/post/2006-java-on-ubuntu.jpg"
+  - "/images/post/2006/06/2006-java-on-ubuntu.jpg"
 #author
 author: "Martin Woodward"
 # description

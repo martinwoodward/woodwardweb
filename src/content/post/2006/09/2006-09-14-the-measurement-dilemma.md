@@ -3,7 +3,7 @@ title: "The Measurement Dilemma"
 date: 2006-09-14T11:37:09.000Z
 # post thumb
 images:
-  - "/images/post/2006-the-measurement-dilemma.jpg"
+  - "/images/post/2006/09/2006-the-measurement-dilemma.jpg"
 #author
 author: "Martin Woodward"
 # description

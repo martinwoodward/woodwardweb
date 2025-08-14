@@ -3,7 +3,7 @@ title: "Microsoft Max"
 date: 2006-09-11T11:11:51.000Z
 # post thumb
 images:
-  - "/images/post/2006-microsoft-max.jpg"
+  - "/images/post/2006/09/2006-microsoft-max.jpg"
 #author
 author: "Martin Woodward"
 # description

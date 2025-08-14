@@ -3,7 +3,7 @@ title: "Radio TFS #4 - Team System 2008 Development Edition"
 date: 2008-04-07T11:06:47.000Z
 # post thumb
 images:
-  - "/images/post/2008-radio-tfs-4-team-system-2008-development-edition.jpg"
+  - "/images/post/2008/04/2008-radio-tfs-4-team-system-2008-development-edition.jpg"
 #author
 author: "Martin Woodward"
 # description

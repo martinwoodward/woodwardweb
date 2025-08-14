@@ -3,7 +3,7 @@ title: "Chicken or Beef (redux)"
 date: 2007-04-23T21:48:01.000Z
 # post thumb
 images:
-  - "/images/post/2007-chicken-or-beef-redux.jpg"
+  - "/images/post/2007/04/2007-chicken-or-beef-redux.jpg"
 #author
 author: "Martin Woodward"
 # description

@@ -3,7 +3,7 @@ title: "Freezing Time in VMWare"
 date: 2009-01-21T01:36:36.000Z
 # post thumb
 images:
-  - "/images/post/2009-freezing-time-in-vmware.jpg"
+  - "/images/post/2009/01/2009-freezing-time-in-vmware.jpg"
 #author
 author: "Martin Woodward"
 # description

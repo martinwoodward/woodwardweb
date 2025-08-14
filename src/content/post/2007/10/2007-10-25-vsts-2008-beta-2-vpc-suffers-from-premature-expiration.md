@@ -3,7 +3,7 @@ title: "VSTS 2008 Beta 2 VPC suffers from Premature Expiration"
 date: 2007-10-25T22:03:10.000Z
 # post thumb
 images:
-  - "/images/post/2007-vsts-2008-beta-2-vpc-suffers-from-premature-expiration.jpg"
+  - "/images/post/2007/10/2007-vsts-2008-beta-2-vpc-suffers-from-premature-expiration.jpg"
 #author
 author: "Martin Woodward"
 # description

@@ -3,7 +3,7 @@ title: "Installing TFS SP1"
 date: 2006-12-18T13:35:24.000Z
 # post thumb
 images:
-  - "/images/post/2006-installing-tfs-sp1.jpg"
+  - "/images/post/2006/12/2006-installing-tfs-sp1.jpg"
 #author
 author: "Martin Woodward"
 # description

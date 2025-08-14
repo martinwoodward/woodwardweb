@@ -3,7 +3,7 @@ title: "MSDN Webcast Follow-up"
 date: 2006-06-22T17:32:40.000Z
 # post thumb
 images:
-  - "/images/post/2006-msdn-webcast-follow-up.jpg"
+  - "/images/post/2006/06/2006-msdn-webcast-follow-up.jpg"
 #author
 author: "Martin Woodward"
 # description

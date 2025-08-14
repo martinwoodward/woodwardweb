@@ -3,7 +3,7 @@ title: "Comments in RSS"
 date: 2004-11-18T17:19:46.000Z
 # post thumb
 images:
-  - "/images/post/2004-comments-in-rss.jpg"
+  - "/images/post/2004/11/2004-comments-in-rss.jpg"
 #author
 author: "Martin Woodward"
 # description

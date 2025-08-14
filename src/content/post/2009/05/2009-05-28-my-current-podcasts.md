@@ -3,7 +3,7 @@ title: "My Current Podcasts"
 date: 2009-05-28T12:19:42.000Z
 # post thumb
 images:
-  - "/images/post/2009-my-current-podcasts.jpg"
+  - "/images/post/2009/05/2009-my-current-podcasts.jpg"
 #author
 author: "Martin Woodward"
 # description

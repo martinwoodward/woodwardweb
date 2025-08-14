@@ -3,7 +3,7 @@ title: "Talk at Eclipse Summit Europe 2010"
 date: 2010-11-04T01:41:51.000Z
 # post thumb
 images:
-  - "/images/post/2010-talk-at-eclipse-summit-europe-2010.jpg"
+  - "/images/post/2010/11/2010-talk-at-eclipse-summit-europe-2010.jpg"
 #author
 author: "Martin Woodward"
 # description

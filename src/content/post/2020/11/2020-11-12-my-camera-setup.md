@@ -3,7 +3,7 @@ title: "My Camera Setup"
 date: 2020-11-12T00:00:00.000Z
 # post thumb
 images:
-  - "/images/post/2020/11/12/camera-setup.jpg"
+  - "/images/post/2020/11/camera-setup.jpg"
 #author
 author: "Martin Woodward"
 # description

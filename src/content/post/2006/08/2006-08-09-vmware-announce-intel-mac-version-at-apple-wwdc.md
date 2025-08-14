@@ -3,7 +3,7 @@ title: "VMWare Announce Intel Mac version at Apple WWDC"
 date: 2006-08-09T10:12:24.000Z
 # post thumb
 images:
-  - "/images/post/2006-vmware-announce-intel-mac-version-at-apple-wwdc.jpg"
+  - "/images/post/2006/08/2006-vmware-announce-intel-mac-version-at-apple-wwdc.jpg"
 #author
 author: "Martin Woodward"
 # description

@@ -3,7 +3,7 @@ title: "iTunes 7.0.2 on Vista"
 date: 2007-01-16T21:06:06.000Z
 # post thumb
 images:
-  - "/images/post/2007-itunes-7-0-2-on-vista.jpg"
+  - "/images/post/2007/01/2007-itunes-7-0-2-on-vista.jpg"
 #author
 author: "Martin Woodward"
 # description

@@ -3,7 +3,7 @@ title: "Hardware Mute Hack"
 date: 2006-03-25T14:29:13.000Z
 # post thumb
 images:
-  - "/images/post/2006-hardware-mute-hack.jpg"
+  - "/images/post/2006/03/2006-hardware-mute-hack.jpg"
 #author
 author: "Martin Woodward"
 # description

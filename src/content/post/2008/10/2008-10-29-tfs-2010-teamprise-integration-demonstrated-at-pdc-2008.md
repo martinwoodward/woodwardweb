@@ -3,7 +3,7 @@ title: "TFS 2010 Teamprise integration demonstrated at PDC 2008"
 date: 2008-10-29T20:56:26.000Z
 # post thumb
 images:
-  - "/images/post/2008-tfs-2010-teamprise-integration-demonstrated-at-pdc-2008.jpg"
+  - "/images/post/2008/10/2008-tfs-2010-teamprise-integration-demonstrated-at-pdc-2008.jpg"
 #author
 author: "Martin Woodward"
 # description

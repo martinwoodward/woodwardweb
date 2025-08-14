@@ -3,7 +3,7 @@ title: "Fishy Tale"
 date: 2004-10-30T15:01:12.000Z
 # post thumb
 images:
-  - "/images/post/2004-fishy-tale.jpg"
+  - "/images/post/2004/10/2004-fishy-tale.jpg"
 #author
 author: "Martin Woodward"
 # description

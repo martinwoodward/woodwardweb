@@ -3,7 +3,7 @@ title: "J2EE Patterns Online"
 date: 2003-12-10T19:40:12.000Z
 # post thumb
 images:
-  - "/images/post/2003-j2ee-patterns-online.jpg"
+  - "/images/post/2003/12/2003-j2ee-patterns-online.jpg"
 #author
 author: "Martin Woodward"
 # description

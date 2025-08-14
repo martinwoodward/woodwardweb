@@ -3,7 +3,7 @@ title: "VS 2005 Web Application Project V1.0 Released"
 date: 2006-05-09T10:47:43.000Z
 # post thumb
 images:
-  - "/images/post/2006-vs-2005-web-application-project-v1-0-released.jpg"
+  - "/images/post/2006/05/2006-vs-2005-web-application-project-v1-0-released.jpg"
 #author
 author: "Martin Woodward"
 # description

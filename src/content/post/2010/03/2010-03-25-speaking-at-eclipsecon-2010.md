@@ -3,7 +3,7 @@ title: "Speaking at EclipseCon 2010"
 date: 2010-03-25T05:06:47.000Z
 # post thumb
 images:
-  - "/images/post/2010-speaking-at-eclipsecon-2010.jpg"
+  - "/images/post/2010/03/2010-speaking-at-eclipsecon-2010.jpg"
 #author
 author: "Martin Woodward"
 # description

@@ -3,7 +3,7 @@ title: "The Home Computer of 2004?"
 date: 2004-12-01T17:11:43.000Z
 # post thumb
 images:
-  - "/images/post/2004-the-home-computer-of-2004.jpg"
+  - "/images/post/2004/12/2004-the-home-computer-of-2004.jpg"
 #author
 author: "Martin Woodward"
 # description

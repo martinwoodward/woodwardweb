@@ -3,7 +3,7 @@ title: "Finally I Virtually Understand"
 date: 2005-07-13T17:40:19.000Z
 # post thumb
 images:
-  - "/images/post/2005-finally-i-virtually-understand.jpg"
+  - "/images/post/2005/07/2005-finally-i-virtually-understand.jpg"
 #author
 author: "Martin Woodward"
 # description

@@ -3,7 +3,7 @@ title: "Aligning Build Numbers with Assembly Versions in TFS2008."
 date: 2008-02-05T11:19:38.000Z
 # post thumb
 images:
-  - "/images/post/2008-aligning-build-numbers-with-assembly-versions-in-tfs2008.jpg"
+  - "/images/post/2008/02/2008-aligning-build-numbers-with-assembly-versions-in-tfs2008.jpg"
 #author
 author: "Martin Woodward"
 # description

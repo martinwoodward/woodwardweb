@@ -3,7 +3,7 @@ title: "Eclipse 3.7 (Indigo) with Team Explorer Everywhere 2010 SP1"
 date: 2011-06-22T21:14:50.000Z
 # post thumb
 images:
-  - "/images/post/2011-eclipse-3-7-indigo-with-team-explorer-everywhere-2010-sp1.jpg"
+  - "/images/post/2011/06/2011-eclipse-3-7-indigo-with-team-explorer-everywhere-2010-sp1.jpg"
 #author
 author: "Martin Woodward"
 # description

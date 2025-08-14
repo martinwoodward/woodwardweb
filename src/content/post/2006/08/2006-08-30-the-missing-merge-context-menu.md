@@ -3,7 +3,7 @@ title: "The Missing Merge Context Menu"
 date: 2006-08-30T22:40:33.000Z
 # post thumb
 images:
-  - "/images/post/2006-the-missing-merge-context-menu.jpg"
+  - "/images/post/2006/08/2006-the-missing-merge-context-menu.jpg"
 #author
 author: "Martin Woodward"
 # description

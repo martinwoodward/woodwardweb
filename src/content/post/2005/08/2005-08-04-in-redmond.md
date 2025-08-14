@@ -3,7 +3,7 @@ title: "In Redmond"
 date: 2005-08-04T21:19:37.000Z
 # post thumb
 images:
-  - "/images/post/2005-in-redmond.jpg"
+  - "/images/post/2005/08/2005-in-redmond.jpg"
 #author
 author: "Martin Woodward"
 # description

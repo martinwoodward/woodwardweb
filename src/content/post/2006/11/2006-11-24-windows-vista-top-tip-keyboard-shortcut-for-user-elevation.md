@@ -3,7 +3,7 @@ title: "Windows Vista Top Tip: Keyboard shortcut for user elevation"
 date: 2006-11-24T12:11:04.000Z
 # post thumb
 images:
-  - "/images/post/2006-windows-vista-top-tip-keyboard-shortcut-for-user-elevation.jpg"
+  - "/images/post/2006/11/2006-windows-vista-top-tip-keyboard-shortcut-for-user-elevation.jpg"
 #author
 author: "Martin Woodward"
 # description

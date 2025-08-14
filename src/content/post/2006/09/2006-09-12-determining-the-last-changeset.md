@@ -3,7 +3,7 @@ title: "Determining the last changeset"
 date: 2006-09-12T16:05:06.000Z
 # post thumb
 images:
-  - "/images/post/2006-determining-the-last-changeset.jpg"
+  - "/images/post/2006/09/2006-determining-the-last-changeset.jpg"
 #author
 author: "Martin Woodward"
 # description

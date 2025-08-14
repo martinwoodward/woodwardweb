@@ -3,7 +3,7 @@ title: "New Visual Studio 2010 Video Podcast 10-4"
 date: 2008-12-19T15:09:11.000Z
 # post thumb
 images:
-  - "/images/post/2008-new-visual-studio-2010-video-podcast-10-4.jpg"
+  - "/images/post/2008/12/2008-new-visual-studio-2010-video-podcast-10-4.jpg"
 #author
 author: "Martin Woodward"
 # description

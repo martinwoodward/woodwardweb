@@ -3,7 +3,7 @@ title: "My Page Rank has gone!!!"
 date: 2004-08-04T15:55:17.000Z
 # post thumb
 images:
-  - "/images/post/2004-my-page-rank-has-gone.jpg"
+  - "/images/post/2004/08/2004-my-page-rank-has-gone.jpg"
 #author
 author: "Martin Woodward"
 # description

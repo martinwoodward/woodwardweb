@@ -3,7 +3,7 @@ title: "Sourcesafe ss.ini Not Found"
 date: 2005-09-01T11:44:16.000Z
 # post thumb
 images:
-  - "/images/post/2005-sourcesafe-ss-ini-not-found.jpg"
+  - "/images/post/2005/09/2005-sourcesafe-ss-ini-not-found.jpg"
 #author
 author: "Martin Woodward"
 # description

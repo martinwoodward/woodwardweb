@@ -3,7 +3,7 @@ title: "Belfast Potty Talk"
 date: 2004-11-18T17:26:38.000Z
 # post thumb
 images:
-  - "/images/post/2004-belfast-potty-talk.jpg"
+  - "/images/post/2004/11/2004-belfast-potty-talk.jpg"
 #author
 author: "Martin Woodward"
 # description

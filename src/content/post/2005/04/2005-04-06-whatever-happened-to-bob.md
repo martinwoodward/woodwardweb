@@ -3,7 +3,7 @@ title: "Whatever Happened to Bob?"
 date: 2005-04-06T12:31:58.000Z
 # post thumb
 images:
-  - "/images/post/2005-whatever-happened-to-bob.jpg"
+  - "/images/post/2005/04/2005-whatever-happened-to-bob.jpg"
 #author
 author: "Martin Woodward"
 # description

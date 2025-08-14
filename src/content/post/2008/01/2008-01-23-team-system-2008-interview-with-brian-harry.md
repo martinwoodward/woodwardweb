@@ -3,7 +3,7 @@ title: "Team System 2008 Interview with Brian Harry"
 date: 2008-01-23T11:46:45.000Z
 # post thumb
 images:
-  - "/images/post/2008-team-system-2008-interview-with-brian-harry.jpg"
+  - "/images/post/2008/01/2008-team-system-2008-interview-with-brian-harry.jpg"
 #author
 author: "Martin Woodward"
 # description

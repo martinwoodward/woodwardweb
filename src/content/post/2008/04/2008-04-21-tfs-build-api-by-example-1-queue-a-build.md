@@ -3,7 +3,7 @@ title: "TFS Build API by Example #1: Queue a build."
 date: 2008-04-21T14:23:34.000Z
 # post thumb
 images:
-  - "/images/post/2008-tfs-build-api-by-example-1-queue-a-build.jpg"
+  - "/images/post/2008/04/2008-tfs-build-api-by-example-1-queue-a-build.jpg"
 #author
 author: "Martin Woodward"
 # description

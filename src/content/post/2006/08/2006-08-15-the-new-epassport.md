@@ -3,7 +3,7 @@ title: "The new ePassport"
 date: 2006-08-15T11:08:40.000Z
 # post thumb
 images:
-  - "/images/post/2006-the-new-epassport.jpg"
+  - "/images/post/2006/08/2006-the-new-epassport.jpg"
 #author
 author: "Martin Woodward"
 # description

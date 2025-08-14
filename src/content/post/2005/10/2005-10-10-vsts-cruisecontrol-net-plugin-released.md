@@ -3,7 +3,7 @@ title: "VSTS CruiseControl.NET Plugin Released"
 date: 2005-10-10T21:44:52.000Z
 # post thumb
 images:
-  - "/images/post/2005-vsts-cruisecontrol-net-plugin-released.jpg"
+  - "/images/post/2005/10/2005-vsts-cruisecontrol-net-plugin-released.jpg"
 #author
 author: "Martin Woodward"
 # description

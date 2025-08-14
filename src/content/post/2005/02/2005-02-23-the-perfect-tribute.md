@@ -3,7 +3,7 @@ title: "The Perfect Tribute"
 date: 2005-02-23T22:51:43.000Z
 # post thumb
 images:
-  - "/images/post/2005-the-perfect-tribute.jpg"
+  - "/images/post/2005/02/2005-the-perfect-tribute.jpg"
 #author
 author: "Martin Woodward"
 # description

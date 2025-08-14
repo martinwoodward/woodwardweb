@@ -3,7 +3,7 @@ title: "VSTS Diagram Zoom Tip"
 date: 2006-01-30T14:45:52.000Z
 # post thumb
 images:
-  - "/images/post/2006-vsts-diagram-zoom-tip.jpg"
+  - "/images/post/2006/01/2006-vsts-diagram-zoom-tip.jpg"
 #author
 author: "Martin Woodward"
 # description

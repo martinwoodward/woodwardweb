@@ -3,7 +3,7 @@ title: "How do \"Normal\" people cope?"
 date: 2006-09-07T14:36:08.000Z
 # post thumb
 images:
-  - "/images/post/2006-how-do.jpg"
+  - "/images/post/2006/09/2006-how-do.jpg"
 #author
 author: "Martin Woodward"
 # description

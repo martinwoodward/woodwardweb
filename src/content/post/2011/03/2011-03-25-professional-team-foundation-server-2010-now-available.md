@@ -3,7 +3,7 @@ title: "Professional Team Foundation Server 2010 Now Available"
 date: 2011-03-25T17:18:14.000Z
 # post thumb
 images:
-  - "/images/post/2011-professional-team-foundation-server-2010-now-available.jpg"
+  - "/images/post/2011/03/2011-professional-team-foundation-server-2010-now-available.jpg"
 #author
 author: "Martin Woodward"
 # description

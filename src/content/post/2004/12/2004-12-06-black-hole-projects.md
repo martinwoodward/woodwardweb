@@ -3,7 +3,7 @@ title: "Black Hole Projects"
 date: 2004-12-06T20:33:08.000Z
 # post thumb
 images:
-  - "/images/post/2004-black-hole-projects.jpg"
+  - "/images/post/2004/12/2004-black-hole-projects.jpg"
 #author
 author: "Martin Woodward"
 # description

@@ -3,7 +3,7 @@ title: "Configuring NTP on Windows Server 2003"
 date: 2005-12-06T07:47:58.000Z
 # post thumb
 images:
-  - "/images/post/2005-configuring-ntp-on-windows-server-2003.jpg"
+  - "/images/post/2005/12/2005-configuring-ntp-on-windows-server-2003.jpg"
 #author
 author: "Martin Woodward"
 # description

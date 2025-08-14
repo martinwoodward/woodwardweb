@@ -3,7 +3,7 @@ title: "Polishing My Shoes"
 date: 2006-04-04T14:45:43.000Z
 # post thumb
 images:
-  - "/images/post/2006-polishing-my-shoes.jpg"
+  - "/images/post/2006/04/2006-polishing-my-shoes.jpg"
 #author
 author: "Martin Woodward"
 # description

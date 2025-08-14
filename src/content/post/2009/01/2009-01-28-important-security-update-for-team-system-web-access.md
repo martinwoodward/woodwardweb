@@ -3,7 +3,7 @@ title: "Important Security Update for Team System Web Access"
 date: 2009-01-28T13:25:44.000Z
 # post thumb
 images:
-  - "/images/post/2009-important-security-update-for-team-system-web-access.jpg"
+  - "/images/post/2009/01/2009-important-security-update-for-team-system-web-access.jpg"
 #author
 author: "Martin Woodward"
 # description

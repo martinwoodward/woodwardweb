@@ -3,7 +3,7 @@ title: "Infragistics use of Teamprise"
 date: 2008-05-16T10:05:23.000Z
 # post thumb
 images:
-  - "/images/post/2008-infragistics-use-of-teamprise.jpg"
+  - "/images/post/2008/05/2008-infragistics-use-of-teamprise.jpg"
 #author
 author: "Martin Woodward"
 # description

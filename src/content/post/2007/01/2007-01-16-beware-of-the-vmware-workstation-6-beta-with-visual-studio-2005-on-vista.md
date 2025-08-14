@@ -3,7 +3,7 @@ title: "Beware of the VMWare Workstation 6 Beta with Visual Studio 2005 on Vista
 date: 2007-01-16T15:18:50.000Z
 # post thumb
 images:
-  - "/images/post/2007-beware-of-the-vmware-workstation-6-beta-with-visual-studio-2005-on-vista.jpg"
+  - "/images/post/2007/01/2007-beware-of-the-vmware-workstation-6-beta-with-visual-studio-2005-on-vista.jpg"
 #author
 author: "Martin Woodward"
 # description

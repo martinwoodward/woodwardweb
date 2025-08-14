@@ -3,7 +3,7 @@ title: "Check Out in Team System"
 date: 2006-02-01T07:14:50.000Z
 # post thumb
 images:
-  - "/images/post/2006-check-out-in-team-system.jpg"
+  - "/images/post/2006/02/2006-check-out-in-team-system.jpg"
 #author
 author: "Martin Woodward"
 # description

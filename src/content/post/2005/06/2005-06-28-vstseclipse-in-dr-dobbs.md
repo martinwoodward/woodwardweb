@@ -3,7 +3,7 @@ title: "VSTSEclipse in Dr Dobbs!"
 date: 2005-06-28T19:04:37.000Z
 # post thumb
 images:
-  - "/images/post/2005-vstseclipse-in-dr-dobbs.jpg"
+  - "/images/post/2005/06/2005-vstseclipse-in-dr-dobbs.jpg"
 #author
 author: "Martin Woodward"
 # description

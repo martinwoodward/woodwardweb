@@ -3,7 +3,7 @@ title: "CodePlex Project Stats"
 date: 2008-03-13T22:05:18.000Z
 # post thumb
 images:
-  - "/images/post/2008-codeplex-project-stats.jpg"
+  - "/images/post/2008/03/2008-codeplex-project-stats.jpg"
 #author
 author: "Martin Woodward"
 # description

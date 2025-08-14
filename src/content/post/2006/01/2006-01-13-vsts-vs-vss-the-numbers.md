@@ -3,7 +3,7 @@ title: "VSTS vs VSS - The Numbers"
 date: 2006-01-13T15:42:33.000Z
 # post thumb
 images:
-  - "/images/post/2006-vsts-vs-vss-the-numbers.jpg"
+  - "/images/post/2006/01/2006-vsts-vs-vss-the-numbers.jpg"
 #author
 author: "Martin Woodward"
 # description

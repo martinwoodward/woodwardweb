@@ -3,7 +3,7 @@ title: "Working for Microsoft, Three Months In"
 date: 2010-02-18T21:41:58.000Z
 # post thumb
 images:
-  - "/images/post/2010-working-for-microsoft-three-months-in.jpg"
+  - "/images/post/2010/02/2010-working-for-microsoft-three-months-in.jpg"
 #author
 author: "Martin Woodward"
 # description

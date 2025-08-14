@@ -3,7 +3,7 @@ title: "Effective C#"
 date: 2005-03-25T07:30:08.000Z
 # post thumb
 images:
-  - "/images/post/2005-effective-c.jpg"
+  - "/images/post/2005/03/2005-effective-c.jpg"
 #author
 author: "Martin Woodward"
 # description

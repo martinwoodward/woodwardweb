@@ -3,7 +3,7 @@ title: "TFS Source Control for VS 2003"
 date: 2006-02-21T09:23:27.000Z
 # post thumb
 images:
-  - "/images/post/2006-tfs-source-control-for-vs-2003.jpg"
+  - "/images/post/2006/02/2006-tfs-source-control-for-vs-2003.jpg"
 #author
 author: "Martin Woodward"
 # description

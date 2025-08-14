@@ -3,7 +3,7 @@ title: "TFS from the Raspberry Pi"
 date: 2012-06-19T18:53:42.000Z
 # post thumb
 images:
-  - "/images/post/2012-tfs-from-the-raspberry-pi.jpg"
+  - "/images/post/2012/06/2012-tfs-from-the-raspberry-pi.jpg"
 #author
 author: "Martin Woodward"
 # description

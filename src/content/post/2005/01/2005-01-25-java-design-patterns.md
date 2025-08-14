@@ -3,7 +3,7 @@ title: "Java Design Patterns"
 date: 2005-01-25T15:53:07.000Z
 # post thumb
 images:
-  - "/images/post/2005-java-design-patterns.jpg"
+  - "/images/post/2005/01/2005-java-design-patterns.jpg"
 #author
 author: "Martin Woodward"
 # description

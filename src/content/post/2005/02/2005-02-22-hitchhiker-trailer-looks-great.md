@@ -3,7 +3,7 @@ title: "Hitchhiker Trailer Looks Great"
 date: 2005-02-22T22:35:14.000Z
 # post thumb
 images:
-  - "/images/post/2005-hitchhiker-trailer-looks-great.jpg"
+  - "/images/post/2005/02/2005-hitchhiker-trailer-looks-great.jpg"
 #author
 author: "Martin Woodward"
 # description

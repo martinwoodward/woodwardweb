@@ -3,7 +3,7 @@ title: "Teamprise Webcast"
 date: 2006-01-20T10:01:31.000Z
 # post thumb
 images:
-  - "/images/post/2006-teamprise-webcast.jpg"
+  - "/images/post/2006/01/2006-teamprise-webcast.jpg"
 #author
 author: "Martin Woodward"
 # description

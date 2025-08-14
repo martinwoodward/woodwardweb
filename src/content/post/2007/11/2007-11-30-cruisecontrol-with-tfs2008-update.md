@@ -3,7 +3,7 @@ title: "CruiseControl with TFS2008 update"
 date: 2007-11-30T20:00:46.000Z
 # post thumb
 images:
-  - "/images/post/2007-cruisecontrol-with-tfs2008-update.jpg"
+  - "/images/post/2007/11/2007-cruisecontrol-with-tfs2008-update.jpg"
 #author
 author: "Martin Woodward"
 # description

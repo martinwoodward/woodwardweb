@@ -3,7 +3,7 @@ title: "Why have Keyword Expansion?"
 date: 2007-01-02T16:49:38.000Z
 # post thumb
 images:
-  - "/images/post/2007-why-have-keyword-expansion.jpg"
+  - "/images/post/2007/01/2007-why-have-keyword-expansion.jpg"
 #author
 author: "Martin Woodward"
 # description

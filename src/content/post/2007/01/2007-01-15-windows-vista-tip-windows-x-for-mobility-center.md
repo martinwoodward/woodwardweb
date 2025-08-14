@@ -3,7 +3,7 @@ title: "Windows Vista Tip: Windows-X for Mobility Center"
 date: 2007-01-15T16:53:56.000Z
 # post thumb
 images:
-  - "/images/post/2007-windows-vista-tip-windows-x-for-mobility-center.jpg"
+  - "/images/post/2007/01/2007-windows-vista-tip-windows-x-for-mobility-center.jpg"
 #author
 author: "Martin Woodward"
 # description

@@ -3,7 +3,7 @@ title: "Another TFS RTM Install"
 date: 2006-03-20T17:04:36.000Z
 # post thumb
 images:
-  - "/images/post/2006-another-tfs-rtm-install.jpg"
+  - "/images/post/2006/03/2006-another-tfs-rtm-install.jpg"
 #author
 author: "Martin Woodward"
 # description

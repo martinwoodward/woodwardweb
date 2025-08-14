@@ -3,7 +3,7 @@ title: "TFS Top Tip #15 - Baseline your Builds"
 date: 2008-01-16T07:36:36.000Z
 # post thumb
 images:
-  - "/images/post/2008-tfs-top-tip-15-baseline-your-builds.jpg"
+  - "/images/post/2008/01/2008-tfs-top-tip-15-baseline-your-builds.jpg"
 #author
 author: "Martin Woodward"
 # description

@@ -3,7 +3,7 @@ title: "British Airways World Cargo"
 date: 2000-12-10T09:15:16.000Z
 # post thumb
 images:
-  - "/images/post/2000-british-airways-world-cargo.jpg"
+  - "/images/post/2000/12/2000-british-airways-world-cargo.jpg"
 #author
 author: "Martin Woodward"
 # description

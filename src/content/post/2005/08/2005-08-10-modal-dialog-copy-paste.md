@@ -3,7 +3,7 @@ title: "Modal Dialog Copy Paste"
 date: 2005-08-10T19:11:14.000Z
 # post thumb
 images:
-  - "/images/post/2005-modal-dialog-copy-paste.jpg"
+  - "/images/post/2005/08/2005-modal-dialog-copy-paste.jpg"
 #author
 author: "Martin Woodward"
 # description

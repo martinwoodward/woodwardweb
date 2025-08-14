@@ -3,7 +3,7 @@ title: "Grabbed by the Monads"
 date: 2006-04-07T21:16:32.000Z
 # post thumb
 images:
-  - "/images/post/2006-grabbed-by-the-monads.jpg"
+  - "/images/post/2006/04/2006-grabbed-by-the-monads.jpg"
 #author
 author: "Martin Woodward"
 # description

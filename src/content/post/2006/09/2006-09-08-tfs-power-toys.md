@@ -3,7 +3,7 @@ title: "TFS Power Toys"
 date: 2006-09-08T11:05:40.000Z
 # post thumb
 images:
-  - "/images/post/2006-tfs-power-toys.jpg"
+  - "/images/post/2006/09/2006-tfs-power-toys.jpg"
 #author
 author: "Martin Woodward"
 # description

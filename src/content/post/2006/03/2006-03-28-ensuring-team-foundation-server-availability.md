@@ -3,7 +3,7 @@ title: "Ensuring Team Foundation Server Availability"
 date: 2006-03-28T06:52:43.000Z
 # post thumb
 images:
-  - "/images/post/2006-ensuring-team-foundation-server-availability.jpg"
+  - "/images/post/2006/03/2006-ensuring-team-foundation-server-availability.jpg"
 #author
 author: "Martin Woodward"
 # description

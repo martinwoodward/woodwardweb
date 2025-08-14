@@ -3,7 +3,7 @@ title: "Time to Dump iTunes"
 date: 2005-05-25T07:07:32.000Z
 # post thumb
 images:
-  - "/images/post/2005-time-to-dump-itunes.jpg"
+  - "/images/post/2005/05/2005-time-to-dump-itunes.jpg"
 #author
 author: "Martin Woodward"
 # description

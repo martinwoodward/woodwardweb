@@ -3,7 +3,7 @@ title: "Know your Internals"
 date: 2004-03-29T10:44:32.000Z
 # post thumb
 images:
-  - "/images/post/2004-know-your-internals.jpg"
+  - "/images/post/2004/03/2004-know-your-internals.jpg"
 #author
 author: "Martin Woodward"
 # description

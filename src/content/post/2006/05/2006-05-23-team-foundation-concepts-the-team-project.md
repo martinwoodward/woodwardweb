@@ -3,7 +3,7 @@ title: "Team Foundation Concepts:  The Team Project"
 date: 2006-05-23T16:27:21.000Z
 # post thumb
 images:
-  - "/images/post/2006-team-foundation-concepts-the-team-project.jpg"
+  - "/images/post/2006/05/2006-team-foundation-concepts-the-team-project.jpg"
 #author
 author: "Martin Woodward"
 # description

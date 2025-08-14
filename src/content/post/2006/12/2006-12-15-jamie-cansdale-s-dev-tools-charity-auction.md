@@ -3,7 +3,7 @@ title: "Jamie Cansdale's Dev Tools Charity Auction"
 date: 2006-12-15T15:19:27.000Z
 # post thumb
 images:
-  - "/images/post/2006-jamie-cansdale.jpg"
+  - "/images/post/2006/12/2006-jamie-cansdale.jpg"
 #author
 author: "Martin Woodward"
 # description

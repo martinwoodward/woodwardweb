@@ -3,7 +3,7 @@ title: "My Pint Sized TFS Proxy"
 date: 2006-08-23T11:25:19.000Z
 # post thumb
 images:
-  - "/images/post/2006-my-pint-sized-tfs-proxy.jpg"
+  - "/images/post/2006/08/2006-my-pint-sized-tfs-proxy.jpg"
 #author
 author: "Martin Woodward"
 # description

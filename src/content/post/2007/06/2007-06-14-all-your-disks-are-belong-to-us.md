@@ -3,7 +3,7 @@ title: "All Your Disks Are Belong To Us"
 date: 2007-06-14T10:41:24.000Z
 # post thumb
 images:
-  - "/images/post/2007-all-your-disks-are-belong-to-us.jpg"
+  - "/images/post/2007/06/2007-all-your-disks-are-belong-to-us.jpg"
 #author
 author: "Martin Woodward"
 # description

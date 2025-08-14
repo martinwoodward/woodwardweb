@@ -3,7 +3,7 @@ title: "Opening Pandora's Box"
 date: 2005-12-08T05:35:34.000Z
 # post thumb
 images:
-  - "/images/post/2005-opening-pandora.jpg"
+  - "/images/post/2005/12/2005-opening-pandora.jpg"
 #author
 author: "Martin Woodward"
 # description

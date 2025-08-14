@@ -3,7 +3,7 @@ title: "Feed Break-up"
 date: 2006-07-26T12:28:56.000Z
 # post thumb
 images:
-  - "/images/post/2006-feed-break-up.jpg"
+  - "/images/post/2006/07/2006-feed-break-up.jpg"
 #author
 author: "Martin Woodward"
 # description

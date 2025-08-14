@@ -3,7 +3,7 @@ title: "New web project model for VS 2005."
 date: 2006-01-09T09:53:50.000Z
 # post thumb
 images:
-  - "/images/post/2006-new-web-project-model-for-vs-2005.jpg"
+  - "/images/post/2006/01/2006-new-web-project-model-for-vs-2005.jpg"
 #author
 author: "Martin Woodward"
 # description

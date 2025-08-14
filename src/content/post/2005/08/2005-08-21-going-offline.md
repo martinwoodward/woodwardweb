@@ -3,7 +3,7 @@ title: "Going Offline"
 date: 2005-08-21T23:04:58.000Z
 # post thumb
 images:
-  - "/images/post/2005-going-offline.jpg"
+  - "/images/post/2005/08/2005-going-offline.jpg"
 #author
 author: "Martin Woodward"
 # description

@@ -3,7 +3,7 @@ title: "Long Live the World's Smallest TFS Proxy"
 date: 2007-06-01T11:57:19.000Z
 # post thumb
 images:
-  - "/images/post/2007-long-live-the-world.jpg"
+  - "/images/post/2007/06/2007-long-live-the-world.jpg"
 #author
 author: "Martin Woodward"
 # description

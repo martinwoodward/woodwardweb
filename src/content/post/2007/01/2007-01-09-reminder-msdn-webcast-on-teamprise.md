@@ -3,7 +3,7 @@ title: "Reminder: MSDN Webcast on Teamprise"
 date: 2007-01-09T11:57:43.000Z
 # post thumb
 images:
-  - "/images/post/2007-reminder-msdn-webcast-on-teamprise.jpg"
+  - "/images/post/2007/01/2007-reminder-msdn-webcast-on-teamprise.jpg"
 #author
 author: "Martin Woodward"
 # description

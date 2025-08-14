@@ -3,7 +3,7 @@ title: "TFS 2010 API By Example: Introduction"
 date: 2009-08-26T15:21:52.000Z
 # post thumb
 images:
-  - "/images/post/2009-tfs-2010-api-by-example-introduction.jpg"
+  - "/images/post/2009/08/2009-tfs-2010-api-by-example-introduction.jpg"
 #author
 author: "Martin Woodward"
 # description

@@ -3,7 +3,7 @@ title: "I'm back online!"
 date: 2004-10-28T20:05:13.000Z
 # post thumb
 images:
-  - "/images/post/2004-i.jpg"
+  - "/images/post/2004/10/2004-i.jpg"
 #author
 author: "Martin Woodward"
 # description

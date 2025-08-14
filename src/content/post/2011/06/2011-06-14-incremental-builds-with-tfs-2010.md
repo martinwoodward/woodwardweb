@@ -3,7 +3,7 @@ title: "Incremental Builds with TFS 2010"
 date: 2011-06-14T05:53:23.000Z
 # post thumb
 images:
-  - "/images/post/2011-incremental-builds-with-tfs-2010.jpg"
+  - "/images/post/2011/06/2011-incremental-builds-with-tfs-2010.jpg"
 #author
 author: "Martin Woodward"
 # description

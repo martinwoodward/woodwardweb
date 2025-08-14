@@ -3,7 +3,7 @@ title: "Paul Thompson"
 date: 2004-04-24T15:25:04.000Z
 # post thumb
 images:
-  - "/images/post/2004-paul-thompson.jpg"
+  - "/images/post/2004/04/2004-paul-thompson.jpg"
 #author
 author: "Martin Woodward"
 # description

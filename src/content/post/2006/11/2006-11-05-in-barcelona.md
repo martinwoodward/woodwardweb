@@ -3,7 +3,7 @@ title: "In Barcelona"
 date: 2006-11-05T17:39:30.000Z
 # post thumb
 images:
-  - "/images/post/2006-in-barcelona.jpg"
+  - "/images/post/2006/11/2006-in-barcelona.jpg"
 #author
 author: "Martin Woodward"
 # description

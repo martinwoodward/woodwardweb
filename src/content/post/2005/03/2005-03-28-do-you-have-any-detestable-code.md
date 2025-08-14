@@ -3,7 +3,7 @@ title: "Do you have any detestable code?"
 date: 2005-03-28T11:56:35.000Z
 # post thumb
 images:
-  - "/images/post/2005-do-you-have-any-detestable-code.jpg"
+  - "/images/post/2005/03/2005-do-you-have-any-detestable-code.jpg"
 #author
 author: "Martin Woodward"
 # description

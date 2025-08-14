@@ -3,7 +3,7 @@ title: "CruiseControl.NET Source Control Plugin 1.2.0 Released"
 date: 2006-03-02T21:45:48.000Z
 # post thumb
 images:
-  - "/images/post/2006-cruisecontrol-net-source-control-plugin-1-2-0-released.jpg"
+  - "/images/post/2006/03/2006-cruisecontrol-net-source-control-plugin-1-2-0-released.jpg"
 #author
 author: "Martin Woodward"
 # description

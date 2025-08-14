@@ -3,7 +3,7 @@ title: "Somebody trying to tell me something?"
 date: 2005-02-02T08:47:13.000Z
 # post thumb
 images:
-  - "/images/post/2005-somebody-trying-to-tell-me-something.jpg"
+  - "/images/post/2005/02/2005-somebody-trying-to-tell-me-something.jpg"
 #author
 author: "Martin Woodward"
 # description

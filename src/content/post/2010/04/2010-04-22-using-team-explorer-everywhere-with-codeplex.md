@@ -3,7 +3,7 @@ title: "Using Team Explorer Everywhere with CodePlex"
 date: 2010-04-22T12:39:36.000Z
 # post thumb
 images:
-  - "/images/post/2010-using-team-explorer-everywhere-with-codeplex.jpg"
+  - "/images/post/2010/04/2010-using-team-explorer-everywhere-with-codeplex.jpg"
 #author
 author: "Martin Woodward"
 # description

@@ -3,7 +3,7 @@ title: "Team Build Screensaver in WPF"
 date: 2009-06-11T13:43:28.000Z
 # post thumb
 images:
-  - "/images/post/2009-team-build-screensaver-in-wpf.jpg"
+  - "/images/post/2009/06/2009-team-build-screensaver-in-wpf.jpg"
 #author
 author: "Martin Woodward"
 # description

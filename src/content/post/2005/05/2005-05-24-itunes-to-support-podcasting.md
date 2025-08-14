@@ -3,7 +3,7 @@ title: "iTunes to support Podcasting"
 date: 2005-05-24T07:47:50.000Z
 # post thumb
 images:
-  - "/images/post/2005-itunes-to-support-podcasting.jpg"
+  - "/images/post/2005/05/2005-itunes-to-support-podcasting.jpg"
 #author
 author: "Martin Woodward"
 # description

@@ -3,7 +3,7 @@ title: "Teamprise V1.0 Now Released!"
 date: 2006-04-11T19:56:42.000Z
 # post thumb
 images:
-  - "/images/post/2006-teamprise-v1-0-now-released.jpg"
+  - "/images/post/2006/04/2006-teamprise-v1-0-now-released.jpg"
 #author
 author: "Martin Woodward"
 # description

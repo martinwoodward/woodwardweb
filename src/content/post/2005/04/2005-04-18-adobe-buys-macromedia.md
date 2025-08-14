@@ -3,7 +3,7 @@ title: "Adobe buys Macromedia"
 date: 2005-04-18T18:03:08.000Z
 # post thumb
 images:
-  - "/images/post/2005-adobe-buys-macromedia.jpg"
+  - "/images/post/2005/04/2005-adobe-buys-macromedia.jpg"
 #author
 author: "Martin Woodward"
 # description

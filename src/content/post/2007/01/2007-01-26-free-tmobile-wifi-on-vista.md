@@ -3,7 +3,7 @@ title: "Free TMobile WiFi on Vista"
 date: 2007-01-26T11:50:22.000Z
 # post thumb
 images:
-  - "/images/post/2007-free-tmobile-wifi-on-vista.jpg"
+  - "/images/post/2007/01/2007-free-tmobile-wifi-on-vista.jpg"
 #author
 author: "Martin Woodward"
 # description

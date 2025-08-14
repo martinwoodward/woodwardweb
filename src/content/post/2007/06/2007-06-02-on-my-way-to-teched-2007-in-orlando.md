@@ -3,7 +3,7 @@ title: "On my way to TechEd 2007 in Orlando"
 date: 2007-06-02T20:26:04.000Z
 # post thumb
 images:
-  - "/images/post/2007-on-my-way-to-teched-2007-in-orlando.jpg"
+  - "/images/post/2007/06/2007-on-my-way-to-teched-2007-in-orlando.jpg"
 #author
 author: "Martin Woodward"
 # description

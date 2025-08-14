@@ -3,7 +3,7 @@ title: "Hosted TFS for BizSpark Companies"
 date: 2009-09-03T20:30:52.000Z
 # post thumb
 images:
-  - "/images/post/2009-hosted-tfs-for-bizspark-companies.jpg"
+  - "/images/post/2009/09/2009-hosted-tfs-for-bizspark-companies.jpg"
 #author
 author: "Martin Woodward"
 # description

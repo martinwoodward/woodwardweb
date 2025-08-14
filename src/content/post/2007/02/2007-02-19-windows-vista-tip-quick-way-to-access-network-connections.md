@@ -3,7 +3,7 @@ title: "Windows Vista Tip: Quick way to access Network Connections"
 date: 2007-02-19T13:48:50.000Z
 # post thumb
 images:
-  - "/images/post/2007-windows-vista-tip-quick-way-to-access-network-connections.jpg"
+  - "/images/post/2007/02/2007-windows-vista-tip-quick-way-to-access-network-connections.jpg"
 #author
 author: "Martin Woodward"
 # description

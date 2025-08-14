@@ -3,7 +3,7 @@ title: "TechDays09 Talk: VSTS Interoperability"
 date: 2009-02-06T23:46:28.000Z
 # post thumb
 images:
-  - "/images/post/2009-techdays09-talk-vsts-interoperability.jpg"
+  - "/images/post/2009/02/2009-techdays09-talk-vsts-interoperability.jpg"
 #author
 author: "Martin Woodward"
 # description

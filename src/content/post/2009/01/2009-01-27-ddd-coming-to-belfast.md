@@ -3,7 +3,7 @@ title: "DDD Coming to Belfast"
 date: 2009-01-27T13:08:21.000Z
 # post thumb
 images:
-  - "/images/post/2009-ddd-coming-to-belfast.jpg"
+  - "/images/post/2009/01/2009-ddd-coming-to-belfast.jpg"
 #author
 author: "Martin Woodward"
 # description

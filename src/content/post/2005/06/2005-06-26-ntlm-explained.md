@@ -3,7 +3,7 @@ title: "NTLM Explained"
 date: 2005-06-26T23:31:37.000Z
 # post thumb
 images:
-  - "/images/post/2005-ntlm-explained.jpg"
+  - "/images/post/2005/06/2005-ntlm-explained.jpg"
 #author
 author: "Martin Woodward"
 # description

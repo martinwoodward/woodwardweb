@@ -3,7 +3,7 @@ title: "Teamprise 2.1 Released"
 date: 2007-03-09T14:46:40.000Z
 # post thumb
 images:
-  - "/images/post/2007-teamprise-2-1-released.jpg"
+  - "/images/post/2007/03/2007-teamprise-2-1-released.jpg"
 #author
 author: "Martin Woodward"
 # description

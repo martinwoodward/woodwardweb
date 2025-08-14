@@ -3,7 +3,7 @@ title: "Continuous Integration on Hanselminutes"
 date: 2006-02-01T16:07:30.000Z
 # post thumb
 images:
-  - "/images/post/2006-continuous-integration-on-hanselminutes.jpg"
+  - "/images/post/2006/02/2006-continuous-integration-on-hanselminutes.jpg"
 #author
 author: "Martin Woodward"
 # description

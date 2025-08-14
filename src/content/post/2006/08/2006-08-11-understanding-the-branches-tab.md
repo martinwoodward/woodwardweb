@@ -3,7 +3,7 @@ title: "Understanding the Branches Tab"
 date: 2006-08-11T12:36:55.000Z
 # post thumb
 images:
-  - "/images/post/2006-understanding-the-branches-tab.jpg"
+  - "/images/post/2006/08/2006-understanding-the-branches-tab.jpg"
 #author
 author: "Martin Woodward"
 # description

@@ -3,7 +3,7 @@ title: "The Broker - John Grisham"
 date: 2005-02-01T22:11:22.000Z
 # post thumb
 images:
-  - "/images/post/2005-the-broker-john-grisham.jpg"
+  - "/images/post/2005/02/2005-the-broker-john-grisham.jpg"
 #author
 author: "Martin Woodward"
 # description
@@ -17,7 +17,7 @@ draft: false
 date: 2005-02-01T22:11:22.000Z
 # post thumb
 images:
-  - "/images/post/2005-the-broker-john-grisham.jpg"
+  - "/images/post/2005/02/2005-the-broker-john-grisham.jpg"
 #author
 author: "Martin Woodward"
 # description

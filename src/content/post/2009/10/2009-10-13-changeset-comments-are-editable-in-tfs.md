@@ -3,7 +3,7 @@ title: "Changeset comments are editable in TFS"
 date: 2009-10-13T12:13:56.000Z
 # post thumb
 images:
-  - "/images/post/2009-changeset-comments-are-editable-in-tfs.jpg"
+  - "/images/post/2009/10/2009-changeset-comments-are-editable-in-tfs.jpg"
 #author
 author: "Martin Woodward"
 # description

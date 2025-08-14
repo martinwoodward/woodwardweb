@@ -3,7 +3,7 @@ title: ".NET Framework 2.0 Released"
 date: 2005-10-28T11:33:35.000Z
 # post thumb
 images:
-  - "/images/post/2005-net-framework-2-0-released.jpg"
+  - "/images/post/2005/10/2005-net-framework-2-0-released.jpg"
 #author
 author: "Martin Woodward"
 # description

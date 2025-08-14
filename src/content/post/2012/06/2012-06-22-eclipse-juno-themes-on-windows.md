@@ -3,7 +3,7 @@ title: "Eclipse Juno Themes on Windows"
 date: 2012-06-22T03:59:38.000Z
 # post thumb
 images:
-  - "/images/post/2012-eclipse-juno-themes-on-windows.jpg"
+  - "/images/post/2012/06/2012-eclipse-juno-themes-on-windows.jpg"
 #author
 author: "Martin Woodward"
 # description

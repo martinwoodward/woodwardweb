@@ -3,7 +3,7 @@ title: "To MSBuild or not to MSBuild"
 date: 2009-11-15T12:30:05.000Z
 # post thumb
 images:
-  - "/images/post/2009-to-msbuild-or-not-to-msbuild.jpg"
+  - "/images/post/2009/11/2009-to-msbuild-or-not-to-msbuild.jpg"
 #author
 author: "Martin Woodward"
 # description

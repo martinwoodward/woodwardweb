@@ -3,7 +3,7 @@ title: "Team System Web Chat"
 date: 2006-09-01T09:13:50.000Z
 # post thumb
 images:
-  - "/images/post/2006-team-system-web-chat.jpg"
+  - "/images/post/2006/09/2006-team-system-web-chat.jpg"
 #author
 author: "Martin Woodward"
 # description

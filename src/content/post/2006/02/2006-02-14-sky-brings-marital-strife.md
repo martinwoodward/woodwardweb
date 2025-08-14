@@ -3,7 +3,7 @@ title: "Sky+ Brings Marital Strife"
 date: 2006-02-14T11:55:05.000Z
 # post thumb
 images:
-  - "/images/post/2006-sky-brings-marital-strife.jpg"
+  - "/images/post/2006/02/2006-sky-brings-marital-strife.jpg"
 #author
 author: "Martin Woodward"
 # description

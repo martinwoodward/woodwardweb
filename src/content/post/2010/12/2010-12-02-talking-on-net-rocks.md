@@ -3,7 +3,7 @@ title: "Talking on .NET Rocks"
 date: 2010-12-02T10:09:06.000Z
 # post thumb
 images:
-  - "/images/post/2010-talking-on-net-rocks.jpg"
+  - "/images/post/2010/12/2010-talking-on-net-rocks.jpg"
 #author
 author: "Martin Woodward"
 # description

@@ -3,7 +3,7 @@ title: "VSTSPlugins Website Launched"
 date: 2005-10-03T07:04:13.000Z
 # post thumb
 images:
-  - "/images/post/2005-vstsplugins-website-launched.jpg"
+  - "/images/post/2005/10/2005-vstsplugins-website-launched.jpg"
 #author
 author: "Martin Woodward"
 # description

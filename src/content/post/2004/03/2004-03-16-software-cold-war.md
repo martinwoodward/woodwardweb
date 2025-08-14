@@ -3,7 +3,7 @@ title: "Software Cold War"
 date: 2004-03-16T13:42:24.000Z
 # post thumb
 images:
-  - "/images/post/2004-software-cold-war.jpg"
+  - "/images/post/2004/03/2004-software-cold-war.jpg"
 #author
 author: "Martin Woodward"
 # description

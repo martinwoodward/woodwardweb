@@ -3,7 +3,7 @@ title: "Teamprise Turns 2.0"
 date: 2006-11-30T22:27:29.000Z
 # post thumb
 images:
-  - "/images/post/2006-teamprise-turns-2-0.jpg"
+  - "/images/post/2006/11/2006-teamprise-turns-2-0.jpg"
 #author
 author: "Martin Woodward"
 # description

@@ -3,7 +3,7 @@ title: "Grant Holliday on Public Workspaces in TFS 2010"
 date: 2009-11-09T06:49:14.000Z
 # post thumb
 images:
-  - "/images/post/2009-grant-holliday-on-public-workspaces-in-tfs-2010.jpg"
+  - "/images/post/2009/11/2009-grant-holliday-on-public-workspaces-in-tfs-2010.jpg"
 #author
 author: "Martin Woodward"
 # description

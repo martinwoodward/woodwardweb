@@ -3,7 +3,7 @@ title: "Team System Live Chat"
 date: 2007-06-19T23:07:50.000Z
 # post thumb
 images:
-  - "/images/post/2007-team-system-live-chat.jpg"
+  - "/images/post/2007/06/2007-team-system-live-chat.jpg"
 #author
 author: "Martin Woodward"
 # description

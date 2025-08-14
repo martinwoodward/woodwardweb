@@ -3,7 +3,7 @@ title: "Electronic Ink is on the Cards"
 date: 2004-03-26T12:02:32.000Z
 # post thumb
 images:
-  - "/images/post/2004-electronic-ink-is-on-the-cards.jpg"
+  - "/images/post/2004/03/2004-electronic-ink-is-on-the-cards.jpg"
 #author
 author: "Martin Woodward"
 # description

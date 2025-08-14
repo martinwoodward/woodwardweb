@@ -3,7 +3,7 @@ title: "Vista Admin Shell Icon"
 date: 2007-04-30T17:32:52.000Z
 # post thumb
 images:
-  - "/images/post/2007-vista-admin-shell-icon.jpg"
+  - "/images/post/2007/04/2007-vista-admin-shell-icon.jpg"
 #author
 author: "Martin Woodward"
 # description

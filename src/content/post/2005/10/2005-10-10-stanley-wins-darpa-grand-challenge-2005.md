@@ -3,7 +3,7 @@ title: "Stanley Wins DARPA Grand Challenge 2005"
 date: 2005-10-10T12:34:07.000Z
 # post thumb
 images:
-  - "/images/post/2005-stanley-wins-darpa-grand-challenge-2005.jpg"
+  - "/images/post/2005/10/2005-stanley-wins-darpa-grand-challenge-2005.jpg"
 #author
 author: "Martin Woodward"
 # description

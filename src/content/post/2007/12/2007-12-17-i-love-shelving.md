@@ -3,7 +3,7 @@ title: "I Love Shelving"
 date: 2007-12-17T16:46:03.000Z
 # post thumb
 images:
-  - "/images/post/2007-i-love-shelving.jpg"
+  - "/images/post/2007/12/2007-i-love-shelving.jpg"
 #author
 author: "Martin Woodward"
 # description

@@ -3,7 +3,7 @@ title: "Team System VPC Available"
 date: 2005-11-14T10:07:24.000Z
 # post thumb
 images:
-  - "/images/post/2005-team-system-vpc-available.jpg"
+  - "/images/post/2005/11/2005-team-system-vpc-available.jpg"
 #author
 author: "Martin Woodward"
 # description

@@ -3,7 +3,7 @@ title: "Syntax Highlighter for Windows Live Writer"
 date: 2006-08-18T12:13:49.000Z
 # post thumb
 images:
-  - "/images/post/2006-syntax-highlighter-for-windows-live-writer.jpg"
+  - "/images/post/2006/08/2006-syntax-highlighter-for-windows-live-writer.jpg"
 #author
 author: "Martin Woodward"
 # description

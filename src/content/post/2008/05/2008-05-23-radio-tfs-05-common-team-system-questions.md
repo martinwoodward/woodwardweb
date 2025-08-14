@@ -3,7 +3,7 @@ title: "Radio TFS 05: Common Team System Questions"
 date: 2008-05-23T23:55:37.000Z
 # post thumb
 images:
-  - "/images/post/2008-radio-tfs-05-common-team-system-questions.jpg"
+  - "/images/post/2008/05/2008-radio-tfs-05-common-team-system-questions.jpg"
 #author
 author: "Martin Woodward"
 # description

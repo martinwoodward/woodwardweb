@@ -3,7 +3,7 @@ title: "Visual Studio Auto Complete Error"
 date: 2004-11-10T00:10:41.000Z
 # post thumb
 images:
-  - "/images/post/2004-visual-studio-auto-complete-error.jpg"
+  - "/images/post/2004/11/2004-visual-studio-auto-complete-error.jpg"
 #author
 author: "Martin Woodward"
 # description

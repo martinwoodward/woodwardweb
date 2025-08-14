@@ -3,7 +3,7 @@ title: "New Team System 2008 Virtual PC to Download"
 date: 2008-03-31T11:57:44.000Z
 # post thumb
 images:
-  - "/images/post/2008-new-team-system-2008-virtual-pc-to-download.jpg"
+  - "/images/post/2008/03/2008-new-team-system-2008-virtual-pc-to-download.jpg"
 #author
 author: "Martin Woodward"
 # description

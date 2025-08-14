@@ -3,7 +3,7 @@ title: "Skype Affilliate Program"
 date: 2005-06-01T19:28:05.000Z
 # post thumb
 images:
-  - "/images/post/2005-skype-affilliate-program.jpg"
+  - "/images/post/2005/06/2005-skype-affilliate-program.jpg"
 #author
 author: "Martin Woodward"
 # description

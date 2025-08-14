@@ -3,7 +3,7 @@ title: "IMTC Registration Open!"
 date: 2007-05-19T13:40:07.000Z
 # post thumb
 images:
-  - "/images/post/2007-imtc-registration-open.jpg"
+  - "/images/post/2007/05/2007-imtc-registration-open.jpg"
 #author
 author: "Martin Woodward"
 # description

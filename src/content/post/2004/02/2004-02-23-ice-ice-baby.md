@@ -3,7 +3,7 @@ title: "Ice Ice Baby"
 date: 2004-02-23T20:05:36.000Z
 # post thumb
 images:
-  - "/images/post/2004-ice-ice-baby.jpg"
+  - "/images/post/2004/02/2004-ice-ice-baby.jpg"
 #author
 author: "Martin Woodward"
 # description

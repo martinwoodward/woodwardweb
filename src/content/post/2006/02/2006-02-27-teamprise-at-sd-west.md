@@ -3,7 +3,7 @@ title: "Teamprise at SD West"
 date: 2006-02-27T21:16:08.000Z
 # post thumb
 images:
-  - "/images/post/2006-teamprise-at-sd-west.jpg"
+  - "/images/post/2006/02/2006-teamprise-at-sd-west.jpg"
 #author
 author: "Martin Woodward"
 # description

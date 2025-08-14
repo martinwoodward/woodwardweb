@@ -3,7 +3,7 @@ title: "There is no such thing as “User Error”"
 date: 2008-10-01T11:31:57.000Z
 # post thumb
 images:
-  - "/images/post/2008-there-is-no-such-thing-as-user-error.jpg"
+  - "/images/post/2008/10/2008-there-is-no-such-thing-as-user-error.jpg"
 #author
 author: "Martin Woodward"
 # description

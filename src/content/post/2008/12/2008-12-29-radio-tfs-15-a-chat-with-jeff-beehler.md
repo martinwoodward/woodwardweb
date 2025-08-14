@@ -3,7 +3,7 @@ title: "Radio TFS #15: A Chat with Jeff Beehler"
 date: 2008-12-29T13:40:01.000Z
 # post thumb
 images:
-  - "/images/post/2008-radio-tfs-15-a-chat-with-jeff-beehler.jpg"
+  - "/images/post/2008/12/2008-radio-tfs-15-a-chat-with-jeff-beehler.jpg"
 #author
 author: "Martin Woodward"
 # description

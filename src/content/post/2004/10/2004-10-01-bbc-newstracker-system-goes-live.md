@@ -3,7 +3,7 @@ title: "BBC Newstracker system goes live"
 date: 2004-10-01T13:42:28.000Z
 # post thumb
 images:
-  - "/images/post/2004-bbc-newstracker-system-goes-live.jpg"
+  - "/images/post/2004/10/2004-bbc-newstracker-system-goes-live.jpg"
 #author
 author: "Martin Woodward"
 # description

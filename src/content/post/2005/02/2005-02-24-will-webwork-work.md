@@ -3,7 +3,7 @@ title: "Will WebWork Work?"
 date: 2005-02-24T07:08:35.000Z
 # post thumb
 images:
-  - "/images/post/2005-will-webwork-work.jpg"
+  - "/images/post/2005/02/2005-will-webwork-work.jpg"
 #author
 author: "Martin Woodward"
 # description

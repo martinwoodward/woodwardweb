@@ -3,7 +3,7 @@ title: "TechEd EMEA 2009 in Berlin"
 date: 2009-11-10T22:46:19.000Z
 # post thumb
 images:
-  - "/images/post/2009-teched-emea-2009-in-berlin.jpg"
+  - "/images/post/2009/11/2009-teched-emea-2009-in-berlin.jpg"
 #author
 author: "Martin Woodward"
 # description

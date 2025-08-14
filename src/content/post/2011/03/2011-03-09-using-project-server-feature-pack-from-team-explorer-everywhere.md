@@ -3,7 +3,7 @@ title: "Using Project Server Feature Pack from Team Explorer Everywhere"
 date: 2011-03-09T06:26:23.000Z
 # post thumb
 images:
-  - "/images/post/2011-using-project-server-feature-pack-from-team-explorer-everywhere.jpg"
+  - "/images/post/2011/03/2011-using-project-server-feature-pack-from-team-explorer-everywhere.jpg"
 #author
 author: "Martin Woodward"
 # description

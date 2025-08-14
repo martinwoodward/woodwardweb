@@ -3,7 +3,7 @@ title: "INDA Cork Talk"
 date: 2006-04-27T23:21:11.000Z
 # post thumb
 images:
-  - "/images/post/2006-inda-cork-talk.jpg"
+  - "/images/post/2006/04/2006-inda-cork-talk.jpg"
 #author
 author: "Martin Woodward"
 # description

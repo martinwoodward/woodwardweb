@@ -3,7 +3,7 @@ title: "VSTS Plugin for Eclipse Website"
 date: 2005-04-26T23:02:00.000Z
 # post thumb
 images:
-  - "/images/post/2005-vsts-plugin-for-eclipse-website.jpg"
+  - "/images/post/2005/04/2005-vsts-plugin-for-eclipse-website.jpg"
 #author
 author: "Martin Woodward"
 # description

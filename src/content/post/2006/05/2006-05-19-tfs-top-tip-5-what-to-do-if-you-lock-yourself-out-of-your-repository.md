@@ -3,7 +3,7 @@ title: "TFS Top Tip #5 - What to do if you lock yourself out of your repository"
 date: 2006-05-19T10:03:47.000Z
 # post thumb
 images:
-  - "/images/post/2006-tfs-top-tip-5-what-to-do-if-you-lock-yourself-out-of-your-repository.jpg"
+  - "/images/post/2006/05/2006-tfs-top-tip-5-what-to-do-if-you-lock-yourself-out-of-your-repository.jpg"
 #author
 author: "Martin Woodward"
 # description

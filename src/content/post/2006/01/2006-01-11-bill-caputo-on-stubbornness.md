@@ -3,7 +3,7 @@ title: "Bill Caputo on Stubbornness"
 date: 2006-01-11T09:29:26.000Z
 # post thumb
 images:
-  - "/images/post/2006-bill-caputo-on-stubbornness.jpg"
+  - "/images/post/2006/01/2006-bill-caputo-on-stubbornness.jpg"
 #author
 author: "Martin Woodward"
 # description

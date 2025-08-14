@@ -3,7 +3,7 @@ title: "MIT Courses Online"
 date: 2003-09-23T10:19:23.000Z
 # post thumb
 images:
-  - "/images/post/2003-mit-courses-online.jpg"
+  - "/images/post/2003/09/2003-mit-courses-online.jpg"
 #author
 author: "Martin Woodward"
 # description

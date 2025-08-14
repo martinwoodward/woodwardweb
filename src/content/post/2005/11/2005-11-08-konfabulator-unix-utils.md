@@ -3,7 +3,7 @@ title: "Konfabulator Unix Utils"
 date: 2005-11-08T13:47:09.000Z
 # post thumb
 images:
-  - "/images/post/2005-konfabulator-unix-utils.jpg"
+  - "/images/post/2005/11/2005-konfabulator-unix-utils.jpg"
 #author
 author: "Martin Woodward"
 # description

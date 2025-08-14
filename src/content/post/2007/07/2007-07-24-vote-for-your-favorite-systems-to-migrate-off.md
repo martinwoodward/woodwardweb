@@ -3,7 +3,7 @@ title: "Vote for your favorite systems to migrate off."
 date: 2007-07-24T15:00:42.000Z
 # post thumb
 images:
-  - "/images/post/2007-vote-for-your-favorite-systems-to-migrate-off.jpg"
+  - "/images/post/2007/07/2007-vote-for-your-favorite-systems-to-migrate-off.jpg"
 #author
 author: "Martin Woodward"
 # description

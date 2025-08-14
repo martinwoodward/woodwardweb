@@ -3,7 +3,7 @@ title: "One Year at Microsoft, Two Reasons to Celebrate"
 date: 2010-11-03T20:30:00.000Z
 # post thumb
 images:
-  - "/images/post/2010-one-year-at-microsoft-two-reasons-to-celebrate.jpg"
+  - "/images/post/2010/11/2010-one-year-at-microsoft-two-reasons-to-celebrate.jpg"
 #author
 author: "Martin Woodward"
 # description

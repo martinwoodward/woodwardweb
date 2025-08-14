@@ -3,7 +3,7 @@ title: "Live from the INDC in Dublin"
 date: 2006-05-03T23:56:11.000Z
 # post thumb
 images:
-  - "/images/post/2006-live-from-the-indc-in-dublin.jpg"
+  - "/images/post/2006/05/2006-live-from-the-indc-in-dublin.jpg"
 #author
 author: "Martin Woodward"
 # description

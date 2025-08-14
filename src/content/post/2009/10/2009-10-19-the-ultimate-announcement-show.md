@@ -3,7 +3,7 @@ title: "The Ultimate Announcement Show"
 date: 2009-10-19T18:32:53.000Z
 # post thumb
 images:
-  - "/images/post/2009-the-ultimate-announcement-show.jpg"
+  - "/images/post/2009/10/2009-the-ultimate-announcement-show.jpg"
 #author
 author: "Martin Woodward"
 # description

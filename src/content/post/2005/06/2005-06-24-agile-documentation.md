@@ -3,7 +3,7 @@ title: "Agile Documentation"
 date: 2005-06-24T12:52:37.000Z
 # post thumb
 images:
-  - "/images/post/2005-agile-documentation.jpg"
+  - "/images/post/2005/06/2005-agile-documentation.jpg"
 #author
 author: "Martin Woodward"
 # description

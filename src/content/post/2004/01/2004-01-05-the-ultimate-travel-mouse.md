@@ -3,7 +3,7 @@ title: "The Ultimate Travel Mouse?"
 date: 2004-01-05T13:20:15.000Z
 # post thumb
 images:
-  - "/images/post/2004-the-ultimate-travel-mouse.jpg"
+  - "/images/post/2004/01/2004-the-ultimate-travel-mouse.jpg"
 #author
 author: "Martin Woodward"
 # description

@@ -3,7 +3,7 @@ title: "The Team Explorer Everywhere Tour 2011"
 date: 2011-03-23T23:18:00.000Z
 # post thumb
 images:
-  - "/images/post/2011-the-team-explorer-everywhere-tour-2011.jpg"
+  - "/images/post/2011/03/2011-the-team-explorer-everywhere-tour-2011.jpg"
 #author
 author: "Martin Woodward"
 # description

@@ -3,7 +3,7 @@ title: "VSTS Bloggers Google Toolbar"
 date: 2006-02-17T17:06:07.000Z
 # post thumb
 images:
-  - "/images/post/2006-vsts-bloggers-google-toolbar.jpg"
+  - "/images/post/2006/02/2006-vsts-bloggers-google-toolbar.jpg"
 #author
 author: "Martin Woodward"
 # description

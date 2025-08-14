@@ -3,7 +3,7 @@ title: "Irish National Developers Conference"
 date: 2006-04-27T13:55:05.000Z
 # post thumb
 images:
-  - "/images/post/2006-irish-national-developers-conference.jpg"
+  - "/images/post/2006/04/2006-irish-national-developers-conference.jpg"
 #author
 author: "Martin Woodward"
 # description

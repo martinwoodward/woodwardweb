@@ -3,7 +3,7 @@ title: "Catching up with MIX09"
 date: 2009-03-26T13:54:53.000Z
 # post thumb
 images:
-  - "/images/post/2009-catching-up-with-mix09.jpg"
+  - "/images/post/2009/03/2009-catching-up-with-mix09.jpg"
 #author
 author: "Martin Woodward"
 # description

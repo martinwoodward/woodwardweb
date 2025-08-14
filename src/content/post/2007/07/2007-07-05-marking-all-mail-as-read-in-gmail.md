@@ -3,7 +3,7 @@ title: "Marking all mail as read in Gmail"
 date: 2007-07-05T17:34:48.000Z
 # post thumb
 images:
-  - "/images/post/2007-marking-all-mail-as-read-in-gmail.jpg"
+  - "/images/post/2007/07/2007-marking-all-mail-as-read-in-gmail.jpg"
 #author
 author: "Martin Woodward"
 # description

@@ -3,7 +3,7 @@ title: "VSTS Plugin for Eclipse"
 date: 2005-04-01T07:31:45.000Z
 # post thumb
 images:
-  - "/images/post/2005-vsts-plugin-for-eclipse.jpg"
+  - "/images/post/2005/04/2005-vsts-plugin-for-eclipse.jpg"
 #author
 author: "Martin Woodward"
 # description

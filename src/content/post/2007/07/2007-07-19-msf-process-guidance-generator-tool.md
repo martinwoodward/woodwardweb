@@ -3,7 +3,7 @@ title: "MSF Process Guidance Generator Tool"
 date: 2007-07-19T14:27:08.000Z
 # post thumb
 images:
-  - "/images/post/2007-msf-process-guidance-generator-tool.jpg"
+  - "/images/post/2007/07/2007-msf-process-guidance-generator-tool.jpg"
 #author
 author: "Martin Woodward"
 # description

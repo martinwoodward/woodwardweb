@@ -3,7 +3,7 @@ title: "Codec problems"
 date: 2005-02-17T12:59:25.000Z
 # post thumb
 images:
-  - "/images/post/2005-codec-problems.jpg"
+  - "/images/post/2005/02/2005-codec-problems.jpg"
 #author
 author: "Martin Woodward"
 # description

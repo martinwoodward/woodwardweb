@@ -3,7 +3,7 @@ title: "Meebo Rules"
 date: 2005-09-21T12:30:44.000Z
 # post thumb
 images:
-  - "/images/post/2005-meebo-rules.jpg"
+  - "/images/post/2005/09/2005-meebo-rules.jpg"
 #author
 author: "Martin Woodward"
 # description

@@ -3,7 +3,7 @@ title: "Home from TechEd 2006 Developers"
 date: 2006-11-14T11:18:41.000Z
 # post thumb
 images:
-  - "/images/post/2006-home-from-teched-2006-developers.jpg"
+  - "/images/post/2006/11/2006-home-from-teched-2006-developers.jpg"
 #author
 author: "Martin Woodward"
 # description

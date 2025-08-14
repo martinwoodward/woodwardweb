@@ -3,7 +3,7 @@ title: "\"You are not running Vista\" Remote Desktop warning annoyance"
 date: 2007-03-28T10:41:38.000Z
 # post thumb
 images:
-  - "/images/post/2007-.jpg"
+  - "/images/post/2007/03/2007-.jpg"
 #author
 author: "Martin Woodward"
 # description

@@ -3,7 +3,7 @@ title: "Excel Year Planner"
 date: 2010-10-06T19:26:14.000Z
 # post thumb
 images:
-  - "/images/post/2010-excel-year-planner.jpg"
+  - "/images/post/2010/10/2010-excel-year-planner.jpg"
 #author
 author: "Martin Woodward"
 # description

@@ -3,7 +3,7 @@ title: "The Best Booth Question Ever"
 date: 2006-03-17T22:54:31.000Z
 # post thumb
 images:
-  - "/images/post/2006-the-best-booth-question-ever.jpg"
+  - "/images/post/2006/03/2006-the-best-booth-question-ever.jpg"
 #author
 author: "Martin Woodward"
 # description

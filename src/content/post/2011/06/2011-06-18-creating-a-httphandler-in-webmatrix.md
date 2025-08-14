@@ -3,7 +3,7 @@ title: "Creating a HTTPHandler in WebMatrix"
 date: 2011-06-18T09:31:18.000Z
 # post thumb
 images:
-  - "/images/post/2011-creating-a-httphandler-in-webmatrix.jpg"
+  - "/images/post/2011/06/2011-creating-a-httphandler-in-webmatrix.jpg"
 #author
 author: "Martin Woodward"
 # description

@@ -3,7 +3,7 @@ title: "NRB Case Study on using TFS 2010 for Heterogeneous Development"
 date: 2010-12-03T12:54:46.000Z
 # post thumb
 images:
-  - "/images/post/2010-nrb-case-study-on-using-tfs-2010-for-heterogeneous-development.jpg"
+  - "/images/post/2010/12/2010-nrb-case-study-on-using-tfs-2010-for-heterogeneous-development.jpg"
 #author
 author: "Martin Woodward"
 # description

@@ -3,7 +3,7 @@ title: "Information Allowance"
 date: 2005-01-05T07:35:45.000Z
 # post thumb
 images:
-  - "/images/post/2005-information-allowance.jpg"
+  - "/images/post/2005/01/2005-information-allowance.jpg"
 #author
 author: "Martin Woodward"
 # description

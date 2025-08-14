@@ -3,7 +3,7 @@ title: "Using Microsoft LogParser with Team Foundation Server"
 date: 2007-05-21T15:17:50.000Z
 # post thumb
 images:
-  - "/images/post/2007-using-microsoft-logparser-with-team-foundation-server.jpg"
+  - "/images/post/2007/05/2007-using-microsoft-logparser-with-team-foundation-server.jpg"
 #author
 author: "Martin Woodward"
 # description

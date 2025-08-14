@@ -3,7 +3,7 @@ title: "Team Foundation Server Deployment"
 date: 2006-04-03T15:04:14.000Z
 # post thumb
 images:
-  - "/images/post/2006-team-foundation-server-deployment.jpg"
+  - "/images/post/2006/04/2006-team-foundation-server-deployment.jpg"
 #author
 author: "Martin Woodward"
 # description

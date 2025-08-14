@@ -3,7 +3,7 @@ title: "The Guntlet"
 date: 2006-01-10T18:19:16.000Z
 # post thumb
 images:
-  - "/images/post/2006-the-guntlet.jpg"
+  - "/images/post/2006/01/2006-the-guntlet.jpg"
 #author
 author: "Martin Woodward"
 # description

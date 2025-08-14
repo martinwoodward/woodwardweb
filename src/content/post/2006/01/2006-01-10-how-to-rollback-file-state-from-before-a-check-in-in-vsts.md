@@ -3,7 +3,7 @@ title: "How to rollback file state from before a check-in in VSTS"
 date: 2006-01-10T14:32:41.000Z
 # post thumb
 images:
-  - "/images/post/2006-how-to-rollback-file-state-from-before-a-check-in-in-vsts.jpg"
+  - "/images/post/2006/01/2006-how-to-rollback-file-state-from-before-a-check-in-in-vsts.jpg"
 #author
 author: "Martin Woodward"
 # description

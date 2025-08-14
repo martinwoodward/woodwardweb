@@ -3,7 +3,7 @@ title: "Only Running Impacted Tests in a CI Build."
 date: 2011-03-14T10:34:32.000Z
 # post thumb
 images:
-  - "/images/post/2011-only-running-impacted-tests-in-a-ci-build.jpg"
+  - "/images/post/2011/03/2011-only-running-impacted-tests-in-a-ci-build.jpg"
 #author
 author: "Martin Woodward"
 # description

@@ -3,7 +3,7 @@ title: "Windows Live Writer and Movable Type"
 date: 2009-10-22T20:57:16.000Z
 # post thumb
 images:
-  - "/images/post/2009-windows-live-writer-and-movable-type.jpg"
+  - "/images/post/2009/10/2009-windows-live-writer-and-movable-type.jpg"
 #author
 author: "Martin Woodward"
 # description

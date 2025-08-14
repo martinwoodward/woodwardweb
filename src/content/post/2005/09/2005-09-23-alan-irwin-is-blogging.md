@@ -3,7 +3,7 @@ title: "Alan Irwin is blogging"
 date: 2005-09-23T14:28:35.000Z
 # post thumb
 images:
-  - "/images/post/2005-alan-irwin-is-blogging.jpg"
+  - "/images/post/2005/09/2005-alan-irwin-is-blogging.jpg"
 #author
 author: "Martin Woodward"
 # description

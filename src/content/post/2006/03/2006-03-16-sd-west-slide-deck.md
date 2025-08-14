@@ -3,7 +3,7 @@ title: "SD West Slide Deck"
 date: 2006-03-16T12:26:47.000Z
 # post thumb
 images:
-  - "/images/post/2006-sd-west-slide-deck.jpg"
+  - "/images/post/2006/03/2006-sd-west-slide-deck.jpg"
 #author
 author: "Martin Woodward"
 # description

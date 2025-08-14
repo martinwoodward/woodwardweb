@@ -3,7 +3,7 @@ title: "Ed is Blogging"
 date: 2006-04-05T20:34:41.000Z
 # post thumb
 images:
-  - "/images/post/2006-ed-is-blogging.jpg"
+  - "/images/post/2006/04/2006-ed-is-blogging.jpg"
 #author
 author: "Martin Woodward"
 # description

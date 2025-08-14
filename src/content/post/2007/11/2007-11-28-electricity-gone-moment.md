@@ -3,7 +3,7 @@ title: "\"Electricity Gone\" Moment"
 date: 2007-11-28T07:46:57.000Z
 # post thumb
 images:
-  - "/images/post/2007-.jpg"
+  - "/images/post/2007/11/2007-.jpg"
 #author
 author: "Martin Woodward"
 # description

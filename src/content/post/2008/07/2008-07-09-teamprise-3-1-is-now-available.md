@@ -3,7 +3,7 @@ title: "Teamprise 3.1 is now available"
 date: 2008-07-09T22:28:23.000Z
 # post thumb
 images:
-  - "/images/post/2008-teamprise-3-1-is-now-available.jpg"
+  - "/images/post/2008/07/2008-teamprise-3-1-is-now-available.jpg"
 #author
 author: "Martin Woodward"
 # description

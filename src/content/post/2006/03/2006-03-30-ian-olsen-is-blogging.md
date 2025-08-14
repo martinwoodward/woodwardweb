@@ -3,7 +3,7 @@ title: "Ian Olsen is Blogging"
 date: 2006-03-30T15:25:38.000Z
 # post thumb
 images:
-  - "/images/post/2006-ian-olsen-is-blogging.jpg"
+  - "/images/post/2006/03/2006-ian-olsen-is-blogging.jpg"
 #author
 author: "Martin Woodward"
 # description

@@ -3,7 +3,7 @@ title: "Cross Platform Enabling the TFS Project Portal"
 date: 2008-08-29T10:58:50.000Z
 # post thumb
 images:
-  - "/images/post/2008-cross-platform-enabling-the-tfs-project-portal.jpg"
+  - "/images/post/2008/08/2008-cross-platform-enabling-the-tfs-project-portal.jpg"
 #author
 author: "Martin Woodward"
 # description

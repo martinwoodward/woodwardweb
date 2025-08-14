@@ -3,7 +3,7 @@ title: "Connecting to TFS 2010 Beta 2 with Teamprise"
 date: 2009-11-08T17:37:47.000Z
 # post thumb
 images:
-  - "/images/post/2009-connecting-to-tfs-2010-beta-2-with-teamprise.jpg"
+  - "/images/post/2009/11/2009-connecting-to-tfs-2010-beta-2-with-teamprise.jpg"
 #author
 author: "Martin Woodward"
 # description

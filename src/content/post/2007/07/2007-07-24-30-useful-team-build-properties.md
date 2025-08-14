@@ -3,7 +3,7 @@ title: "30 Useful Team Build Properties"
 date: 2007-07-24T14:09:40.000Z
 # post thumb
 images:
-  - "/images/post/2007-30-useful-team-build-properties.jpg"
+  - "/images/post/2007/07/2007-30-useful-team-build-properties.jpg"
 #author
 author: "Martin Woodward"
 # description

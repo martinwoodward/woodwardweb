@@ -3,7 +3,7 @@ title: "Team System Chat - April 9th"
 date: 2008-03-27T17:46:23.000Z
 # post thumb
 images:
-  - "/images/post/2008-team-system-chat-april-9th.jpg"
+  - "/images/post/2008/03/2008-team-system-chat-april-9th.jpg"
 #author
 author: "Martin Woodward"
 # description

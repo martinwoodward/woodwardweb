@@ -3,7 +3,7 @@ title: "My First Computers"
 date: 2007-11-22T00:10:29.000Z
 # post thumb
 images:
-  - "/images/post/2007-my-first-computers.jpg"
+  - "/images/post/2007/11/2007-my-first-computers.jpg"
 #author
 author: "Martin Woodward"
 # description

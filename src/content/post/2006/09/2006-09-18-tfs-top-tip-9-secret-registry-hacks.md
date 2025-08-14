@@ -3,7 +3,7 @@ title: "TFS Top Tip #9 - Secret Registry Hacks"
 date: 2006-09-18T19:28:25.000Z
 # post thumb
 images:
-  - "/images/post/2006-tfs-top-tip-9-secret-registry-hacks.jpg"
+  - "/images/post/2006/09/2006-tfs-top-tip-9-secret-registry-hacks.jpg"
 #author
 author: "Martin Woodward"
 # description

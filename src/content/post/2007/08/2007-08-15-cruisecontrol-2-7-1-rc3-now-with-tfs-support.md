@@ -3,7 +3,7 @@ title: "CruiseControl 2.7.1 RC3 - now with TFS Support!"
 date: 2007-08-15T16:00:23.000Z
 # post thumb
 images:
-  - "/images/post/2007-cruisecontrol-2-7-1-rc3-now-with-tfs-support.jpg"
+  - "/images/post/2007/08/2007-cruisecontrol-2-7-1-rc3-now-with-tfs-support.jpg"
 #author
 author: "Martin Woodward"
 # description

@@ -3,7 +3,7 @@ title: "Port 25 Podcast: Accessing VS Team Foundation Server from Mac, UNIX or L
 date: 2006-07-24T11:49:08.000Z
 # post thumb
 images:
-  - "/images/post/2006-port-25-podcast-accessing-vs-team-foundation-server-from-mac-unix-or-linux-through-eclipse.jpg"
+  - "/images/post/2006/07/2006-port-25-podcast-accessing-vs-team-foundation-server-from-mac-unix-or-linux-through-eclipse.jpg"
 #author
 author: "Martin Woodward"
 # description

@@ -3,7 +3,7 @@ title: "TFS MSSCCI Provider Updated"
 date: 2006-04-07T10:57:15.000Z
 # post thumb
 images:
-  - "/images/post/2006-tfs-msscci-provider-updated.jpg"
+  - "/images/post/2006/04/2006-tfs-msscci-provider-updated.jpg"
 #author
 author: "Martin Woodward"
 # description

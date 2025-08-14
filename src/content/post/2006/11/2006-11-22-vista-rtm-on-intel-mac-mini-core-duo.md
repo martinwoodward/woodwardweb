@@ -3,7 +3,7 @@ title: "Vista RTM on Intel Mac Mini Core Duo"
 date: 2006-11-22T11:12:29.000Z
 # post thumb
 images:
-  - "/images/post/2006-vista-rtm-on-intel-mac-mini-core-duo.jpg"
+  - "/images/post/2006/11/2006-vista-rtm-on-intel-mac-mini-core-duo.jpg"
 #author
 author: "Martin Woodward"
 # description

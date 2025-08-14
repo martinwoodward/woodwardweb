@@ -3,7 +3,7 @@ title: "Talking to VSTS from Java"
 date: 2005-06-29T23:26:30.000Z
 # post thumb
 images:
-  - "/images/post/2005-talking-to-vsts-from-java.jpg"
+  - "/images/post/2005/06/2005-talking-to-vsts-from-java.jpg"
 #author
 author: "Martin Woodward"
 # description

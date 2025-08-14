@@ -3,7 +3,7 @@ title: "Slotting into TFS 2010"
 date: 2009-06-15T14:50:04.000Z
 # post thumb
 images:
-  - "/images/post/2009-slotting-into-tfs-2010.jpg"
+  - "/images/post/2009/06/2009-slotting-into-tfs-2010.jpg"
 #author
 author: "Martin Woodward"
 # description

@@ -3,7 +3,7 @@ title: "Coolest Team System Gadget contest"
 date: 2008-06-17T10:18:24.000Z
 # post thumb
 images:
-  - "/images/post/2008-coolest-team-system-gadget-contest.jpg"
+  - "/images/post/2008/06/2008-coolest-team-system-gadget-contest.jpg"
 #author
 author: "Martin Woodward"
 # description

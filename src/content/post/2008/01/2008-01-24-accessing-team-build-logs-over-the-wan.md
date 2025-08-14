@@ -3,7 +3,7 @@ title: "Accessing Team Build logs over the WAN"
 date: 2008-01-24T00:15:35.000Z
 # post thumb
 images:
-  - "/images/post/2008-accessing-team-build-logs-over-the-wan.jpg"
+  - "/images/post/2008/01/2008-accessing-team-build-logs-over-the-wan.jpg"
 #author
 author: "Martin Woodward"
 # description

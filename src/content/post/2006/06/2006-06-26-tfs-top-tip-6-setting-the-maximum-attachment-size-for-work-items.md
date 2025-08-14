@@ -3,7 +3,7 @@ title: "TFS Top Tip #6 - Setting the Maximum Attachment Size for Work Items"
 date: 2006-06-26T10:38:02.000Z
 # post thumb
 images:
-  - "/images/post/2006-tfs-top-tip-6-setting-the-maximum-attachment-size-for-work-items.jpg"
+  - "/images/post/2006/06/2006-tfs-top-tip-6-setting-the-maximum-attachment-size-for-work-items.jpg"
 #author
 author: "Martin Woodward"
 # description

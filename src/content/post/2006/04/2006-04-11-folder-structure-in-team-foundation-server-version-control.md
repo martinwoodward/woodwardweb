@@ -3,7 +3,7 @@ title: "Folder Structure in Team Foundation Server Version Control"
 date: 2006-04-11T16:49:15.000Z
 # post thumb
 images:
-  - "/images/post/2006-folder-structure-in-team-foundation-server-version-control.jpg"
+  - "/images/post/2006/04/2006-folder-structure-in-team-foundation-server-version-control.jpg"
 #author
 author: "Martin Woodward"
 # description

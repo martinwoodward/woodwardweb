@@ -3,7 +3,7 @@ title: "New Version of the TFS Migration Toolkit"
 date: 2008-09-17T06:59:58.000Z
 # post thumb
 images:
-  - "/images/post/2008-new-version-of-the-tfs-migration-toolkit.jpg"
+  - "/images/post/2008/09/2008-new-version-of-the-tfs-migration-toolkit.jpg"
 #author
 author: "Martin Woodward"
 # description

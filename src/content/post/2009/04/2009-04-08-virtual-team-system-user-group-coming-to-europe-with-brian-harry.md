@@ -3,7 +3,7 @@ title: "Virtual Team System User Group coming to Europe with Brian Harry"
 date: 2009-04-08T13:14:21.000Z
 # post thumb
 images:
-  - "/images/post/2009-virtual-team-system-user-group-coming-to-europe-with-brian-harry.jpg"
+  - "/images/post/2009/04/2009-virtual-team-system-user-group-coming-to-europe-with-brian-harry.jpg"
 #author
 author: "Martin Woodward"
 # description

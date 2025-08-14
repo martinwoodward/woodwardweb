@@ -3,7 +3,7 @@ title: "Resharper 2.0 EAP is Open"
 date: 2005-07-28T06:21:24.000Z
 # post thumb
 images:
-  - "/images/post/2005-resharper-2-0-eap-is-open.jpg"
+  - "/images/post/2005/07/2005-resharper-2-0-eap-is-open.jpg"
 #author
 author: "Martin Woodward"
 # description

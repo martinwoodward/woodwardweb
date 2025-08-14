@@ -3,7 +3,7 @@ title: "Rock The Build with TFS"
 date: 2009-05-05T11:47:04.000Z
 # post thumb
 images:
-  - "/images/post/2009-rock-the-build-with-tfs.jpg"
+  - "/images/post/2009/05/2009-rock-the-build-with-tfs.jpg"
 #author
 author: "Martin Woodward"
 # description

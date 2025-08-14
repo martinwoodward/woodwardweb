@@ -3,7 +3,7 @@ title: "Speaking at the Test Manager Forum"
 date: 2010-05-20T00:13:50.000Z
 # post thumb
 images:
-  - "/images/post/2010-speaking-at-the-test-manager-forum.jpg"
+  - "/images/post/2010/05/2010-speaking-at-the-test-manager-forum.jpg"
 #author
 author: "Martin Woodward"
 # description

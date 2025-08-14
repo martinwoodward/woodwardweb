@@ -3,7 +3,7 @@ title: "Team System MVP of the Year"
 date: 2009-03-07T22:14:53.000Z
 # post thumb
 images:
-  - "/images/post/2009-team-system-mvp-of-the-year.jpg"
+  - "/images/post/2009/03/2009-team-system-mvp-of-the-year.jpg"
 #author
 author: "Martin Woodward"
 # description

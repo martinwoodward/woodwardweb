@@ -3,7 +3,7 @@ title: "TFS 2010 Beta 1 with Teamprise"
 date: 2009-05-21T16:09:27.000Z
 # post thumb
 images:
-  - "/images/post/2009-tfs-2010-beta-1-with-teamprise.jpg"
+  - "/images/post/2009/05/2009-tfs-2010-beta-1-with-teamprise.jpg"
 #author
 author: "Martin Woodward"
 # description

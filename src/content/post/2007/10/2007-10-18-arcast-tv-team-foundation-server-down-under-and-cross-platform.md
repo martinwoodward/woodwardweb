@@ -3,7 +3,7 @@ title: "ARCast.TV - Team Foundation Server Down Under and Cross-Platform"
 date: 2007-10-18T11:25:30.000Z
 # post thumb
 images:
-  - "/images/post/2007-arcast-tv-team-foundation-server-down-under-and-cross-platform.jpg"
+  - "/images/post/2007/10/2007-arcast-tv-team-foundation-server-down-under-and-cross-platform.jpg"
 #author
 author: "Martin Woodward"
 # description

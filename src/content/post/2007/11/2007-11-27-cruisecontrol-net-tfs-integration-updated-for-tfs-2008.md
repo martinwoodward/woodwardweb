@@ -3,7 +3,7 @@ title: "CruiseControl.NET TFS Integration updated for TFS 2008"
 date: 2007-11-27T14:12:11.000Z
 # post thumb
 images:
-  - "/images/post/2007-cruisecontrol-net-tfs-integration-updated-for-tfs-2008.jpg"
+  - "/images/post/2007/11/2007-cruisecontrol-net-tfs-integration-updated-for-tfs-2008.jpg"
 #author
 author: "Martin Woodward"
 # description

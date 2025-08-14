@@ -3,7 +3,7 @@ title: "Will this tablet work?"
 date: 2004-06-26T14:09:57.000Z
 # post thumb
 images:
-  - "/images/post/2004-will-this-tablet-work.jpg"
+  - "/images/post/2004/06/2004-will-this-tablet-work.jpg"
 #author
 author: "Martin Woodward"
 # description

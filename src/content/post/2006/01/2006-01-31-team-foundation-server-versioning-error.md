@@ -3,7 +3,7 @@ title: "Team Foundation Server Versioning Error"
 date: 2006-01-31T22:37:41.000Z
 # post thumb
 images:
-  - "/images/post/2006-team-foundation-server-versioning-error.jpg"
+  - "/images/post/2006/01/2006-team-foundation-server-versioning-error.jpg"
 #author
 author: "Martin Woodward"
 # description

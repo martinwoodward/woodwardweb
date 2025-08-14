@@ -3,7 +3,7 @@ title: "Teamprise @ EclipseCon 2007"
 date: 2007-02-22T11:37:23.000Z
 # post thumb
 images:
-  - "/images/post/2007-teamprise-eclipsecon-2007.jpg"
+  - "/images/post/2007/02/2007-teamprise-eclipsecon-2007.jpg"
 #author
 author: "Martin Woodward"
 # description

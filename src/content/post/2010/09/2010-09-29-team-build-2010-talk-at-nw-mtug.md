@@ -3,7 +3,7 @@ title: "Team Build 2010 Talk at NW-MTUG"
 date: 2010-09-29T11:54:10.000Z
 # post thumb
 images:
-  - "/images/post/2010-team-build-2010-talk-at-nw-mtug.jpg"
+  - "/images/post/2010/09/2010-team-build-2010-talk-at-nw-mtug.jpg"
 #author
 author: "Martin Woodward"
 # description

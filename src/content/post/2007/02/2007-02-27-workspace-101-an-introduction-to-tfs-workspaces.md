@@ -3,7 +3,7 @@ title: "Workspace 101: An introduction to TFS Workspaces"
 date: 2007-02-27T15:54:38.000Z
 # post thumb
 images:
-  - "/images/post/2007-workspace-101-an-introduction-to-tfs-workspaces.jpg"
+  - "/images/post/2007/02/2007-workspace-101-an-introduction-to-tfs-workspaces.jpg"
 #author
 author: "Martin Woodward"
 # description

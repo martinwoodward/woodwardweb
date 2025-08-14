@@ -3,7 +3,7 @@ title: "Virtual Machine Additions for Linux"
 date: 2007-10-23T13:25:49.000Z
 # post thumb
 images:
-  - "/images/post/2007-virtual-machine-additions-for-linux.jpg"
+  - "/images/post/2007/10/2007-virtual-machine-additions-for-linux.jpg"
 #author
 author: "Martin Woodward"
 # description

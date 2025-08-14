@@ -3,7 +3,7 @@ title: "L.E.D. Cats Eyes"
 date: 2004-11-08T21:52:57.000Z
 # post thumb
 images:
-  - "/images/post/2004-l-e-d-cats-eyes.jpg"
+  - "/images/post/2004/11/2004-l-e-d-cats-eyes.jpg"
 #author
 author: "Martin Woodward"
 # description

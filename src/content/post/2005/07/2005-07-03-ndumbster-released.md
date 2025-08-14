@@ -3,7 +3,7 @@ title: "nDumbster Released"
 date: 2005-07-03T03:53:23.000Z
 # post thumb
 images:
-  - "/images/post/2005-ndumbster-released.jpg"
+  - "/images/post/2005/07/2005-ndumbster-released.jpg"
 #author
 author: "Martin Woodward"
 # description

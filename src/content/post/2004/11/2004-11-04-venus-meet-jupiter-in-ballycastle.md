@@ -3,7 +3,7 @@ title: "Venus meet Jupiter in Ballycastle"
 date: 2004-11-04T14:02:42.000Z
 # post thumb
 images:
-  - "/images/post/2004-venus-meet-jupiter-in-ballycastle.jpg"
+  - "/images/post/2004/11/2004-venus-meet-jupiter-in-ballycastle.jpg"
 #author
 author: "Martin Woodward"
 # description

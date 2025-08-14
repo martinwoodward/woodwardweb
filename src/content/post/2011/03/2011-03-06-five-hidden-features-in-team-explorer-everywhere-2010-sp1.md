@@ -3,7 +3,7 @@ title: "Five Hidden Features in Team Explorer Everywhere 2010 SP1"
 date: 2011-03-06T20:21:09.000Z
 # post thumb
 images:
-  - "/images/post/2011-five-hidden-features-in-team-explorer-everywhere-2010-sp1.jpg"
+  - "/images/post/2011/03/2011-five-hidden-features-in-team-explorer-everywhere-2010-sp1.jpg"
 #author
 author: "Martin Woodward"
 # description

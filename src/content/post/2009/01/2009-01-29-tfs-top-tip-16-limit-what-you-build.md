@@ -3,7 +3,7 @@ title: "TFS Top Tip #16 - Limit What you Build"
 date: 2009-01-29T16:39:03.000Z
 # post thumb
 images:
-  - "/images/post/2009-tfs-top-tip-16-limit-what-you-build.jpg"
+  - "/images/post/2009/01/2009-tfs-top-tip-16-limit-what-you-build.jpg"
 #author
 author: "Martin Woodward"
 # description

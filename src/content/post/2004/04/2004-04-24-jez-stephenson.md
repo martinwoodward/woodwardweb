@@ -3,7 +3,7 @@ title: "Jez Stephenson"
 date: 2004-04-24T15:58:09.000Z
 # post thumb
 images:
-  - "/images/post/2004-jez-stephenson.jpg"
+  - "/images/post/2004/04/2004-jez-stephenson.jpg"
 #author
 author: "Martin Woodward"
 # description

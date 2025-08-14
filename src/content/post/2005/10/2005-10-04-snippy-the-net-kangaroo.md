@@ -3,7 +3,7 @@ title: "Snippy the .NET Kangaroo"
 date: 2005-10-04T12:42:11.000Z
 # post thumb
 images:
-  - "/images/post/2005-snippy-the-net-kangaroo.jpg"
+  - "/images/post/2005/10/2005-snippy-the-net-kangaroo.jpg"
 #author
 author: "Martin Woodward"
 # description

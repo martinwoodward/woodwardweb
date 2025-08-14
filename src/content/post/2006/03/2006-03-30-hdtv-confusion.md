@@ -3,7 +3,7 @@ title: "HDTV Confusion"
 date: 2006-03-30T10:18:35.000Z
 # post thumb
 images:
-  - "/images/post/2006-hdtv-confusion.jpg"
+  - "/images/post/2006/03/2006-hdtv-confusion.jpg"
 #author
 author: "Martin Woodward"
 # description

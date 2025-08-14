@@ -3,7 +3,7 @@ title: "Radio TFS on Check-in Policies"
 date: 2008-09-30T21:29:47.000Z
 # post thumb
 images:
-  - "/images/post/2008-radio-tfs-on-check-in-policies.jpg"
+  - "/images/post/2008/09/2008-radio-tfs-on-check-in-policies.jpg"
 #author
 author: "Martin Woodward"
 # description

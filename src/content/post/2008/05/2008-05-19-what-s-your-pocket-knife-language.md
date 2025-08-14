@@ -3,7 +3,7 @@ title: "What's Your Pocket Knife Language?"
 date: 2008-05-19T14:46:02.000Z
 # post thumb
 images:
-  - "/images/post/2008-what.jpg"
+  - "/images/post/2008/05/2008-what.jpg"
 #author
 author: "Martin Woodward"
 # description

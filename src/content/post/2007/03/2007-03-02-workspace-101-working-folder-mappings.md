@@ -3,7 +3,7 @@ title: "Workspace 101: Working Folder Mappings"
 date: 2007-03-02T15:04:48.000Z
 # post thumb
 images:
-  - "/images/post/2007-workspace-101-working-folder-mappings.jpg"
+  - "/images/post/2007/03/2007-workspace-101-working-folder-mappings.jpg"
 #author
 author: "Martin Woodward"
 # description

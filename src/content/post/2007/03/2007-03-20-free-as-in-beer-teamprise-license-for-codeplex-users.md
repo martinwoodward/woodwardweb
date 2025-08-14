@@ -3,7 +3,7 @@ title: "Free (as in beer) Teamprise license for CodePlex users"
 date: 2007-03-20T23:24:32.000Z
 # post thumb
 images:
-  - "/images/post/2007-free-as-in-beer-teamprise-license-for-codeplex-users.jpg"
+  - "/images/post/2007/03/2007-free-as-in-beer-teamprise-license-for-codeplex-users.jpg"
 #author
 author: "Martin Woodward"
 # description

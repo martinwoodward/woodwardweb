@@ -3,7 +3,7 @@ title: "It's Snowing!!!"
 date: 2004-11-18T22:25:14.000Z
 # post thumb
 images:
-  - "/images/post/2004-it.jpg"
+  - "/images/post/2004/11/2004-it.jpg"
 #author
 author: "Martin Woodward"
 # description

@@ -3,7 +3,7 @@ title: "TechEd Online 2009: Cross Platform Development with Team Foundation Serv
 date: 2009-05-19T11:32:40.000Z
 # post thumb
 images:
-  - "/images/post/2009-teched-online-2009-cross-platform-development-with-team-foundation-server-and-teamprise.jpg"
+  - "/images/post/2009/05/2009-teched-online-2009-cross-platform-development-with-team-foundation-server-and-teamprise.jpg"
 #author
 author: "Martin Woodward"
 # description

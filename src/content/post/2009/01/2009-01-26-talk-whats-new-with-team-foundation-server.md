@@ -3,7 +3,7 @@ title: "Talk: Whats New With Team Foundation Server"
 date: 2009-01-26T14:34:21.000Z
 # post thumb
 images:
-  - "/images/post/2009-talk-whats-new-with-team-foundation-server.jpg"
+  - "/images/post/2009/01/2009-talk-whats-new-with-team-foundation-server.jpg"
 #author
 author: "Martin Woodward"
 # description

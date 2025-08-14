@@ -3,7 +3,7 @@ title: "Case Study: iGate standardizing on TFS"
 date: 2009-06-29T16:10:58.000Z
 # post thumb
 images:
-  - "/images/post/2009-case-study-igate-standardizing-on-tfs.jpg"
+  - "/images/post/2009/06/2009-case-study-igate-standardizing-on-tfs.jpg"
 #author
 author: "Martin Woodward"
 # description

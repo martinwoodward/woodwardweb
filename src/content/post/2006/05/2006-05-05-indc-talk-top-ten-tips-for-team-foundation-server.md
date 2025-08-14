@@ -3,7 +3,7 @@ title: "INDC Talk:  Top Ten Tips for Team Foundation Server"
 date: 2006-05-05T12:29:26.000Z
 # post thumb
 images:
-  - "/images/post/2006-indc-talk-top-ten-tips-for-team-foundation-server.jpg"
+  - "/images/post/2006/05/2006-indc-talk-top-ten-tips-for-team-foundation-server.jpg"
 #author
 author: "Martin Woodward"
 # description

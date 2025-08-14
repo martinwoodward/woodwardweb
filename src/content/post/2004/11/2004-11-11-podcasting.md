@@ -3,7 +3,7 @@ title: "Podcasting"
 date: 2004-11-11T14:29:40.000Z
 # post thumb
 images:
-  - "/images/post/2004-podcasting.jpg"
+  - "/images/post/2004/11/2004-podcasting.jpg"
 #author
 author: "Martin Woodward"
 # description
