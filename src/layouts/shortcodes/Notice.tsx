@@ -79,7 +79,9 @@ function Notice({
             />
           </svg>
         )}
-        <span className="ml-2 font-secondary text-base font-semibold text-text-dark leading-none">{humanize(type)}</span>
+        <span className="ml-2 font-secondary text-base font-semibold text-text-dark leading-none">
+          {humanize(type)}
+        </span>
       </div>
       <div className="notice-body">{children}</div>
     </div>

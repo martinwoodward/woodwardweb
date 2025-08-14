@@ -14,18 +14,19 @@ tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-[Brian Harry](http://blogs.msdn.com/bharry/) has posted some great news over on his blog - [Microsoft have release a new tool to allow users to migrate from ClearCase to Visual Studio Team Foundation Server](http://blogs.msdn.com/bharry/archive/2007/09/14/tfs-migration-synchronization-tool-for-clearcase-relased.aspx).  From Brian's blog:- 
 
-A quick summary of the features of the tool:   
+[Brian Harry](http://blogs.msdn.com/bharry/) has posted some great news over on his blog - [Microsoft have release a new tool to allow users to migrate from ClearCase to Visual Studio Team Foundation Server](http://blogs.msdn.com/bharry/archive/2007/09/14/tfs-migration-synchronization-tool-for-clearcase-relased.aspx). From Brian's blog:-
 
-Supports migration of base ClearCase VOBs  
+A quick summary of the features of the tool:
 
-Migrate a snapshot of source control to TFS  
+Supports migration of base ClearCase VOBs
 
-Migrate files to Team Foundation Server while preserving history  
+Migrate a snapshot of source control to TFS
 
-Migrate branches to Team Foundation Server retaining the branching structure/hierarchy  
+Migrate files to Team Foundation Server while preserving history
 
-Bidirectional synchronization of data between TFS and ClearCase 
+Migrate branches to Team Foundation Server retaining the branching structure/hierarchy
 
-Hopefully this will really help people as they move from ClearCase or even people who would like to try TFS in a small isolated team but still synchronize back to the main enterprise ClearCase repository.  Keep an eye on [Matt Mitrik's TFS Migration Blog](http://blogs.msdn.com/tfs_migration/) for more details.
+Bidirectional synchronization of data between TFS and ClearCase
+
+Hopefully this will really help people as they move from ClearCase or even people who would like to try TFS in a small isolated team but still synchronize back to the main enterprise ClearCase repository. Keep an eye on [Matt Mitrik's TFS Migration Blog](http://blogs.msdn.com/tfs_migration/) for more details.

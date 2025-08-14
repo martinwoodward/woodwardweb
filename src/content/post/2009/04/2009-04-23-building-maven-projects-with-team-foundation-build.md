@@ -9,121 +9,123 @@ author: "Martin Woodward"
 # description
 description: "Discover how to effortlessly build Maven projects using Team Foundation Build with the new Teamprise Build Extensions."
 # Taxonomies
-categories: ["tfs", "technology", "dotnet", "maker", "teamprise", "web", "programming"]
+categories:
+  ["tfs", "technology", "dotnet", "maker", "teamprise", "web", "programming"]
 tags: ["blog", "archive"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---
-For a while now, we’ve been helping our Java customers by providing the [Teamprise Build Extensions](http://www.teamprise.com/products/build/) to allow people to easily build Ant based projects using Team Foundation Build and publish JUnit test results into TFS for inclusion in the reports etc.  With the release of Teamprise 3.2 we also released a new version of the Teamprise Build Extensions which enables Maven based builds to be performed under Team Foundation Build with the same ease.  We’ve been using this with a few different customers this year and it has proven to be very successful so I wanted to spread the word a little.  
 
-The easiest way to build a Maven project from Team Foundation Server is to install the Teamprise Build Extensions on your build server using the MSI installer provided on the download site ([http://www.teamprise.com/products/build/](http://www.teamprise.com/products/build/)).  You must also have a Java JDK and a copy of Maven 2 installed on the build server.  See the [User’s Guide](http://www.teamprise.com/products/build/) for full details.  
+For a while now, we’ve been helping our Java customers by providing the [Teamprise Build Extensions](http://www.teamprise.com/products/build/) to allow people to easily build Ant based projects using Team Foundation Build and publish JUnit test results into TFS for inclusion in the reports etc. With the release of Teamprise 3.2 we also released a new version of the Teamprise Build Extensions which enables Maven based builds to be performed under Team Foundation Build with the same ease. We’ve been using this with a few different customers this year and it has proven to be very successful so I wanted to spread the word a little.
 
-You can then use a copy of [Teamprise Explorer](http://www.teamprise.com/products/explorer/) or the [Teamprise Plug-in for Eclipse](http://www.teamprise.com/products/plugin/) to create the build definition.    
+The easiest way to build a Maven project from Team Foundation Server is to install the Teamprise Build Extensions on your build server using the MSI installer provided on the download site ([http://www.teamprise.com/products/build/](http://www.teamprise.com/products/build/)). You must also have a Java JDK and a copy of Maven 2 installed on the build server. See the [User’s Guide](http://www.teamprise.com/products/build/) for full details.
 
-Once you have given the build definition a name and specified what should be included in the build using the usual options, go to the Project File section.    
+You can then use a copy of [Teamprise Explorer](http://www.teamprise.com/products/explorer/) or the [Teamprise Plug-in for Eclipse](http://www.teamprise.com/products/plugin/) to create the build definition.
 
-Just as in Visual Studio you can change the folder that you want the build configuration to be stored (1) but when you press the Create button (2) things differ a bit from  the Visual Studio interface.  
+Once you have given the build definition a name and specified what should be included in the build using the usual options, go to the Project File section.
 
-As you can see, you are prompted as to what type of build you would like to create. When connected to a TFS 2008 server you will be offered two options, Ant and Maven.  In our case we are going to select Maven and then we get to pick the master POM file for our Maven 2 build  
+Just as in Visual Studio you can change the folder that you want the build configuration to be stored (1) but when you press the Create button (2) things differ a bit from the Visual Studio interface.
 
-The wizard will then create the TFSBuild.proj file necessary to run the Maven 2 project and check it into the build configuration folder specified previously.  You can then define you trigger and build agent just as you would normally and you should be good to go.  
+As you can see, you are prompted as to what type of build you would like to create. When connected to a TFS 2008 server you will be offered two options, Ant and Maven. In our case we are going to select Maven and then we get to pick the master POM file for our Maven 2 build
 
-As well as creating the build definition, the [Teamprise](http://www.teamprise.com) client simply creates a TFSBuild.proj file in the following format which you could easily create yourself if you wanted to create the build from Visual Studio or something.     
+The wizard will then create the TFSBuild.proj file necessary to run the Maven 2 project and check it into the build configuration folder specified previously. You can then define you trigger and build agent just as you would normally and you should be good to go.
 
-<?xml version="1.0" encoding="utf-8"?>         
+As well as creating the build definition, the [Teamprise](http://www.teamprise.com) client simply creates a TFSBuild.proj file in the following format which you could easily create yourself if you wanted to create the build from Visual Studio or something.
 
-<Project DefaultTargets="DesktopBuild" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">         
+<?xml version="1.0" encoding="utf-8"?>
 
-  <!-- Do not edit this -->       
+<Project DefaultTargets="DesktopBuild" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
 
-  <Import Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\TeamBuild\Microsoft.TeamFoundation.Build.targets" />         
+  <!-- Do not edit this -->
 
-**  <Import Project="$(MSBuildExtensionsPath)\Teamprise\v2\Teamprise.Build.Maven2.targets" />           **
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\TeamBuild\Microsoft.TeamFoundation.Build.targets" />
 
-**         **
+** <Import Project="$(MSBuildExtensionsPath)\Teamprise\v2\Teamprise.Build.Maven2.targets" /> **
 
-  <ProjectExtensions>       
+---
 
-    <ProjectFileVersion>2</ProjectFileVersion>         
+  <ProjectExtensions>
 
-    <Description></Description>       
+    <ProjectFileVersion>2</ProjectFileVersion>
 
-    <BuildMachine>buildserver.mycompany.com</BuildMachine>         
+    <Description></Description>
 
-  </ProjectExtensions>       
+    <BuildMachine>buildserver.mycompany.com</BuildMachine>
 
-  <PropertyGroup>       
+  </ProjectExtensions>
 
-    <TeamProject>Billing</TeamProject>         
+  <PropertyGroup>
 
-    <BuildDirectoryPath>UNKNOWN</BuildDirectoryPath>         
+    <TeamProject>Billing</TeamProject>
 
-    <DropLocation>\\UNKNOWN\drops</DropLocation>         
+    <BuildDirectoryPath>UNKNOWN</BuildDirectoryPath>
 
-    <SkipWorkItemCreation>false</SkipWorkItemCreation>         
+    <DropLocation>\\UNKNOWN\drops</DropLocation>
 
-    <WorkItemType>Bug</WorkItemType>         
+    <SkipWorkItemCreation>false</SkipWorkItemCreation>
 
-    <WorkItemFieldValues>       
+    <WorkItemType>Bug</WorkItemType>
 
-      System.Reason=Build Failure;System.Description=Start the build using Team Build        
+    <WorkItemFieldValues>
 
-    </WorkItemFieldValues>       
+      System.Reason=Build Failure;System.Description=Start the build using Team Build
 
-    <WorkItemTitle>Build failure in build:</WorkItemTitle>         
+    </WorkItemFieldValues>
 
-    <DescriptionText>This work item created on a build failure.</DescriptionText>         
+    <WorkItemTitle>Build failure in build:</WorkItemTitle>
 
-    <BuildlogText>The build log file is at:</BuildlogText>         
+    <DescriptionText>This work item created on a build failure.</DescriptionText>
 
-    <ErrorWarningLogText>The errors/warnings log file is at:</ErrorWarningLogText>         
+    <BuildlogText>The build log file is at:</BuildlogText>
 
-    <UpdateAssociatedWorkItems>true</UpdateAssociatedWorkItems>         
+    <ErrorWarningLogText>The errors/warnings log file is at:</ErrorWarningLogText>
 
-  </PropertyGroup>       
+    <UpdateAssociatedWorkItems>true</UpdateAssociatedWorkItems>
 
-  <ItemGroup>       
+  </PropertyGroup>
 
-    <!--  Maven 2 Call Configuration.          
+  <ItemGroup>
 
-          The POM file called should be included in the workspace of the build definition.        
+    <!--  Maven 2 Call Configuration.
 
-    -->       
+          The POM file called should be included in the workspace of the build definition.
 
-**    <MavenPomFile Include="$/Billing/Main/billing-service/pom.xml">           **
+    -->
 
-**         **
+** <MavenPomFile Include="$/Billing/Main/billing-service/pom.xml"> **
 
-      <Goals>install</Goals>         
+---
 
-      <Properties>    
+      <Goals>install</Goals>
 
-         BinariesRoot=$(BinariesRoot);BuildDefinitionName=$(BuildDefinitionName);    
+      <Properties>
 
-         BuildDefinitionUri=$(BuildDefinitionUri);BuildDirectory=$(BuildDirectory);    
+         BinariesRoot=$(BinariesRoot);BuildDefinitionName=$(BuildDefinitionName);
 
-         BuildNumber=$(BuildNumber);DropLocation=$(DropLocation);LogLocation=$(LogLocation);    
+         BuildDefinitionUri=$(BuildDefinitionUri);BuildDirectory=$(BuildDirectory);
 
-         SourceGetVersion=$(SourceGetVersion);TestResultsRoot=$(TestResultsRoot);    
+         BuildNumber=$(BuildNumber);DropLocation=$(DropLocation);LogLocation=$(LogLocation);
 
-         TeamProject=$(TeamProject);WorkspaceName=$(WorkspaceName);    
+         SourceGetVersion=$(SourceGetVersion);TestResultsRoot=$(TestResultsRoot);
 
-         WorkspaceOwner=$(WorkspaceOwner)       
+         TeamProject=$(TeamProject);WorkspaceName=$(WorkspaceName);
 
-      </Properties>       
+         WorkspaceOwner=$(WorkspaceOwner)
 
-    </MavenPomFile>       
+      </Properties>
 
-  </ItemGroup>       
+    </MavenPomFile>
 
-</Project>       
+  </ItemGroup>
 
-The Import statement at the top is calling the Teamprise.Build.Maven2.targets file. This safely inserts the call to Maven 2 into the Team Foundation Build process. It uses the MavenPomFile item group to specify the server path of the POM file to build – this is converted into a local path as part of the build process.   
+</Project>
 
-The Maven 2 integration will listen for surefire steps as part of the build process and automatically include those files in the list of JUnit results to publish to TFS. It will also automatically copy any files in the Maven 2 targets directory over to the drop location for build archival purposes.  
+The Import statement at the top is calling the Teamprise.Build.Maven2.targets file. This safely inserts the call to Maven 2 into the Team Foundation Build process. It uses the MavenPomFile item group to specify the server path of the POM file to build – this is converted into a local path as part of the build process.
 
-The [Teamprise Build Extensions](http://www.teamprise.com/products/build/) are provided free of charge, and the [source code is available](http://www.teamprise.com/products/build/) under the permissive open source MS-PL license if you want to take a look in more detail at what they do and how they do it.  
+The Maven 2 integration will listen for surefire steps as part of the build process and automatically include those files in the list of JUnit results to publish to TFS. It will also automatically copy any files in the Maven 2 targets directory over to the drop location for build archival purposes.
 
-Internally, we also have a Maven SCM Provider for TFS coded up and we are about to submit this to the Maven project so that people using Maven will be able to perform SCM operations easily from inside their projects (and use things like the Maven Release plug-in to perform releases).  If you would like a copy of the SCM provider in the mean time then let me know and I can send you a copy.  
+The [Teamprise Build Extensions](http://www.teamprise.com/products/build/) are provided free of charge, and the [source code is available](http://www.teamprise.com/products/build/) under the permissive open source MS-PL license if you want to take a look in more detail at what they do and how they do it.
 
-Looking forward to hearing what people think.  Now that we have both Maven 2 and Ant support for building Java projects in Team Foundation Server this really helps Java development be a first class citizen in the TFS world. I’m always keen to hear feedback how we can improve the situation further if you have any suggestions then let me know.
+Internally, we also have a Maven SCM Provider for TFS coded up and we are about to submit this to the Maven project so that people using Maven will be able to perform SCM operations easily from inside their projects (and use things like the Maven Release plug-in to perform releases). If you would like a copy of the SCM provider in the mean time then let me know and I can send you a copy.
+
+Looking forward to hearing what people think. Now that we have both Maven 2 and Ant support for building Java projects in Team Foundation Server this really helps Java development be a first class citizen in the TFS world. I’m always keen to hear feedback how we can improve the situation further if you have any suggestions then let me know.

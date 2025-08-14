@@ -1,61 +1,62 @@
-import type { APIRoute } from 'astro';
-import { getSinglePage } from '@/lib/contentParser.astro';
-import { existsSync, readFileSync } from 'fs';
-import { join } from 'path';
-import theme from '@/config/theme.json';
+import type { APIRoute } from "astro";
+import { getSinglePage } from "@/lib/contentParser.astro";
+import { existsSync, readFileSync } from "fs";
+import { join } from "path";
+import theme from "@/config/theme.json";
 
 export const GET: APIRoute = async ({ params, request, url }) => {
   const { slug } = params;
 
   // Handle missing slug
   if (!slug) {
-    return new Response('Not found', { status: 404 });
+    return new Response("Not found", { status: 404 });
   }
 
   try {
     // Get all posts to find the matching one
-    const posts = await getSinglePage('post');
-    const post = posts.find(p => p.id === slug);
+    const posts = await getSinglePage("post");
+    const post = posts.find((p) => p.id === slug);
 
     if (!post) {
-      return new Response('Post not found', { status: 404 });
+      return new Response("Post not found", { status: 404 });
     }
 
     const { title, description, categories, date, author, images } = post.data;
 
     // Generate the image using HTML/CSS
     const ogImageHtml = generateOGImageHTML({
-      title: title || 'Blog Post',
-      description: description || '',
+      title: title || "Blog Post",
+      description: description || "",
       categories: categories || [],
-      date: date ? new Date(date).toLocaleDateString('en-GB', { 
-        year: 'numeric', 
-        month: 'long', 
-        day: 'numeric' 
-      }) : '',
-      author: author || 'Martin Woodward',
+      date: date
+        ? new Date(date).toLocaleDateString("en-GB", {
+            year: "numeric",
+            month: "long",
+            day: "numeric",
+          })
+        : "",
+      author: author || "Martin Woodward",
       baseUrl: url.origin,
-      postImage: images && images[0] ? images[0] : null
+      postImage: images && images[0] ? images[0] : null,
     });
 
     // Return HTML that will be converted to PNG during build process
     // The build script will replace these HTML files with actual PNG images
     return new Response(ogImageHtml, {
       headers: {
-        'Content-Type': 'text/html',
-        'Cache-Control': 'public, max-age=31536000', // Cache for 1 year
+        "Content-Type": "text/html",
+        "Cache-Control": "public, max-age=31536000", // Cache for 1 year
       },
     });
-
   } catch (error) {
-    console.error('Error generating OG image:', error);
-    return new Response('Error generating image', { status: 500 });
+    console.error("Error generating OG image:", error);
+    return new Response("Error generating image", { status: 500 });
   }
 };
 
 export async function getStaticPaths() {
-  const posts = await getSinglePage('post');
-  
+  const posts = await getSinglePage("post");
+
   return posts.map((post) => ({
     params: { slug: post.id },
   }));
@@ -72,79 +73,101 @@ interface OGImageData {
 }
 
 function generateOGImageHTML(data: OGImageData): string {
-  const { title, description, categories, date, author, postImage, baseUrl } = data;
-  
+  const { title, description, categories, date, author, postImage, baseUrl } =
+    data;
+
   // Helper function to convert images to base64 data URLs for build time, HTTP URLs for dev
   const getImagePath = (webPath: string): string => {
-    if (!webPath.startsWith('/')) {
+    if (!webPath.startsWith("/")) {
       return webPath;
     }
-    
+
     // Check if we're in a build environment or development/preview
-    const isStaticBuild = process.env.NODE_ENV === 'production' || 
-                         process.env.ASTRO_SSG === 'true' ||
-                         !baseUrl.startsWith('http://localhost') && !baseUrl.startsWith('http://127.0.0.1');
-    
+    const isStaticBuild =
+      process.env.NODE_ENV === "production" ||
+      process.env.ASTRO_SSG === "true" ||
+      (!baseUrl.startsWith("http://localhost") &&
+        !baseUrl.startsWith("http://127.0.0.1"));
+
     if (isStaticBuild) {
       // Convert to base64 data URL for build time (Playwright compatibility)
       try {
-        const imagePath = join(process.cwd(), 'public', webPath);
+        const imagePath = join(process.cwd(), "public", webPath);
         if (existsSync(imagePath)) {
           const imageBuffer = readFileSync(imagePath);
-          const ext = webPath.split('.').pop()?.toLowerCase();
-          const mimeType = ext === 'jpg' || ext === 'jpeg' ? 'image/jpeg' : 
-                          ext === 'png' ? 'image/png' : 
-                          ext === 'svg' ? 'image/svg+xml' : 'image/png';
-          return `data:${mimeType};base64,${imageBuffer.toString('base64')}`;
+          const ext = webPath.split(".").pop()?.toLowerCase();
+          const mimeType =
+            ext === "jpg" || ext === "jpeg"
+              ? "image/jpeg"
+              : ext === "png"
+                ? "image/png"
+                : ext === "svg"
+                  ? "image/svg+xml"
+                  : "image/png";
+          return `data:${mimeType};base64,${imageBuffer.toString("base64")}`;
         }
       } catch (error) {
-        console.warn(`Failed to load image ${webPath}:`, error instanceof Error ? error.message : String(error));
+        console.warn(
+          `Failed to load image ${webPath}:`,
+          error instanceof Error ? error.message : String(error),
+        );
       }
       // Fallback to file path if base64 conversion fails
-      return `file://${join(process.cwd(), 'public', webPath)}`;
+      return `file://${join(process.cwd(), "public", webPath)}`;
     } else {
       // Use HTTP URL for development/preview
       return `${baseUrl}${webPath}`;
     }
   };
-  
+
   // Check if we have a post image and it actually exists on the filesystem
   // Only consider it valid if it starts with /images/ (indicating it's in the project),
   // doesn't contain placeholder, and the file actually exists
-  const hasValidImagePath = postImage && 
-                           postImage.length > 0 && 
-                           postImage.startsWith('/images/') &&
-                           !postImage.includes('placeholder');
-  
-  const hasPostImage = hasValidImagePath && existsSync(join(process.cwd(), 'public', postImage));
-  
+  const hasValidImagePath =
+    postImage &&
+    postImage.length > 0 &&
+    postImage.startsWith("/images/") &&
+    !postImage.includes("placeholder");
+
+  const hasPostImage =
+    hasValidImagePath && existsSync(join(process.cwd(), "public", postImage));
+
   // Adjust text lengths based on whether we have an image
   const titleMaxLength = hasPostImage ? 80 : 100;
   const descriptionMaxLength = hasPostImage ? 200 : 240;
-  
+
   // Truncate title and description to fit
-  const truncatedTitle = title.length > titleMaxLength ? title.substring(0, titleMaxLength) + '...' : title;
-  const truncatedDescription = description.length > descriptionMaxLength ? description.substring(0, descriptionMaxLength) + '...' : description;
-  
+  const truncatedTitle =
+    title.length > titleMaxLength
+      ? title.substring(0, titleMaxLength) + "..."
+      : title;
+  const truncatedDescription =
+    description.length > descriptionMaxLength
+      ? description.substring(0, descriptionMaxLength) + "..."
+      : description;
+
   // Primary category for color theming
-  const primaryCategory = categories[0] || 'general';
-  
+  const primaryCategory = categories[0] || "general";
+
   // Function to format category names properly
   const formatCategoryName = (category: string): string => {
-    if (category.toLowerCase() === 'github') return 'GitHub';
-    if (category.toLowerCase() === 'tfs') return 'TFS';
-    if (category.toLowerCase() === 'ai') return 'AI';
+    if (category.toLowerCase() === "github") return "GitHub";
+    if (category.toLowerCase() === "tfs") return "TFS";
+    if (category.toLowerCase() === "ai") return "AI";
     return category.charAt(0).toUpperCase() + category.slice(1).toLowerCase();
   };
-  
+
   // Generate CSS for category theming from config
   const generateCategoryThemeCSS = (): string => {
     const categoryColors = theme.colors.categories;
     return Object.entries(categoryColors)
-      .map(([category, color]) => `.theme-${category} { --theme-color: ${color}; }`)
-      .join('\n        ');
+      .map(
+        ([category, color]) =>
+          `.theme-${category} { --theme-color: ${color}; }`,
+      )
+      .join("\n        ");
   };
-  
+
   return `
     <!DOCTYPE html>
     <html>
@@ -368,33 +391,43 @@ function generateOGImageHTML(data: OGImageData): string {
       <div class="card">
         <div class="header">
           <div class="logo">
-            <img src="${getImagePath('/images/logo.png')}" alt="Martin Woodward" />
+            <img src="${getImagePath("/images/logo.png")}" alt="Martin Woodward" />
           </div>
           <div class="categories">
-            ${categories.slice(0, 3).map(cat => `<span class="category">${formatCategoryName(cat)}</span>`).join('')}
+            ${categories
+              .slice(0, 3)
+              .map(
+                (cat) =>
+                  `<span class="category">${formatCategoryName(cat)}</span>`,
+              )
+              .join("")}
           </div>
         </div>
         
-        <div class="content${hasPostImage ? ' with-image' : ''}">
+        <div class="content${hasPostImage ? " with-image" : ""}">
           <div class="content-text">
-            <h1 class="title${hasPostImage ? ' with-image' : ''}">${truncatedTitle}</h1>
-            ${truncatedDescription ? `<p class="description${hasPostImage ? ' with-image' : ''}">${truncatedDescription}</p>` : ''}
+            <h1 class="title${hasPostImage ? " with-image" : ""}">${truncatedTitle}</h1>
+            ${truncatedDescription ? `<p class="description${hasPostImage ? " with-image" : ""}">${truncatedDescription}</p>` : ""}
           </div>
-          ${hasPostImage ? `
+          ${
+            hasPostImage
+              ? `
           <div class="post-thumbnail">
             <img src="${getImagePath(postImage)}" alt="Post thumbnail" />
           </div>
-          ` : ''}
+          `
+              : ""
+          }
         </div>
         
         <div class="footer">
           <div class="author-info">
             <div class="avatar">
-              <img src="${getImagePath('/images/author.jpg')}" alt="Martin Woodward" />
+              <img src="${getImagePath("/images/author.jpg")}" alt="Martin Woodward" />
             </div>
             <div class="author-details">
               <div class="author-name">${author}</div>
-              ${date ? `<div class="publish-date">${date}</div>` : ''}
+              ${date ? `<div class="publish-date">${date}</div>` : ""}
             </div>
           </div>
           <div class="site-url">woodwardweb.com</div>

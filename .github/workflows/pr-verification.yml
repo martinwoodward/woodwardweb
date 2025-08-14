@@ -167,39 +167,38 @@ jobs:
           echo "✅ **Build verification passed!** The site is ready for deployment." >> $GITHUB_STEP_SUMMARY
         working-directory: ${{ env.BUILD_PATH }}
 
-  # Temporarily disabled
-  # lint-and-format:
-  #   name: Code Quality Checks
-  #   runs-on: ubuntu-latest
-  #   if: github.event.pull_request.draft == false
-  #   
-  #   steps:
-  #     - name: Checkout
-  #       uses: actions/checkout@v4
-  #       
-  #     - name: Setup Node
-  #       uses: actions/setup-node@v4
-  #       with:
-  #         node-version: "20"
-  #         # Disable cache since we're manually clearing everything
-  #         
-  #     - name: Install dependencies
-  #       run: |
-  #         # Clear npm cache to avoid platform-specific binary issues
-  #         npm cache clean --force
-  #         # Remove package-lock.json and node_modules to fix Rollup optional dependency issue
-  #         rm -rf package-lock.json node_modules
-  #         # Fresh install
-  #         npm install
-  #       working-directory: ${{ env.BUILD_PATH }}
-  #       
-  #     - name: Run Prettier format check
-  #       run: |
-  #         # Check if code is properly formatted
-  #         npx prettier --check ./src
-  #       working-directory: ${{ env.BUILD_PATH }}
-  #       
-  #     - name: TypeScript type check
-  #       run: |
-  #         npx astro check
-  #       working-directory: ${{ env.BUILD_PATH }}
+  lint-and-format:
+    name: Code Quality Checks
+    runs-on: ubuntu-latest
+    if: github.event.pull_request.draft == false
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          # Disable cache since we're manually clearing everything
+          
+      - name: Install dependencies
+        run: |
+          # Clear npm cache to avoid platform-specific binary issues
+          npm cache clean --force
+          # Remove package-lock.json and node_modules to fix Rollup optional dependency issue
+          rm -rf package-lock.json node_modules
+          # Fresh install
+          npm install
+        working-directory: ${{ env.BUILD_PATH }}
+        
+      - name: Run Prettier format check
+        run: |
+          # Check if code is properly formatted
+          npx prettier --check ./src
+        working-directory: ${{ env.BUILD_PATH }}
+        
+      - name: TypeScript type check
+        run: |
+          npx astro check
+        working-directory: ${{ env.BUILD_PATH }}
