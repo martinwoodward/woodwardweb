@@ -11,3 +11,9 @@ export type Button = {
   label: string;
   link: string;
 };
+
+// Allow importing JSON files
+declare module "*.json" {
+  const value: any;
+  export default value;
+}
