@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 const fs = require('fs');
 const path = require('path');
+const url = require('url');
 
 // Configuration
 const OLD_BLOG_PATH = '/Users/martin/src/blog';
@@ -39,6 +40,19 @@ function extractFrontmatter(filePath) {
     } catch (error) {
         console.error(`Error reading ${filePath}:`, error.message);
         return null;
+    }
+}
+
+// Helper function to check if a URL's host is woodwardweb.com
+function isWoodwardwebComHost(imageSrc) {
+    try {
+        // Only parse if it looks like a URL
+        if (!/^https?:\/\//i.test(imageSrc)) return false;
+        const parsed = url.parse(imageSrc);
+        // Accept only exact match to woodwardweb.com (no subdomains)
+        return parsed.host === 'woodwardweb.com';
+    } catch (e) {
+        return false;
     }
 }
 
@@ -168,7 +182,7 @@ function extractImagesFromOldPost(oldPostPath) {
                     imageSrc = path.join(OLD_BLOG_PATH, 'Open-Live-Writer', pathMatch[1]);
                     console.log(`     → Converted to: ${imageSrc}`);
                 }
-            } else if (imageSrc.includes('woodwardweb.com/')) {
+            } else if (isWoodwardwebComHost(imageSrc)) {
                 // Other woodwardweb.com images - try to find them
                 const pathMatch = imageSrc.match(/woodwardweb\.com\/(.+)$/);
                 if (pathMatch) {
