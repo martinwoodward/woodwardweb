@@ -86,21 +86,42 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
         
-      - name: Clean install dependencies
+      - name: Setup Yarn
+        run: corepack enable
+        
+      - name: Cache dependencies
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.yarn/cache
+            node_modules
+          key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-yarn-
+            
+      - name: Cache Playwright browsers
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cache/ms-playwright
+          key: ${{ runner.os }}-playwright-${{ hashFiles('**/package.json') }}
+          restore-keys: |
+            ${{ runner.os }}-playwright-
+            
+      - name: Install dependencies
         run: |
-          rm -rf node_modules package-lock.json
-          npm install
+          yarn install --frozen-lockfile
           npx playwright install-deps chromium
         working-directory: ${{ env.BUILD_PATH }}
         
       - name: Build with Astro
         run: |
-          npm run generate-json
-          npx astro check
-          npx astro build \
+          yarn generate-json
+          yarn astro check
+          yarn astro build \
             --site "${{ steps.pages.outputs.origin }}" \
             --base "${{ steps.pages.outputs.base_path }}"
-          npm run generate-og-images
+          yarn generate-og-images
         working-directory: ${{ env.BUILD_PATH }}
         
       - name: Upload artifact
@@ -266,40 +287,43 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
         
-      - name: Clean install dependencies
-        run: |
-          rm -rf node_modules package-lock.json
-          npm install
-        working-directory: ${{ env.BUILD_PATH }}
+      - name: Setup Yarn
+        run: corepack enable
         
-      - name: Install Playwright system dependencies
+      - name: Cache dependencies
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.yarn/cache
+            node_modules
+          key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-yarn-
+            
+      - name: Cache Playwright browsers
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cache/ms-playwright
+          key: ${{ runner.os }}-playwright-${{ hashFiles('**/package.json') }}
+          restore-keys: |
+            ${{ runner.os }}-playwright-
+        
+      - name: Install dependencies
         run: |
-          sudo apt-get update
-          sudo apt-get install -y \
-            fonts-liberation \
-            libappindicator3-1 \
-            libasound2 \
-            libatk-bridge2.0-0 \
-            libdrm2 \
-            libgtk-3-0 \
-            libnspr4 \
-            libnss3 \
-            libxcomposite1 \
-            libxdamage1 \
-            libxrandr2 \
-            xdg-utils \
-            libxss1 \
-            libgconf-2-4
-          npx playwright install-deps chromium
+          yarn install --frozen-lockfile
+          
+      - name: Install Playwright
+        run: npx playwright install-deps chromium
         
       - name: Build with Astro
         run: |
-          npm run generate-json
-          npx astro check
-          npx astro build \
+          yarn generate-json
+          yarn astro check
+          yarn astro build \
             --site "${{ steps.pages.outputs.origin }}" \
             --base "${{ steps.pages.outputs.base_path }}"
-          npm run generate-og-images
+          yarn generate-og-images
         working-directory: ${{ env.BUILD_PATH }}
         
       - name: Upload artifact
