@@ -198,7 +198,8 @@ jobs:
           npx prettier --check ./src
         working-directory: ${{ env.BUILD_PATH }}
         
-      - name: TypeScript type check
+      - name: Generate JSON and run TypeScript type check
         run: |
+          npm run generate-json
           npx astro check
         working-directory: ${{ env.BUILD_PATH }}
