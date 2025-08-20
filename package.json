@@ -22,7 +22,7 @@
     "@astrojs/rss": "4.0.11",
     "@astrojs/sitemap": "^3.2.1",
     "@primer/react-brand": "^0.57.1",
-    "astro": "5.12.8",
+    "astro": "5.13.1",
     "astro-auto-import": "^0.4.4",
     "astro-font": "^1.0.0",
     "date-fns": "^4.1.0",
