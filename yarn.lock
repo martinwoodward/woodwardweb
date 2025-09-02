@@ -4532,10 +4532,10 @@ react-is@^16.13.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
-react-lite-youtube-embed@^2.4.0:
-  version "2.5.3"
-  resolved "https://registry.yarnpkg.com/react-lite-youtube-embed/-/react-lite-youtube-embed-2.5.3.tgz#3126c7e77762ab9077098ee10b1184aaea52f68a"
-  integrity sha512-Kpfq1fPnkrHbKf6zKPcgjFixbVkrwIYxsNhPKDctd37zKiw4PcLtKemhNEfZjZYzY+XcEK3gBiXHkLOXn2rbzA==
+react-lite-youtube-embed@^2.5.6:
+  version "2.5.6"
+  resolved "https://registry.yarnpkg.com/react-lite-youtube-embed/-/react-lite-youtube-embed-2.5.6.tgz#05f9802e7a3b13da0d5d6e3ae11cf467db802c89"
+  integrity sha512-gbV2SCpAqZOJ/p8wsIbXahONtX3ofh7WZfOR9pCK5kXEbDhTh+bFTOT/fyE+v3ZP4loQkZRqfp8H67gEcGz74w==
 
 react-refresh@^0.17.0:
   version "0.17.0"
