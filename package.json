@@ -20,7 +20,7 @@
     "@astrojs/mdx": "4.1.1",
     "@astrojs/react": "^4.3.0",
     "@astrojs/rss": "4.0.12",
-    "@astrojs/sitemap": "^3.2.1",
+    "@astrojs/sitemap": "^3.5.1",
     "@primer/react-brand": "^0.57.1",
     "astro": "5.13.5",
     "astro-auto-import": "^0.4.4",
